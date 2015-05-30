@@ -4,12 +4,12 @@
 * [Thinking, Fast and Slow by Daniel Kahneman](http://www.amazon.com/gp/product/0374533555/)
 * [The Compound Effect by Darren Hardy](http://www.amazon.com/gp/product/159315724X)
 * [Good to Great: Why Some Companies Make the Leap...And Others Don't by Jim Collins](http://www.amazon.com/gp/product/0066620996)
-*[The Four Steps to the Epiphany by Steve Blank](http://www.amazon.com/gp/product/0989200507)
-*[Contagious: Why Things Catch On by Jonah Berger](http://www.amazon.com/gp/product/1451686579)
-*[David and Goliath: Underdogs, Misfits, and the Art of Battling Giants by Malcolm Gladwell](http://www.amazon.com/gp/product/0316204374)
-*[The Signal and the Noise: Why So Many Predictions Fail--but Some Don't by Nate Silver](http://www.amazon.com/gp/product/0143125087)
-*[The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers by Ben Horowitz](http://www.amazon.com/gp/product/0062273205)
-*[The Paradox of Choice: Why More Is Less by Barry Shwartz](http://www.amazon.com/gp/product/0060005696)
+* [The Four Steps to the Epiphany by Steve Blank](http://www.amazon.com/gp/product/0989200507)
+* [Contagious: Why Things Catch On by Jonah Berger](http://www.amazon.com/gp/product/1451686579)
+* [David and Goliath: Underdogs, Misfits, and the Art of Battling Giants by Malcolm Gladwell](http://www.amazon.com/gp/product/0316204374)
+* [The Signal and the Noise: Why So Many Predictions Fail--but Some Don't by Nate Silver](http://www.amazon.com/gp/product/0143125087)
+* [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers by Ben Horowitz](http://www.amazon.com/gp/product/0062273205)
+* [The Paradox of Choice: Why More Is Less by Barry Shwartz](http://www.amazon.com/gp/product/0060005696)
 *Influencer: The New Science of Leading Change, Revised and Updated Second Edition by Joseph Grenny, Kerry Patterson, et al.
 *The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything by Guy Kawasaki
 *Founders At Work: Stories Of Startups* Early Days by Jessica Livingston
