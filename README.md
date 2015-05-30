@@ -10,15 +10,15 @@
 * [The Signal and the Noise: Why So Many Predictions Fail--but Some Don't by Nate Silver](http://www.amazon.com/gp/product/0143125087)
 * [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers by Ben Horowitz](http://www.amazon.com/gp/product/0062273205)
 * [The Paradox of Choice: Why More Is Less by Barry Shwartz](http://www.amazon.com/gp/product/0060005696)
-*Influencer: The New Science of Leading Change, Revised and Updated Second Edition by Joseph Grenny, Kerry Patterson, et al.
-*The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything by Guy Kawasaki
-*Founders At Work: Stories Of Startups* Early Days by Jessica Livingston
-*The Lean Startup: How Constant Innovation Creates Radically Successful Businesses by Eric Ries
-*ReWork: Change the Way You Work Forever by David Heinemeier Hansson
-*The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It by Michael E. Gerber
-*The Black Swan: The Impact of the Highly Improbable by Nassim Nicholas Taleb
-*Delivering Happiness: A Path to Profits, Passion, and Purpose by Tony Hsieh
-*Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business My Way by Richard Branson
+* [Influencer: The New Science of Leading Change, Revised and Updated Second Edition by Joseph Grenny, Kerry Patterson](http://www.amazon.com/gp/product/0071808868)
+* [The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything by Guy Kawasaki](http://www.amazon.com/gp/product/1591847842)
+* [Founders At Work: Stories Of Startups* Early Days by Jessica Livingston](http://www.amazon.com/gp/product/1430210788)
+* [The Lean Startup: How Constant Innovation Creates Radically Successful Businesses by Eric Ries](http://www.amazon.com/gp/product/0307887898)
+* [ReWork: Change the Way You Work Forever by David Heinemeier Hansson](http://www.amazon.com/gp/product/0307463745/)
+* [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It by Michael E. Gerber](http://www.amazon.com/gp/product/0887307280)
+* [The Black Swan: The Impact of the Highly Improbable by Nassim Nicholas Taleb](http://www.goodreads.com/book/show/242472.The_Black_Swan)
+* [Delivering Happiness: A Path to Profits, Passion, and Purpose by Tony Hsieh](http://www.goodreads.com/book/show/6828896-delivering-happiness)
+* [Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business My Way by Richard Branson](http://www.amazon.com/gp/product/0307720748)
 *The Power of Full Engagement: Managing Energy, Not Time, is the Key to High Performance and Personal Renewal by Jim Loehr, Tony Schwartz
 *The Checklist Manifesto: How To Get Things Right by Atul Gawande
 *The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future by Chris Guillebeau
