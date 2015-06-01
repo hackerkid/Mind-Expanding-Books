@@ -25,7 +25,7 @@
 * [Big Data: A Revolution That Will Transform How We Live, Work, and Think](https://www.goodreads.com/book/show/15815598-big-data) by Kenneth Cukier
 * [The Score Takes Care of Itself: My Philosophy of Leadership](https://www.goodreads.com/book/show/6342995-the-score-takes-care-of-itself) by Bill Walsh, Steve Jamison, Craig Walsh
 * [The Thank You Economy](https://www.goodreads.com/book/show/9203287-the-thank-you-economy) by Gary Vaynerchuk
-* [Crowdsourcing: Why the Power of the Crowd Is Driving the Future of Business] by Jeff Howe(https://www.goodreads.com/book/show/2601510-crowdsourcing)
+* [Crowdsourcing: Why the Power of the Crowd Is Driving the Future of Business](https://www.goodreads.com/book/show/2601510-crowdsourcing) by Jeff Howe
 * [Where Good Ideas Come From](https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from) by Steven Johnson
 * [The Strategy and Tactics of Pricing : A Guide to Move More Profitable](https://www.goodreads.com/book/show/99919.The_Strategy_and_Tactics_of_Pricing) by Thomas Nagle, John Hogan, Joseph Zale
 * [Leaving Microsoft to Change the World: An Entrepreneur's Odyssey to Educate the World's Children](https://www.goodreads.com/book/show/95429.Leaving_Microsoft_to_Change_the_World) by John Wood
