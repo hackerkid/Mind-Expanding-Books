@@ -1,8 +1,8 @@
 
 ###Start Ups/Business:
 
-* [Thinking, Fast and Slow by Daniel Kahneman](http://www.amazon.com/gp/product/0374533555/)
-* [The Compound Effect by Darren Hardy](http://www.amazon.com/gp/product/159315724X)
+* [Thinking, Fast and Slow](http://www.amazon.com/gp/product/0374533555/) by Daniel Kahneman
+* [The Compound Effect](http://www.amazon.com/gp/product/159315724X) by Darren Hardy
 * [Good to Great: Why Some Companies Make the Leap...And Others Don't by Jim Collins](http://www.amazon.com/gp/product/0066620996)
 * [The Four Steps to the Epiphany by Steve Blank](http://www.amazon.com/gp/product/0989200507)
 * [Contagious: Why Things Catch On by Jonah Berger](http://www.amazon.com/gp/product/1451686579)
