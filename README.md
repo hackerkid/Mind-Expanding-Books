@@ -31,37 +31,36 @@
 * [Leaving Microsoft to Change the World: An Entrepreneur's Odyssey to Educate the World's Children](https://www.goodreads.com/book/show/95429.Leaving_Microsoft_to_Change_the_World) by John Wood
 * [The 22 Immutable Laws Of Branding](https://www.goodreads.com/book/show/1565533.The_22_Immutable_Laws_of_Branding) by Laura Ries and Al Ries
 * [Rich Dad Poor Dad : What The Rich Teach Their Kids About Money That The Poor And Middle Class Don't](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) by Robert T. Kiyosaki
-*Linchpin: Are You Indispensable? by Seth Godin
-*How Little Things Can Make a Big Difference by Malcolm Gladwell
-*Outliers: Story of Success by Malcolm Gladwell
-*What the Dog Saw: and other adventures by Malcolm Gladwell
-*The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich by Thomas Ferriss
-*How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success by Jack Canfield, Janet Switzer
-*How to Win Friends and Influence People by Dale Carnegie
-*Getting Things Done: The Art of Stress-Free Productivity by David Allen
-*Greatness Isn't Born. It's Grown. Here's How by Daniel Coyle
-*How I Made My First Million on the Internet and How You Can Too!: The Complete Insider's Guide to Making Millions with Your Internet Business by Ewen Chia
-*SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance by Steven D. Litt
-*Street Smarts: An All-Purpose Tool Kit for Entrepreneurs by Norm Brodsky
-*Strategy for Sustainability: A Business Manifesto by Adam Werbach
-*The Big Short: Inside the Doomsday Machine by Michael Lewis
-*Who Says Elephants Can't Dance?: Leading a Great Enterprise through Dramatic Change by Louis V., Jr. Gerstner
-*The Ten Faces of Innovation (English) - Buy The Ten Faces of Innovation : IDEO's Strategies for Defeating the Devil's Advocate and Driving Creativity Throughout Your Organization by Tom Kelley
-*Too Big to Fail : The Inside Story of How Wall Street and Washington Fought to Save the Financial System by Andrew Ross Sorkin
-*The Innovator's Dilemma : The Revolutionary National Bestseller That Changed The Way We Do Business  by clayton m. christensen
-*The Paypal Wars : Battles with eBay, the Media, the Mafia, and the Rest of Planet Earth by Eric M. Jackson
-*Origin of Wealth: Evolution, Complexity, and the Radical Remaking of Economics by Eric D. Beinhocker
-*Create Your Own Economy: The Path to Prosperity in a Disordered World by Tyler Cowen
-*One Click: Jeff Bezos and the Rise of Amazon.com by Richard Brandt
-*Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions by Dan Ariely
-*The Upside of Irrationality: The Unexpected Benefits of Defying Logic by Dan Ariely
-*Cognitive Surplus: Creativity and Generosity in a Connected Age by Clay Shirky
-*Super Crunchers: Why Thinking-By-Numbers is the New Way To Be Smart by Ian Ayres by Ian Ayres
-*The Curse of the Mogul: What's Wrong with the World's Leading Media Companies by Jonathan A. Knee, Bruce C. Greenwald, Ava Seave
+* [Linchpin: Are You Indispensable?](https://www.goodreads.com/book/show/7155145-linchpin) by Seth Godin
+* [The Tipping Point: How Little Things Can Make a Big Difference](https://www.goodreads.com/book/show/2612.The_Tipping_Point) by Malcolm Gladwell
+* [Outliers: Story of Success by](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) Malcolm Gladwell
+* [The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich by](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) Thomas Ferriss
+* [How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success by](https://www.goodreads.com/book/show/96593.The_Success_Principles) Jack Canfield, Janet Switzer
+* [Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done) by David Allen
+* [SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance](https://www.goodreads.com/book/show/6402364-superfreakonomics) by Steven D. Litt
+* [Strategy for Sustainability: A Business Manifesto](https://www.goodreads.com/book/show/6553353-strategy-for-sustainability) by Adam Werbach
+* [The Big Short: Inside the Doomsday Machine](https://www.goodreads.com/book/show/8032112-the-big-short) by Michael Lewis
+* [Who Says Elephants Can't Dance?: Leading a Great Enterprise through Dramatic Change](https://www.goodreads.com/book/show/603985.Who_Says_Elephants_Can_t_Dance_) by Louis V Gerstner, Jr
+* [The Ten Faces of Innovation](https://www.goodreads.com/book/show/95656.The_Ten_Faces_of_Innovation) by Tom Kelley
+* [Too Big to Fail](https://www.goodreads.com/book/show/6687247-too-big-to-fail) by Andrew Ross Sorkin
+* [The Innovator's Dilemma](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma) by clayton m. christensen
+* [The Paypal Wars](https://www.goodreads.com/book/show/4052.The_PayPal_Wars) by Eric M. Jackson
+* [Origin of Wealth](https://www.goodreads.com/book/show/22456.The_Origin_of_Wealth) by Eric D. Beinhocker
+* [One Click: Jeff Bezos and the Rise of Amazon.com](https://www.goodreads.com/book/show/11223478-one-click) by Richard Brandt
+* [Cognitive Surplus: Creativity and Generosity in a Connected Age](https://www.goodreads.com/book/show/7614793-cognitive-surplus) by Clay Shirky
+* [Super Crunchers: Why Thinking-By-Numbers is the New Way To Be Smart](https://www.goodreads.com/book/show/1081413.Super_Crunchers) by Ian Ayres by Ian Ayres
+* [The Curse of the Mogul](https://www.goodreads.com/book/show/7162410-the-curse-of-the-mogul) by Jonathan A. Knee, Bruce C. Greenwald, Ava Seave
+
+
+###Self Help
+* [How to Win Friends and Influence People by Dale Carnegie](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 
 
 ###Philosophy, Psychology and Spirituality
-*[The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression by Debra Fine](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk)
+* [The Upside of Irrationality: The Unexpected Benefits of Defying Logic](https://www.goodreads.com/book/show/7815744-the-upside-of-irrationality) by Dan Ariely
+* [Predictably Irrational](https://www.goodreads.com/book/show/1713426.Predictably_Irrational) by Dan Ariely
+*What the Dog Saw: and other adventures by Malcolm Gladwell
+* [The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression by Debra Fine](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk)
 *Let Go of Who You Think You're Supposed to Be and Embrace Who You Are by Brene Brown
 *Quiet: The Power of Introverts in a World That Can't Stop Talking by Susan Cain
 *Any Book by Daniel Kahneman
