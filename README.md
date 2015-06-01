@@ -19,19 +19,18 @@
 * [The Black Swan: The Impact of the Highly Improbable](http://www.goodreads.com/book/show/242472.The_Black_Swan)  by Nassim Nicholas Taleb
 * [Delivering Happiness: A Path to Profits, Passion, and Purpose](http://www.goodreads.com/book/show/6828896-delivering-happiness) by Tony Hsieh
 * [Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business My Way](http://www.amazon.com/gp/product/0307720748)  by Richard Branson
-*The Power of Full Engagement: Managing Energy, Not Time, is the Key to High Performance and Personal Renewal by Jim Loehr, Tony Schwartz
-*The Checklist Manifesto: How To Get Things Right by Atul Gawande
-*The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future by Chris Guillebeau
-*Big Data: A Revolution That Will Transform How We Live, Work, and Think by Kenneth Cukier
-*The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression by Debra Fine
-*The Score Takes Care of Itself: My Philosophy of Leadership by Bill Walsh, Steve Jamison, Craig Walsh
-*The Thank You Economy - Buy The Thank You Economy by Gary Vaynerchuk
-*Crowdsourcing: Why the Power of the Crowd Is Driving the Future of Business by Jeff Howe
-*Where Good Ideas Come From by Steven Johnson
-*The Strategy and Tactics of Pricing : A Guide to Move More Profitable by Thomas Nagle, John Hogan, Joseph Zale
-*Leaving Microsoft to Change the World: An Entrepreneur's Odyssey to Educate the World's Children by John Wood
-*The 22 Immutable Laws Of Branding  by Laura Ries and Al Ries
-*Rich Dad Poor Dad : What The Rich Teach Their Kids About Money That The Poor And Middle Class Don't by Robert T. Kiyosaki
+* [The Power of Full Engagement: Managing Energy, Not Time, is the Key to High Performance and Personal Renewal](http://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement) by Jim Loehr, Tony Schwartz
+* [The Checklist Manifesto: How To Get Things Right](http://www.goodreads.com/book/show/6667514-the-checklist-manifesto) by Atul Gawande
+* [The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future](https://www.goodreads.com/book/show/12605157-the-100-startup) by Chris Guillebeau
+* [Big Data: A Revolution That Will Transform How We Live, Work, and Think](https://www.goodreads.com/book/show/15815598-big-data) by Kenneth Cukier
+* [The Score Takes Care of Itself: My Philosophy of Leadership](https://www.goodreads.com/book/show/6342995-the-score-takes-care-of-itself) by Bill Walsh, Steve Jamison, Craig Walsh
+* [The Thank You Economy](https://www.goodreads.com/book/show/9203287-the-thank-you-economy) by Gary Vaynerchuk
+* [Crowdsourcing: Why the Power of the Crowd Is Driving the Future of Business] by Jeff Howe(https://www.goodreads.com/book/show/2601510-crowdsourcing)
+* [Where Good Ideas Come From](https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from) by Steven Johnson
+* [The Strategy and Tactics of Pricing : A Guide to Move More Profitable](https://www.goodreads.com/book/show/99919.The_Strategy_and_Tactics_of_Pricing) by Thomas Nagle, John Hogan, Joseph Zale
+* [Leaving Microsoft to Change the World: An Entrepreneur's Odyssey to Educate the World's Children](https://www.goodreads.com/book/show/95429.Leaving_Microsoft_to_Change_the_World) by John Wood
+* [The 22 Immutable Laws Of Branding](https://www.goodreads.com/book/show/1565533.The_22_Immutable_Laws_of_Branding) by Laura Ries and Al Ries
+* [Rich Dad Poor Dad : What The Rich Teach Their Kids About Money That The Poor And Middle Class Don't](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) by Robert T. Kiyosaki
 *Linchpin: Are You Indispensable? by Seth Godin
 *How Little Things Can Make a Big Difference by Malcolm Gladwell
 *Outliers: Story of Success by Malcolm Gladwell
@@ -62,7 +61,7 @@
 
 
 ###Philosophy, Psychology and Spirituality
-
+*[The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression by Debra Fine](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk)
 *Let Go of Who You Think You're Supposed to Be and Embrace Who You Are by Brene Brown
 *Quiet: The Power of Introverts in a World That Can't Stop Talking by Susan Cain
 *Any Book by Daniel Kahneman
