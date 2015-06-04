@@ -116,41 +116,37 @@
 ###History
 
 * [The Rise and Fall of the British Empire](https://www.goodreads.com/book/show/143980.The_Rise_and_Fall_of_the_British_Empire) by Lawrence James
-    The Ascent of Money: A Financial History of the World by Niall Ferguson
-    The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet by David Kahn
-    The Rational Optimist: How Prosperity Evolves (P.S.) by Matt Ridley
-    One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War by Michael Dobbs
-    The Nazi Doctors: Medical Killing and the Psychology of Genocide by Robert Jay Lifton
-    Civilization: The West and the Rest: Niall Ferguson by Niall Ferguson
-    The Discoverers by Daniel J. Boorstin
-    From Dawn to Decadence: 500 Years of Western Cultural Life 1500 to the Present: Jacques Barzun
-    The Master Switch: The Rise and Fall of Information Empires (Vintage): Tim Wu
-    Debt - Updated and Expanded: The First 5,000 Years by David Graeber
-    The Ghost Map: The Story of London's Most Terrifying Epidemic--and How It Changed Science, Cities, and the Modern World: Steven Johnson
-    Guns, Germs, And Steel : The Fates Of Human Societies by Jared M. Diamond
-    Why the West Rules--for Now: The Patterns of History, and What They Reveal About the Future: Ian Morrisage
-    A Farewell to Alms : A Brief Economic History of the World: A Brief Economic History of the World Gregory Clark
-    The Art of War by Sun Tzu
-    Churchill's Secret War: The British Empire and the Ravaging of India during World War II by Madhusree Mukerjee
-    The Revenge of Geography: What the Map Tells Us About Coming Conflicts and the Battle Against Fate by Robert D. Kaplan
-    Sexual Politics in Modern Iran by Janet Afary
-    The Most Dangerous Place: Pakistan's Lawless Frontier by Imtiaz Gul
-    Inside the Crosshairs: Snipers in Vietnam by Col. Michael Lee Lanning
-    God Created The Integers: The Mathematical Breakthroughs that Changed History by Stephen Hawking
-    The World Is Flat 3.0: A Brief History of the Twenty-first Century by Thomas L. Friedman
+* [The Art of War](https://www.goodreads.com/book/show/10534.The_Art_of_War) by Sun Tzu
+* [The Ascent of Money: A Financial History of the World](https://www.goodreads.com/book/show/2714607-the-ascent-of-money) by Niall Ferguson
+* [The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet](https://www.goodreads.com/book/show/29608.The_Codebreakers) by David Kahn
+* [The Rational Optimist: How Prosperity Evolves (P.S.)](https://www.goodreads.com/book/show/7776209-the-rational-optimist) by Matt Ridley
+* [One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War](https://www.goodreads.com/book/show/2606779-one-minute-to-midnight) by Michael Dobbs
+* [The Nazi Doctors: Medical Killing and the Psychology of Genocide](https://www.goodreads.com/book/show/173187.The_Nazi_Doctors) by Robert Jay Lifton
+* [Civilization: The West and the Rest: Niall Ferguson](https://www.goodreads.com/book/show/10475421-civilization) by Niall Ferguson
+* [The Discoverers](https://www.goodreads.com/book/show/714380.The_Discoverers) by Daniel J. Boorstin
+* [From Dawn to Decadence: 500 Years of Western Cultural Life 1500 to the Present by](https://www.goodreads.com/book/show/58233.From_Dawn_to_Decadence) Jacques Barzun
+* [The Master Switch: The Rise and Fall of Information Empires](https://www.goodreads.com/book/show/8201080-the-master-switch) by Tim Wu
+* [Debt - Updated and Expanded: The First 5,000 Years](https://www.goodreads.com/book/show/6617037-debt) by David Graeber
+* [The Ghost Map: The Story of London's Most Terrifying Epidemic--and How It Changed Science, Cities, and the Modern World](https://www.goodreads.com/book/show/36086.The_Ghost_Map) by Steven Johnson
+* [Guns, Germs, And Steel : The Fates Of Human Societies](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel) by Jared M. Diamond
+* [Why the West Rules--for Now: The Patterns of History, and What They Reveal About the Future](https://www.goodreads.com/book/show/9491855-why-the-west-rules-for-now) by Ian Morrisage
+* [A Farewell to Alms : A Brief Economic History of the World: A Brief Economic History of the World](https://www.goodreads.com/book/show/10799.A_Farewell_to_Arms) by Gregory Clark
+* [Churchill's Secret War: The British Empire and the Ravaging of India during World War II](https://www.goodreads.com/book/show/8890989-churchill-s-secret-war) by Madhusree Mukerjee
+* [The Revenge of Geography: What the Map Tells Us About Coming Conflicts and the Battle Against Fate](https://www.goodreads.com/book/show/13330422-the-revenge-of-geography) by Robert D. Kaplan
+* [God Created The Integers: The Mathematical Breakthroughs that Changed History](https://www.goodreads.com/book/show/2096.God_Created_The_Integers) by Stephen Hawking
+* [The World Is Flat: A Brief History of the Twenty-first Century](https://www.goodreads.com/book/show/<1911 class="The_World_Is_Flat"></1911>) by Thomas L. Friedman
 
 
-Design
+###Design
 
-    Pattern Language: Towns, Buildings, Construction (Center for Environmental Structure): Christopher Alexander, Sara Ishikawa, Murray Silverstein, Max Jacobson, Ingrid Fiksdahl-King, Shlomo Angel
+* [Pattern Language: Towns, Buildings, Construction](https://www.goodreads.com/book/show/79766.A_Pattern_Language) by Christopher Alexander, Sara Ishikawa, Murray Silverstein, Max Jacobson, Ingrid Fiksdahl-King and Shlomo Angel
+
+###Health
+
+* [8 Weeks to Optimum Health](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) by Andrew Weil
 
 
-Health
-
-    8 Weeks to Optimum Health: A Proven Program for Taking Full Advantage of Your Body's Natural Healing Power by Andrew Weil
-
-
-Politics
+###Politics
 
     Resource Wars: The New Landscape of Global Conflict by Michael Klare
     The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done About It by Paul Collier
