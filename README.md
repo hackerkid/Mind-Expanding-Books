@@ -63,6 +63,7 @@
 * [The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression by Debra Fine](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk)
 * [Gifs of Immperfection](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) by Brene Brown
 * [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.goodreads.com/book/show/8520610-quiet) by Susan Cain
+* [Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen](https://www.goodreads.com/book/show/6289283-born-to-run) by Christopher McDougall
 * [The Upside of Irrationality: The Unexpected Benefits of Defying Logic](https://www.goodreads.com/book/show/7815744-the-upside-of-irrationality) by Dan Ariely
 * [Why Smart People Can Be So Stupid](https://www.goodreads.com/book/show/300300.Why_Smart_People_Can_Be_So_Stupid) by Robert J Sternberg
 * [Creative Visualization: Use the Power of Your Imagination to Create What You Want in Your Life](https://www.goodreads.com/book/show/582533.Creative_Visualization) by Shakti Gawain
@@ -99,24 +100,22 @@
 * [The Truth About Everything: An Irreverent History of Philosophy : With Illustrations](https://www.goodreads.com/book/show/18528861-the-truth-about-everything) by Matthew Stewart
 * [Bulfinch's Mythology](https://www.goodreads.com/book/show/588147.Bulfinch_s_Mythology)by Thomas Bulfinch
 * [Consilience: The Unity of Knowledge](https://www.goodreads.com/book/show/55981.Consilience) by Edward O. Wilson
-    Every Thing Must Go: Metaphysics Naturalized by James Ladyman, Don Ross, et al
-    Antifragile: Things That Gain from Disorder (Incerto): Nassim Nicholas Taleb
-    The Truth About Everything: An Irreverent History of Philosophy : With Illustrations by Matthew Stewart
-    Metamagical Themas: Questing For The Essence Of Mind And Pattern by Douglas Hofstadter
-    Education and the Significance of Life: Krishnamurti
-    Metaphors We Live By: George Lakoff, Mark Johnson
-    The Hero with a Thousand Faces: Joseph Campbell
-    Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen: Christopher McDougall
-    The User Illusion: Cutting Consciousness Down to Size (Penguin Press   Science) by Tor Norretranders
-    Outsmarting IQ: The Emerging Science of Learnable Intelligence by David Perkins
-    Spent: Sex, Evolution, and Consumer Behavior by Geoffrey Miller
-    The Social Contract (Penguin Classics)by Jean-Jacques Rousseau, Maurice Cranston
-    Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel by Rolf Potts
+* [Every Thing Must Go: Metaphysics Naturalized](https://www.goodreads.com/book/show/757403.Every_Thing_Must_Go) by James Ladyman, Don Ross, et al
+* [Antifragile: Things That Gain from Disorder (Incerto)](https://www.goodreads.com/book/show/13530973-antifragile) by Nassim Nicholas Taleb
+* [Metamagical Themas: Questing For The Essence Of Mind And Pattern](https://www.goodreads.com/book/show/181239.Metamagical_Themas) by Douglas Hofstadter
+* [Education and the Significance of Life](https://www.goodreads.com/book/show/353435.Education_and_the_Significance_of_Life) by Krishnamurti
+* [Metaphors We Live By](https://www.goodreads.com/book/show/34459.Metaphors_We_Live_By) by George Lakoff, Mark Johnson
+* [The Hero with a Thousand Faces](https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces) Joseph Campbell
+* [The User Illusion: Cutting Consciousness Down to Size](https://www.goodreads.com/book/show/106732.The_User_Illusion) by Tor Norretranders
+* [Outsmarting IQ: The Emerging Science of Learnable Intelligence](https://www.goodreads.com/book/show/1008488.Outsmarting_Iq) by David Perkins
+* [Spent: Sex, Evolution, and Consumer Behavior](https://www.goodreads.com/book/show/6283340-spent) by Geoffrey Miller
+* [The Social Contract](https://www.goodreads.com/book/show/12651.The_Social_Contract) by Jean-Jacques Rousseau, Maurice Cranston
+* [Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel](https://www.goodreads.com/book/show/100247.Vagabonding) by Rolf Potts
 
 
-History
+###History
 
-    The Rise and Fall of the British Empire by Lawrence James
+* [The Rise and Fall of the British Empire](https://www.goodreads.com/book/show/143980.The_Rise_and_Fall_of_the_British_Empire) by Lawrence James
     The Ascent of Money: A Financial History of the World by Niall Ferguson
     The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet by David Kahn
     The Rational Optimist: How Prosperity Evolves (P.S.) by Matt Ridley
