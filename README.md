@@ -66,41 +66,39 @@
 * [The Upside of Irrationality: The Unexpected Benefits of Defying Logic](https://www.goodreads.com/book/show/7815744-the-upside-of-irrationality) by Dan Ariely
 * [Why Smart People Can Be So Stupid](https://www.goodreads.com/book/show/300300.Why_Smart_People_Can_Be_So_Stupid) by Robert J Sternberg
 * [Creative Visualization: Use the Power of Your Imagination to Create What You Want in Your Life](https://www.goodreads.com/book/show/582533.Creative_Visualization) by Shakti Gawain
+* [In Defense of Food: An Eater's Manifesto](https://www.goodreads.com/book/show/315425.In_Defense_of_Food) by Michael Pollan
 * [Rapt: Attention and the Focused Life: Winifred Gallagher](https://www.goodreads.com/book/show/6262510-rapt) by Winifred Gallagher
 * [You Just Don't Understand: Women and Men in Conversation](https://www.goodreads.com/book/show/147222.You_Just_Don_t_Understand) by Deborah Tannen
-*Moral Tribes: Emotion, Reason, and the Gap Between Us and Them by Joshua Greene
-*Why We Make Mistakes: How We Look Without Seeing, Forget Things in Seconds, and Are All Pretty Sure We Are Way Above Average by Joseph T. Hallinan
-*Tattoos on the Heart: The Power of Boundless Compassion by Gregory Boyle
-    Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi
-    The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind by Michio Kaku
-    Why Does the World Exist?: An Existential Detective Story by Jim Holt
-    Alone Together: Why We Expect More from Technology and Less from Each Others by Sherry Turkle
-    Supernormal: Science, Yoga, and the Evidence for Extraordinary Psychic Abilities by Dean Radin
-    Irrational Man: A Study in Existential Philosophy by William Barrett
-    The Power of Habit: Why We Do What We Do In Life And Business by Charles Duhigg
-    The Concise 48 Laws of Power by Robert Greene
-    Prisoner's Dilemma by William Poundstone
-    Why  We Make Mistakes: How We Look Without Seeing, Forget Things in Seconds,  and Are All Pretty Sure We Are Way Above Average: Joseph T. Hallinan
-    The Ethical Brain: The Science of Our Moral Dilemmas by Michael S. Gazzaniga
-    In Defense of Food: An Eater's Manifesto by Michael Pollan
-    Snoop: What Your Stuff Says About You: Sam Gosling by Sam Gosling
-    The Stuff of Thought: Language as a Window into Human Nature by Steven Pinker
-    The Blank Slate: The Modern Denial of Human Nature: Steven Pinker
-    Influence: The Psychology of Persuasion by Robert B. Cialdini
-    The Age of Insight: The Quest to Understand the Unconscious in Art, Mind, and Brain, from Vienna 1900 to the Present by Eric Kandel
-    A Whole New Mind: Why Right-Brainers Will Rule the Future: Daniel H. Pink
-    Games People Play: The Basic Handbook of Transactional Analysis: Eric Berne.
-    How to Win Every Argument: The Use and Abuse of Logic: Madsen Pirie
-    Zen Mind, Beginner's Mind: Shunryu Suzuki, David Chadwick
-    The Beginning of Infinity: Explanations That Transform the World by David Deutsch
-    Ecological Rationality: Intelligence in the World (Evolution and Cognition) by Peter M. Todd, Gerd Gigerenzer
-    This Will Make You Smarter: New Scientific Concepts to Improve Your Thinking (Edge Question Series) by John Brockman
-    Intuition Pumps And Other Tools for Thinking by Daniel C. Dennett
-    Amazon.com: Just the Arguments: 100 of the Most Important Arguments in Western Philosophy by Michael Bruce, Steven Barbone
-    The History of Western Philosophy by Bertrand Russell
-    The Truth About Everything: An Irreverent History of Philosophy : With Illustrations by Matthew Stewart
-    Bulfinch's Mythology - All Three Volumes - The Age of Fable, The Age of Chivalry, and Legends of Charlemagne by Thomas Bulfinch
-    Consilience: The Unity of Knowledge by Edward O. Wilson
+* [Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.goodreads.com/book/show/17707599-moral-tribes) by Joshua Greene
+* [Why We Make Mistakes: How We Look Without Seeing, Forget Things in Seconds, and Are All Pretty Sure We Are Way Above Average](https://www.goodreads.com/book/show/5040579-why-we-make-mistakes) by Joseph T. Hallinan
+* [Tattoos on the Heart: The Power of Boundless Compassion](https://www.goodreads.com/book/show/7090193-tattoos-on-the-heart) by Gregory Boyle
+* [Flow: The Psychology of Optimal Experience](https://www.goodreads.com/book/show/66354.Flow) by Mihaly Csikszentmihalyi
+* [The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind](https://www.goodreads.com/book/show/17978489-the-future-of-the-mind) by Michio Kaku
+* [Why Does the World Exist?: An Existential Detective Story]() by Jim Holt
+* [Alone Together: Why We Expect More from Technology and Less from Each Others]() by Sherry Turkle
+* [Supernormal: Science, Yoga, and the Evidence for Extraordinary Psychic Abilities](www.goodreads.com/book/show/8694125-alone-together) by Dean Radin
+* [Irrational Man: A Study in Existential Philosophy](https://www.goodreads.com/book/show/83321.Irrational_Man) by William Barrett
+* [The Power of Habit: Why We Do What We Do In Life And Business](https://www.goodreads.com/book/show/12609433-the-power-of-habit) by Charles Duhigg
+* [The Concise 48 Laws of Power](https://www.goodreads.com/book/show/18224060-the-concise-48-laws-of-power) by Robert Greene
+* [Prisoner's Dilemma](https://www.goodreads.com/book/show/29506.Prisoner_s_Dilemma) by William Poundstone
+* [The Ethical Brain: The Science of Our Moral Dilemmas](https://www.goodreads.com/book/show/328734.The_Ethical_Brain) by Michael S. Gazzaniga
+* [Snoop: What Your Stuff Says About You: Sam Gosling](https://www.goodreads.com/book/show/1581330.Snoop) by Sam Gosling
+* [The Stuff of Thought: Language as a Window into Human Nature](https://www.goodreads.com/book/show/373969.The_Stuff_of_Thought) by Steven Pinker
+* [The Blank Slate: The Modern Denial of Human Nature by]() Steven Pinker
+* [Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/5752.The_Blank_Slate) by Robert B. Cialdini
+* [The Age of Insight: The Quest to Understand the Unconscious in Art, Mind, and Brain, from Vienna 1900 to the Present](https://www.goodreads.com/book/show/12263681-the-age-of-insight) by Eric Kandel
+* [A Whole New Mind: Why Right-Brainers Will Rule the Future by](https://www.goodreads.com/book/show/99315.A_Whole_New_Mind) by Daniel H. Pink
+* [Games People Play: The Basic Handbook of Transactional Analysis](https://www.goodreads.com/book/show/49176.Games_People_Play) by Eric Berne.
+* [How to Win Every Argument: The Use and Abuse of Logic](https://www.goodreads.com/book/show/112731.How_to_Win_Every_Argument) by Madsen Pirie
+* [Zen Mind, Beginner's Mind](https://www.goodreads.com/book/show/402843.Zen_Mind_Beginner_s_Mind) by Shunryu Suzuki, David Chadwick
+* [The Beginning of Infinity: Explanations That Transform the World](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) by David Deutsch
+* [This Will Make You Smarter: New Scientific Concepts to Improve Your Thinking](https://www.goodreads.com/book/show/13035774-this-will-make-you-smarter) by John Brockman
+* [Intuition Pumps And Other Tools for Thinking](https://www.goodreads.com/book/show/18378002-intuition-pumps-and-other-tools-for-thinking) by Daniel C. Dennett
+* [Just the Arguments: 100 of the Most Important Arguments in Western Philosophy](https://www.goodreads.com/book/show/12838972-just-the-arguments) by Michael Bruce, Steven Barbone
+* [The History of Western Philosophy](https://www.goodreads.com/book/show/243685.A_History_of_Western_Philosophy) by Bertrand Russell
+* [The Truth About Everything: An Irreverent History of Philosophy : With Illustrations](https://www.goodreads.com/book/show/18528861-the-truth-about-everything) by Matthew Stewart
+* [Bulfinch's Mythology](https://www.goodreads.com/book/show/588147.Bulfinch_s_Mythology)by Thomas Bulfinch
+* [Consilience: The Unity of Knowledge](https://www.goodreads.com/book/show/55981.Consilience) by Edward O. Wilson
     Every Thing Must Go: Metaphysics Naturalized by James Ladyman, Don Ross, et al
     Antifragile: Things That Gain from Disorder (Incerto): Nassim Nicholas Taleb
     The Truth About Everything: An Irreverent History of Philosophy : With Illustrations by Matthew Stewart
