@@ -57,17 +57,17 @@
 
 
 ###Philosophy, Psychology and Spirituality
-* [The Upside of Irrationality: The Unexpected Benefits of Defying Logic](https://www.goodreads.com/book/show/7815744-the-upside-of-irrationality) by Dan Ariely
+
 * [Predictably Irrational](https://www.goodreads.com/book/show/1713426.Predictably_Irrational) by Dan Ariely
 *What the Dog Saw: and other adventures by Malcolm Gladwell
 * [The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression by Debra Fine](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk)
-*Let Go of Who You Think You're Supposed to Be and Embrace Who You Are by Brene Brown
-*Quiet: The Power of Introverts in a World That Can't Stop Talking by Susan Cain
-*Any Book by Daniel Kahneman
-*Why Smart People Can Be So Stupid by Robert J.. Sternberg
-*Rapt: Attention and the Focused Life: Winifred Gallagher by Winifred Gallagher
-*Creative Visualization: Use the Power of Your Imagination to Create What You Want in Your Life by Shakti Gawain
-*You Just Don't Understand: Women and Men in Conversation by Deborah Tannen
+* [Gifs of Immperfection](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) by Brene Brown
+* [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.goodreads.com/book/show/8520610-quiet) by Susan Cain
+* [The Upside of Irrationality: The Unexpected Benefits of Defying Logic](https://www.goodreads.com/book/show/7815744-the-upside-of-irrationality) by Dan Ariely
+* [Why Smart People Can Be So Stupid](https://www.goodreads.com/book/show/300300.Why_Smart_People_Can_Be_So_Stupid) by Robert J Sternberg
+* [Creative Visualization: Use the Power of Your Imagination to Create What You Want in Your Life](https://www.goodreads.com/book/show/582533.Creative_Visualization) by Shakti Gawain
+* [Rapt: Attention and the Focused Life: Winifred Gallagher](https://www.goodreads.com/book/show/6262510-rapt) by Winifred Gallagher
+* [You Just Don't Understand: Women and Men in Conversation](https://www.goodreads.com/book/show/147222.You_Just_Don_t_Understand) by Deborah Tannen
 *Moral Tribes: Emotion, Reason, and the Gap Between Us and Them by Joshua Greene
 *Why We Make Mistakes: How We Look Without Seeing, Forget Things in Seconds, and Are All Pretty Sure We Are Way Above Average by Joseph T. Hallinan
 *Tattoos on the Heart: The Power of Boundless Compassion by Gregory Boyle
