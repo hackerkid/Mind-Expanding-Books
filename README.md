@@ -1,30 +1,23 @@
 Mind Expanding Books 
 ===============
 
-Table of Contents
+Table of Compoundntents
 -----------------
 
 - [Startups and Business](#startups-and-business)
-- [Philosophy and Psychology](#Philosophy-And-Psychology)
+- [Philosophy and Psychology](#philosophy-and-psychology)
 * [History](#history)
 * [Evolution, Science and Medicine](#evolution,-science-and-medicine)
-
-###Logic and Problem Solving
-
-###Politics
-
-###Sexuality
-
-###Education
-
-###Writing
-
-###Theater and Film
-###Humor
-###Fiction
-###Health
-###Design
-
+* [Logic and Problem Solving](#logic-and-problem-solving)
+* [Politics](#politics)
+* [Sexuality](#sexuality)
+* [Education](#education)
+* [Writing](#writing)
+* [Theater and Filim](#theater-and-filim)
+* [Humor](#humor)
+* [Fiction](#fiction)
+* [Health](#health)
+* [Design](#design)
 
 ###Startups and Business
 
