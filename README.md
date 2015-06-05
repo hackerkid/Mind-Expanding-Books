@@ -226,7 +226,6 @@ Table of Contents
 * [Hat Box: The Collected Lyrics of Stephen Sondheim](https://www.goodreads.com/book/show/12909101-hat-box) by Stephen Sondheim
 * [Clear and Simple as the Truth](https://www.goodreads.com/book/show/120549.Clear_and_Simple_as_the_Truth) by Francis-Noël Thomas, Mark Turner 
 
-
 ###Theater and Film
 
 * [In the Blink of an Eye: A Perspective on Film Editing](https://www.goodreads.com/book/show/2141.In_the_Blink_of_an_Eye) by Walter Murch
