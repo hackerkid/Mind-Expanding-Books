@@ -1,24 +1,25 @@
+###Entrepreneurship and Business
 
-###Start Ups/Business:
-
-* [Thinking, Fast and Slow](http://www.amazon.com/gp/product/0374533555/) by Daniel Kahneman
-* [The Compound Effect](http://www.amazon.com/gp/product/159315724X) by Darren Hardy
-* [Good to Great: Why Some Companies Make the Leap And Others Don't](http://www.amazon.com/gp/product/0066620996) by Jim Collins
-* [The Four Steps to the Epiphany](http://www.amazon.com/gp/product/0989200507)  by Steve Blank
-* [Contagious: Why Things Catch On](http://www.amazon.com/gp/product/1451686579) by Jonah Berger
-* [David and Goliath: Underdogs, Misfits, and the Art of Battling Giants](http://www.amazon.com/gp/product/0316204374)  by Malcolm Gladwell
-* [The Signal and the Noise: Why So Many Predictions Fail--but Some Don't](http://www.amazon.com/gp/product/0143125087)  by Nate Silver
-* [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](http://www.amazon.com/gp/product/0062273205)  by Ben Horowitz
-* [The Paradox of Choice: Why More Is Less](http://www.amazon.com/gp/product/0060005696)  by Barry Shwartz
-* [Influencer: The New Science of Leading Change, Revised and Updated Second Edition](http://www.amazon.com/gp/product/0071808868)  by Joseph Grenny, Kerry Patterson
-* [The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything](http://www.amazon.com/gp/product/1591847842) by Guy Kawasaki
-* [Founders At Work: Stories Of Startups* Early Days](http://www.amazon.com/gp/product/1430210788) by Jessica Livingston
-* [The Lean Startup: How Constant Innovation Creates Radically Successful Businesses](http://www.amazon.com/gp/product/0307887898) by Eric Ries
-* [ReWork: Change the Way You Work Forever](http://www.amazon.com/gp/product/0307463745/) by David Heinemeier Hansson
-* [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](http://www.amazon.com/gp/product/0887307280)  by Michael E. Gerber
-* [The Black Swan: The Impact of the Highly Improbable](http://www.goodreads.com/book/show/242472.The_Black_Swan)  by Nassim Nicholas Taleb
+* [Linchpin: Are You Indispensable?](https://www.goodreads.com/book/show/7155145-linchpin) by Seth Godin
+* [The Black Swan: The Impact of the Highly Improbable](http://www.goodreads.com/book/show/242472.The_Black_Swan) by Nassim Nicholas Taleb
+* [The Tipping Point: How Little Things Can Make a Big Difference](https://www.goodreads.com/book/show/2612.The_Tipping_Point) by Malcolm Gladwell
+* [Hackers and Painters](https://www.goodreads.com/book/show/41793.Hackers_Painters) by Paul Graham
+* [The Compound Effect](www.goodreads.com/book/show/9420697-the-compound-effect)) by Darren Hardy
+* [Good to Great: Why Some Companies Make the Leap And Others Don't](www.goodreads.com/book/show/76865.Good_to_Great) by Jim Collins
+* [The Four Steps to the Epiphany](https://www.goodreads.com/book/show/762542.The_Four_Steps_to_the_Epiphany) by Steve Blank
+* [Contagious: Why Things Catch On](www.goodreads.com/book/show/15801967-contagious) by Jonah Berger
+* [David and Goliath: Underdogs, Misfits, and the Art of Battling Giants](www.goodreads.com/book/show/15751404-david-and-goliath)  by Malcolm Gladwell
+* [The Signal and the Noise: Why So Many Predictions Fail--but Some Don't](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise) by Nate Silver
+* [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things)  by Ben Horowitz
+* [The Paradox of Choice: Why More Is Less](www.goodreads.com/book/show/10639.The_Paradox_of_Choice) by Barry Shwartz
+* [Influencer: The New Science of Leading Change](www.goodreads.com/book/show/914211.Influencer)  by Joseph Grenny, Kerry Patterson
+* [The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything](https://www.goodreads.com/book/show/37875.The_Art_of_the_Start) by Guy Kawasaki
+* [Founders At Work: Stories Of Startups Early Days](https://www.goodreads.com/book/show/98233.Founders_at_Work) by Jessica Livingston
+* [The Lean Startup: How Constant Innovation Creates Radically Successful Businesses](https://www.goodreads.com/book/show/10127019-the-lean-startup) by Eric Ries
+* [ReWork: Change the Way You Work Forever](https://www.goodreads.com/book/show/6732019-rework) by David Heinemeier Hansson
+* [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](www.goodreads.com/book/show/81948.The_E_Myth_Revisited) by Michael E. Gerber
 * [Delivering Happiness: A Path to Profits, Passion, and Purpose](http://www.goodreads.com/book/show/6828896-delivering-happiness) by Tony Hsieh
-* [Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business My Way](http://www.amazon.com/gp/product/0307720748)  by Richard Branson
+* [Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business My Way](https://www.goodreads.com/book/show/211099.Losing_My_Virginity)  by Richard Branson
 * [The Power of Full Engagement: Managing Energy, Not Time, is the Key to High Performance and Personal Renewal](http://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement) by Jim Loehr, Tony Schwartz
 * [The Checklist Manifesto: How To Get Things Right](http://www.goodreads.com/book/show/6667514-the-checklist-manifesto) by Atul Gawande
 * [The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future](https://www.goodreads.com/book/show/12605157-the-100-startup) by Chris Guillebeau
@@ -31,8 +32,6 @@
 * [Leaving Microsoft to Change the World: An Entrepreneur's Odyssey to Educate the World's Children](https://www.goodreads.com/book/show/95429.Leaving_Microsoft_to_Change_the_World) by John Wood
 * [The 22 Immutable Laws Of Branding](https://www.goodreads.com/book/show/1565533.The_22_Immutable_Laws_of_Branding) by Laura Ries and Al Ries
 * [Rich Dad Poor Dad : What The Rich Teach Their Kids About Money That The Poor And Middle Class Don't](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) by Robert T. Kiyosaki
-* [Linchpin: Are You Indispensable?](https://www.goodreads.com/book/show/7155145-linchpin) by Seth Godin
-* [The Tipping Point: How Little Things Can Make a Big Difference](https://www.goodreads.com/book/show/2612.The_Tipping_Point) by Malcolm Gladwell
 * [Outliers: Story of Success by](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) Malcolm Gladwell
 * [The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich by](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) Thomas Ferriss
 * [How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success by](https://www.goodreads.com/book/show/96593.The_Success_Principles) Jack Canfield, Janet Switzer
@@ -54,6 +53,7 @@
 ###Philosophy, Psychology and Spirituality
 
 * [Predictably Irrational](https://www.goodreads.com/book/show/1713426.Predictably_Irrational) by Dan Ariely
+* [Thinking, Fast and Slow](www.goodreads.com/book/show/11468377-thinking-fast-and-slow) by Daniel Kahneman
 * [What the Dog Saw: and other adventures](https://www.goodreads.com/book/show/6516450-what-the-dog-saw-and-other-adventures) by Malcolm Gladwell
 * [The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression by Debra Fine](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk)
 * [Gifs of Immperfection](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) by Brene Brown
