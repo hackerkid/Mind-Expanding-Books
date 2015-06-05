@@ -51,11 +51,6 @@
 * [Super Crunchers: Why Thinking-By-Numbers is the New Way To Be Smart](https://www.goodreads.com/book/show/1081413.Super_Crunchers) by Ian Ayres by Ian Ayres
 * [The Curse of the Mogul](https://www.goodreads.com/book/show/7162410-the-curse-of-the-mogul) by Jonathan A. Knee, Bruce C. Greenwald, Ava Seave
 
-
-###Self Help
-* [How to Win Friends and Influence People by Dale Carnegie](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
-
-
 ###Philosophy, Psychology and Spirituality
 
 * [Predictably Irrational](https://www.goodreads.com/book/show/1713426.Predictably_Irrational) by Dan Ariely
@@ -70,6 +65,7 @@
 * [In Defense of Food: An Eater's Manifesto](https://www.goodreads.com/book/show/315425.In_Defense_of_Food) by Michael Pollan
 * [Rapt: Attention and the Focused Life: Winifred Gallagher](https://www.goodreads.com/book/show/6262510-rapt) by Winifred Gallagher
 * [You Just Don't Understand: Women and Men in Conversation](https://www.goodreads.com/book/show/147222.You_Just_Don_t_Understand) by Deborah Tannen
+* [How to Win Friends and Influence People by Dale Carnegie](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 * [Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.goodreads.com/book/show/17707599-moral-tribes) by Joshua Greene
 * [Why We Make Mistakes: How We Look Without Seeing, Forget Things in Seconds, and Are All Pretty Sure We Are Way Above Average](https://www.goodreads.com/book/show/5040579-why-we-make-mistakes) by Joseph T. Hallinan
 * [Tattoos on the Heart: The Power of Boundless Compassion](https://www.goodreads.com/book/show/7090193-tattoos-on-the-heart) by Gregory Boyle
@@ -112,6 +108,9 @@
 * [The Social Contract](https://www.goodreads.com/book/show/12651.The_Social_Contract) by Jean-Jacques Rousseau, Maurice Cranston
 * [Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel](https://www.goodreads.com/book/show/100247.Vagabonding) by Rolf Potts
 
+###Design
+
+* [Pattern Language: Towns, Buildings, Construction](https://www.goodreads.com/book/show/79766.A_Pattern_Language) by Christopher Alexander, Sara Ishikawa, Murray Silverstein, Max Jacobson, Ingrid Fiksdahl-King and Shlomo Angel
 
 ###History
 
@@ -137,28 +136,12 @@
 * [The World Is Flat: A Brief History of the Twenty-first Century](https://www.goodreads.com/book/show/<1911 class="The_World_Is_Flat"></1911>) by Thomas L. Friedman
 
 
-###Design
-
-* [Pattern Language: Towns, Buildings, Construction](https://www.goodreads.com/book/show/79766.A_Pattern_Language) by Christopher Alexander, Sara Ishikawa, Murray Silverstein, Max Jacobson, Ingrid Fiksdahl-King and Shlomo Angel
-
 ###Health
 
 * [8 Weeks to Optimum Health](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) by Andrew Weil
 
-
-###Politics
-
-* [Resource Wars: The New Landscape of Global Conflict](https://www.goodreads.com/book/show/149206.Resource_Wars) by Michael Klare
-* [The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done About It](https://www.goodreads.com/book/show/493371.The_Bottom_Billion) by Paul Collier
-* [The Myth of the Rational Voter: Why Democracies Choose Bad Policies](https://www.goodreads.com/book/show/698866.The_Myth_of_the_Rational_Voter) by Bryan Caplan
-* [Justice: What's the Right Thing to Do?](https://www.goodreads.com/book/show/6452731-justice) by Michael J. Sandel
-* [Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime](https://www.goodreads.com/book/show/6694937-game-change) by John Heilemann, Mark Halperin
-* [Currency Wars: The Making of the Next Global Crisis](https://www.goodreads.com/book/show/11515298-currency-wars) by James Rickards
-* [The Audacity of Hope: Thoughts on Reclaiming the American Dream](www.goodreads.com/book/show/9742.The_Audacity_of_Hope) by Barack Obama
-* [The Righteous Mind: Why Good People are Divided by Politics and Religion](https://www.goodreads.com/book/show/11324722-the-righteous-mind) by  Jonathan Haidt
-* [Economic Facts and Fallacies](https://www.goodreads.com/book/show/2064279.Economic_Facts_and_Fallacies) by Thomas Sowell
-
 ###Evolution, Science, and Medicine
+
 
 * [The Structure of Scientific Revolutions: 50th Anniversary Edition](https://www.goodreads.com/book/show/61539.The_Structure_of_Scientific_Revolutions) by Thomas S. Kuhn
 * [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) by Douglas R. Hofstadter
@@ -182,13 +165,36 @@
 * [Catching Fire: How Cooking Made Us Human](https://www.goodreads.com/book/show/11148989-catching-fire) by Richard Wrangham
 * [The Quark and the Jaguar: Adventures in the Simple and the Complex](https://www.goodreads.com/book/show/270881.The_Quark_and_the_Jaguar) by Murray Gell-Mann
 * [Figments of Reality: The Evolution of the Curious Mind](https://www.goodreads.com/book/show/164560.Figments_of_Reality) by Ian Stewart, Jack Cohen
+* [How to Find a Habitable Planet](https://www.goodreads.com/book/show/7551498-how-to-find-a-habitable-planet) by James kasting
+* [Scientific Genius: A Psychology of Science](https://www.goodreads.com/book/show/1752295.Scientific_Genius) Dean Keith Simonton
+* [The Extended Phenotype: The Long Reach of the Gene](https://www.goodreads.com/book/show/61538.The_Extended_Phenotype) Richard Dawkins
+* [Rare Earth: Why Complex Life is Uncommon in the Universe](https://www.goodreads.com/book/show/88552.Rare_Earth) Peter D. Ward, Donald Brownlee
+* [Mind Children: The Future of Robot and Human Intelligence](https://www.goodreads.com/book/show/648195.Mind_Children) by  Hans Moravec.
+* [The Little Schemer](https://www.goodreads.com/book/show/548914.The_Little_Schemer) by Daniel P. Friedman, Matthias Felleisen, Duane Bibby, Gerald J. Sussman
+* [Out of Control: The New Biology of Machines, Social Systems, and the Economic World](https://www.goodreads.com/book/show/16080353-out-of-control) by Kevin Kelly
 
+###Logic and Problem Solving
+
+* [What Is the Name of This Book?: The Riddle of Dracula and Other Logical Puzzles](https://www.goodreads.com/book/show/493576.What_Is_the_Name_of_This_Book_) by Raymond M. Smullyan
+* [How to Solve It: A New Aspect of Mathematical Method](https://www.goodreads.com/book/show/192221.How_to_Solve_It) by George Polya
+* [Labyrinths of Reason: Paradox, Puzzles, and the Frailty of Knowledge](https://www.goodreads.com/book/show/55436.Labyrinths_of_Reason) by William Poundstone
+
+###Politics
+
+* [Resource Wars: The New Landscape of Global Conflict](https://www.goodreads.com/book/show/149206.Resource_Wars) by Michael Klare
+* [The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done About It](https://www.goodreads.com/book/show/493371.The_Bottom_Billion) by Paul Collier
+* [The Myth of the Rational Voter: Why Democracies Choose Bad Policies](https://www.goodreads.com/book/show/698866.The_Myth_of_the_Rational_Voter) by Bryan Caplan
+* [Justice: What's the Right Thing to Do?](https://www.goodreads.com/book/show/6452731-justice) by Michael J. Sandel
+* [Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime](https://www.goodreads.com/book/show/6694937-game-change) by John Heilemann, Mark Halperin
+* [Currency Wars: The Making of the Next Global Crisis](https://www.goodreads.com/book/show/11515298-currency-wars) by James Rickards
+* [The Audacity of Hope: Thoughts on Reclaiming the American Dream](www.goodreads.com/book/show/9742.The_Audacity_of_Hope) by Barack Obama
+* [The Righteous Mind: Why Good People are Divided by Politics and Religion](https://www.goodreads.com/book/show/11324722-the-righteous-mind) by  Jonathan Haidt
+* [Economic Facts and Fallacies](https://www.goodreads.com/book/show/2064279.Economic_Facts_and_Fallacies) by Thomas Sowell
 
 ###Sexuality
 
 * [Sex at Dawn: The Prehistoric Origins of Modern](https://www.goodreads.com/book/show/7640261-sex-at-dawn) by Christopher Ryan, Cacilda Jetha
 * [The Sex Myth](https://www.goodreads.com/book/show/13569582-the-sex-myth) by Brooke Magnanti
-
 
 ###Education
 
@@ -199,7 +205,6 @@
 * [Mindstorms: Children, Computers, And Powerful Ideas](https://www.goodreads.com/book/show/703532.Mindstorms) by Seymour A. Papert
 * [Curious Minds: How a Child Becomes a Scientist](https://www.goodreads.com/book/show/409588.Curious_Minds) by John Brockman
 * [Teaching as a Subversive Activity](https://www.goodreads.com/book/show/79681.Teaching_as_a_Subversive_Activity) by Neil Postman, Charles Weingartner 
-
 
 ###Writing
 
@@ -217,13 +222,16 @@
 * [Different Every Night: Putting the play on stage and keeping it fresh](https://www.goodreads.com/book/show/3493241-different-every-night) by Mike Alfreds
 * [Notes on Directing: 130 Lessons in Leadership from the Director's Chair](https://www.goodreads.com/book/show/254808.Notes_on_Directing) by Frank Hauser, Russell Reich
 
-
 ###Shakespeare
 
 * [Thinking Shakespeare: A How-to Guide for Student Actors, Directors, and Anyone Else Who Wants to Feel More Comfortable With the Bard](https://www.goodreads.com/book/show/1334872.Thinking_Shakespeare) by Barry Edelstein.
 * [Hamlet in Purgatory](https://www.goodreads.com/book/show/33179.Hamlet_in_Purgatory) by Stephen Greenblatt
 * [Hamlet and Revenge](https://www.goodreads.com/book/show/625956.Hamlet_Revenge_) by Eleanor Prosser
 * [Shakespeare's Metrical Art](https://www.goodreads.com/book/show/428615.Shakespeare_s_Metrical_Art) George T. Wright
+
+###Humor
+
+* [I Hope They Serve Beer In Hell by Tucker Max](https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell)
 
 
 ###Fiction
@@ -259,27 +267,3 @@
 * [Lonesome Dove](https://www.goodreads.com/book/show/256008.Lonesome_Dove) by Larry McMurtry
 * [The Queen's Gambit](https://www.goodreads.com/book/show/62022.The_Queen_s_Gambit) by Walter Tevis
 * [War and Peace](https://www.goodreads.com/book/show/656.War_and_Peace) by Leo Tolstoy
-
-
-###Technical
-
-* [How to Find a Habitable Planet](https://www.goodreads.com/book/show/7551498-how-to-find-a-habitable-planet) by James kasting
-* [Scientific Genius: A Psychology of Science](https://www.goodreads.com/book/show/1752295.Scientific_Genius) Dean Keith Simonton
-* [The Extended Phenotype: The Long Reach of the Gene](https://www.goodreads.com/book/show/61538.The_Extended_Phenotype) Richard Dawkins
-* [Rare Earth: Why Complex Life is Uncommon in the Universe](https://www.goodreads.com/book/show/88552.Rare_Earth) Peter D. Ward, Donald Brownlee
-* [Mind Children: The Future of Robot and Human Intelligence](https://www.goodreads.com/book/show/648195.Mind_Children) by  Hans Moravec.
-* [The Little Schemer](https://www.goodreads.com/book/show/548914.The_Little_Schemer) by Daniel P. Friedman, Matthias Felleisen, Duane Bibby, Gerald J. Sussman
-* [Out of Control: The New Biology of Machines, Social Systems, and the Economic World](https://www.goodreads.com/book/show/16080353-out-of-control) by Kevin Kelly
-
-
-###Logic and Problem Solving
-
-* [What Is the Name of This Book?: The Riddle of Dracula and Other Logical Puzzles](https://www.goodreads.com/book/show/493576.What_Is_the_Name_of_This_Book_) by Raymond M. Smullyan
-* [How to Solve It: A New Aspect of Mathematical Method](https://www.goodreads.com/book/show/192221.How_to_Solve_It) by George Polya
-* [Labyrinths of Reason: Paradox, Puzzles, and the Frailty of Knowledge](https://www.goodreads.com/book/show/55436.Labyrinths_of_Reason) by William Poundstone
-
-
-###Humor
-
-* [I Hope They Serve Beer In Hell by Tucker Max](https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell)
-
