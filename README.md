@@ -203,87 +203,83 @@
 
 ###Writing
 
-[Hat Box: The Collected Lyrics of Stephen Sondheim](https://www.goodreads.com/book/show/12909101-hat-box) by Stephen Sondheim
-[Clear and Simple as the Truth](https://www.goodreads.com/book/show/120549.Clear_and_Simple_as_the_Truth) by Francis-Noël Thomas, Mark Turner 
+* [Hat Box: The Collected Lyrics of Stephen Sondheim](https://www.goodreads.com/book/show/12909101-hat-box) by Stephen Sondheim
+* [Clear and Simple as the Truth](https://www.goodreads.com/book/show/120549.Clear_and_Simple_as_the_Truth) by Francis-Noël Thomas, Mark Turner 
 
 
 ###Theater and Film
 
-    In the Blink of an Eye: A Perspective on Film Editing by Walter Murch
-    A Practical Handbook for the Actor: Melissa Bruder, Lee Michael Cohn, Madeleine Olnek, Nathaniel Pollack, Robert Previtio, Scott Zigler, David Mamet
-    The Actor and the Target: Declan Donnellan
-    How to Stop Acting: Harold Guskin
-    Different Every Night: Putting the play on stage and keeping it fresh: Mike Alfreds
-    Notes on Directing: 130 Lessons in Leadership from the Director's Chair: Frank Hauser, Russell Reich
-    Impro: Improvisation and the Theatre: Keith Johnstone
+* [In the Blink of an Eye: A Perspective on Film Editing](https://www.goodreads.com/book/show/2141.In_the_Blink_of_an_Eye) by Walter Murch
+* [Impro: Improvisation and the Theatre](https://www.goodreads.com/book/show/306940.Impro) by Keith Johnstone
+* [A Practical Handbook for the Actor](https://www.goodreads.com/book/show/166207.A_Practical_Handbook_for_the_Actor) by Melissa Bruder, Lee Michael Cohn, Madeleine Olnek, Nathaniel Pollack, Robert Previtio, Scott Zigler, David Mamet
+* [The Actor and the Target](https://www.goodreads.com/book/show/611466.The_Actor_and_the_Target) by Declan Donnellan
+* [How to Stop Acting](https://www.goodreads.com/book/show/808735.How_to_Stop_Acting) by Harold Guskin
+* [Different Every Night: Putting the play on stage and keeping it fresh](https://www.goodreads.com/book/show/3493241-different-every-night) by Mike Alfreds
+* [Notes on Directing: 130 Lessons in Leadership from the Director's Chair](https://www.goodreads.com/book/show/254808.Notes_on_Directing) by Frank Hauser, Russell Reich
 
 
-Shakespeare
+###Shakespeare
 
-    Thinking Shakespeare: A How-to Guide for Student Actors, Directors, and Anyone Else Who Wants to Feel More Comfortable With the Bard by Barry Edelstein.
-    Hamlet in Purgatory by Stephen Greenblatt
-    Hamlet and Revenge by Eleanor Prosser.
-    Shakespeare's Metrical Art: George T. Wright
-
-
-Fiction
-
-    The Book Thief by Markus Zusak
-    A Prayer for Owen Meany by John Irving
-    The Help by Kathryn Stockett
-    Sophie's World: A Novel About the History of Philosophy by Jostein Gaarder, Paulette Moller
-    All the Light We Cannot See by Anthony Doerr
-    If on a Winter's Night a Traveler by Italo Calvino, William Weaver
-    The Eight by Katherine Neville
-    Snow Crash by Neal Stephenson
-    Sense and Sensibility by Jane Austen
-    Steppenwolf: A Novel by Hermann Hesse, Basil Creighton
-    The Glass Bead Game: (Magister Ludi) A Novel by Hermann Hesse, Richard and Clara Winston
-    The Wall: (Intimacy) and Other Stories (New Directions Paperbook) by Jean-Paul Sartre, Lloyd Alexander
-    The Brothers Karamazov: Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky
-    Pride And Prejudice by Jane Austen
-    Emma: Jane Austen
-    Wuthering Heights: Emily Bronte
-    The House of Mirth: Edith Wharton
-    The Fifth Sacred Thing by Starhawk
-    The Bone People: A Novel by Keri Hulme
-    Confessions of a Mask by Yukio Mishima
-    The City & The City (Random House Reader's Circle) by China Mieville
-    Letters From The Earth by Mark Twain
-    One Hundred Years of Solitude (P.S.): Gabriel Garcia Marquez, Gregory Rabassa
-    One Flew Over the Cuckoo's Nest (Signet): Ken Kesey
-    Watership Down: A Novel: Richard Adams
-    Cat's Eye: Margaret Atwood
-    Bleak House (Penguin Classics): Charles Dickens
-    Lonesome Dove: A Novel: Larry McMurtry
-    The Catcher in the Rye: J.D. Salinger
-    The Queen's Gambit: A Novel: Walter Tevis
-    1Q84: Haruki Murakami, Jay Rubin, Philip ­Gabriel.
-    War and Peace: Leo Tolstoy.
-    The Great Gatsby: F. Scott Fitzgerald
-    Deception Point: Dan Brown
+* [Thinking Shakespeare: A How-to Guide for Student Actors, Directors, and Anyone Else Who Wants to Feel More Comfortable With the Bard](https://www.goodreads.com/book/show/1334872.Thinking_Shakespeare) by Barry Edelstein.
+* [Hamlet in Purgatory](https://www.goodreads.com/book/show/33179.Hamlet_in_Purgatory) by Stephen Greenblatt
+* [Hamlet and Revenge](https://www.goodreads.com/book/show/625956.Hamlet_Revenge_) by Eleanor Prosser
+* [Shakespeare's Metrical Art](https://www.goodreads.com/book/show/428615.Shakespeare_s_Metrical_Art) George T. Wright
 
 
-Technical
+###Fiction
 
-    How to Find a Habitable Planet (Science Essentials)
-    Scientific Genius: A Psychology of Science: Dean Keith Simonton
-    The Extended Phenotype: The Long Reach of the Gene (Popular Science): Richard Dawkins
-    Rare Earth: Why Complex Life is Uncommon in the Universe: Peter D. Ward, Donald Brownlee
-    Mind Children: The Future of Robot and Human Intelligence by  Hans Moravec.
-    The Little Schemer - 4th Edition by Daniel P. Friedman, Matthias Felleisen, Duane Bibby, Gerald J. Sussman
-    Out of Control: The New Biology of Machines, Social Systems, & the Economic World by Kevin Kelly
+* [The Book Thief](https://www.goodreads.com/book/show/19063.The_Book_Thief) by Markus Zusak
+* [A Prayer for Owen Meany](https://www.goodreads.com/book/show/4473.A_Prayer_for_Owen_Meany) by John Irving
+* [The Help](https://www.goodreads.com/book/show/4667024-the-help) by Kathryn Stockett
+* [Sophie's World: A Novel About the History of Philosophy](https://www.goodreads.com/book/show/10959.Sophie_s_World) by Jostein Gaarder and Paulette Moller
+* [All the Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see) by Anthony Doerr
+* [If on a Winter's Night a Traveler](https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler) by Italo Calvino and William Weaver
+* [The Eight](https://www.goodreads.com/book/show/113310.The_Eight) by Katherine Neville
+* [Snow Crash](https://www.goodreads.com/book/show/830.Snow_Crash) by Neal Stephenson
+* [Sense and Sensibility](https://www.goodreads.com/book/show/14935.Sense_and_Sensibility) by Jane Austen
+* [The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye) by J.D. Salinger
+* [Steppenwolf: A Novel](https://www.goodreads.com/book/show/16631.Steppenwolf) by Hermann Hesse, Basil Creighton
+* [The Glass Bead Game](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game) by Hermann Hesse, Richard and Clara Winston
+* [The Wall: (Intimacy) and Other Stories](https://www.goodreads.com/book/show/10031.The_Wall) by Jean-Paul Sartre, Lloyd Alexander
+* [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky
+* [Pride And Prejudice](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) by Jane Austen
+* [Emma](https://www.goodreads.com/book/show/6969.Emma) by Jane Austen
+* [Wuthering Heights](https://www.goodreads.com/book/show/6185.Wuthering_Heights) by Emily Bronte
+* [The House of Mirth](https://www.goodreads.com/book/show/17728.The_House_of_Mirth) by Edith Wharton
+* [The Fifth Sacred Thing](https://www.goodreads.com/book/show/80689.The_Fifth_Sacred_Thing) by Starhawk
+* [The Bone People](https://www.goodreads.com/book/show/460635.The_Bone_People) by Keri Hulme
+* [Confessions of a Mask](https://www.goodreads.com/book/show/62794.Confessions_of_a_Mask) by Yukio Mishima
+* [The City & The City](https://www.goodreads.com/book/show/4703581-the-city-the-city) by China Mieville
+* [Letters From The Earth](https://www.goodreads.com/book/show/37813.Letters_from_the_Earth) by Mark Twain
+* [One Hundred Years of Solitude](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude) byGabriel Garcia Marquez, Gregory Rabassa
+* [One Flew Over the Cuckoo's Nest](https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest) by Ken Kesey
+* [Watership Down: A Novel](https://www.goodreads.com/book/show/76620.Watership_Down) by Richard Adams
+* [Cat's Eye](https://www.goodreads.com/book/show/51019.Cat_s_Eye) by Margaret Atwood
+* [Bleak House](https://www.goodreads.com/book/show/31242.Bleak_House) by Charles Dickens
+* [Lonesome Dove](https://www.goodreads.com/book/show/256008.Lonesome_Dove) by Larry McMurtry
+* [The Queen's Gambit](https://www.goodreads.com/book/show/62022.The_Queen_s_Gambit) by Walter Tevis
+* [War and Peace](https://www.goodreads.com/book/show/656.War_and_Peace) by Leo Tolstoy
 
 
-Logic and Problem Solving
+###Technical
 
-    What Is the Name of This Book?: The Riddle of Dracula and Other Logical Puzzles (Dover Recreational Math): by Raymond M. Smullyan
-    The Lady or the Tiger?: and Other Logic Puzzles (Dover Recreational Math) by Raymond M. Smullyan
-    How to Solve It: A New Aspect of Mathematical Method (Princeton Science Library) by George Polya
-    Labyrinths of Reason: Paradox, Puzzles, and the Frailty of Knowledge by William Poundstone
+* [How to Find a Habitable Planet](https://www.goodreads.com/book/show/7551498-how-to-find-a-habitable-planet) by James kasting
+* [Scientific Genius: A Psychology of Science](https://www.goodreads.com/book/show/1752295.Scientific_Genius) Dean Keith Simonton
+* [The Extended Phenotype: The Long Reach of the Gene](https://www.goodreads.com/book/show/61538.The_Extended_Phenotype) Richard Dawkins
+* [Rare Earth: Why Complex Life is Uncommon in the Universe](https://www.goodreads.com/book/show/88552.Rare_Earth) Peter D. Ward, Donald Brownlee
+* [Mind Children: The Future of Robot and Human Intelligence](https://www.goodreads.com/book/show/648195.Mind_Children) by  Hans Moravec.
+* [The Little Schemer](https://www.goodreads.com/book/show/548914.The_Little_Schemer) by Daniel P. Friedman, Matthias Felleisen, Duane Bibby, Gerald J. Sussman
+* [Out of Control: The New Biology of Machines, Social Systems, and the Economic World](https://www.goodreads.com/book/show/16080353-out-of-control) by Kevin Kelly
 
 
-Humor
+###Logic and Problem Solving
 
-    I Hope They Serve Beer In Hell by Tucker Max
+* [What Is the Name of This Book?: The Riddle of Dracula and Other Logical Puzzles](https://www.goodreads.com/book/show/493576.What_Is_the_Name_of_This_Book_) by Raymond M. Smullyan
+* [How to Solve It: A New Aspect of Mathematical Method](https://www.goodreads.com/book/show/192221.How_to_Solve_It) by George Polya
+* [Labyrinths of Reason: Paradox, Puzzles, and the Frailty of Knowledge](https://www.goodreads.com/book/show/55436.Labyrinths_of_Reason) by William Poundstone
+
+
+###Humor
+
+* [I Hope They Serve Beer In Hell by Tucker Max](https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell)
 
