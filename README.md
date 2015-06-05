@@ -1,7 +1,7 @@
 Mind Expanding Books 
 ===============
 
-Table of Compoundntents
+Table of Contents
 -----------------
 
 - [Startups and Business](#startups-and-business)
