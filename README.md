@@ -5,6 +5,25 @@ Table of Contents
 -----------------
 
 - [Startups and Business](#startups-and-business)
+- [Philosophy and Psychology](#Philosophy-And-Psychology)
+* [History](#history)
+* [Evolution, Science and Medicine](#evolution,-science-and-medicine)
+
+###Logic and Problem Solving
+
+###Politics
+
+###Sexuality
+
+###Education
+
+###Writing
+
+###Theater and Film
+###Humor
+###Fiction
+###Health
+###Design
 
 
 ###Startups and Business
