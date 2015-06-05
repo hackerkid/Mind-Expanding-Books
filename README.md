@@ -59,7 +59,7 @@
 ###Philosophy, Psychology and Spirituality
 
 * [Predictably Irrational](https://www.goodreads.com/book/show/1713426.Predictably_Irrational) by Dan Ariely
-*What the Dog Saw: and other adventures by Malcolm Gladwell
+* [What the Dog Saw: and other adventures](https://www.goodreads.com/book/show/6516450-what-the-dog-saw-and-other-adventures) by Malcolm Gladwell
 * [The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression by Debra Fine](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk)
 * [Gifs of Immperfection](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) by Brene Brown
 * [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.goodreads.com/book/show/8520610-quiet) by Susan Cain
@@ -148,68 +148,66 @@
 
 ###Politics
 
-    Resource Wars: The New Landscape of Global Conflict by Michael Klare
-    The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done About It by Paul Collier
-    The Myth of the Rational Voter: Why Democracies Choose Bad Policies by Bryan Caplan
-    Justice: What's the Right Thing to Do? by Michael J. Sandel
-    Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime by John Heilemann, Mark Halperin
-    Currency Wars: The Making of the Next Global Crisis by James Rickards
-    The Audacity of Hope: Thoughts on Reclaiming the American Dream by Barack Obama
-    The Righteous Mind: Why Good People are Divided by Politics and Religion by  Jonathan Haidt
-    Economic Facts and Fallacies, 2nd edition by Thomas Sowell
+* [Resource Wars: The New Landscape of Global Conflict](https://www.goodreads.com/book/show/149206.Resource_Wars) by Michael Klare
+* [The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done About It](https://www.goodreads.com/book/show/493371.The_Bottom_Billion) by Paul Collier
+* [The Myth of the Rational Voter: Why Democracies Choose Bad Policies](https://www.goodreads.com/book/show/698866.The_Myth_of_the_Rational_Voter) by Bryan Caplan
+* [Justice: What's the Right Thing to Do?](https://www.goodreads.com/book/show/6452731-justice) by Michael J. Sandel
+* [Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime](https://www.goodreads.com/book/show/6694937-game-change) by John Heilemann, Mark Halperin
+* [Currency Wars: The Making of the Next Global Crisis](https://www.goodreads.com/book/show/11515298-currency-wars) by James Rickards
+* [The Audacity of Hope: Thoughts on Reclaiming the American Dream](www.goodreads.com/book/show/9742.The_Audacity_of_Hope) by Barack Obama
+* [The Righteous Mind: Why Good People are Divided by Politics and Religion](https://www.goodreads.com/book/show/11324722-the-righteous-mind) by  Jonathan Haidt
+* [Economic Facts and Fallacies](https://www.goodreads.com/book/show/2064279.Economic_Facts_and_Fallacies) by Thomas Sowell
+
+###Evolution, Science, and Medicine
+
+* [The Structure of Scientific Revolutions: 50th Anniversary Edition](https://www.goodreads.com/book/show/61539.The_Structure_of_Scientific_Revolutions) by Thomas S. Kuhn
+* [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) by Douglas R. Hofstadter
+* [The Shallows: What the Internet is Doing to Our Brains](https://www.goodreads.com/book/show/9778945-the-shallows) by Nicholas Carr
+* [A Brief History of Time](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time) by Stephen Hawking
+* [A Short History of Nearly Everything](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything) by Bill Bryson
+* [Stiff: The Curious Lives of Human Cadavers](https://www.goodreads.com/book/show/32145.Stiff) by Mary Roach
+* [Asimov's New Guide to Science](https://www.goodreads.com/book/show/977262.Asimov_s_New_Guide_To_Science) by Isaac Asimov
+* [The Symbolic Species: The Co-evolution of Language and the Brain](https://www.goodreads.com/book/show/733691.The_Symbolic_Species) by Terrence W. Deacon
+* [The 10,000 Year Explosion: How Civilization Accelerated Human Evolution](https://www.goodreads.com/book/show/6033964-the-10-000-year-explosion) by Gregory Cochran, Henry Harpending
+* [Origins of Genius: Darwinian Perspectives on Creativity](https://www.goodreads.com/book/show/254489.Origins_of_Genius) by Dean Keith
+* [At Home in the Universe: The Search for the Laws of Self-Organization and Complexity](https://www.goodreads.com/book/show/319006.At_Home_in_the_Universe) by Stuart Kauffman
+* [The Wealth of Networks: How Social Production Transforms Markets and Freedom](https://www.goodreads.com/book/show/14721.The_Wealth_of_Networks) by Yochai Benkler
+* [Heaven in a Chip: Fuzzy Visions of Society and Science in the Digital Age](https://www.goodreads.com/book/show/172645.Heaven_in_a_Chip) by Bart Kosko
+* [The Outer Limits of Reason: What Science, Mathematics, and Logic Cannot Tell Us]() by Noson S. Yanofsky
+* [The Selfish Gene]() by Richard Dawkins
+* [Mind Wars: Brain Research and National Defense]() by Jonathan D. Moreno
+* [Evolution for Everyone: How Darwin's Theory Can Change the Way We Think About Our Lives]() by David Sloan Wilson
+* [Darwin's Dangerous Idea](https://www.goodreads.com/book/show/2068.Darwin_s_Dangerous_Idea) Daniel C. Dennett
+* [The New Executive Brain: Frontal Lobes in a Complex World](https://www.goodreads.com/book/show/6745893-the-new-executive-brain) by Elkhonon Goldberg
+* [Catching Fire: How Cooking Made Us Human](https://www.goodreads.com/book/show/11148989-catching-fire) by Richard Wrangham
+* [The Quark and the Jaguar: Adventures in the Simple and the Complex](https://www.goodreads.com/book/show/270881.The_Quark_and_the_Jaguar) by Murray Gell-Mann
+* [Figments of Reality: The Evolution of the Curious Mind](https://www.goodreads.com/book/show/164560.Figments_of_Reality) by Ian Stewart, Jack Cohen
 
 
-Evolution, Science, and Medicine
+###Sexuality
 
-    The Shallows: What the Internet is Doing to Our Brains by Nicholas Carr
-    The Structure of Scientific Revolutions: 50th Anniversary Edition by Thomas S. Kuhn
-    The Symbolic Species: The Co-evolution of Language and the Brain by Terrence W. Deacon
-    The 10, 000 Year Explosion: How Civilization Accelerated Human Evolution by Gregory Cochran, Henry Harpending
-    Origins of Genius: Darwinian Perspectives on Creativity by Dean Keith
-    At Home in the Universe: The Search for the Laws of Self-Organization and Complexity by Stuart Kauffman
-    The Wealth of Networks: How Social Production Transforms Markets and Freedom by Yochai Benkler
-    A Brief History of Time by Stephen Hawking
-    A Short History of Nearly Everything by Bill Bryson
-    Asimov's New Guide to Science by Isaac Asimov
-    Heaven in a Chip: Fuzzy Visions of Society and Science in the Digital Age by Bart Kosko
-    Gödel, Escher, Bach: An Eternal Golden Braid by Douglas R. Hofstadter
-    The Outer Limits of Reason: What Science, Mathematics, and Logic Cannot Tell Us by Noson S. Yanofsky
-    The Selfish Gene by Richard Dawkins
-    Mind Wars: Brain Research and National Defense by Jonathan D. Moreno
-    Evolution for Everyone: How Darwin's Theory Can Change the Way We Think About Our Lives: David Sloan Wilson
-    Darwin's Dangerous Idea : EVOLUTION AND THE MEANINGS OF LIFE: Daniel C. Dennett
-    Stiff: The Curious Lives of Human Cadavers by Mary Roach
-    The New Executive Brain: Frontal Lobes in a Complex World by Elkhonon Goldberg
-    Catching Fire: How Cooking Made Us Human by Richard Wrangham
-    The Quark and the Jaguar: Adventures in the Simple and the Complex by Murray Gell-Mann
-    Figments of Reality: The Evolution of the Curious Mind by Ian Stewart, Jack Cohen
+* [Sex at Dawn: The Prehistoric Origins of Modern](https://www.goodreads.com/book/show/7640261-sex-at-dawn) by Christopher Ryan, Cacilda Jetha
+* [The Sex Myth](https://www.goodreads.com/book/show/13569582-the-sex-myth) by Brooke Magnanti
 
 
-Sexuality
+###Education
 
-    The Sex Myth by Brooke Magnanti
-    Sex at Dawn: How We Mate, Why We Stray, and What It Means for Modern Relationships: Christopher Ryan, Cacilda Jetha.
-    For balance: Sex at Dusk: Lifting the Shiny Wrapping from Sex at Dawn: Lynn Saxon  
-
-
-Education
-
-    The Art of Learning: An Inner Journey to Optimal Performance: Josh Waitzkin
-    How Children Fail (Classics in Child Development): John Holt
-    Wounded by School: Recapturing the Joy in Learning and Standing Up to Old School Culture: Kirsten Olson, Sara Lawrence-Lightfoot, Parker J. Palmer
-    Summerhill School: A New View of Childhood: A. S. Neill, Albert Lamb
-    Mindstorms: Children, Computers, And Powerful Ideas: Seymour A. Papert
-    Curious Minds: How a Child Becomes a Scientist: John Brockman
-    Teaching as a Subversive Activity: Neil Postman, Charles Weingartner 
+* [The Art of Learning: An Inner Journey to Optimal Performance]https://www.goodreads.com/book/show/857333.The_Art_of_Learning() by Josh Waitzkin
+* [How Children Fail](https://www.goodreads.com/book/show/573009.How_Children_Fail) by John Holt
+* [Wounded by School: Recapturing the Joy in Learning and Standing Up to Old School Culture](https://www.goodreads.com/book/show/6425208-wounded-by-school) by Kirsten Olson, Sara Lawrence-Lightfoot, Parker J. Palmer
+* [Summerhill School: A New View of Childhood](https://www.goodreads.com/book/show/178734.Summerhill) by A. S. Neill, Albert Lamb
+* [Mindstorms: Children, Computers, And Powerful Ideas](https://www.goodreads.com/book/show/703532.Mindstorms) by Seymour A. Papert
+* [Curious Minds: How a Child Becomes a Scientist](https://www.goodreads.com/book/show/409588.Curious_Minds) by John Brockman
+* [Teaching as a Subversive Activity](https://www.goodreads.com/book/show/79681.Teaching_as_a_Subversive_Activity) by Neil Postman, Charles Weingartner 
 
 
-Writing
+###Writing
 
-    Hat Box: The Collected Lyrics of Stephen Sondheim: Stephen Sondheim
-    Clear and Simple as the Truth: Francis-Noël Thomas, Mark Turner 
+[Hat Box: The Collected Lyrics of Stephen Sondheim](https://www.goodreads.com/book/show/12909101-hat-box) by Stephen Sondheim
+[Clear and Simple as the Truth](https://www.goodreads.com/book/show/120549.Clear_and_Simple_as_the_Truth) by Francis-Noël Thomas, Mark Turner 
 
 
-Theater and Film
+###Theater and Film
 
     In the Blink of an Eye: A Perspective on Film Editing by Walter Murch
     A Practical Handbook for the Actor: Melissa Bruder, Lee Michael Cohn, Madeleine Olnek, Nathaniel Pollack, Robert Previtio, Scott Zigler, David Mamet
