@@ -1,6 +1,10 @@
 Mind Expanding Books 
 ===============
 
+Introduction
+------------
+This list is a collection of books which will help you to ~~blow~~ expand your mind. This list started as a clone of [Quora - What are some of the books that expand your mind](http://www.quora.com/What-are-some-of-the-books-that-expand-your-mind).
+
 Table of Contents
 -----------------
 
