@@ -13,7 +13,7 @@ Table of Contents
 * [Sexuality](#sexuality)
 * [Education](#education)
 * [Writing](#writing)
-* [Theater and Filim](#theater-and-filim)
+* [Theater and Film](#theater-and-film)
 * [Humor](#humor)
 * [Fiction](#fiction)
 * [Health](#health)
@@ -152,7 +152,7 @@ Table of Contents
 * [God Created The Integers: The Mathematical Breakthroughs that Changed History](https://www.goodreads.com/book/show/2096.God_Created_The_Integers) by Stephen Hawking
 * [The World Is Flat: A Brief History of the Twenty-first Century](https://www.goodreads.com/book/show/<1911 class="The_World_Is_Flat"></1911>) by Thomas L. Friedman
 
-###Evolution, Science, and Medicine
+###Evolution, Science and Medicine
 
 
 * [The Structure of Scientific Revolutions: 50th Anniversary Edition](https://www.goodreads.com/book/show/61539.The_Structure_of_Scientific_Revolutions) by Thomas S. Kuhn
