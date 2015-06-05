@@ -3,7 +3,7 @@ Mind Expanding Books
 
 Introduction
 ------------
-This is a curated list of books which will help you to ~~blow~~ expand your mind. This list started from The Quora question [What are some of the books that expand your mind](http://www.quora.com/What-are-some-of-the-books-that-expand-your-mind).
+This is a curated list of books which will help you to ~~blow~~ expand your mind. This list was started from The Quora question [What are some of the books that expand your mind](http://www.quora.com/What-are-some-of-the-books-that-expand-your-mind).
 
 Table of Contents
 -----------------
