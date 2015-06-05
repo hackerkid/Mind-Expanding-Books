@@ -50,7 +50,7 @@
 * [Super Crunchers: Why Thinking-By-Numbers is the New Way To Be Smart](https://www.goodreads.com/book/show/1081413.Super_Crunchers) by Ian Ayres by Ian Ayres
 * [The Curse of the Mogul](https://www.goodreads.com/book/show/7162410-the-curse-of-the-mogul) by Jonathan A. Knee, Bruce C. Greenwald, Ava Seave
 
-###Philosophy, Psychology and Spirituality
+###Philosophy And Psychology
 
 * [Predictably Irrational](https://www.goodreads.com/book/show/1713426.Predictably_Irrational) by Dan Ariely
 * [Thinking, Fast and Slow](www.goodreads.com/book/show/11468377-thinking-fast-and-slow) by Daniel Kahneman
