@@ -1,5 +1,11 @@
-#Mind Exapnding Books
-Curated list of popular and awesome mind expanding books
+Mind Expanding Books 
+===============
+
+Table of Contents
+-----------------
+
+- [Startups and Business](#startups-and-business)
+
 
 ###Startups and Business
 
