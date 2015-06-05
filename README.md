@@ -7,7 +7,7 @@ Table of Contents
 - [Startups and Business](#startups-and-business)
 - [Philosophy and Psychology](#philosophy-and-psychology)
 * [History](#history)
-* [Evolution, Science and Medicine](#evolution,-science-and-medicine)
+* [Evolution, Science and Medicine](#science-and-medicine)
 * [Logic and Problem Solving](#logic-and-problem-solving)
 * [Politics](#politics)
 * [Sexuality](#sexuality)
@@ -152,8 +152,7 @@ Table of Contents
 * [God Created The Integers: The Mathematical Breakthroughs that Changed History](https://www.goodreads.com/book/show/2096.God_Created_The_Integers) by Stephen Hawking
 * [The World Is Flat: A Brief History of the Twenty-first Century](https://www.goodreads.com/book/show/<1911 class="The_World_Is_Flat"></1911>) by Thomas L. Friedman
 
-###Evolution, Science and Medicine
-
+###Science and Medicine
 
 * [The Structure of Scientific Revolutions: 50th Anniversary Edition](https://www.goodreads.com/book/show/61539.The_Structure_of_Scientific_Revolutions) by Thomas S. Kuhn
 * [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) by Douglas R. Hofstadter
