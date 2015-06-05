@@ -1,3 +1,6 @@
+#Mind Exapnding Books
+Curated list of popular and awesome mind expanding books
+
 ###Startups and Business
 
 * [Linchpin: Are You Indispensable?](https://www.goodreads.com/book/show/7155145-linchpin) by Seth Godin
