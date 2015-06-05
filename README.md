@@ -1,4 +1,4 @@
-###Entrepreneurship and Business
+###Startups and Business
 
 * [Linchpin: Are You Indispensable?](https://www.goodreads.com/book/show/7155145-linchpin) by Seth Godin
 * [The Black Swan: The Impact of the Highly Improbable](http://www.goodreads.com/book/show/242472.The_Black_Swan) by Nassim Nicholas Taleb
