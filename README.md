@@ -29,11 +29,10 @@ Books
 -----
 
 ###Startups and Business
-
+* [Hackers and Painters](https://www.goodreads.com/book/show/41793.Hackers_Painters) by Paul Graham
 * [Linchpin: Are You Indispensable](https://www.goodreads.com/book/show/7155145-linchpin) by Seth Godin
 * [The Black Swan: The Impact of the Highly Improbable](http://www.goodreads.com/book/show/242472.The_Black_Swan) by Nassim Nicholas Taleb
 * [The Tipping Point: How Little Things Can Make a Big Difference](https://www.goodreads.com/book/show/2612.The_Tipping_Point) by Malcolm Gladwell
-* [Hackers and Painters](https://www.goodreads.com/book/show/41793.Hackers_Painters) by Paul Graham
 * [The Compound Effect](https://www.goodreads.com/book/show/9420697-the-compound-effect) by Darren Hardy
 * [Good to Great: Why Some Companies Make the Leap And Others Don't](www.goodreads.com/book/show/76865.Good_to_Great) by Jim Collins
 * [The Four Steps to the Epiphany](https://www.goodreads.com/book/show/762542.The_Four_Steps_to_the_Epiphany) by Steve Blank
