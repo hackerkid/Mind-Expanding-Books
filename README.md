@@ -5,7 +5,7 @@ Introduction
 ------------
 This is a curated list of books which will help you to ~~blow~~ expand your mind. 
 
-Original Source: [Quora- What are some of the books that expand your mind](http://www.quora.com/What-are-some-of-the-books-that-expand-your-mind).
+Original Source: [Quora - What are some of the books that expand your mind](http://www.quora.com/What-are-some-of-the-books-that-expand-your-mind).
 
 Table of Contents
 -----------------
