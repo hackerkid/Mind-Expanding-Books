@@ -1,5 +1,7 @@
 Mind Expanding Books 
 ===============
+> A curated list of mind expanding books
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 Original Source: [Quora - What are some of the books that expand your mind](http://www.quora.com/What-are-some-of-the-books-that-expand-your-mind).
 
