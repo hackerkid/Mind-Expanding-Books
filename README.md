@@ -215,7 +215,7 @@ Books
 
 ###Education
 
-* [The Art of Learning: An Inner Journey to Optimal Performance]https://www.goodreads.com/book/show/857333.The_Art_of_Learning() by Josh Waitzkin
+* [The Art of Learning: An Inner Journey to Optimal Performance](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) by Josh Waitzkin
 * [How Children Fail](https://www.goodreads.com/book/show/573009.How_Children_Fail) by John Holt
 * [Wounded by School: Recapturing the Joy in Learning and Standing Up to Old School Culture](https://www.goodreads.com/book/show/6425208-wounded-by-school) by Kirsten Olson, Sara Lawrence-Lightfoot, Parker J. Palmer
 * [Summerhill School: A New View of Childhood](https://www.goodreads.com/book/show/178734.Summerhill) by A. S. Neill, Albert Lamb
