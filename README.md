@@ -25,6 +25,7 @@ Books
 -----
 
 ###Startups and Business
+* [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one) by Peter Thiel, Blake Masters
 * [Hackers and Painters](https://www.goodreads.com/book/show/41793.Hackers_Painters) by Paul Graham
 * [Linchpin: Are You Indispensable](https://www.goodreads.com/book/show/7155145-linchpin) by Seth Godin
 * [The Black Swan: The Impact of the Highly Improbable](http://www.goodreads.com/book/show/242472.The_Black_Swan) by Nassim Nicholas Taleb
