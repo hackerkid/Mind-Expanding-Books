@@ -76,7 +76,7 @@ Books
 * [The Curse of the Mogul](https://www.goodreads.com/book/show/7162410-the-curse-of-the-mogul) by Jonathan A. Knee, Bruce C. Greenwald, Ava Seave
 
 ###Philosophy And Psychology
-
+* [The Art of War](https://www.goodreads.com/book/show/10534.The_Art_of_War) by Sun Tzu
 * [Predictably Irrational](https://www.goodreads.com/book/show/1713426.Predictably_Irrational) by Dan Ariely
 * [Thinking, Fast and Slow](www.goodreads.com/book/show/11468377-thinking-fast-and-slow) by Daniel Kahneman
 * [What the Dog Saw: and other adventures](https://www.goodreads.com/book/show/6516450-what-the-dog-saw-and-other-adventures) by Malcolm Gladwell
@@ -136,7 +136,6 @@ Books
 ###History
 
 * [The Rise and Fall of the British Empire](https://www.goodreads.com/book/show/143980.The_Rise_and_Fall_of_the_British_Empire) by Lawrence James
-* [The Art of War](https://www.goodreads.com/book/show/10534.The_Art_of_War) by Sun Tzu
 * [The Ascent of Money: A Financial History of the World](https://www.goodreads.com/book/show/2714607-the-ascent-of-money) by Niall Ferguson
 * [The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet](https://www.goodreads.com/book/show/29608.The_Codebreakers) by David Kahn
 * [The Rational Optimist: How Prosperity Evolves (P.S.)](https://www.goodreads.com/book/show/7776209-the-rational-optimist) by Matt Ridley
