@@ -289,6 +289,7 @@ Books
 ###Design
 
 * [Pattern Language: Towns, Buildings, Construction](https://www.goodreads.com/book/show/79766.A_Pattern_Language) by Christopher Alexander, Sara Ishikawa, Murray Silverstein, Max Jacobson, Ingrid Fiksdahl-King and Shlomo Angel
+* [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 
 ## License
 
