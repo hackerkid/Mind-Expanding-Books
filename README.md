@@ -225,6 +225,7 @@ Books
 
 * [Hat Box: The Collected Lyrics of Stephen Sondheim](https://www.goodreads.com/book/show/12909101-hat-box) by Stephen Sondheim
 * [Clear and Simple as the Truth](https://www.goodreads.com/book/show/120549.Clear_and_Simple_as_the_Truth) by Francis-Noël Thomas, Mark Turner 
+* [The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century](http://www.goodreads.com/book/show/20821371-the-sense-of-style) by Steven Pinker
 
 ###Theater and Film
 
