@@ -31,19 +31,19 @@ Books
 * [The Black Swan: The Impact of the Highly Improbable](http://www.goodreads.com/book/show/242472.The_Black_Swan) by Nassim Nicholas Taleb
 * [The Tipping Point: How Little Things Can Make a Big Difference](https://www.goodreads.com/book/show/2612.The_Tipping_Point) by Malcolm Gladwell
 * [The Compound Effect](https://www.goodreads.com/book/show/9420697-the-compound-effect) by Darren Hardy
-* [Good to Great: Why Some Companies Make the Leap And Others Don't](www.goodreads.com/book/show/76865.Good_to_Great) by Jim Collins
+* [Good to Great: Why Some Companies Make the Leap And Others Don't](https://www.goodreads.com/book/show/76865.Good_to_Great) by Jim Collins
 * [The Four Steps to the Epiphany](https://www.goodreads.com/book/show/762542.The_Four_Steps_to_the_Epiphany) by Steve Blank
-* [Contagious: Why Things Catch On](www.goodreads.com/book/show/15801967-contagious) by Jonah Berger
-* [David and Goliath: Underdogs, Misfits, and the Art of Battling Giants](www.goodreads.com/book/show/15751404-david-and-goliath)  by Malcolm Gladwell
+* [Contagious: Why Things Catch On](https://www.goodreads.com/book/show/15801967-contagious) by Jonah Berger
+* [David and Goliath: Underdogs, Misfits, and the Art of Battling Giants](https://www.goodreads.com/book/show/15751404-david-and-goliath)  by Malcolm Gladwell
 * [The Signal and the Noise: Why So Many Predictions Fail--but Some Don't](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise) by Nate Silver
 * [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things)  by Ben Horowitz
-* [The Paradox of Choice: Why More Is Less](www.goodreads.com/book/show/10639.The_Paradox_of_Choice) by Barry Shwartz
-* [Influencer: The New Science of Leading Change](www.goodreads.com/book/show/914211.Influencer)  by Joseph Grenny, Kerry Patterson
+* [The Paradox of Choice: Why More Is Less](https://www.goodreads.com/book/show/10639.The_Paradox_of_Choice) by Barry Shwartz
+* [Influencer: The New Science of Leading Change](https://www.goodreads.com/book/show/914211.Influencer)  by Joseph Grenny, Kerry Patterson
 * [The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything](https://www.goodreads.com/book/show/37875.The_Art_of_the_Start) by Guy Kawasaki
 * [Founders At Work: Stories Of Startups Early Days](https://www.goodreads.com/book/show/98233.Founders_at_Work) by Jessica Livingston
 * [The Lean Startup: How Constant Innovation Creates Radically Successful Businesses](https://www.goodreads.com/book/show/10127019-the-lean-startup) by Eric Ries
 * [ReWork: Change the Way You Work Forever](https://www.goodreads.com/book/show/6732019-rework) by David Heinemeier Hansson
-* [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](www.goodreads.com/book/show/81948.The_E_Myth_Revisited) by Michael E. Gerber
+* [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) by Michael E. Gerber
 * [Delivering Happiness: A Path to Profits, Passion, and Purpose](http://www.goodreads.com/book/show/6828896-delivering-happiness) by Tony Hsieh
 * [Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business My Way](https://www.goodreads.com/book/show/211099.Losing_My_Virginity)  by Richard Branson
 * [The Power of Full Engagement: Managing Energy, Not Time, is the Key to High Performance and Personal Renewal](http://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement) by Jim Loehr, Tony Schwartz
@@ -79,7 +79,7 @@ Books
 ###Philosophy And Psychology
 * [The Art of War](https://www.goodreads.com/book/show/10534.The_Art_of_War) by Sun Tzu
 * [Predictably Irrational](https://www.goodreads.com/book/show/1713426.Predictably_Irrational) by Dan Ariely
-* [Thinking, Fast and Slow](www.goodreads.com/book/show/11468377-thinking-fast-and-slow) by Daniel Kahneman
+* [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) by Daniel Kahneman
 * [What the Dog Saw: and other adventures](https://www.goodreads.com/book/show/6516450-what-the-dog-saw-and-other-adventures) by Malcolm Gladwell
 * [The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression by Debra Fine](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk)
 * [Gifs of Immperfection](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) by Brene Brown
@@ -99,7 +99,7 @@ Books
 * [The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind](https://www.goodreads.com/book/show/17978489-the-future-of-the-mind) by Michio Kaku
 * [Why Does the World Exist?: An Existential Detective Story]() by Jim Holt
 * [Alone Together: Why We Expect More from Technology and Less from Each Others]() by Sherry Turkle
-* [Supernormal: Science, Yoga, and the Evidence for Extraordinary Psychic Abilities](www.goodreads.com/book/show/8694125-alone-together) by Dean Radin
+* [Supernormal: Science, Yoga, and the Evidence for Extraordinary Psychic Abilities](https://www.goodreads.com/book/show/8694125-alone-together) by Dean Radin
 * [Irrational Man: A Study in Existential Philosophy](https://www.goodreads.com/book/show/83321.Irrational_Man) by William Barrett
 * [The Power of Habit: Why We Do What We Do In Life And Business](https://www.goodreads.com/book/show/12609433-the-power-of-habit) by Charles Duhigg
 * [The Concise 48 Laws of Power](https://www.goodreads.com/book/show/18224060-the-concise-48-laws-of-power) by Robert Greene
@@ -202,7 +202,7 @@ Books
 * [Justice: What's the Right Thing to Do?](https://www.goodreads.com/book/show/6452731-justice) by Michael J. Sandel
 * [Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime](https://www.goodreads.com/book/show/6694937-game-change) by John Heilemann, Mark Halperin
 * [Currency Wars: The Making of the Next Global Crisis](https://www.goodreads.com/book/show/11515298-currency-wars) by James Rickards
-* [The Audacity of Hope: Thoughts on Reclaiming the American Dream](www.goodreads.com/book/show/9742.The_Audacity_of_Hope) by Barack Obama
+* [The Audacity of Hope: Thoughts on Reclaiming the American Dream](https://www.goodreads.com/book/show/9742.The_Audacity_of_Hope) by Barack Obama
 * [The Righteous Mind: Why Good People are Divided by Politics and Religion](https://www.goodreads.com/book/show/11324722-the-righteous-mind) by  Jonathan Haidt
 * [Economic Facts and Fallacies](https://www.goodreads.com/book/show/2064279.Economic_Facts_and_Fallacies) by Thomas Sowell
 
