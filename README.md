@@ -45,6 +45,8 @@ Books
 * [ReWork: Change the Way You Work Forever](https://www.goodreads.com/book/show/6732019-rework) by David Heinemeier Hansson
 * [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) by Michael E. Gerber
 * [Delivering Happiness: A Path to Profits, Passion, and Purpose](http://www.goodreads.com/book/show/6828896-delivering-happiness) by Tony Hsieh
+* [Steve Jobs](https://www.goodreads.com/book/show/11084145-steve-jobs) by Walter Isaacson
+* [Elon Musk: Inventing the Future](https://www.goodreads.com/book/show/22543496-elon-musk) by Ashlee Vance
 * [Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business My Way](https://www.goodreads.com/book/show/211099.Losing_My_Virginity)  by Richard Branson
 * [The Power of Full Engagement: Managing Energy, Not Time, is the Key to High Performance and Personal Renewal](http://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement) by Jim Loehr, Tony Schwartz
 * [The Checklist Manifesto: How To Get Things Right](http://www.goodreads.com/book/show/6667514-the-checklist-manifesto) by Atul Gawande
