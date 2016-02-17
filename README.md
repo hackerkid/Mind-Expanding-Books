@@ -269,6 +269,7 @@ Books
 * [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky
 * [Pride And Prejudice](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) by Jane Austen
 * [Emma](https://www.goodreads.com/book/show/6969.Emma) by Jane Austen
+* [Mansfield Park](https://www.goodreads.com/book/show/45032) by Jane Austen
 * [Wuthering Heights](https://www.goodreads.com/book/show/6185.Wuthering_Heights) by Emily Bronte
 * [The House of Mirth](https://www.goodreads.com/book/show/17728.The_House_of_Mirth) by Edith Wharton
 * [The Fifth Sacred Thing](https://www.goodreads.com/book/show/80689.The_Fifth_Sacred_Thing) by Starhawk
