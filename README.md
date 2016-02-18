@@ -1,8 +1,6 @@
 Mind Expanding Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===============
 
-> Original Source: [Quora - What are some of the books that expand your mind](http://www.quora.com/What-are-some-of-the-books-that-expand-your-mind).
-
 Table of Contents
 -----------------
 
