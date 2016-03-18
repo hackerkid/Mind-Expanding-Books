@@ -59,9 +59,9 @@ Books
 * [Leaving Microsoft to Change the World: An Entrepreneur's Odyssey to Educate the World's Children](https://www.goodreads.com/book/show/95429.Leaving_Microsoft_to_Change_the_World) by John Wood
 * [The 22 Immutable Laws Of Branding](https://www.goodreads.com/book/show/1565533.The_22_Immutable_Laws_of_Branding) by Laura Ries and Al Ries
 * [Rich Dad Poor Dad : What The Rich Teach Their Kids About Money That The Poor And Middle Class Don't](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) by Robert T. Kiyosaki
-* [Outliers: Story of Success by](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) Malcolm Gladwell
-* [The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich by](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) Thomas Ferriss
-* [How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success by](https://www.goodreads.com/book/show/96593.The_Success_Principles) Jack Canfield, Janet Switzer
+* [Outliers: Story of Success](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) by Malcolm Gladwell
+* [The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) by Thomas Ferriss
+* [How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success](https://www.goodreads.com/book/show/96593.The_Success_Principles) by Jack Canfield, Janet Switzer
 * [Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done) by David Allen
 * [SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance](https://www.goodreads.com/book/show/6402364-superfreakonomics) by Steven D. Litt
 * [Strategy for Sustainability: A Business Manifesto](https://www.goodreads.com/book/show/6553353-strategy-for-sustainability) by Adam Werbach
@@ -108,10 +108,10 @@ Books
 * [The Ethical Brain: The Science of Our Moral Dilemmas](https://www.goodreads.com/book/show/328734.The_Ethical_Brain) by Michael S. Gazzaniga
 * [Snoop: What Your Stuff Says About You: Sam Gosling](https://www.goodreads.com/book/show/1581330.Snoop) by Sam Gosling
 * [The Stuff of Thought: Language as a Window into Human Nature](https://www.goodreads.com/book/show/373969.The_Stuff_of_Thought) by Steven Pinker
-* [The Blank Slate: The Modern Denial of Human Nature by]() Steven Pinker
+* [The Blank Slate: The Modern Denial of Human Nature]() by Steven Pinker
 * [Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/5752.The_Blank_Slate) by Robert B. Cialdini
 * [The Age of Insight: The Quest to Understand the Unconscious in Art, Mind, and Brain, from Vienna 1900 to the Present](https://www.goodreads.com/book/show/12263681-the-age-of-insight) by Eric Kandel
-* [A Whole New Mind: Why Right-Brainers Will Rule the Future by](https://www.goodreads.com/book/show/99315.A_Whole_New_Mind) by Daniel H. Pink
+* [A Whole New Mind: Why Right-Brainers Will Rule the Future](https://www.goodreads.com/book/show/99315.A_Whole_New_Mind) by Daniel H. Pink
 * [Games People Play: The Basic Handbook of Transactional Analysis](https://www.goodreads.com/book/show/49176.Games_People_Play) by Eric Berne.
 * [How to Win Every Argument: The Use and Abuse of Logic](https://www.goodreads.com/book/show/112731.How_to_Win_Every_Argument) by Madsen Pirie
 * [Zen Mind, Beginner's Mind](https://www.goodreads.com/book/show/402843.Zen_Mind_Beginner_s_Mind) by Shunryu Suzuki, David Chadwick
@@ -145,7 +145,7 @@ Books
 * [The Nazi Doctors: Medical Killing and the Psychology of Genocide](https://www.goodreads.com/book/show/173187.The_Nazi_Doctors) by Robert Jay Lifton
 * [Civilization: The West and the Rest: Niall Ferguson](https://www.goodreads.com/book/show/10475421-civilization) by Niall Ferguson
 * [The Discoverers](https://www.goodreads.com/book/show/714380.The_Discoverers) by Daniel J. Boorstin
-* [From Dawn to Decadence: 500 Years of Western Cultural Life 1500 to the Present by](https://www.goodreads.com/book/show/58233.From_Dawn_to_Decadence) Jacques Barzun
+* [From Dawn to Decadence: 500 Years of Western Cultural Life 1500 to the Present](https://www.goodreads.com/book/show/58233.From_Dawn_to_Decadence) by Jacques Barzun
 * [The Master Switch: The Rise and Fall of Information Empires](https://www.goodreads.com/book/show/8201080-the-master-switch) by Tim Wu
 * [Debt - Updated and Expanded: The First 5,000 Years](https://www.goodreads.com/book/show/6617037-debt) by David Graeber
 * [The Ghost Map: The Story of London's Most Terrifying Epidemic--and How It Changed Science, Cities, and the Modern World](https://www.goodreads.com/book/show/36086.The_Ghost_Map) by Steven Johnson
