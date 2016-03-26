@@ -138,6 +138,7 @@ Books
 
 ###History
 
+* [Discovery of India](http://www.goodreads.com/book/show/154126.The_Discovery_of_India) by Jawaharlal Nehru
 * [The Rise and Fall of the British Empire](https://www.goodreads.com/book/show/143980.The_Rise_and_Fall_of_the_British_Empire) by Lawrence James
 * [The Ascent of Money: A Financial History of the World](https://www.goodreads.com/book/show/2714607-the-ascent-of-money) by Niall Ferguson
 * [The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet](https://www.goodreads.com/book/show/29608.The_Codebreakers) by David Kahn
