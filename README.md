@@ -143,6 +143,7 @@ Books
 * [Wings of Fire](http://www.goodreads.com/book/show/634583.Wings_of_Fire) by A.P.J. Abdul Kalam
 * [An Autobiography: Toward Freedom](http://www.goodreads.com/book/show/322939.An_Autobiography) by Jawaharlal Nehru
 * [The Story of My Life](http://www.goodreads.com/book/show/821611.The_Story_of_My_Life) by Helen Keller
+* [Long Walk to Freedom](http://www.goodreads.com/book/show/318431.Long_Walk_to_Freedom) by Nelson Mandela
 
 
 ###History
