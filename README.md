@@ -7,6 +7,7 @@ Table of Contents
 
 - [Startups and Business](#startups-and-business)
 - [Philosophy and Psychology](#philosophy-and-psychology)
+* [Autobiographies and Biographies](#autobiographies-and-biographies)
 * [History](#history)
 * [Evolution, Science and Medicine](#science-and-medicine)
 * [Logic and Problem Solving](#logic-and-problem-solving)
@@ -76,6 +77,8 @@ Books
 * [Cognitive Surplus: Creativity and Generosity in a Connected Age](https://www.goodreads.com/book/show/7614793-cognitive-surplus) by Clay Shirky
 * [Super Crunchers: Why Thinking-By-Numbers is the New Way To Be Smart](https://www.goodreads.com/book/show/1081413.Super_Crunchers) by Ian Ayres by Ian Ayres
 * [The Curse of the Mogul](https://www.goodreads.com/book/show/7162410-the-curse-of-the-mogul) by Jonathan A. Knee, Bruce C. Greenwald, Ava Seave
+* [The Accidental Billionaires : The Founding of Facebook, a Tale of Sex, Money, Genius and Betrayal](https://www.goodreads.com/book/show/6326920-the-accidental-billionaires) by Ben Mezrich
+* [Lean In : Women, Work and the Will to Lead](http://www.goodreads.com/book/show/16071764-lean-in) by Sheryl Sandberg
 
 ###Philosophy And Psychology
 * [The Art of War](https://www.goodreads.com/book/show/10534.The_Art_of_War) by Sun Tzu
@@ -135,8 +138,21 @@ Books
 * [The Social Contract](https://www.goodreads.com/book/show/12651.The_Social_Contract) by Jean-Jacques Rousseau, Maurice Cranston
 * [Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel](https://www.goodreads.com/book/show/100247.Vagabonding) by Rolf Potts
 
+###Autobiographies and Biographies
+* [My Experiments with Truth](http://www.goodreads.com/book/show/112803.The_Story_of_My_Experiments_With_Truth) by Mahatma Gandhi
+* [The Diary of a Young Girl](http://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl) by Anne Frank
+* [Wings of Fire](http://www.goodreads.com/book/show/634583.Wings_of_Fire) by A.P.J. Abdul Kalam
+* [An Autobiography: Toward Freedom](http://www.goodreads.com/book/show/322939.An_Autobiography) by Jawaharlal Nehru
+* [The Story of My Life](http://www.goodreads.com/book/show/821611.The_Story_of_My_Life) by Helen Keller
+* [Long Walk to Freedom](http://www.goodreads.com/book/show/318431.Long_Walk_to_Freedom) by Nelson Mandela
+* [Playing it My Way](http://www.goodreads.com/book/show/23150337-playing-it-my-way) by Sachin Tendulkar
+* [Freedom in Exile](http://www.goodreads.com/book/show/567720.Freedom_in_Exile) by Dalai Lama XIV
+* [Steve Jobs](http://www.goodreads.com/book/show/11084145-steve-jobs) by Walter Issacson
+* [My Life and My Work](http://www.goodreads.com/book/show/1122054.My_Life_And_Work) by Henry Ford
+
 ###History
 
+* [Discovery of India](http://www.goodreads.com/book/show/154126.The_Discovery_of_India) by Jawaharlal Nehru
 * [The Rise and Fall of the British Empire](https://www.goodreads.com/book/show/143980.The_Rise_and_Fall_of_the_British_Empire) by Lawrence James
 * [The Ascent of Money: A Financial History of the World](https://www.goodreads.com/book/show/2714607-the-ascent-of-money) by Niall Ferguson
 * [The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet](https://www.goodreads.com/book/show/29608.The_Codebreakers) by David Kahn
