@@ -146,6 +146,8 @@ Books
 * [Long Walk to Freedom](http://www.goodreads.com/book/show/318431.Long_Walk_to_Freedom) by Nelson Mandela
 * [Playing it My Way](http://www.goodreads.com/book/show/23150337-playing-it-my-way) by Sachin Tendulkar
 * [Freedom in Exile](http://www.goodreads.com/book/show/567720.Freedom_in_Exile) by Dalai Lama XIV
+* [Steve Jobs](http://www.goodreads.com/book/show/11084145-steve-jobs) by Walter Issacson
+*
 
 
 ###History
