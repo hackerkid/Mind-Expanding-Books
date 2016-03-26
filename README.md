@@ -145,6 +145,7 @@ Books
 * [The Story of My Life](http://www.goodreads.com/book/show/821611.The_Story_of_My_Life) by Helen Keller
 * [Long Walk to Freedom](http://www.goodreads.com/book/show/318431.Long_Walk_to_Freedom) by Nelson Mandela
 * [Playing it My Way](http://www.goodreads.com/book/show/23150337-playing-it-my-way) by Sachin Tendulkar
+* [Freedom in Exile](http://www.goodreads.com/book/show/567720.Freedom_in_Exile) by Dalai Lama XIV
 
 
 ###History
