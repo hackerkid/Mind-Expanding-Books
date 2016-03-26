@@ -138,7 +138,10 @@ Books
 * [Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel](https://www.goodreads.com/book/show/100247.Vagabonding) by Rolf Potts
 
 ###Autobiographies and Biographies
-
+* [My Experiments with Truth](http://www.goodreads.com/book/show/112803.The_Story_of_My_Experiments_With_Truth) by Mahatma Gandhi
+* [The Diary of a Young Girl](http://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl) by Anne Frank
+* [Wings of Fire](http://www.goodreads.com/book/show/634583.Wings_of_Fire) by A.P.J. Abdul Kalam
+* [An Autobiography: Toward Freedom](http://www.goodreads.com/book/show/322939.An_Autobiography) by Jawaharlal Nehru
 
 
 ###History
