@@ -7,6 +7,7 @@ Table of Contents
 
 - [Startups and Business](#startups-and-business)
 - [Philosophy and Psychology](#philosophy-and-psychology)
+* [Autobiographies and Biographies](#autobiographies-and-biographies)
 * [History](#history)
 * [Evolution, Science and Medicine](#science-and-medicine)
 * [Logic and Problem Solving](#logic-and-problem-solving)
@@ -135,6 +136,10 @@ Books
 * [Spent: Sex, Evolution, and Consumer Behavior](https://www.goodreads.com/book/show/6283340-spent) by Geoffrey Miller
 * [The Social Contract](https://www.goodreads.com/book/show/12651.The_Social_Contract) by Jean-Jacques Rousseau, Maurice Cranston
 * [Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel](https://www.goodreads.com/book/show/100247.Vagabonding) by Rolf Potts
+
+###Autobiographies and Biographies
+
+
 
 ###History
 
