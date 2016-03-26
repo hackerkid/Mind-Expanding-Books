@@ -147,8 +147,7 @@ Books
 * [Playing it My Way](http://www.goodreads.com/book/show/23150337-playing-it-my-way) by Sachin Tendulkar
 * [Freedom in Exile](http://www.goodreads.com/book/show/567720.Freedom_in_Exile) by Dalai Lama XIV
 * [Steve Jobs](http://www.goodreads.com/book/show/11084145-steve-jobs) by Walter Issacson
-*
-
+* [My Life and My Work](http://www.goodreads.com/book/show/1122054.My_Life_And_Work) by Henry Ford
 
 ###History
 
