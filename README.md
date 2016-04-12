@@ -262,7 +262,7 @@ Books
 
 ###Humor
 
-* [I Hope They Serve Beer In Hell by Tucker Max](https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell)
+* [I Hope They Serve Beer In Hell](https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell) by Tucker Max
 
 
 ###Fiction
