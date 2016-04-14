@@ -83,7 +83,7 @@ Books
 * [Predictably Irrational](https://www.goodreads.com/book/show/1713426.Predictably_Irrational) by Dan Ariely
 * [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) by Daniel Kahneman
 * [What the Dog Saw: and other adventures](https://www.goodreads.com/book/show/6516450-what-the-dog-saw-and-other-adventures) by Malcolm Gladwell
-* [The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression by Debra Fine](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk)
+* [The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) by Debra Fine
 * [Gifs of Immperfection](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) by Brene Brown
 * [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.goodreads.com/book/show/8520610-quiet) by Susan Cain
 * [Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen](https://www.goodreads.com/book/show/6289283-born-to-run) by Christopher McDougall
