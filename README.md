@@ -148,6 +148,7 @@ Books
 * [Freedom in Exile](http://www.goodreads.com/book/show/567720.Freedom_in_Exile) by Dalai Lama XIV
 * [Steve Jobs](http://www.goodreads.com/book/show/11084145-steve-jobs) by Walter Issacson
 * [My Life and My Work](http://www.goodreads.com/book/show/1122054.My_Life_And_Work) by Henry Ford
+* [Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character](https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_) by Richard Feynman
 
 ###History
 
