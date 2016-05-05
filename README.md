@@ -135,7 +135,7 @@ Books
 * [Spent: Sex, Evolution, and Consumer Behavior](https://www.goodreads.com/book/show/6283340-spent) by Geoffrey Miller
 * [The Social Contract](https://www.goodreads.com/book/show/12651.The_Social_Contract) by Jean-Jacques Rousseau, Maurice Cranston
 * [Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel](https://www.goodreads.com/book/show/100247.Vagabonding) by Rolf Potts
-
+* [Jonathan Livingston Seagull](https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull) by Richard Bach
 ###Autobiographies and Biographies
 
 * [Elon Musk: Inventing the Future](https://www.goodreads.com/book/show/22543496-elon-musk) by Ashlee Vance
