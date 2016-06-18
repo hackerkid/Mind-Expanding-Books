@@ -1,4 +1,4 @@
-Mind Expanding Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Mind Expanding Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Awesome](https://travis-ci.org/hackerkid/Mind-Expanding-Books.svg?branch=master)
 ===============
 > Curated list of mind expanding books. 
 
