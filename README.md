@@ -306,6 +306,7 @@ Books
 ###Health
 
 * [8 Weeks to Optimum Health](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) by Andrew Weil
+* [Convict Conditioning](http://www.goodreads.com/book/show/7305111-convict-conditioning) by Paul Wade
 
 ###Design
 
