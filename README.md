@@ -137,6 +137,7 @@ Books
 * [Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel](https://www.goodreads.com/book/show/100247.Vagabonding) by Rolf Potts
 * [Jonathan Livingston Seagull](https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull) by Richard Bach
 * [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) by Viktor E. Frankl
+* [Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny!](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within) by Anthony Robbins
 ###Autobiographies and Biographies
 
 * [Elon Musk: Inventing the Future](https://www.goodreads.com/book/show/22543496-elon-musk) by Ashlee Vance
