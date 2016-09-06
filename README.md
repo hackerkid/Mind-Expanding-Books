@@ -136,6 +136,7 @@ Books
 * [The Social Contract](https://www.goodreads.com/book/show/12651.The_Social_Contract) by Jean-Jacques Rousseau, Maurice Cranston
 * [Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel](https://www.goodreads.com/book/show/100247.Vagabonding) by Rolf Potts
 * [Jonathan Livingston Seagull](https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull) by Richard Bach
+* [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) by Viktor E. Frankl
 ###Autobiographies and Biographies
 
 * [Elon Musk: Inventing the Future](https://www.goodreads.com/book/show/22543496-elon-musk) by Ashlee Vance
