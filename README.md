@@ -154,6 +154,7 @@ Books
 
 ###History
 
+* [23 Things They Don't Tell You About Capitalism](http://www.goodreads.com/book/show/8913542-23-things-they-don-t-tell-you-about-capitalism) by Ha-Joon Chang
 * [Discovery of India](http://www.goodreads.com/book/show/154126.The_Discovery_of_India) by Jawaharlal Nehru
 * [The Rise and Fall of the British Empire](https://www.goodreads.com/book/show/143980.The_Rise_and_Fall_of_the_British_Empire) by Lawrence James
 * [The Ascent of Money: A Financial History of the World](https://www.goodreads.com/book/show/2714607-the-ascent-of-money) by Niall Ferguson
