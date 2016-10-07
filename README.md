@@ -1,13 +1,13 @@
-Mind Expanding Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Mind Expanding Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Awesome](https://travis-ci.org/hackerkid/Mind-Expanding-Books.svg?branch=master) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/hackerkid/bots](https://badges.gitter.im/hackerkid/bots.svg)](https://gitter.im/hackerkid/Mind-Expanding-Books?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ===============
-
-> Original Source: [Quora - What are some of the books that expand your mind](http://www.quora.com/What-are-some-of-the-books-that-expand-your-mind).
+> Curated list of mind expanding books. 
 
 Table of Contents
 -----------------
 
 - [Startups and Business](#startups-and-business)
 - [Philosophy and Psychology](#philosophy-and-psychology)
+* [Autobiographies and Biographies](#autobiographies-and-biographies)
 * [History](#history)
 * [Evolution, Science and Medicine](#science-and-medicine)
 * [Logic and Problem Solving](#logic-and-problem-solving)
@@ -45,8 +45,6 @@ Books
 * [ReWork: Change the Way You Work Forever](https://www.goodreads.com/book/show/6732019-rework) by David Heinemeier Hansson
 * [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) by Michael E. Gerber
 * [Delivering Happiness: A Path to Profits, Passion, and Purpose](http://www.goodreads.com/book/show/6828896-delivering-happiness) by Tony Hsieh
-* [Steve Jobs](https://www.goodreads.com/book/show/11084145-steve-jobs) by Walter Isaacson
-* [Elon Musk: Inventing the Future](https://www.goodreads.com/book/show/22543496-elon-musk) by Ashlee Vance
 * [Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business My Way](https://www.goodreads.com/book/show/211099.Losing_My_Virginity)  by Richard Branson
 * [The Power of Full Engagement: Managing Energy, Not Time, is the Key to High Performance and Personal Renewal](http://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement) by Jim Loehr, Tony Schwartz
 * [The Checklist Manifesto: How To Get Things Right](http://www.goodreads.com/book/show/6667514-the-checklist-manifesto) by Atul Gawande
@@ -60,9 +58,9 @@ Books
 * [Leaving Microsoft to Change the World: An Entrepreneur's Odyssey to Educate the World's Children](https://www.goodreads.com/book/show/95429.Leaving_Microsoft_to_Change_the_World) by John Wood
 * [The 22 Immutable Laws Of Branding](https://www.goodreads.com/book/show/1565533.The_22_Immutable_Laws_of_Branding) by Laura Ries and Al Ries
 * [Rich Dad Poor Dad : What The Rich Teach Their Kids About Money That The Poor And Middle Class Don't](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) by Robert T. Kiyosaki
-* [Outliers: Story of Success by](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) Malcolm Gladwell
-* [The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich by](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) Thomas Ferriss
-* [How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success by](https://www.goodreads.com/book/show/96593.The_Success_Principles) Jack Canfield, Janet Switzer
+* [Outliers: Story of Success](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) by Malcolm Gladwell
+* [The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) by Thomas Ferriss
+* [How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success](https://www.goodreads.com/book/show/96593.The_Success_Principles) by Jack Canfield, Janet Switzer
 * [Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done) by David Allen
 * [SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance](https://www.goodreads.com/book/show/6402364-superfreakonomics) by Steven D. Litt
 * [Strategy for Sustainability: A Business Manifesto](https://www.goodreads.com/book/show/6553353-strategy-for-sustainability) by Adam Werbach
@@ -77,13 +75,15 @@ Books
 * [Cognitive Surplus: Creativity and Generosity in a Connected Age](https://www.goodreads.com/book/show/7614793-cognitive-surplus) by Clay Shirky
 * [Super Crunchers: Why Thinking-By-Numbers is the New Way To Be Smart](https://www.goodreads.com/book/show/1081413.Super_Crunchers) by Ian Ayres by Ian Ayres
 * [The Curse of the Mogul](https://www.goodreads.com/book/show/7162410-the-curse-of-the-mogul) by Jonathan A. Knee, Bruce C. Greenwald, Ava Seave
+* [The Accidental Billionaires : The Founding of Facebook, a Tale of Sex, Money, Genius and Betrayal](https://www.goodreads.com/book/show/6326920-the-accidental-billionaires) by Ben Mezrich
+* [Lean In : Women, Work and the Will to Lead](http://www.goodreads.com/book/show/16071764-lean-in) by Sheryl Sandberg
 
 ###Philosophy And Psychology
 * [The Art of War](https://www.goodreads.com/book/show/10534.The_Art_of_War) by Sun Tzu
 * [Predictably Irrational](https://www.goodreads.com/book/show/1713426.Predictably_Irrational) by Dan Ariely
 * [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) by Daniel Kahneman
 * [What the Dog Saw: and other adventures](https://www.goodreads.com/book/show/6516450-what-the-dog-saw-and-other-adventures) by Malcolm Gladwell
-* [The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression by Debra Fine](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk)
+* [The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) by Debra Fine
 * [Gifs of Immperfection](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) by Brene Brown
 * [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.goodreads.com/book/show/8520610-quiet) by Susan Cain
 * [Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen](https://www.goodreads.com/book/show/6289283-born-to-run) by Christopher McDougall
@@ -109,10 +109,10 @@ Books
 * [The Ethical Brain: The Science of Our Moral Dilemmas](https://www.goodreads.com/book/show/328734.The_Ethical_Brain) by Michael S. Gazzaniga
 * [Snoop: What Your Stuff Says About You: Sam Gosling](https://www.goodreads.com/book/show/1581330.Snoop) by Sam Gosling
 * [The Stuff of Thought: Language as a Window into Human Nature](https://www.goodreads.com/book/show/373969.The_Stuff_of_Thought) by Steven Pinker
-* [The Blank Slate: The Modern Denial of Human Nature by]() Steven Pinker
+* [The Blank Slate: The Modern Denial of Human Nature]() by Steven Pinker
 * [Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/5752.The_Blank_Slate) by Robert B. Cialdini
 * [The Age of Insight: The Quest to Understand the Unconscious in Art, Mind, and Brain, from Vienna 1900 to the Present](https://www.goodreads.com/book/show/12263681-the-age-of-insight) by Eric Kandel
-* [A Whole New Mind: Why Right-Brainers Will Rule the Future by](https://www.goodreads.com/book/show/99315.A_Whole_New_Mind) by Daniel H. Pink
+* [A Whole New Mind: Why Right-Brainers Will Rule the Future](https://www.goodreads.com/book/show/99315.A_Whole_New_Mind) by Daniel H. Pink
 * [Games People Play: The Basic Handbook of Transactional Analysis](https://www.goodreads.com/book/show/49176.Games_People_Play) by Eric Berne.
 * [How to Win Every Argument: The Use and Abuse of Logic](https://www.goodreads.com/book/show/112731.How_to_Win_Every_Argument) by Madsen Pirie
 * [Zen Mind, Beginner's Mind](https://www.goodreads.com/book/show/402843.Zen_Mind_Beginner_s_Mind) by Shunryu Suzuki, David Chadwick
@@ -135,9 +135,27 @@ Books
 * [Spent: Sex, Evolution, and Consumer Behavior](https://www.goodreads.com/book/show/6283340-spent) by Geoffrey Miller
 * [The Social Contract](https://www.goodreads.com/book/show/12651.The_Social_Contract) by Jean-Jacques Rousseau, Maurice Cranston
 * [Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel](https://www.goodreads.com/book/show/100247.Vagabonding) by Rolf Potts
+* [Jonathan Livingston Seagull](https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull) by Richard Bach
+* [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) by Viktor E. Frankl
+* [Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny!](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within) by Anthony Robbins
+###Autobiographies and Biographies
+
+* [Elon Musk: Inventing the Future](https://www.goodreads.com/book/show/22543496-elon-musk) by Ashlee Vance
+* [My Experiments with Truth](http://www.goodreads.com/book/show/112803.The_Story_of_My_Experiments_With_Truth) by Mahatma Gandhi
+* [The Diary of a Young Girl](http://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl) by Anne Frank
+* [Wings of Fire](http://www.goodreads.com/book/show/634583.Wings_of_Fire) by A.P.J. Abdul Kalam
+* [An Autobiography: Toward Freedom](http://www.goodreads.com/book/show/322939.An_Autobiography) by Jawaharlal Nehru
+* [The Story of My Life](http://www.goodreads.com/book/show/821611.The_Story_of_My_Life) by Helen Keller
+* [Long Walk to Freedom](http://www.goodreads.com/book/show/318431.Long_Walk_to_Freedom) by Nelson Mandela
+* [Freedom in Exile](http://www.goodreads.com/book/show/567720.Freedom_in_Exile) by Dalai Lama XIV
+* [Steve Jobs](http://www.goodreads.com/book/show/11084145-steve-jobs) by Walter Issacson
+* [My Life and My Work](http://www.goodreads.com/book/show/1122054.My_Life_And_Work) by Henry Ford
+* [Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character](https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_) by Richard Feynman
 
 ###History
 
+* [23 Things They Don't Tell You About Capitalism](http://www.goodreads.com/book/show/8913542-23-things-they-don-t-tell-you-about-capitalism) by Ha-Joon Chang
+* [Discovery of India](http://www.goodreads.com/book/show/154126.The_Discovery_of_India) by Jawaharlal Nehru
 * [The Rise and Fall of the British Empire](https://www.goodreads.com/book/show/143980.The_Rise_and_Fall_of_the_British_Empire) by Lawrence James
 * [The Ascent of Money: A Financial History of the World](https://www.goodreads.com/book/show/2714607-the-ascent-of-money) by Niall Ferguson
 * [The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet](https://www.goodreads.com/book/show/29608.The_Codebreakers) by David Kahn
@@ -146,7 +164,7 @@ Books
 * [The Nazi Doctors: Medical Killing and the Psychology of Genocide](https://www.goodreads.com/book/show/173187.The_Nazi_Doctors) by Robert Jay Lifton
 * [Civilization: The West and the Rest: Niall Ferguson](https://www.goodreads.com/book/show/10475421-civilization) by Niall Ferguson
 * [The Discoverers](https://www.goodreads.com/book/show/714380.The_Discoverers) by Daniel J. Boorstin
-* [From Dawn to Decadence: 500 Years of Western Cultural Life 1500 to the Present by](https://www.goodreads.com/book/show/58233.From_Dawn_to_Decadence) Jacques Barzun
+* [From Dawn to Decadence: 500 Years of Western Cultural Life 1500 to the Present](https://www.goodreads.com/book/show/58233.From_Dawn_to_Decadence) by Jacques Barzun
 * [The Master Switch: The Rise and Fall of Information Empires](https://www.goodreads.com/book/show/8201080-the-master-switch) by Tim Wu
 * [Debt - Updated and Expanded: The First 5,000 Years](https://www.goodreads.com/book/show/6617037-debt) by David Graeber
 * [The Ghost Map: The Story of London's Most Terrifying Epidemic--and How It Changed Science, Cities, and the Modern World](https://www.goodreads.com/book/show/36086.The_Ghost_Map) by Steven Johnson
@@ -189,6 +207,8 @@ Books
 * [Mind Children: The Future of Robot and Human Intelligence](https://www.goodreads.com/book/show/648195.Mind_Children) by  Hans Moravec.
 * [The Little Schemer](https://www.goodreads.com/book/show/548914.The_Little_Schemer) by Daniel P. Friedman, Matthias Felleisen, Duane Bibby, Gerald J. Sussman
 * [Out of Control: The New Biology of Machines, Social Systems, and the Economic World](https://www.goodreads.com/book/show/16080353-out-of-control) by Kevin Kelly
+* [The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future] (https://www.goodreads.com/book/show/27209431-the-inevitable)by Kevin Kelly
+
 
 ###Logic and Problem Solving
 
@@ -248,7 +268,7 @@ Books
 
 ###Humor
 
-* [I Hope They Serve Beer In Hell by Tucker Max](https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell)
+* [I Hope They Serve Beer In Hell](https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell) by Tucker Max
 
 
 ###Fiction
@@ -269,6 +289,7 @@ Books
 * [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky
 * [Pride And Prejudice](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) by Jane Austen
 * [Emma](https://www.goodreads.com/book/show/6969.Emma) by Jane Austen
+* [Mansfield Park](https://www.goodreads.com/book/show/45032) by Jane Austen
 * [Wuthering Heights](https://www.goodreads.com/book/show/6185.Wuthering_Heights) by Emily Bronte
 * [The House of Mirth](https://www.goodreads.com/book/show/17728.The_House_of_Mirth) by Edith Wharton
 * [The Fifth Sacred Thing](https://www.goodreads.com/book/show/80689.The_Fifth_Sacred_Thing) by Starhawk
@@ -284,10 +305,13 @@ Books
 * [Lonesome Dove](https://www.goodreads.com/book/show/256008.Lonesome_Dove) by Larry McMurtry
 * [The Queen's Gambit](https://www.goodreads.com/book/show/62022.The_Queen_s_Gambit) by Walter Tevis
 * [War and Peace](https://www.goodreads.com/book/show/656.War_and_Peace) by Leo Tolstoy
+* [The Death of Ivan Ilych](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) by Leo Tolstoy
+* [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by Leo Tolstoy
 
 ###Health
 
 * [8 Weeks to Optimum Health](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) by Andrew Weil
+* [Convict Conditioning](http://www.goodreads.com/book/show/7305111-convict-conditioning) by Paul Wade
 
 ###Design
 
