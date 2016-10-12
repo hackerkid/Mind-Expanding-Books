@@ -139,6 +139,8 @@ Books
 * [Jonathan Livingston Seagull](https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull) by Richard Bach
 * [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) by Viktor E. Frankl
 * [Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny!](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within) by Anthony Robbins
+
+
 ###Autobiographies and Biographies
 
 * [Elon Musk: Inventing the Future](https://www.goodreads.com/book/show/22543496-elon-musk) by Ashlee Vance
@@ -152,6 +154,8 @@ Books
 * [Steve Jobs](http://www.goodreads.com/book/show/11084145-steve-jobs) by Walter Issacson
 * [My Life and My Work](http://www.goodreads.com/book/show/1122054.My_Life_And_Work) by Henry Ford
 * [Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character](https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_) by Richard Feynman
+* [The Autobiography of Malcolm X](http://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X) by by Malcolm X, Alex Haley
+
 
 ###History
 
