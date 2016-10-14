@@ -156,7 +156,7 @@ Books
 * [Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character](https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_) by Richard Feynman
 * [The Autobiography of Malcolm X](http://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X) by Malcolm X, Alex Haley
 * [Unbroken: A World War II Story of Survival, Resilience, and Redemption](https://www.goodreads.com/book/show/8664353-unbroken) by Laura Hillenbrand
-
+* [Madame Curie: A Biography](https://www.goodreads.com/book/show/341166.Madame_Curie) by Marie Curie
 
 ###History
 
