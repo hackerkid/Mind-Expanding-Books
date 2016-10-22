@@ -157,6 +157,8 @@ Books
 * [The Autobiography of Malcolm X](http://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X) by Malcolm X, Alex Haley
 * [Unbroken: A World War II Story of Survival, Resilience, and Redemption](https://www.goodreads.com/book/show/8664353-unbroken) by Laura Hillenbrand
 * [Madame Curie: A Biography](https://www.goodreads.com/book/show/341166.Madame_Curie) by Marie Curie
+* [iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It](http://www.goodreads.com/book/show/798635.iWoz) by Steve Wozniak
+* [Mafiaboy: How I Cracked The Internet And Why Its Still Broken](http://www.goodreads.com/book/show/5187467-mafiaboy) by Michael Calce
 
 ###History
 
@@ -181,6 +183,7 @@ Books
 * [The Revenge of Geography: What the Map Tells Us About Coming Conflicts and the Battle Against Fate](https://www.goodreads.com/book/show/13330422-the-revenge-of-geography) by Robert D. Kaplan
 * [God Created The Integers: The Mathematical Breakthroughs that Changed History](https://www.goodreads.com/book/show/2096.God_Created_The_Integers) by Stephen Hawking
 * [The World Is Flat: A Brief History of the Twenty-first Century](https://www.goodreads.com/book/show/<1911 class="The_World_Is_Flat"></1911>) by Thomas L. Friedman
+* [Capital in the Twenty-First Century](http://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century) by Thomas Piketty
 
 ###Science and Medicine
 
@@ -275,6 +278,7 @@ Books
 ###Humor
 
 * [I Hope They Serve Beer In Hell](https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell) by Tucker Max
+* [The Hitchhiker's Guide to the Galaxy](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) by Douglas Adams
 
 
 ###Fiction
@@ -315,6 +319,7 @@ Books
 * [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by Leo Tolstoy
 * [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) by Oscar Wilde
 * [The Player of Games](https://www.goodreads.com/book/show/18630.The_Player_of_Games) by Iain M. Banks
+* [Kane and Abel](http://www.goodreads.com/book/show/78983.Kane_and_Abel) by Jeffrey Archer
 
 ###Health
 
@@ -325,6 +330,7 @@ Books
 
 * [Pattern Language: Towns, Buildings, Construction](https://www.goodreads.com/book/show/79766.A_Pattern_Language) by Christopher Alexander, Sara Ishikawa, Murray Silverstein, Max Jacobson, Ingrid Fiksdahl-King and Shlomo Angel
 * [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) by Steve Krug
+* [The Design of Everyday Things](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) by Donald Norman
 
 ## License
 
