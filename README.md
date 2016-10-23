@@ -1,5 +1,4 @@
 Mind Expanding Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Awesome](https://travis-ci.org/hackerkid/Mind-Expanding-Books.svg?branch=master) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/hackerkid/bots](https://badges.gitter.im/hackerkid/bots.svg)](https://gitter.im/hackerkid/Mind-Expanding-Books?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-===============
 > Curated list of mind expanding books. 
 
 Table of Contents
@@ -77,7 +76,7 @@ Books
 * [The Curse of the Mogul](https://www.goodreads.com/book/show/7162410-the-curse-of-the-mogul) by Jonathan A. Knee, Bruce C. Greenwald, Ava Seave
 * [The Accidental Billionaires : The Founding of Facebook, a Tale of Sex, Money, Genius and Betrayal](https://www.goodreads.com/book/show/6326920-the-accidental-billionaires) by Ben Mezrich
 * [Lean In : Women, Work and the Will to Lead](http://www.goodreads.com/book/show/16071764-lean-in) by Sheryl Sandberg
-* [Business Sutra : A Very Indian Approach to Management](http://www.goodreads.com/book/show/17342664-business-sutra) by Devdutt Pattanaik
+* [Capital in the Twenty-First Century](http://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century) by Thomas Piketty
 
 ###Philosophy And Psychology
 * [The Art of War](https://www.goodreads.com/book/show/10534.The_Art_of_War) by Sun Tzu
@@ -158,7 +157,7 @@ Books
 * [Unbroken: A World War II Story of Survival, Resilience, and Redemption](https://www.goodreads.com/book/show/8664353-unbroken) by Laura Hillenbrand
 * [Madame Curie: A Biography](https://www.goodreads.com/book/show/341166.Madame_Curie) by Marie Curie
 * [iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It](http://www.goodreads.com/book/show/798635.iWoz) by Steve Wozniak
-* [Mafiaboy: How I Cracked The Internet And Why Its Still Broken](http://www.goodreads.com/book/show/5187467-mafiaboy) by Michael Calce
+* [The Last Lecture](http://www.goodreads.com/book/show/2318271.The_Last_Lecture) by Randy Pausch 
 
 ###History
 
@@ -183,7 +182,6 @@ Books
 * [The Revenge of Geography: What the Map Tells Us About Coming Conflicts and the Battle Against Fate](https://www.goodreads.com/book/show/13330422-the-revenge-of-geography) by Robert D. Kaplan
 * [God Created The Integers: The Mathematical Breakthroughs that Changed History](https://www.goodreads.com/book/show/2096.God_Created_The_Integers) by Stephen Hawking
 * [The World Is Flat: A Brief History of the Twenty-first Century](https://www.goodreads.com/book/show/<1911 class="The_World_Is_Flat"></1911>) by Thomas L. Friedman
-* [Capital in the Twenty-First Century](http://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century) by Thomas Piketty
 
 ###Science and Medicine
 
