@@ -319,6 +319,7 @@ Books
 * [The Player of Games](https://www.goodreads.com/book/show/18630.The_Player_of_Games) by Iain M. Banks
 * [Kane and Abel](http://www.goodreads.com/book/show/78983.Kane_and_Abel) by Jeffrey Archer
 * [Catch 22](https://www.goodreads.com/book/show/4610.Catch_22)
+* [Xeelee Sequence](http://www.goodreads.com/series/49784-xeelee-sequence) by Stephen Baxter
 
 ###Health
 
