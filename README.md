@@ -157,6 +157,7 @@ Books
 * [The Autobiography of Malcolm X](http://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X) by Malcolm X, Alex Haley
 * [Unbroken: A World War II Story of Survival, Resilience, and Redemption](https://www.goodreads.com/book/show/8664353-unbroken) by Laura Hillenbrand
 * [Madame Curie: A Biography](https://www.goodreads.com/book/show/341166.Madame_Curie) by Marie Curie
+* [The Last Lecture](http://www.goodreads.com/book/show/2318271.The_Last_Lecture) by Randy Pausch 
 
 ###History
 
