@@ -19,6 +19,7 @@ Table of Contents
 * [Fiction](#fiction)
 * [Health](#health)
 * [Design](#design)
+* [Fantasy](#fantasy)
 
 Books
 -----
@@ -325,12 +326,27 @@ Books
 * [8 Weeks to Optimum Health](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) by Andrew Weil
 * [Convict Conditioning](http://www.goodreads.com/book/show/7305111-convict-conditioning) by Paul Wade
 
+### Fantasy 
+
+* [The Name of the Wind (The Kingkiller Chronicle #1)](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind?ac=1&from_search=true)
+* [The Wise Man's Fear (The Kingkiller Chronicle #2) ](https://www.goodreads.com/book/show/1215032.The_Wise_Man_s_Fear?from_search=true)
+* [The Color of Magic (Discworld #1, Rincewind #1 )](https://www.goodreads.com/book/show/34497.The_Color_of_Magic?from_search=true)
+* [Mort (Discworld #4, Mort #1](https://www.goodreads.com/book/show/386372.Mort?from_search=true)
+* [Prince of Thorns (The Broken Empire #1) ](https://www.goodreads.com/book/show/9579634-prince-of-thorns?from_search=true)
+* [A Game of Thrones (A Song of Ice and Fire #1) ](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones?ac=1&from_search=true)
+* [The Lord of the Rings (The Lord of the Rings #1-3) ](https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings?from_search=true)
+
+
+
 ###Design
 
 * [Pattern Language: Towns, Buildings, Construction](https://www.goodreads.com/book/show/79766.A_Pattern_Language) by Christopher Alexander, Sara Ishikawa, Murray Silverstein, Max Jacobson, Ingrid Fiksdahl-King and Shlomo Angel
 * [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) by Steve Krug
 * [The Design of Everyday Things](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) by Donald Norman
 
+### Fantasy
+
+* [
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
