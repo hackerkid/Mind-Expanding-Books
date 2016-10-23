@@ -276,6 +276,7 @@ Books
 ###Humor
 
 * [I Hope They Serve Beer In Hell](https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell) by Tucker Max
+* [The Hitchhiker's Guide to the Galaxy](https://www.goodreads.com/series/40957-hitchhiker-s-guide-to-the-galaxy) by Douglas Adams
 
 
 ###Fiction
@@ -315,6 +316,7 @@ Books
 * [The Death of Ivan Ilych](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) by Leo Tolstoy
 * [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by Leo Tolstoy
 * [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) by Oscar Wilde
+* [Catch 22](https://www.goodreads.com/book/show/4610.Catch_22) by Joseph Heller
 
 ###Health
 
