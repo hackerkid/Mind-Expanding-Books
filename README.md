@@ -24,7 +24,7 @@ Table of Contents
 Books
 -----
 
-###Startups and Business
+##Startups and Business
 * [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one) by Peter Thiel, Blake Masters
 * [Hackers and Painters](https://www.goodreads.com/book/show/41793.Hackers_Painters) by Paul Graham
 * [Linchpin: Are You Indispensable](https://www.goodreads.com/book/show/7155145-linchpin) by Seth Godin
@@ -79,7 +79,7 @@ Books
 * [Lean In : Women, Work and the Will to Lead](http://www.goodreads.com/book/show/16071764-lean-in) by Sheryl Sandberg
 * [Capital in the Twenty-First Century](http://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century) by Thomas Piketty
 
-###Philosophy And Psychology
+##Philosophy And Psychology
 * [The Art of War](https://www.goodreads.com/book/show/10534.The_Art_of_War) by Sun Tzu
 * [Predictably Irrational](https://www.goodreads.com/book/show/1713426.Predictably_Irrational) by Dan Ariely
 * [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) by Daniel Kahneman
@@ -141,7 +141,7 @@ Books
 * [Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny!](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within) by Anthony Robbins
 
 
-###Autobiographies and Biographies
+##Autobiographies and Biographies
 
 * [Elon Musk: Inventing the Future](https://www.goodreads.com/book/show/22543496-elon-musk) by Ashlee Vance
 * [My Experiments with Truth](http://www.goodreads.com/book/show/112803.The_Story_of_My_Experiments_With_Truth) by Mahatma Gandhi
@@ -160,7 +160,7 @@ Books
 * [iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It](http://www.goodreads.com/book/show/798635.iWoz) by Steve Wozniak
 * [The Last Lecture](http://www.goodreads.com/book/show/2318271.The_Last_Lecture) by Randy Pausch 
 
-###History
+##History
 
 * [23 Things They Don't Tell You About Capitalism](http://www.goodreads.com/book/show/8913542-23-things-they-don-t-tell-you-about-capitalism) by Ha-Joon Chang
 * [Discovery of India](http://www.goodreads.com/book/show/154126.The_Discovery_of_India) by Jawaharlal Nehru
@@ -184,7 +184,7 @@ Books
 * [God Created The Integers: The Mathematical Breakthroughs that Changed History](https://www.goodreads.com/book/show/2096.God_Created_The_Integers) by Stephen Hawking
 * [The World Is Flat: A Brief History of the Twenty-first Century](https://www.goodreads.com/book/show/<1911 class="The_World_Is_Flat"></1911>) by Thomas L. Friedman
 
-###Science and Medicine
+##Science and Medicine
 
 * [The Structure of Scientific Revolutions: 50th Anniversary Edition](https://www.goodreads.com/book/show/61539.The_Structure_of_Scientific_Revolutions) by Thomas S. Kuhn
 * [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) by Douglas R. Hofstadter
@@ -220,13 +220,13 @@ Books
 
 
 
-###Logic and Problem Solving
+##Logic and Problem Solving
 
 * [What Is the Name of This Book?: The Riddle of Dracula and Other Logical Puzzles](https://www.goodreads.com/book/show/493576.What_Is_the_Name_of_This_Book_) by Raymond M. Smullyan
 * [How to Solve It: A New Aspect of Mathematical Method](https://www.goodreads.com/book/show/192221.How_to_Solve_It) by George Polya
 * [Labyrinths of Reason: Paradox, Puzzles, and the Frailty of Knowledge](https://www.goodreads.com/book/show/55436.Labyrinths_of_Reason) by William Poundstone
 
-###Politics
+##Politics
 
 * [Resource Wars: The New Landscape of Global Conflict](https://www.goodreads.com/book/show/149206.Resource_Wars) by Michael Klare
 * [The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done About It](https://www.goodreads.com/book/show/493371.The_Bottom_Billion) by Paul Collier
@@ -238,12 +238,12 @@ Books
 * [The Righteous Mind: Why Good People are Divided by Politics and Religion](https://www.goodreads.com/book/show/11324722-the-righteous-mind) by  Jonathan Haidt
 * [Economic Facts and Fallacies](https://www.goodreads.com/book/show/2064279.Economic_Facts_and_Fallacies) by Thomas Sowell
 
-###Sexuality
+##Sexuality
 
 * [Sex at Dawn: The Prehistoric Origins of Modern](https://www.goodreads.com/book/show/7640261-sex-at-dawn) by Christopher Ryan, Cacilda Jetha
 * [The Sex Myth](https://www.goodreads.com/book/show/13569582-the-sex-myth) by Brooke Magnanti
 
-###Education
+##Education
 
 * [The Art of Learning: An Inner Journey to Optimal Performance](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) by Josh Waitzkin
 * [How Children Fail](https://www.goodreads.com/book/show/573009.How_Children_Fail) by John Holt
@@ -253,13 +253,13 @@ Books
 * [Curious Minds: How a Child Becomes a Scientist](https://www.goodreads.com/book/show/409588.Curious_Minds) by John Brockman
 * [Teaching as a Subversive Activity](https://www.goodreads.com/book/show/79681.Teaching_as_a_Subversive_Activity) by Neil Postman, Charles Weingartner 
 
-###Writing
+##Writing
 
 * [Hat Box: The Collected Lyrics of Stephen Sondheim](https://www.goodreads.com/book/show/12909101-hat-box) by Stephen Sondheim
 * [Clear and Simple as the Truth](https://www.goodreads.com/book/show/120549.Clear_and_Simple_as_the_Truth) by Francis-Noël Thomas, Mark Turner 
 * [The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century](http://www.goodreads.com/book/show/20821371-the-sense-of-style) by Steven Pinker
 
-###Theater and Film
+##Theater and Film
 
 * [In the Blink of an Eye: A Perspective on Film Editing](https://www.goodreads.com/book/show/2141.In_the_Blink_of_an_Eye) by Walter Murch
 * [Impro: Improvisation and the Theatre](https://www.goodreads.com/book/show/306940.Impro) by Keith Johnstone
@@ -269,20 +269,35 @@ Books
 * [Different Every Night: Putting the play on stage and keeping it fresh](https://www.goodreads.com/book/show/3493241-different-every-night) by Mike Alfreds
 * [Notes on Directing: 130 Lessons in Leadership from the Director's Chair](https://www.goodreads.com/book/show/254808.Notes_on_Directing) by Frank Hauser, Russell Reich
 
-###Shakespeare
+##Shakespeare
 
 * [Thinking Shakespeare: A How-to Guide for Student Actors, Directors, and Anyone Else Who Wants to Feel More Comfortable With the Bard](https://www.goodreads.com/book/show/1334872.Thinking_Shakespeare) by Barry Edelstein.
 * [Hamlet in Purgatory](https://www.goodreads.com/book/show/33179.Hamlet_in_Purgatory) by Stephen Greenblatt
 * [Hamlet and Revenge](https://www.goodreads.com/book/show/625956.Hamlet_Revenge_) by Eleanor Prosser
 * [Shakespeare's Metrical Art](https://www.goodreads.com/book/show/428615.Shakespeare_s_Metrical_Art) George T. Wright
 
+##Fiction
+
+###Science Fiction
+* [Ender's Game - Saga](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on)
+* [Foundation](https://www.goodreads.com/book/show/29579.Foundation)
+* [Dune Chronicles](https://www.goodreads.com/search?q=dune)
+* [The Hitchhiker's Guide to the Galaxy](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) by Douglas Adams
+
+###Fantasy 
+
+* [he Kingkiller Chronicle](https://www.goodreads.com/series/45262-the-kingkiller-chronicle) by Patrick Rothfuss
+* [Discworld](https://www.goodreads.com/series/40650-discworld)  by Terry Pratchett 
+* [The Broken Empire](https://www.goodreads.com/series/64473-the-broken-empire) by Mark Lawrence
+* [A Song of Ice and Fire](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) by George R.R. Martin
+* [The Lord of the Rings ](https://www.goodreads.com/series/66175-the-lord-of-the-rings) by J.R.R. Tolkien
+
 ###Humor
 
 * [I Hope They Serve Beer In Hell](https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell) by Tucker Max
-* [The Hitchhiker's Guide to the Galaxy](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) by Douglas Adams
 
 
-###Fiction
+###Others
 
 * [The Book Thief](https://www.goodreads.com/book/show/19063.The_Book_Thief) by Markus Zusak
 * [A Prayer for Owen Meany](https://www.goodreads.com/book/show/4473.A_Prayer_for_Owen_Meany) by John Irving
@@ -323,24 +338,14 @@ Books
 * [Kane and Abel](http://www.goodreads.com/book/show/78983.Kane_and_Abel) by Jeffrey Archer
 * [Catch 22](https://www.goodreads.com/book/show/4610.Catch_22)
 * [His Dark Materials](https://www.goodreads.com/book/show/18116.His_Dark_Materials)
-* [Ender's Game - Saga](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on)
-* [Foundation](https://www.goodreads.com/book/show/29579.Foundation)
-* [Dune Chronicles](https://www.goodreads.com/search?q=dune)
 
-###Health
+
+##Health
 
 * [8 Weeks to Optimum Health](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) by Andrew Weil
 * [Convict Conditioning](http://www.goodreads.com/book/show/7305111-convict-conditioning) by Paul Wade
 
-### Fantasy 
-
-* [he Kingkiller Chronicle](https://www.goodreads.com/series/45262-the-kingkiller-chronicle) by Patrick Rothfuss
-* [Discworld](https://www.goodreads.com/series/40650-discworld)  by Terry Pratchett 
-* [The Broken Empire](https://www.goodreads.com/series/64473-the-broken-empire) by Mark Lawrence
-* [A Song of Ice and Fire](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) by George R.R. Martin
-* [The Lord of the Rings ](https://www.goodreads.com/series/66175-the-lord-of-the-rings) by J.R.R. Tolkien
-
-###Design
+##Design
 
 * [Pattern Language: Towns, Buildings, Construction](https://www.goodreads.com/book/show/79766.A_Pattern_Language) by Christopher Alexander, Sara Ishikawa, Murray Silverstein, Max Jacobson, Ingrid Fiksdahl-King and Shlomo Angel
 * [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) by Steve Krug
