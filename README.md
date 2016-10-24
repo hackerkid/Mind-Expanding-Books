@@ -322,6 +322,10 @@ Books
 * [Kane and Abel](http://www.goodreads.com/book/show/78983.Kane_and_Abel) by Jeffrey Archer
 * [Catch 22](https://www.goodreads.com/book/show/4610.Catch_22)
 * [Xeelee Sequence](http://www.goodreads.com/series/49784-xeelee-sequence) by Stephen Baxter
+* [His Dark Materials](https://www.goodreads.com/book/show/18116.His_Dark_Materials)
+* [Ender's Game - Saga](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on)
+* [Foundation](https://www.goodreads.com/book/show/29579.Foundation)
+* [Dune Chronicles](https://www.goodreads.com/search?q=dune)
 
 ###Health
 
