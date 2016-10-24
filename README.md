@@ -175,6 +175,7 @@ Books
 * [The Revenge of Geography: What the Map Tells Us About Coming Conflicts and the Battle Against Fate](https://www.goodreads.com/book/show/13330422-the-revenge-of-geography) by Robert D. Kaplan
 * [God Created The Integers: The Mathematical Breakthroughs that Changed History](https://www.goodreads.com/book/show/2096.God_Created_The_Integers) by Stephen Hawking
 * [The World Is Flat: A Brief History of the Twenty-first Century](https://www.goodreads.com/book/show/<1911 class="The_World_Is_Flat"></1911>) by Thomas L. Friedman
+* [El Tiempo Entre Costuras (The Time Between Seams / The Time In Between)](https://www.goodreads.com/book/show/7502166-el-tiempo-entre-costuras) by María Dueñas
 
 ##Science and Medicine
 
