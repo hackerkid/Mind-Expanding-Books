@@ -19,6 +19,7 @@ Table of Contents
 * [Fiction](#fiction)
 * [Health](#health)
 * [Design](#design)
+* [Fantasy](#fantasy)
 
 Books
 -----
@@ -331,12 +332,25 @@ Books
 * [8 Weeks to Optimum Health](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) by Andrew Weil
 * [Convict Conditioning](http://www.goodreads.com/book/show/7305111-convict-conditioning) by Paul Wade
 
+### Fantasy 
+
+* [he Kingkiller Chronicle](https://www.goodreads.com/series/45262-the-kingkiller-chronicle) by Patrick Rothfuss
+* [Discworld](https://www.goodreads.com/series/40650-discworld)  by Terry Pratchett 
+* [The Broken Empire](https://www.goodreads.com/series/64473-the-broken-empire) by Mark Lawrence
+* [A Song of Ice and Fire](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) by George R.R. Martin
+* [The Lord of the Rings ](https://www.goodreads.com/series/66175-the-lord-of-the-rings) by J.R.R. Tolkien
+
+
+
 ###Design
 
 * [Pattern Language: Towns, Buildings, Construction](https://www.goodreads.com/book/show/79766.A_Pattern_Language) by Christopher Alexander, Sara Ishikawa, Murray Silverstein, Max Jacobson, Ingrid Fiksdahl-King and Shlomo Angel
 * [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) by Steve Krug
 * [The Design of Everyday Things](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) by Donald Norman
 
+### Fantasy
+
+* [
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
