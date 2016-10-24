@@ -290,11 +290,11 @@ Books
 
 ###Fantasy 
 
-* [he Kingkiller Chronicle](https://www.goodreads.com/series/45262-the-kingkiller-chronicle) by Patrick Rothfuss
+* [The Kingkiller Chronicle](https://www.goodreads.com/series/45262-the-kingkiller-chronicle) by Patrick Rothfuss
 * [Discworld](https://www.goodreads.com/series/40650-discworld)  by Terry Pratchett 
 * [The Broken Empire](https://www.goodreads.com/series/64473-the-broken-empire) by Mark Lawrence
 * [A Song of Ice and Fire](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) by George R.R. Martin
-* [The Lord of the Rings ](https://www.goodreads.com/series/66175-the-lord-of-the-rings) by J.R.R. Tolkien
+* [The Lord of the Rings](https://www.goodreads.com/series/66175-the-lord-of-the-rings) by J.R.R. Tolkien
 
 ###Humor
 
