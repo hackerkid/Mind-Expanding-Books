@@ -11,6 +11,7 @@ Table of Contents
 * [Evolution, Science and Medicine](#science-and-medicine)
 * [Logic and Problem Solving](#logic-and-problem-solving)
 * [Politics](#politics)
+* [Economics](#economics)
 * [Sexuality](#sexuality)
 * [Education](#education)
 * [Writing](#writing)
@@ -35,7 +36,6 @@ Books
 * [The Four Steps to the Epiphany](https://www.goodreads.com/book/show/762542.The_Four_Steps_to_the_Epiphany) by Steve Blank
 * [Contagious: Why Things Catch On](https://www.goodreads.com/book/show/15801967-contagious) by Jonah Berger
 * [David and Goliath: Underdogs, Misfits, and the Art of Battling Giants](https://www.goodreads.com/book/show/15751404-david-and-goliath)  by Malcolm Gladwell
-* [The Signal and the Noise: Why So Many Predictions Fail--but Some Don't](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise) by Nate Silver
 * [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things)  by Ben Horowitz
 * [The Paradox of Choice: Why More Is Less](https://www.goodreads.com/book/show/10639.The_Paradox_of_Choice) by Barry Shwartz
 * [Influencer: The New Science of Leading Change](https://www.goodreads.com/book/show/914211.Influencer)  by Joseph Grenny, Kerry Patterson
@@ -51,7 +51,6 @@ Books
 * [The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future](https://www.goodreads.com/book/show/12605157-the-100-startup) by Chris Guillebeau
 * [Big Data: A Revolution That Will Transform How We Live, Work, and Think](https://www.goodreads.com/book/show/15815598-big-data) by Kenneth Cukier
 * [The Score Takes Care of Itself: My Philosophy of Leadership](https://www.goodreads.com/book/show/6342995-the-score-takes-care-of-itself) by Bill Walsh, Steve Jamison, Craig Walsh
-* [The Thank You Economy](https://www.goodreads.com/book/show/9203287-the-thank-you-economy) by Gary Vaynerchuk
 * [Crowdsourcing: Why the Power of the Crowd Is Driving the Future of Business](https://www.goodreads.com/book/show/2601510-crowdsourcing) by Jeff Howe
 * [Where Good Ideas Come From](https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from) by Steven Johnson
 * [The Strategy and Tactics of Pricing : A Guide to Move More Profitable](https://www.goodreads.com/book/show/99919.The_Strategy_and_Tactics_of_Pricing) by Thomas Nagle, John Hogan, Joseph Zale
@@ -70,14 +69,11 @@ Books
 * [Too Big to Fail](https://www.goodreads.com/book/show/6687247-too-big-to-fail) by Andrew Ross Sorkin
 * [The Innovator's Dilemma](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma) by clayton m. christensen
 * [The Paypal Wars](https://www.goodreads.com/book/show/4052.The_PayPal_Wars) by Eric M. Jackson
-* [Origin of Wealth](https://www.goodreads.com/book/show/22456.The_Origin_of_Wealth) by Eric D. Beinhocker
 * [One Click: Jeff Bezos and the Rise of Amazon.com](https://www.goodreads.com/book/show/11223478-one-click) by Richard Brandt
 * [Cognitive Surplus: Creativity and Generosity in a Connected Age](https://www.goodreads.com/book/show/7614793-cognitive-surplus) by Clay Shirky
-* [Super Crunchers: Why Thinking-By-Numbers is the New Way To Be Smart](https://www.goodreads.com/book/show/1081413.Super_Crunchers) by Ian Ayres by Ian Ayres
 * [The Curse of the Mogul](https://www.goodreads.com/book/show/7162410-the-curse-of-the-mogul) by Jonathan A. Knee, Bruce C. Greenwald, Ava Seave
 * [The Accidental Billionaires : The Founding of Facebook, a Tale of Sex, Money, Genius and Betrayal](https://www.goodreads.com/book/show/6326920-the-accidental-billionaires) by Ben Mezrich
 * [Lean In : Women, Work and the Will to Lead](http://www.goodreads.com/book/show/16071764-lean-in) by Sheryl Sandberg
-* [Capital in the Twenty-First Century](http://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century) by Thomas Piketty
 
 ##Philosophy And Psychology
 * [The Art of War](https://www.goodreads.com/book/show/10534.The_Art_of_War) by Sun Tzu
@@ -162,10 +158,8 @@ Books
 
 ##History
 
-* [23 Things They Don't Tell You About Capitalism](http://www.goodreads.com/book/show/8913542-23-things-they-don-t-tell-you-about-capitalism) by Ha-Joon Chang
 * [Discovery of India](http://www.goodreads.com/book/show/154126.The_Discovery_of_India) by Jawaharlal Nehru
 * [The Rise and Fall of the British Empire](https://www.goodreads.com/book/show/143980.The_Rise_and_Fall_of_the_British_Empire) by Lawrence James
-* [The Ascent of Money: A Financial History of the World](https://www.goodreads.com/book/show/2714607-the-ascent-of-money) by Niall Ferguson
 * [The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet](https://www.goodreads.com/book/show/29608.The_Codebreakers) by David Kahn
 * [The Rational Optimist: How Prosperity Evolves (P.S.)](https://www.goodreads.com/book/show/7776209-the-rational-optimist) by Matt Ridley
 * [One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War](https://www.goodreads.com/book/show/2606779-one-minute-to-midnight) by Michael Dobbs
@@ -174,11 +168,9 @@ Books
 * [The Discoverers](https://www.goodreads.com/book/show/714380.The_Discoverers) by Daniel J. Boorstin
 * [From Dawn to Decadence: 500 Years of Western Cultural Life 1500 to the Present](https://www.goodreads.com/book/show/58233.From_Dawn_to_Decadence) by Jacques Barzun
 * [The Master Switch: The Rise and Fall of Information Empires](https://www.goodreads.com/book/show/8201080-the-master-switch) by Tim Wu
-* [Debt - Updated and Expanded: The First 5,000 Years](https://www.goodreads.com/book/show/6617037-debt) by David Graeber
 * [The Ghost Map: The Story of London's Most Terrifying Epidemic--and How It Changed Science, Cities, and the Modern World](https://www.goodreads.com/book/show/36086.The_Ghost_Map) by Steven Johnson
 * [Guns, Germs, And Steel : The Fates Of Human Societies](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel) by Jared M. Diamond
 * [Why the West Rules--for Now: The Patterns of History, and What They Reveal About the Future](https://www.goodreads.com/book/show/9491855-why-the-west-rules-for-now) by Ian Morrisage
-* [A Farewell to Alms : A Brief Economic History of the World: A Brief Economic History of the World](https://www.goodreads.com/book/show/10799.A_Farewell_to_Arms) by Gregory Clark
 * [Churchill's Secret War: The British Empire and the Ravaging of India during World War II](https://www.goodreads.com/book/show/8890989-churchill-s-secret-war) by Madhusree Mukerjee
 * [The Revenge of Geography: What the Map Tells Us About Coming Conflicts and the Battle Against Fate](https://www.goodreads.com/book/show/13330422-the-revenge-of-geography) by Robert D. Kaplan
 * [God Created The Integers: The Mathematical Breakthroughs that Changed History](https://www.goodreads.com/book/show/2096.God_Created_The_Integers) by Stephen Hawking
@@ -229,13 +221,25 @@ Books
 ##Politics
 
 * [Resource Wars: The New Landscape of Global Conflict](https://www.goodreads.com/book/show/149206.Resource_Wars) by Michael Klare
-* [The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done About It](https://www.goodreads.com/book/show/493371.The_Bottom_Billion) by Paul Collier
 * [The Myth of the Rational Voter: Why Democracies Choose Bad Policies](https://www.goodreads.com/book/show/698866.The_Myth_of_the_Rational_Voter) by Bryan Caplan
 * [Justice: What's the Right Thing to Do?](https://www.goodreads.com/book/show/6452731-justice) by Michael J. Sandel
 * [Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime](https://www.goodreads.com/book/show/6694937-game-change) by John Heilemann, Mark Halperin
-* [Currency Wars: The Making of the Next Global Crisis](https://www.goodreads.com/book/show/11515298-currency-wars) by James Rickards
 * [The Audacity of Hope: Thoughts on Reclaiming the American Dream](https://www.goodreads.com/book/show/9742.The_Audacity_of_Hope) by Barack Obama
 * [The Righteous Mind: Why Good People are Divided by Politics and Religion](https://www.goodreads.com/book/show/11324722-the-righteous-mind) by  Jonathan Haidt
+
+##Economics
+
+* [The Signal and the Noise: Why So Many Predictions Fail--but Some Don't](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise) by Nate Silver
+* [The Thank You Economy](https://www.goodreads.com/book/show/9203287-the-thank-you-economy) by Gary Vaynerchuk
+* [Origin of Wealth](https://www.goodreads.com/book/show/22456.The_Origin_of_Wealth) by Eric D. Beinhocker
+* [Super Crunchers: Why Thinking-By-Numbers is the New Way To Be Smart](https://www.goodreads.com/book/show/1081413.Super_Crunchers) by Ian Ayres by Ian Ayres
+* [Capital in the Twenty-First Century](http://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century) by Thomas Piketty
+* [23 Things They Don't Tell You About Capitalism](http://www.goodreads.com/book/show/8913542-23-things-they-don-t-tell-you-about-capitalism) by Ha-Joon Chang
+* [The Ascent of Money: A Financial History of the World](https://www.goodreads.com/book/show/2714607-the-ascent-of-money) by Niall Ferguson
+* [Debt - Updated and Expanded: The First 5,000 Years](https://www.goodreads.com/book/show/6617037-debt) by David Graeber
+* [A Farewell to Alms : A Brief Economic History of the World: A Brief Economic History of the World](https://www.goodreads.com/book/show/10799.A_Farewell_to_Arms) by Gregory Clark
+* [The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done About It](https://www.goodreads.com/book/show/493371.The_Bottom_Billion) by Paul Collier
+* [Currency Wars: The Making of the Next Global Crisis](https://www.goodreads.com/book/show/11515298-currency-wars) by James Rickards
 * [Economic Facts and Fallacies](https://www.goodreads.com/book/show/2064279.Economic_Facts_and_Fallacies) by Thomas Sowell
 
 ##Sexuality
