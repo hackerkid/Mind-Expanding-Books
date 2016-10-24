@@ -328,13 +328,11 @@ Books
 
 ### Fantasy 
 
-* [The Name of the Wind (The Kingkiller Chronicle #1)](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind?ac=1&from_search=true) by Patrick Rothfuss
-* [The Wise Man's Fear (The Kingkiller Chronicle #2) ](https://www.goodreads.com/book/show/1215032.The_Wise_Man_s_Fear?from_search=true)  by Patrick Rothfuss
-* [The Color of Magic (Discworld #1, Rincewind #1 )](https://www.goodreads.com/book/show/34497.The_Color_of_Magic?from_search=true)  by Terry Pratchett 
-* [Mort (Discworld #4, Mort #1](https://www.goodreads.com/book/show/386372.Mort?from_search=true)  by Terry Pratchett 
-* [Prince of Thorns (The Broken Empire #1) ](https://www.goodreads.com/book/show/9579634-prince-of-thorns?from_search=true) by Mark Lawrence
-* [A Game of Thrones (A Song of Ice and Fire #1) ](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones?ac=1&from_search=true) by George R.R. Martin
-* [The Lord of the Rings (The Lord of the Rings #1-3) ](https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings?from_search=true) by J.R.R. Tolkien
+* [he Kingkiller Chronicle](https://www.goodreads.com/series/45262-the-kingkiller-chronicle) by Patrick Rothfuss
+* [Discworld](https://www.goodreads.com/series/40650-discworld)  by Terry Pratchett 
+* [The Broken Empire](https://www.goodreads.com/series/64473-the-broken-empire) by Mark Lawrence
+* [A Song of Ice and Fire](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) by George R.R. Martin
+* [The Lord of the Rings ](https://www.goodreads.com/series/66175-the-lord-of-the-rings) by J.R.R. Tolkien
 
 
 
