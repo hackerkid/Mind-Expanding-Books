@@ -310,7 +310,7 @@ Books
 * [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) by Oscar Wilde
 * [Catch 22](https://www.goodreads.com/book/show/4610.Catch_22) by Joseph Heller
 * [Adventures of Huckleberry Finn](https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn) by Mark Twain
-
+* [Jane Eyre](https://www.goodreads.com/book/show/10210.Jane_Eyre) by Charlotte Brontë
 
 ###Fantasy
 
@@ -321,6 +321,7 @@ Books
 * [The Lord of the Rings](https://www.goodreads.com/series/66175-the-lord-of-the-rings) by J.R.R. Tolkien
 * [The City & The City](https://www.goodreads.com/book/show/4703581-the-city-the-city) by China Mieville
 * [His Dark Materials](https://www.goodreads.com/book/show/18116.His_Dark_Materials) by Philip Pullman
+* [Harry Potter](https://www.goodreads.com/series/45175-harry-potter) by J.K. Rowling
 
 ###Historical Fiction
 
@@ -332,7 +333,6 @@ Books
 * [Lonesome Dove](https://www.goodreads.com/book/show/256008.Lonesome_Dove) by Larry McMurtry
 * [Kane and Abel](http://www.goodreads.com/book/show/78983.Kane_and_Abel) by Jeffrey Archer
 
-
 ###Humor
 
 * [I Hope They Serve Beer In Hell](https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell) by Tucker Max
@@ -340,7 +340,9 @@ Books
 ###Mystery
 
 * [The Eight](https://www.goodreads.com/book/show/113310.The_Eight) by Katherine Neville
-
+* [The Murder of Roger Ackroyd](http://www.goodreads.com/book/show/16328.The_Murder_of_Roger_Ackroyd) by Agatha Christie
+* [Sherlock Holmes](https://www.goodreads.com/series/49996-sherlock-holmes) by Arthur Conan Doyle
+* [The Da Vinci Code](http://www.goodreads.com/book/show/968.The_Da_Vinci_Code) by Dan Brown
 
 ###Science Fiction
 * [Ender's Game - Saga](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on)
@@ -371,6 +373,7 @@ Books
 
 ##Computer Science and Programming
 * [Learn You a Haskell for Great Good!](https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good) by Miran Lipovača.
+* [The Pragmatic Programmer](http://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) by Andrew Hunt, Dave Thomas 
 
 ## License
 
