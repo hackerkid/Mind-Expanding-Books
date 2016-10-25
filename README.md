@@ -91,14 +91,14 @@ Books
 * [In Defense of Food: An Eater's Manifesto](https://www.goodreads.com/book/show/315425.In_Defense_of_Food) by Michael Pollan
 * [Rapt: Attention and the Focused Life: Winifred Gallagher](https://www.goodreads.com/book/show/6262510-rapt) by Winifred Gallagher
 * [You Just Don't Understand: Women and Men in Conversation](https://www.goodreads.com/book/show/147222.You_Just_Don_t_Understand) by Deborah Tannen
-* [How to Win Friends and Influence People by Dale Carnegie](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+* [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie
 * [Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.goodreads.com/book/show/17707599-moral-tribes) by Joshua Greene
 * [Why We Make Mistakes: How We Look Without Seeing, Forget Things in Seconds, and Are All Pretty Sure We Are Way Above Average](https://www.goodreads.com/book/show/5040579-why-we-make-mistakes) by Joseph T. Hallinan
 * [Tattoos on the Heart: The Power of Boundless Compassion](https://www.goodreads.com/book/show/7090193-tattoos-on-the-heart) by Gregory Boyle
 * [Flow: The Psychology of Optimal Experience](https://www.goodreads.com/book/show/66354.Flow) by Mihaly Csikszentmihalyi
 * [The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind](https://www.goodreads.com/book/show/17978489-the-future-of-the-mind) by Michio Kaku
-* [Why Does the World Exist?: An Existential Detective Story]() by Jim Holt
-* [Alone Together: Why We Expect More from Technology and Less from Each Others]() by Sherry Turkle
+* [Why Does the World Exist?: An Existential Detective Story](http://www.goodreads.com/book/show/8854815-why-does-the-world-exist) by Jim Holt
+* [Alone Together: Why We Expect More from Technology and Less from Each Others](http://www.goodreads.com/book/show/8694125-alone-together) by Sherry Turkle
 * [Supernormal: Science, Yoga, and the Evidence for Extraordinary Psychic Abilities](https://www.goodreads.com/book/show/8694125-alone-together) by Dean Radin
 * [Irrational Man: A Study in Existential Philosophy](https://www.goodreads.com/book/show/83321.Irrational_Man) by William Barrett
 * [The Power of Habit: Why We Do What We Do In Life And Business](https://www.goodreads.com/book/show/12609433-the-power-of-habit) by Charles Duhigg
@@ -107,7 +107,7 @@ Books
 * [The Ethical Brain: The Science of Our Moral Dilemmas](https://www.goodreads.com/book/show/328734.The_Ethical_Brain) by Michael S. Gazzaniga
 * [Snoop: What Your Stuff Says About You: Sam Gosling](https://www.goodreads.com/book/show/1581330.Snoop) by Sam Gosling
 * [The Stuff of Thought: Language as a Window into Human Nature](https://www.goodreads.com/book/show/373969.The_Stuff_of_Thought) by Steven Pinker
-* [The Blank Slate: The Modern Denial of Human Nature]() by Steven Pinker
+* [The Blank Slate: The Modern Denial of Human Nature](http://www.goodreads.com/book/show/5752.The_Blank_Slate) by Steven Pinker
 * [Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/5752.The_Blank_Slate) by Robert B. Cialdini
 * [The Age of Insight: The Quest to Understand the Unconscious in Art, Mind, and Brain, from Vienna 1900 to the Present](https://www.goodreads.com/book/show/12263681-the-age-of-insight) by Eric Kandel
 * [A Whole New Mind: Why Right-Brainers Will Rule the Future](https://www.goodreads.com/book/show/99315.A_Whole_New_Mind) by Daniel H. Pink
@@ -120,7 +120,7 @@ Books
 * [Just the Arguments: 100 of the Most Important Arguments in Western Philosophy](https://www.goodreads.com/book/show/12838972-just-the-arguments) by Michael Bruce, Steven Barbone
 * [The History of Western Philosophy](https://www.goodreads.com/book/show/243685.A_History_of_Western_Philosophy) by Bertrand Russell
 * [The Truth About Everything: An Irreverent History of Philosophy : With Illustrations](https://www.goodreads.com/book/show/18528861-the-truth-about-everything) by Matthew Stewart
-* [Bulfinch's Mythology](https://www.goodreads.com/book/show/588147.Bulfinch_s_Mythology)by Thomas Bulfinch
+* [Bulfinch's Mythology](https://www.goodreads.com/book/show/588147.Bulfinch_s_Mythology) by Thomas Bulfinch
 * [Consilience: The Unity of Knowledge](https://www.goodreads.com/book/show/55981.Consilience) by Edward O. Wilson
 * [Every Thing Must Go: Metaphysics Naturalized](https://www.goodreads.com/book/show/757403.Every_Thing_Must_Go) by James Ladyman, Don Ross, et al
 * [Antifragile: Things That Gain from Disorder (Incerto)](https://www.goodreads.com/book/show/13530973-antifragile) by Nassim Nicholas Taleb
@@ -193,10 +193,10 @@ Books
 * [At Home in the Universe: The Search for the Laws of Self-Organization and Complexity](https://www.goodreads.com/book/show/319006.At_Home_in_the_Universe) by Stuart Kauffman
 * [The Wealth of Networks: How Social Production Transforms Markets and Freedom](https://www.goodreads.com/book/show/14721.The_Wealth_of_Networks) by Yochai Benkler
 * [Heaven in a Chip: Fuzzy Visions of Society and Science in the Digital Age](https://www.goodreads.com/book/show/172645.Heaven_in_a_Chip) by Bart Kosko
-* [The Outer Limits of Reason: What Science, Mathematics, and Logic Cannot Tell Us]() by Noson S. Yanofsky
-* [The Selfish Gene]() by Richard Dawkins
-* [Mind Wars: Brain Research and National Defense]() by Jonathan D. Moreno
-* [Evolution for Everyone: How Darwin's Theory Can Change the Way We Think About Our Lives]() by David Sloan Wilson
+* [The Outer Limits of Reason: What Science, Mathematics, and Logic Cannot Tell Us](http://www.goodreads.com/book/show/17841838-the-outer-limits-of-reason) by Noson S. Yanofsky
+* [The Selfish Gene](http://www.goodreads.com/book/show/61535.The_Selfish_Gene) by Richard Dawkins
+* [Mind Wars: Brain Research and National Defense](http://www.goodreads.com/book/show/599321.Mind_Wars) by Jonathan D. Moreno
+* [Evolution for Everyone: How Darwin's Theory Can Change the Way We Think About Our Lives](http://www.goodreads.com/book/show/159062.Evolution_for_Everyone) by David Sloan Wilson
 * [Darwin's Dangerous Idea](https://www.goodreads.com/book/show/2068.Darwin_s_Dangerous_Idea) Daniel C. Dennett
 * [The New Executive Brain: Frontal Lobes in a Complex World](https://www.goodreads.com/book/show/6745893-the-new-executive-brain) by Elkhonon Goldberg
 * [Catching Fire: How Cooking Made Us Human](https://www.goodreads.com/book/show/11148989-catching-fire) by Richard Wrangham
@@ -308,7 +308,7 @@ Books
 * [The Death of Ivan Ilych](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) by Leo Tolstoy
 * [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by Leo Tolstoy
 * [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) by Oscar Wilde
-* [Catch 22](https://www.goodreads.com/book/show/4610.Catch_22)
+* [Catch 22](https://www.goodreads.com/book/show/4610.Catch_22) by Joseph Heller
 * [Adventures of Huckleberry Finn](https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn) by Mark Twain
 
 
@@ -320,7 +320,7 @@ Books
 * [A Song of Ice and Fire](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) by George R.R. Martin
 * [The Lord of the Rings](https://www.goodreads.com/series/66175-the-lord-of-the-rings) by J.R.R. Tolkien
 * [The City & The City](https://www.goodreads.com/book/show/4703581-the-city-the-city) by China Mieville
-* [His Dark Materials](https://www.goodreads.com/book/show/18116.His_Dark_Materials)
+* [His Dark Materials](https://www.goodreads.com/book/show/18116.His_Dark_Materials) by Philip Pullman
 
 ###Historical Fiction
 
@@ -343,9 +343,9 @@ Books
 
 
 ###Science Fiction
-* [Ender's Game - Saga](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on)
-* [Foundation](https://www.goodreads.com/book/show/29579.Foundation)
-* [Dune Chronicles](https://www.goodreads.com/search?q=dune)
+* [Ender's Game - Saga](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on) by Orson Scott Card
+* [Foundation](https://www.goodreads.com/book/show/29579.Foundation) by Isaac Asimov
+* [Dune Chronicles](https://www.goodreads.com/search?q=dune) by Frank Herbert
 * [The Hitchhiker's Guide to the Galaxy](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) by Douglas Adams
 * [Snow Crash](https://www.goodreads.com/book/show/830.Snow_Crash) by Neal Stephenson
 * [The Fifth Sacred Thing](https://www.goodreads.com/book/show/80689.The_Fifth_Sacred_Thing) by Starhawk
