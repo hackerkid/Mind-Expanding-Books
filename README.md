@@ -378,6 +378,7 @@ Books
 
 * [8 Weeks to Optimum Health](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) by Andrew Weil
 * [Convict Conditioning](http://www.goodreads.com/book/show/7305111-convict-conditioning) by Paul Wade
+* [Eat and Run: My Unlikely Journey to Ultramarathon Greatness] (https://www.goodreads.com/book/show/13202092-eat-and-run?from_search=true) by  Scott Jurek, Steve Friedman
 
 ##Design
 
