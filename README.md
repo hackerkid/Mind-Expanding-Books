@@ -370,6 +370,7 @@ Books
 
 ##Computer Science and Programming
 * [Learn You a Haskell for Great Good!](https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good) by Miran Lipovača.
+* [Java: The Complete Reference](http://www.goodreads.com/book/show/12545373-java) by Herbert Schildt
 
 ## License
 
