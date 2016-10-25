@@ -297,6 +297,7 @@ Books
 * [A Song of Ice and Fire](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) by George R.R. Martin
 * [The Lord of the Rings](https://www.goodreads.com/series/66175-the-lord-of-the-rings) by J.R.R. Tolkien
 * [His Dark Materials Trilogy](https://www.goodreads.com/search?utf8=%E2%9C%93&q=his+dark+materials&search_type=books) by Philip Pullman
+* [The City & The City](https://www.goodreads.com/book/show/4703581-the-city-the-city) by China Mieville
 
 ###Humor
 
@@ -316,6 +317,14 @@ Books
 * [Catch 22](https://www.goodreads.com/book/show/4610.Catch_22)
 * [Adventures of Huckleberry Finn](https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn) by Mark Twain
 * [One Flew Over the Cuckoo's Nest](https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest) by Ken Kesey
+* [One Hundred Years of Solitude](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude) byGabriel Garcia Marquez, Gregory Rabassa
+* [Watership Down: A Novel](https://www.goodreads.com/book/show/76620.Watership_Down) by Richard Adams
+* [The Death of Ivan Ilych](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) by Leo Tolstoy
+* [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) by Oscar Wilde
+* [The Wall: (Intimacy) and Other Stories](https://www.goodreads.com/book/show/10031.The_Wall) by Jean-Paul Sartre, Lloyd Alexander
+* [The House of Mirth](https://www.goodreads.com/book/show/17728.The_House_of_Mirth) by Edith Wharton
+* [Letters From The Earth](https://www.goodreads.com/book/show/37813.Letters_from_the_Earth) by Mark Twain
+* [Bleak House](https://www.goodreads.com/book/show/31242.Bleak_House) by Charles Dickens
 
 
 ###Others
@@ -330,21 +339,12 @@ Books
 * [Snow Crash](https://www.goodreads.com/book/show/830.Snow_Crash) by Neal Stephenson
 * [Steppenwolf: A Novel](https://www.goodreads.com/book/show/16631.Steppenwolf) by Hermann Hesse, Basil Creighton
 * [The Glass Bead Game](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game) by Hermann Hesse, Richard and Clara Winston
-* [The Wall: (Intimacy) and Other Stories](https://www.goodreads.com/book/show/10031.The_Wall) by Jean-Paul Sartre, Lloyd Alexander
-* [The House of Mirth](https://www.goodreads.com/book/show/17728.The_House_of_Mirth) by Edith Wharton
 * [The Fifth Sacred Thing](https://www.goodreads.com/book/show/80689.The_Fifth_Sacred_Thing) by Starhawk
 * [The Bone People](https://www.goodreads.com/book/show/460635.The_Bone_People) by Keri Hulme
 * [Confessions of a Mask](https://www.goodreads.com/book/show/62794.Confessions_of_a_Mask) by Yukio Mishima
-* [The City & The City](https://www.goodreads.com/book/show/4703581-the-city-the-city) by China Mieville
-* [Letters From The Earth](https://www.goodreads.com/book/show/37813.Letters_from_the_Earth) by Mark Twain
-* [One Hundred Years of Solitude](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude) byGabriel Garcia Marquez, Gregory Rabassa
-* [Watership Down: A Novel](https://www.goodreads.com/book/show/76620.Watership_Down) by Richard Adams
 * [Cat's Eye](https://www.goodreads.com/book/show/51019.Cat_s_Eye) by Margaret Atwood
-* [Bleak House](https://www.goodreads.com/book/show/31242.Bleak_House) by Charles Dickens
 * [Lonesome Dove](https://www.goodreads.com/book/show/256008.Lonesome_Dove) by Larry McMurtry
 * [The Queen's Gambit](https://www.goodreads.com/book/show/62022.The_Queen_s_Gambit) by Walter Tevis
-* [The Death of Ivan Ilych](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) by Leo Tolstoy
-* [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) by Oscar Wilde
 * [The Player of Games](https://www.goodreads.com/book/show/18630.The_Player_of_Games) by Iain M. Banks
 * [Kane and Abel](http://www.goodreads.com/book/show/78983.Kane_and_Abel) by Jeffrey Archer
 
