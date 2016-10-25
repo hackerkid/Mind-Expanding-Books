@@ -371,6 +371,7 @@ Books
 ##Computer Science and Programming
 * [Learn You a Haskell for Great Good!](https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good) by Miran Lipovača.
 * [Java: The Complete Reference](http://www.goodreads.com/book/show/12545373-java) by Herbert Schildt
+* [The C Programming Language](http://www.goodreads.com/book/show/515601.The_C_Programming_Language) by Brian W. Kernighan, Dennis M. Ritchie
 
 ## License
 
