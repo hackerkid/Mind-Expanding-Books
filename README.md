@@ -1,5 +1,5 @@
 Mind Expanding Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Awesome](https://travis-ci.org/hackerkid/Mind-Expanding-Books.svg?branch=master) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/hackerkid/bots](https://badges.gitter.im/hackerkid/bots.svg)](https://gitter.im/hackerkid/Mind-Expanding-Books?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-> Curated list of mind expanding books. 
+> Curated list of mind expanding books.
 
 Table of Contents
 -----------------
@@ -155,7 +155,7 @@ Books
 * [Unbroken: A World War II Story of Survival, Resilience, and Redemption](https://www.goodreads.com/book/show/8664353-unbroken) by Laura Hillenbrand
 * [Madame Curie: A Biography](https://www.goodreads.com/book/show/341166.Madame_Curie) by Marie Curie
 * [iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It](http://www.goodreads.com/book/show/798635.iWoz) by Steve Wozniak
-* [The Last Lecture](http://www.goodreads.com/book/show/2318271.The_Last_Lecture) by Randy Pausch 
+* [The Last Lecture](http://www.goodreads.com/book/show/2318271.The_Last_Lecture) by Randy Pausch
 
 ##History
 
@@ -257,12 +257,12 @@ Books
 * [Summerhill School: A New View of Childhood](https://www.goodreads.com/book/show/178734.Summerhill) by A. S. Neill, Albert Lamb
 * [Mindstorms: Children, Computers, And Powerful Ideas](https://www.goodreads.com/book/show/703532.Mindstorms) by Seymour A. Papert
 * [Curious Minds: How a Child Becomes a Scientist](https://www.goodreads.com/book/show/409588.Curious_Minds) by John Brockman
-* [Teaching as a Subversive Activity](https://www.goodreads.com/book/show/79681.Teaching_as_a_Subversive_Activity) by Neil Postman, Charles Weingartner 
+* [Teaching as a Subversive Activity](https://www.goodreads.com/book/show/79681.Teaching_as_a_Subversive_Activity) by Neil Postman, Charles Weingartner
 
 ##Writing
 
 * [Hat Box: The Collected Lyrics of Stephen Sondheim](https://www.goodreads.com/book/show/12909101-hat-box) by Stephen Sondheim
-* [Clear and Simple as the Truth](https://www.goodreads.com/book/show/120549.Clear_and_Simple_as_the_Truth) by Francis-Noël Thomas, Mark Turner 
+* [Clear and Simple as the Truth](https://www.goodreads.com/book/show/120549.Clear_and_Simple_as_the_Truth) by Francis-Noël Thomas, Mark Turner
 * [The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century](http://www.goodreads.com/book/show/20821371-the-sense-of-style) by Steven Pinker
 
 ##Theater and Film
@@ -284,70 +284,78 @@ Books
 
 ##Fiction
 
-###Science Fiction
-* [Ender's Game - Saga](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on)
-* [Foundation](https://www.goodreads.com/book/show/29579.Foundation)
-* [Dune Chronicles](https://www.goodreads.com/search?q=dune)
-* [The Hitchhiker's Guide to the Galaxy](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) by Douglas Adams
+###Classics
 
-###Fantasy 
+* [The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye) by J.D. Salinger
+* [If on a Winter's Night a Traveler](https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler) by Italo Calvino and William Weaver
+* [Sense and Sensibility](https://www.goodreads.com/book/show/14935.Sense_and_Sensibility) by Jane Austen
+* [A Prayer for Owen Meany](https://www.goodreads.com/book/show/4473.A_Prayer_for_Owen_Meany) by John Irving
+* [Steppenwolf: A Novel](https://www.goodreads.com/book/show/16631.Steppenwolf) by Hermann Hesse, Basil Creighton
+* [The Glass Bead Game](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game) by Hermann Hesse, Richard and Clara Winston
+* [The Wall: (Intimacy) and Other Stories](https://www.goodreads.com/book/show/10031.The_Wall) by Jean-Paul Sartre, Lloyd Alexander
+* [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky
+* [Pride And Prejudice](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) by Jane Austen
+* [Mansfield Park](https://www.goodreads.com/book/show/45032) by Jane Austen
+* [Wuthering Heights](https://www.goodreads.com/book/show/6185.Wuthering_Heights) by Emily Bronte
+* [The House of Mirth](https://www.goodreads.com/book/show/17728.The_House_of_Mirth) by Edith Wharton
+* [Confessions of a Mask](https://www.goodreads.com/book/show/62794.Confessions_of_a_Mask) by Yukio Mishima
+* [Letters From The Earth](https://www.goodreads.com/book/show/37813.Letters_from_the_Earth) by Mark Twain
+* [One Hundred Years of Solitude](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude) by Gabriel Garcia Marquez, Gregory Rabassa
+* [One Flew Over the Cuckoo's Nest](https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest) by Ken Kesey
+* [Watership Down: A Novel](https://www.goodreads.com/book/show/76620.Watership_Down) by Richard Adams
+* [Bleak House](https://www.goodreads.com/book/show/31242.Bleak_House) by Charles Dickens
+* [War and Peace](https://www.goodreads.com/book/show/656.War_and_Peace) by Leo Tolstoy
+* [The Death of Ivan Ilych](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) by Leo Tolstoy
+* [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by Leo Tolstoy
+* [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) by Oscar Wilde
+* [Catch 22](https://www.goodreads.com/book/show/4610.Catch_22)
+* [Adventures of Huckleberry Finn](https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn) by Mark Twain
+
+
+###Fantasy
 
 * [The Kingkiller Chronicle](https://www.goodreads.com/series/45262-the-kingkiller-chronicle) by Patrick Rothfuss
-* [Discworld](https://www.goodreads.com/series/40650-discworld)  by Terry Pratchett 
+* [Discworld](https://www.goodreads.com/series/40650-discworld)  by Terry Pratchett
 * [The Broken Empire](https://www.goodreads.com/series/64473-the-broken-empire) by Mark Lawrence
 * [A Song of Ice and Fire](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) by George R.R. Martin
 * [The Lord of the Rings](https://www.goodreads.com/series/66175-the-lord-of-the-rings) by J.R.R. Tolkien
-* [His Dark Materials Trilogy](https://www.goodreads.com/search?utf8=%E2%9C%93&q=his+dark+materials&search_type=books) by Philip Pullman
 * [The City & The City](https://www.goodreads.com/book/show/4703581-the-city-the-city) by China Mieville
+* [His Dark Materials](https://www.goodreads.com/book/show/18116.His_Dark_Materials)
+
+###Historical Fiction
+
+* [All the Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see) by Anthony Doerr
+* [The Book Thief](https://www.goodreads.com/book/show/19063.The_Book_Thief) by Markus Zusak
+* [The Help](https://www.goodreads.com/book/show/4667024-the-help) by Kathryn Stockett
+* [Sophie's World: A Novel About the History of Philosophy](https://www.goodreads.com/book/show/10959.Sophie_s_World) by Jostein Gaarder and Paulette Moller
+* [Emma](https://www.goodreads.com/book/show/6969.Emma) by Jane Austen
+* [Lonesome Dove](https://www.goodreads.com/book/show/256008.Lonesome_Dove) by Larry McMurtry
+* [Kane and Abel](http://www.goodreads.com/book/show/78983.Kane_and_Abel) by Jeffrey Archer
+
 
 ###Humor
 
 * [I Hope They Serve Beer In Hell](https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell) by Tucker Max
 
-###Classics
+###Mystery
 
-* [Sense and Sensibility](https://www.goodreads.com/book/show/14935.Sense_and_Sensibility) by Jane Austen
-* [The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye) by J.D. Salinger
-* [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky
-* [Pride And Prejudice](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) by Jane Austen
-* [Emma](https://www.goodreads.com/book/show/6969.Emma) by Jane Austen
-* [Mansfield Park](https://www.goodreads.com/book/show/45032) by Jane Austen
-* [Wuthering Heights](https://www.goodreads.com/book/show/6185.Wuthering_Heights) by Emily Bronte
-* [War and Peace](https://www.goodreads.com/book/show/656.War_and_Peace) by Leo Tolstoy
-* [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by Leo Tolstoy
-* [Catch 22](https://www.goodreads.com/book/show/4610.Catch_22)
-* [Adventures of Huckleberry Finn](https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn) by Mark Twain
-* [One Flew Over the Cuckoo's Nest](https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest) by Ken Kesey
-* [One Hundred Years of Solitude](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude) byGabriel Garcia Marquez, Gregory Rabassa
-* [Watership Down: A Novel](https://www.goodreads.com/book/show/76620.Watership_Down) by Richard Adams
-* [The Death of Ivan Ilych](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) by Leo Tolstoy
-* [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) by Oscar Wilde
-* [The Wall: (Intimacy) and Other Stories](https://www.goodreads.com/book/show/10031.The_Wall) by Jean-Paul Sartre, Lloyd Alexander
-* [The House of Mirth](https://www.goodreads.com/book/show/17728.The_House_of_Mirth) by Edith Wharton
-* [Letters From The Earth](https://www.goodreads.com/book/show/37813.Letters_from_the_Earth) by Mark Twain
-* [Bleak House](https://www.goodreads.com/book/show/31242.Bleak_House) by Charles Dickens
-
-
-###Others
-
-* [The Book Thief](https://www.goodreads.com/book/show/19063.The_Book_Thief) by Markus Zusak 
-* [A Prayer for Owen Meany](https://www.goodreads.com/book/show/4473.A_Prayer_for_Owen_Meany) by John Irving
-* [The Help](https://www.goodreads.com/book/show/4667024-the-help) by Kathryn Stockett
-* [Sophie's World: A Novel About the History of Philosophy](https://www.goodreads.com/book/show/10959.Sophie_s_World) by Jostein Gaarder and Paulette Moller
-* [All the Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see) by Anthony Doerr
-* [If on a Winter's Night a Traveler](https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler) by Italo Calvino and William Weaver
 * [The Eight](https://www.goodreads.com/book/show/113310.The_Eight) by Katherine Neville
+
+
+###Science Fiction
+* [Ender's Game - Saga](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on)
+* [Foundation](https://www.goodreads.com/book/show/29579.Foundation)
+* [Dune Chronicles](https://www.goodreads.com/search?q=dune)
+* [The Hitchhiker's Guide to the Galaxy](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) by Douglas Adams
 * [Snow Crash](https://www.goodreads.com/book/show/830.Snow_Crash) by Neal Stephenson
-* [Steppenwolf: A Novel](https://www.goodreads.com/book/show/16631.Steppenwolf) by Hermann Hesse, Basil Creighton
-* [The Glass Bead Game](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game) by Hermann Hesse, Richard and Clara Winston
 * [The Fifth Sacred Thing](https://www.goodreads.com/book/show/80689.The_Fifth_Sacred_Thing) by Starhawk
-* [The Bone People](https://www.goodreads.com/book/show/460635.The_Bone_People) by Keri Hulme
-* [Confessions of a Mask](https://www.goodreads.com/book/show/62794.Confessions_of_a_Mask) by Yukio Mishima
-* [Cat's Eye](https://www.goodreads.com/book/show/51019.Cat_s_Eye) by Margaret Atwood
-* [Lonesome Dove](https://www.goodreads.com/book/show/256008.Lonesome_Dove) by Larry McMurtry
-* [The Queen's Gambit](https://www.goodreads.com/book/show/62022.The_Queen_s_Gambit) by Walter Tevis
 * [The Player of Games](https://www.goodreads.com/book/show/18630.The_Player_of_Games) by Iain M. Banks
-* [Kane and Abel](http://www.goodreads.com/book/show/78983.Kane_and_Abel) by Jeffrey Archer
+
+###Miscellaneous
+
+* [The Bone People](https://www.goodreads.com/book/show/460635.The_Bone_People) by Keri Hulme
+* [Cat's Eye](https://www.goodreads.com/book/show/51019.Cat_s_Eye) by Margaret Atwood
+* [The Queen's Gambit](https://www.goodreads.com/book/show/62022.The_Queen_s_Gambit) by Walter Tevis
 * [Xeelee Sequence](http://www.goodreads.com/series/49784-xeelee-sequence) by Stephen Baxter
 
 ##Health
