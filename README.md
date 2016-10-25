@@ -21,6 +21,7 @@ Table of Contents
 * [Health](#health)
 * [Design](#design)
 * [Fantasy](#fantasy)
+* [Computer Science and Programming](#computer-science-and-programming)
 
 Books
 -----
@@ -359,6 +360,9 @@ Books
 * [Pattern Language: Towns, Buildings, Construction](https://www.goodreads.com/book/show/79766.A_Pattern_Language) by Christopher Alexander, Sara Ishikawa, Murray Silverstein, Max Jacobson, Ingrid Fiksdahl-King and Shlomo Angel
 * [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) by Steve Krug
 * [The Design of Everyday Things](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) by Donald Norman
+
+##Computer Science and Programming
+* [Learn You a Haskell for Great Good!](https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good) by Miran Lipovača.
 
 ## License
 
