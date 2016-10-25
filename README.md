@@ -288,6 +288,7 @@ Books
 * [Foundation](https://www.goodreads.com/book/show/29579.Foundation)
 * [Dune Chronicles](https://www.goodreads.com/search?q=dune)
 * [The Hitchhiker's Guide to the Galaxy](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) by Douglas Adams
+* [His Dark Materials Trilogy](https://www.goodreads.com/search?utf8=%E2%9C%93&q=his+dark+materials&search_type=books) by Philip Pullman
 
 ###Fantasy 
 
