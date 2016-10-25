@@ -308,7 +308,7 @@ Books
 * [The Death of Ivan Ilych](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) by Leo Tolstoy
 * [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by Leo Tolstoy
 * [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) by Oscar Wilde
-* [Catch 22](https://www.goodreads.com/book/show/4610.Catch_22)
+* [Catch 22](https://www.goodreads.com/book/show/4610.Catch_22) by Joseph Heller
 * [Adventures of Huckleberry Finn](https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn) by Mark Twain
 
 
@@ -320,7 +320,7 @@ Books
 * [A Song of Ice and Fire](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) by George R.R. Martin
 * [The Lord of the Rings](https://www.goodreads.com/series/66175-the-lord-of-the-rings) by J.R.R. Tolkien
 * [The City & The City](https://www.goodreads.com/book/show/4703581-the-city-the-city) by China Mieville
-* [His Dark Materials](https://www.goodreads.com/book/show/18116.His_Dark_Materials)
+* [His Dark Materials](https://www.goodreads.com/book/show/18116.His_Dark_Materials) by Philip Pullman
 
 ###Historical Fiction
 
@@ -344,8 +344,8 @@ Books
 
 ###Science Fiction
 * [Ender's Game - Saga](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on)
-* [Foundation](https://www.goodreads.com/book/show/29579.Foundation)
-* [Dune Chronicles](https://www.goodreads.com/search?q=dune)
+* [Foundation](https://www.goodreads.com/book/show/29579.Foundation) by Isaac Asimov
+* [Dune Chronicles](https://www.goodreads.com/search?q=dune) by Frank Herbert
 * [The Hitchhiker's Guide to the Galaxy](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) by Douglas Adams
 * [Snow Crash](https://www.goodreads.com/book/show/830.Snow_Crash) by Neal Stephenson
 * [The Fifth Sacred Thing](https://www.goodreads.com/book/show/80689.The_Fifth_Sacred_Thing) by Starhawk
