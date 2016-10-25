@@ -302,10 +302,25 @@ Books
 
 * [I Hope They Serve Beer In Hell](https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell) by Tucker Max
 
+###Classics
+
+* [Sense and Sensibility](https://www.goodreads.com/book/show/14935.Sense_and_Sensibility) by Jane Austen
+* [The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye) by J.D. Salinger
+* [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky
+* [Pride And Prejudice](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) by Jane Austen
+* [Emma](https://www.goodreads.com/book/show/6969.Emma) by Jane Austen
+* [Mansfield Park](https://www.goodreads.com/book/show/45032) by Jane Austen
+* [Wuthering Heights](https://www.goodreads.com/book/show/6185.Wuthering_Heights) by Emily Bronte
+* [War and Peace](https://www.goodreads.com/book/show/656.War_and_Peace) by Leo Tolstoy
+* [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by Leo Tolstoy
+* [Catch 22](https://www.goodreads.com/book/show/4610.Catch_22)
+* [Adventures of Huckleberry Finn](https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn) by Mark Twain
+* [One Flew Over the Cuckoo's Nest](https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest) by Ken Kesey
+
 
 ###Others
 
-* [The Book Thief](https://www.goodreads.com/book/show/19063.The_Book_Thief) by Markus Zusak
+* [The Book Thief](https://www.goodreads.com/book/show/19063.The_Book_Thief) by Markus Zusak 
 * [A Prayer for Owen Meany](https://www.goodreads.com/book/show/4473.A_Prayer_for_Owen_Meany) by John Irving
 * [The Help](https://www.goodreads.com/book/show/4667024-the-help) by Kathryn Stockett
 * [Sophie's World: A Novel About the History of Philosophy](https://www.goodreads.com/book/show/10959.Sophie_s_World) by Jostein Gaarder and Paulette Moller
@@ -313,16 +328,9 @@ Books
 * [If on a Winter's Night a Traveler](https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler) by Italo Calvino and William Weaver
 * [The Eight](https://www.goodreads.com/book/show/113310.The_Eight) by Katherine Neville
 * [Snow Crash](https://www.goodreads.com/book/show/830.Snow_Crash) by Neal Stephenson
-* [Sense and Sensibility](https://www.goodreads.com/book/show/14935.Sense_and_Sensibility) by Jane Austen
-* [The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye) by J.D. Salinger
 * [Steppenwolf: A Novel](https://www.goodreads.com/book/show/16631.Steppenwolf) by Hermann Hesse, Basil Creighton
 * [The Glass Bead Game](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game) by Hermann Hesse, Richard and Clara Winston
 * [The Wall: (Intimacy) and Other Stories](https://www.goodreads.com/book/show/10031.The_Wall) by Jean-Paul Sartre, Lloyd Alexander
-* [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky
-* [Pride And Prejudice](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) by Jane Austen
-* [Emma](https://www.goodreads.com/book/show/6969.Emma) by Jane Austen
-* [Mansfield Park](https://www.goodreads.com/book/show/45032) by Jane Austen
-* [Wuthering Heights](https://www.goodreads.com/book/show/6185.Wuthering_Heights) by Emily Bronte
 * [The House of Mirth](https://www.goodreads.com/book/show/17728.The_House_of_Mirth) by Edith Wharton
 * [The Fifth Sacred Thing](https://www.goodreads.com/book/show/80689.The_Fifth_Sacred_Thing) by Starhawk
 * [The Bone People](https://www.goodreads.com/book/show/460635.The_Bone_People) by Keri Hulme
@@ -330,20 +338,15 @@ Books
 * [The City & The City](https://www.goodreads.com/book/show/4703581-the-city-the-city) by China Mieville
 * [Letters From The Earth](https://www.goodreads.com/book/show/37813.Letters_from_the_Earth) by Mark Twain
 * [One Hundred Years of Solitude](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude) byGabriel Garcia Marquez, Gregory Rabassa
-* [One Flew Over the Cuckoo's Nest](https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest) by Ken Kesey
 * [Watership Down: A Novel](https://www.goodreads.com/book/show/76620.Watership_Down) by Richard Adams
 * [Cat's Eye](https://www.goodreads.com/book/show/51019.Cat_s_Eye) by Margaret Atwood
 * [Bleak House](https://www.goodreads.com/book/show/31242.Bleak_House) by Charles Dickens
 * [Lonesome Dove](https://www.goodreads.com/book/show/256008.Lonesome_Dove) by Larry McMurtry
 * [The Queen's Gambit](https://www.goodreads.com/book/show/62022.The_Queen_s_Gambit) by Walter Tevis
-* [War and Peace](https://www.goodreads.com/book/show/656.War_and_Peace) by Leo Tolstoy
 * [The Death of Ivan Ilych](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) by Leo Tolstoy
-* [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by Leo Tolstoy
 * [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) by Oscar Wilde
 * [The Player of Games](https://www.goodreads.com/book/show/18630.The_Player_of_Games) by Iain M. Banks
 * [Kane and Abel](http://www.goodreads.com/book/show/78983.Kane_and_Abel) by Jeffrey Archer
-* [Catch 22](https://www.goodreads.com/book/show/4610.Catch_22)
-* [His Dark Materials](https://www.goodreads.com/book/show/18116.His_Dark_Materials)
 
 
 ##Health
