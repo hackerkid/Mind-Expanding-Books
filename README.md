@@ -296,6 +296,7 @@ Books
 * [The Broken Empire](https://www.goodreads.com/series/64473-the-broken-empire) by Mark Lawrence
 * [A Song of Ice and Fire](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) by George R.R. Martin
 * [The Lord of the Rings](https://www.goodreads.com/series/66175-the-lord-of-the-rings) by J.R.R. Tolkien
+* [His Dark Materials Trilogy](https://www.goodreads.com/search?utf8=%E2%9C%93&q=his+dark+materials&search_type=books) by Philip Pullman
 
 ###Humor
 
