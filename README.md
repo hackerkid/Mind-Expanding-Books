@@ -358,6 +358,13 @@ Books
 * [The Fifth Sacred Thing](https://www.goodreads.com/book/show/80689.The_Fifth_Sacred_Thing) by Starhawk
 * [The Player of Games](https://www.goodreads.com/book/show/18630.The_Player_of_Games) by Iain M. Banks
 
+
+###Horror
+* [Dracula](http://www.goodreads.com/book/show/17245.Dracula) by Bram Stoker
+* [Frankenstein](http://www.goodreads.com/book/show/18490.Frankenstein) by Mary Shelley, Maurice Hindle
+* [House of Leaves](http://www.goodreads.com/book/show/24800.House_of_Leaves) by Mark Z. Danielewski
+
+
 ###Miscellaneous
 
 * [The Bone People](https://www.goodreads.com/book/show/460635.The_Bone_People) by Keri Hulme
