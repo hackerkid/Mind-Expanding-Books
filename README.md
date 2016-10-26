@@ -323,6 +323,7 @@ Books
 * [A Song of Ice and Fire](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) by George R.R. Martin
 * [The City & The City](https://www.goodreads.com/book/show/4703581-the-city-the-city) by China Mieville
 * [His Dark Materials](https://www.goodreads.com/book/show/18116.His_Dark_Materials) by Philip Pullman
+* [Harry Potter and the Methods of Rationality](https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality) by Eliezer Yudkowsky
 
 ###Historical Fiction
 
@@ -337,7 +338,7 @@ Books
 ###Humor
 
 * [I Hope They Serve Beer In Hell](https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell) by Tucker Max
-* [Harry Potter and the Methods of Rationality](https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality) by Eliezer Yudkowsky
+
 
 ###Mystery
 
