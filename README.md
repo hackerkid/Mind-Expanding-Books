@@ -328,6 +328,7 @@ Books
 * [His Dark Materials](https://www.goodreads.com/book/show/18116.His_Dark_Materials) by Philip Pullman
 * [Harry Potter and the Methods of Rationality](https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality) by Eliezer Yudkowsky
 * [The Chronicles of Narnia](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia) by Clive Staples Lewis 
+* [The Dark Tower](https://www.goodreads.com/series/40750-the-dark-tower) by Stephen King
 
 ###Historical Fiction
 
