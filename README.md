@@ -314,7 +314,11 @@ Books
 * [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) by Oscar Wilde
 * [Catch 22](https://www.goodreads.com/book/show/4610.Catch_22) by Joseph Heller
 * [Adventures of Huckleberry Finn](https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn) by Mark Twain
+<<<<<<< HEAD
 * [Jane Eyre](https://www.goodreads.com/book/show/10210.Jane_Eyre) by Charlotte Brontë
+=======
+* [The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita) by Mikhail Bulgakov
+>>>>>>> Added Mikhail Bulgakov 'The Master and Margarita'
 
 ###Fantasy
 
