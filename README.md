@@ -323,6 +323,7 @@ Books
 * [The Lord of the Rings](https://www.goodreads.com/series/66175-the-lord-of-the-rings) by J.R.R. Tolkien
 * [The City & The City](https://www.goodreads.com/book/show/4703581-the-city-the-city) by China Mieville
 * [His Dark Materials](https://www.goodreads.com/book/show/18116.His_Dark_Materials) by Philip Pullman
+* [The Dark Tower](https://www.goodreads.com/series/40750-the-dark-tower) by Stephen King
 
 ###Historical Fiction
 
