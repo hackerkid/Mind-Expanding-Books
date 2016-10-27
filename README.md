@@ -382,6 +382,7 @@ Books
 
 ##Computer Science and Programming
 * [Learn You a Haskell for Great Good!](https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good) by Miran Lipovača.
+* [Seven Languages in Seven Weeks](https://www.goodreads.com/book/show/7912517-seven-languages-in-seven-weeks) by Bruce A. Tate
 
 ## License
 
