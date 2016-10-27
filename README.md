@@ -314,11 +314,17 @@ Books
 * [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) by Oscar Wilde
 * [Catch 22](https://www.goodreads.com/book/show/4610.Catch_22) by Joseph Heller
 * [Adventures of Huckleberry Finn](https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn) by Mark Twain
-<<<<<<< HEAD
 * [Jane Eyre](https://www.goodreads.com/book/show/10210.Jane_Eyre) by Charlotte Brontë
-=======
 * [The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita) by Mikhail Bulgakov
->>>>>>> Added Mikhail Bulgakov 'The Master and Margarita'
+* [Germinal](https://www.goodreads.com/book/show/28407.Germinal) by Emile Zola
+* [J'accuse](https://www.goodreads.com/book/show/816964.J_accuse) by Emile Zola
+* [Père Goriot](https://www.goodreads.com/book/show/59145.P_re_Goriot) by Honoré de Balzac
+* [Eugénie Grandet](https://www.goodreads.com/book/show/59142.Eug_nie_Grandet) by Honoré de Balzac
+* [Confessions](https://www.goodreads.com/book/show/12649.Confessions) by Jean-Jacques Rousseau
+* [Candide](https://www.goodreads.com/book/show/19380.Candide) by Voltaire
+* [Madame Bovary](https://www.goodreads.com/book/show/2175.Madame_Bovary) by Gustave Flaubert
+* [De L'esprit Des Lois](https://www.goodreads.com/book/show/29854007-de-l-esprit-des-lois-nouvelle-edition) by Montesquieu
+* [Lettres persanes](http://www.goodreads.com/book/show/509686.Persian_Letters) by Montesquieu
 
 ###Fantasy
 
