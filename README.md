@@ -212,7 +212,8 @@ Books
 * [Out of Control: The New Biology of Machines, Social Systems, and the Economic World](https://www.goodreads.com/book/show/16080353-out-of-control) by Kevin Kelly
 * [The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future] (https://www.goodreads.com/book/show/27209431-the-inevitable)by Kevin Kelly
 * [Tomorrowland: Our Staggering Journey from Science Fiction to Science Fact] (http://www.goodreads.com/book/show/25060233-tomorrowland) by Steven Kotler
-
+* [Golf is Not a Game of Perfect] (https://www.goodreads.com/book/show/935617.Golf_is_Not_a_Game_of_Perfect)
+Bob Rotella
 
 
 ##Logic and Problem Solving
