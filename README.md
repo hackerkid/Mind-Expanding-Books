@@ -325,6 +325,7 @@ Books
 * [Madame Bovary](https://www.goodreads.com/book/show/2175.Madame_Bovary) by Gustave Flaubert
 * [De L'esprit Des Lois](https://www.goodreads.com/book/show/29854007-de-l-esprit-des-lois-nouvelle-edition) by Montesquieu
 * [Lettres persanes](http://www.goodreads.com/book/show/509686.Persian_Letters) by Montesquieu
+* [Don Quixote](http://www.goodreads.com/book/show/3836.Don_Quixote) by Miguel de Cervantes
 
 ###Fantasy
 
@@ -361,6 +362,8 @@ Books
 * [The Murder of Roger Ackroyd](http://www.goodreads.com/book/show/16328.The_Murder_of_Roger_Ackroyd) by Agatha Christie
 * [Sherlock Holmes](https://www.goodreads.com/series/49996-sherlock-holmes) by Arthur Conan Doyle
 * [The Da Vinci Code](http://www.goodreads.com/book/show/968.The_Da_Vinci_Code) by Dan Brown
+* [Memory Man](https://www.goodreads.com/book/show/23153154-memory-man) by David Baldacci
+* [The Girl on the Train](https://www.goodreads.com/book/show/22557272-the-girl-on-the-train) by Paula Hawkins
 
 ###Science Fiction
 
@@ -384,6 +387,7 @@ Books
 * [The Bone People](https://www.goodreads.com/book/show/460635.The_Bone_People) by Keri Hulme
 * [Cat's Eye](https://www.goodreads.com/book/show/51019.Cat_s_Eye) by Margaret Atwood
 * [The Queen's Gambit](https://www.goodreads.com/book/show/62022.The_Queen_s_Gambit) by Walter Tevis
+* [Xeelee Sequence](http://www.goodreads.com/series/49784-xeelee-sequence) by Stephen Baxter
 
 ##Health
 
