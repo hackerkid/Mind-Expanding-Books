@@ -361,6 +361,8 @@ Books
 * [The Murder of Roger Ackroyd](http://www.goodreads.com/book/show/16328.The_Murder_of_Roger_Ackroyd) by Agatha Christie
 * [Sherlock Holmes](https://www.goodreads.com/series/49996-sherlock-holmes) by Arthur Conan Doyle
 * [The Da Vinci Code](http://www.goodreads.com/book/show/968.The_Da_Vinci_Code) by Dan Brown
+* [Memory Man](https://www.goodreads.com/book/show/23153154-memory-man) by David Baldacci
+* [The Girl on the Train](https://www.goodreads.com/book/show/22557272-the-girl-on-the-train) by Paula Hawkins
 
 ###Science Fiction
 
