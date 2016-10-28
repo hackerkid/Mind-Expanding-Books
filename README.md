@@ -349,6 +349,7 @@ Books
 * [Emma](https://www.goodreads.com/book/show/6969.Emma) by Jane Austen
 * [Lonesome Dove](https://www.goodreads.com/book/show/256008.Lonesome_Dove) by Larry McMurtry
 * [Kane and Abel](http://www.goodreads.com/book/show/78983.Kane_and_Abel) by Jeffrey Archer
+* [The Cuckoo’s Egg] (http://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg) Cliff Stoll
 
 ###Humor
 
