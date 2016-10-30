@@ -368,6 +368,7 @@ Books
 
 ###Science Fiction
 
+* [The Diamond Age](http://www.goodreads.com/book/show/827.The_Diamond_Age) by Neal Stephenson
 * [Ender's Game - Saga](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on) by Orson Scott Card 
 * [Foundation](https://www.goodreads.com/book/show/29579.Foundation) by Isaac Asimov
 * [Dune Chronicles](https://www.goodreads.com/search?q=dune) by Frank Herbert
