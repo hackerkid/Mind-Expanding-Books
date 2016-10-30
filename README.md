@@ -350,6 +350,7 @@ Books
 * [Emma](https://www.goodreads.com/book/show/6969.Emma) by Jane Austen
 * [Lonesome Dove](https://www.goodreads.com/book/show/256008.Lonesome_Dove) by Larry McMurtry
 * [Kane and Abel](http://www.goodreads.com/book/show/78983.Kane_and_Abel) by Jeffrey Archer
+* [The Pillars of the Earth](https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth?from_search=true) by Ken Follett
 
 ###Humor
 
