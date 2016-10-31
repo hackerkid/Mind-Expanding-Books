@@ -393,6 +393,7 @@ Books
 * [Cat's Eye](https://www.goodreads.com/book/show/51019.Cat_s_Eye) by Margaret Atwood
 * [The Queen's Gambit](https://www.goodreads.com/book/show/62022.The_Queen_s_Gambit) by Walter Tevis
 * [Xeelee Sequence](http://www.goodreads.com/series/49784-xeelee-sequence) by Stephen Baxter
+* [Ghost Fleet](https://www.goodreads.com/book/show/22749719-ghost-fleet?from_search=true) by P.W. Singer and August Cole
 
 ##Health
 
