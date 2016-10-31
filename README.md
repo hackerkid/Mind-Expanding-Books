@@ -223,6 +223,7 @@ Books
 * [What Is the Name of This Book?: The Riddle of Dracula and Other Logical Puzzles](https://www.goodreads.com/book/show/493576.What_Is_the_Name_of_This_Book_) by Raymond M. Smullyan
 * [How to Solve It: A New Aspect of Mathematical Method](https://www.goodreads.com/book/show/192221.How_to_Solve_It) by George Polya
 * [Labyrinths of Reason: Paradox, Puzzles, and the Frailty of Knowledge](https://www.goodreads.com/book/show/55436.Labyrinths_of_Reason) by William Poundstone
+* [A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](http://www.goodreads.com/book/show/18693655-a-mind-for-numbers) by Barbara Oakley
 
 ##Politics
 
