@@ -328,6 +328,7 @@ Books
 * [Madame Bovary](https://www.goodreads.com/book/show/2175.Madame_Bovary) by Gustave Flaubert
 * [De L'esprit Des Lois](https://www.goodreads.com/book/show/29854007-de-l-esprit-des-lois-nouvelle-edition) by Montesquieu
 * [Lettres persanes](http://www.goodreads.com/book/show/509686.Persian_Letters) by Montesquieu
+* [The Director] (http://www.goodreads.com/book/show/23316525-the-director) by David Ignatius
 
 ###Fantasy
 
