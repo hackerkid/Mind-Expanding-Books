@@ -329,6 +329,7 @@ Books
 * [De L'esprit Des Lois](https://www.goodreads.com/book/show/29854007-de-l-esprit-des-lois-nouvelle-edition) by Montesquieu
 * [Lettres persanes](http://www.goodreads.com/book/show/509686.Persian_Letters) by Montesquieu
 * [Don Quixote](http://www.goodreads.com/book/show/3836.Don_Quixote) by Miguel de Cervantes
+* [The Director] (http://www.goodreads.com/book/show/23316525-the-director) by David Ignatius
 
 ###Fantasy
 
