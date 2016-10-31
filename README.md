@@ -247,6 +247,9 @@ Books
 * [The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done About It](https://www.goodreads.com/book/show/493371.The_Bottom_Billion) by Paul Collier
 * [Currency Wars: The Making of the Next Global Crisis](https://www.goodreads.com/book/show/11515298-currency-wars) by James Rickards
 * [Economic Facts and Fallacies](https://www.goodreads.com/book/show/2064279.Economic_Facts_and_Fallacies) by Thomas Sowell
+* [Every Shot Counts: Using the Revolutionary Strokes Gained Approach to Improve Your Golf Performance and Strategy] (https://www.goodreads.com/book/show/17674971-every-shot-counts) by Mark Broadie
+
+
 
 ##Sexuality
 
