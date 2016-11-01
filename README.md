@@ -257,7 +257,7 @@ Books
 * [Sex at Dawn: The Prehistoric Origins of Modern](https://www.goodreads.com/book/show/7640261-sex-at-dawn) by Christopher Ryan, Cacilda Jetha
 * [The Sex Myth](https://www.goodreads.com/book/show/13569582-the-sex-myth) by Brooke Magnanti
 * [The Ethical Slut: A Guide to Infinite Sexual Possibilities](http://www.goodreads.com/book/show/54944.The_Ethical_Slut?from_search=true) by  Dossie Easton, Catherine A. Liszt.
-* 
+
 
 ##Education
 
