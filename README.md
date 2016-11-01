@@ -159,6 +159,7 @@ Books
 * [iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It](http://www.goodreads.com/book/show/798635.iWoz) by Steve Wozniak
 * [The Last Lecture](http://www.goodreads.com/book/show/2318271.The_Last_Lecture) by Randy Pausch
 * [Ghost in the Wires:	My Adventures as the World's Most Wanted Hacker] (http://www.goodreads.com/book/show/10256723-ghost-in-the-wires) by Kevin Mitnick
+* [An Astronaut's Guide to Life on Earth](https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth) by Chris Hadfield
 
 ##History
 
