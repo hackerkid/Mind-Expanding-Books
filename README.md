@@ -18,6 +18,7 @@ Table of Contents
 * [Theater and Film](#theater-and-film)
 * [Humor](#humor)
 * [Fiction](#fiction)
+* [Sci-fi](#sci-fi)
 * [Health](#health)
 * [Design](#design)
 
@@ -284,6 +285,10 @@ Books
 * [Lonesome Dove](https://www.goodreads.com/book/show/256008.Lonesome_Dove) by Larry McMurtry
 * [The Queen's Gambit](https://www.goodreads.com/book/show/62022.The_Queen_s_Gambit) by Walter Tevis
 * [War and Peace](https://www.goodreads.com/book/show/656.War_and_Peace) by Leo Tolstoy
+
+##Sci-fi
+
+* [The codex](https://www.goodreads.com/book/show/136640.The_Codex?ac=1&from_search=true) by Douglas Preston
 
 ###Health
 
