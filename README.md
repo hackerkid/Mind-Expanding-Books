@@ -26,6 +26,8 @@ Books
 -----
 
 ###Startups and Business
+
+* [Inside Apple](https://www.goodreads.com/book/show/13055451-inside-apple) by  Adam Lashinsky 
 * [Hackers and Painters](https://www.goodreads.com/book/show/41793.Hackers_Painters) by Paul Graham
 * [Linchpin: Are You Indispensable](https://www.goodreads.com/book/show/7155145-linchpin) by Seth Godin
 * [The Black Swan: The Impact of the Highly Improbable](http://www.goodreads.com/book/show/242472.The_Black_Swan) by Nassim Nicholas Taleb
@@ -254,6 +256,8 @@ Books
 
 ###Fiction
 
+
+* [The girl on the train](https://www.goodreads.com/book/show/22557272-the-girl-on-the-train?ac=1&from_search=true) by Paula Hawkins
 * [The Book Thief](https://www.goodreads.com/book/show/19063.The_Book_Thief) by Markus Zusak
 * [A Prayer for Owen Meany](https://www.goodreads.com/book/show/4473.A_Prayer_for_Owen_Meany) by John Irving
 * [The Help](https://www.goodreads.com/book/show/4667024-the-help) by Kathryn Stockett
@@ -276,6 +280,9 @@ Books
 * [The Bone People](https://www.goodreads.com/book/show/460635.The_Bone_People) by Keri Hulme
 * [Confessions of a Mask](https://www.goodreads.com/book/show/62794.Confessions_of_a_Mask) by Yukio Mishima
 * [The City & The City](https://www.goodreads.com/book/show/4703581-the-city-the-city) by China Mieville
+* [The lost symbol](https://www.goodreads.com/book/show/6411961-the-lost-symbol?ac=1&from_search=true) by Dan Brown
+* [The Da vinci code](https://www.goodreads.com/book/show/968.The_Da_Vinci_Code?ac=1&from_search=true) by Dan Brown
+* [The Deception point](https://www.goodreads.com/book/show/976.Deception_Point?ac=1&from_search=true) by Dan Brown
 * [Letters From The Earth](https://www.goodreads.com/book/show/37813.Letters_from_the_Earth) by Mark Twain
 * [One Hundred Years of Solitude](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude) byGabriel Garcia Marquez, Gregory Rabassa
 * [One Flew Over the Cuckoo's Nest](https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest) by Ken Kesey
@@ -289,6 +296,12 @@ Books
 ##Sci-fi
 
 * [The codex](https://www.goodreads.com/book/show/136640.The_Codex?ac=1&from_search=true) by Douglas Preston
+* [Insignia](https://www.goodreads.com/book/show/11115434-insignia?ac=1&from_search=true) by S.J.Kincaid
+* [Vortex](https://www.goodreads.com/book/show/16101515-vortex?ac=1&from_search=true) by S.J.Kincaid 
+* [Catalyst](https://www.goodreads.com/book/show/18054017-catalyst?ac=1&from_search=true) by S.J.Kincaid
+* [The digital fortress](https://www.goodreads.com/book/show/11125.Digital_Fortress?ac=1&from_search=true) by Dan Brown
+* [Inferno](https://www.goodreads.com/book/show/17212231-inferno?ac=1&from_search=true) by Dan Brown
+
 
 ###Health
 
