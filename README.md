@@ -100,6 +100,9 @@ Books
 * [Alone Together: Why We Expect More from Technology and Less from Each Others]() by Sherry Turkle
 * [Supernormal: Science, Yoga, and the Evidence for Extraordinary Psychic Abilities](www.goodreads.com/book/show/8694125-alone-together) by Dean Radin
 * [Irrational Man: A Study in Existential Philosophy](https://www.goodreads.com/book/show/83321.Irrational_Man) by William Barrett
+* [Zahir](https://www.goodreads.com/book/show/1427.The_Zahir?ac=1&from_search=true) by Paulo Coelho
+* [The alchemist](https://www.goodreads.com/book/show/865.The_Alchemist?ac=1&from_search=true) by Paulo Coelho
+* [Veronika Decides to die](https://www.goodreads.com/book/show/1431.Veronika_Decides_to_Die?ac=1&from_search=true) by Paulo Coelho
 * [The Power of Habit: Why We Do What We Do In Life And Business](https://www.goodreads.com/book/show/12609433-the-power-of-habit) by Charles Duhigg
 * [The Concise 48 Laws of Power](https://www.goodreads.com/book/show/18224060-the-concise-48-laws-of-power) by Robert Greene
 * [Prisoner's Dilemma](https://www.goodreads.com/book/show/29506.Prisoner_s_Dilemma) by William Poundstone
