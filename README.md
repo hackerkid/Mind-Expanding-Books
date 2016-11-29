@@ -138,7 +138,7 @@ Books
 * [Jonathan Livingston Seagull](https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull) by Richard Bach
 * [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) by Viktor E. Frankl
 * [Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny!](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within) by Anthony Robbins
-
+* [The Power of Now: A Guide to Spiritual Enlightenment](http://www.goodreads.com/book/show/6708.The_Power_of_Now) by Eckhart Tolle
 
 ##Autobiographies and Biographies
 
