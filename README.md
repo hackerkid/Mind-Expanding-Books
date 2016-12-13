@@ -418,6 +418,7 @@ Books
 ##Computer Science and Programming
 * [Learn You a Haskell for Great Good!](https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good) by Miran Lipovača.
 * [The Pragmatic Programmer](http://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) by Andrew Hunt, Dave Thomas 
+* [Problem Solving with Algorithms and Data Structures Using Python](http://www.goodreads.com/book/show/594291.Problem_Solving_with_Algorithms_and_Data_Structures_Using_Python?ac=1&from_search=true) by Bradley Miller
 
 ## License
 
