@@ -75,6 +75,7 @@ Books
 * [The Curse of the Mogul](https://www.goodreads.com/book/show/7162410-the-curse-of-the-mogul) by Jonathan A. Knee, Bruce C. Greenwald, Ava Seave
 * [The Accidental Billionaires : The Founding of Facebook, a Tale of Sex, Money, Genius and Betrayal](https://www.goodreads.com/book/show/6326920-the-accidental-billionaires) by Ben Mezrich
 * [Lean In : Women, Work and the Will to Lead](http://www.goodreads.com/book/show/16071764-lean-in) by Sheryl Sandberg
+* [High Output Management](https://www.goodreads.com/book/show/324750.High_Output_Management) by Andy Grove
 
 ##Philosophy And Psychology
 
@@ -157,6 +158,8 @@ Books
 * [Madame Curie: A Biography](https://www.goodreads.com/book/show/341166.Madame_Curie) by Marie Curie
 * [iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It](http://www.goodreads.com/book/show/798635.iWoz) by Steve Wozniak
 * [The Last Lecture](http://www.goodreads.com/book/show/2318271.The_Last_Lecture) by Randy Pausch
+* [Ghost in the Wires:	My Adventures as the World's Most Wanted Hacker] (http://www.goodreads.com/book/show/10256723-ghost-in-the-wires) by Kevin Mitnick
+* [An Astronaut's Guide to Life on Earth](https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth) by Chris Hadfield
 
 ##History
 
@@ -178,6 +181,7 @@ Books
 * [God Created The Integers: The Mathematical Breakthroughs that Changed History](https://www.goodreads.com/book/show/2096.God_Created_The_Integers) by Stephen Hawking
 * [The World Is Flat: A Brief History of the Twenty-first Century](https://www.goodreads.com/book/show/<1911 class="The_World_Is_Flat"></1911>) by Thomas L. Friedman
 * [El Tiempo Entre Costuras (The Time Between Seams / The Time In Between)](https://www.goodreads.com/book/show/7502166-el-tiempo-entre-costuras) by María Dueñas
+* [Spycraft] (http://www.goodreads.com/book/show/971936.Spycraft) Robert Wallace, H. Keith Melton, Henry R. Schlesinger
 
 ##Science and Medicine
 
@@ -220,6 +224,7 @@ Books
 * [What Is the Name of This Book?: The Riddle of Dracula and Other Logical Puzzles](https://www.goodreads.com/book/show/493576.What_Is_the_Name_of_This_Book_) by Raymond M. Smullyan
 * [How to Solve It: A New Aspect of Mathematical Method](https://www.goodreads.com/book/show/192221.How_to_Solve_It) by George Polya
 * [Labyrinths of Reason: Paradox, Puzzles, and the Frailty of Knowledge](https://www.goodreads.com/book/show/55436.Labyrinths_of_Reason) by William Poundstone
+* [A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](http://www.goodreads.com/book/show/18693655-a-mind-for-numbers) by Barbara Oakley
 
 ##Politics
 
@@ -244,13 +249,16 @@ Books
 * [The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done About It](https://www.goodreads.com/book/show/493371.The_Bottom_Billion) by Paul Collier
 * [Currency Wars: The Making of the Next Global Crisis](https://www.goodreads.com/book/show/11515298-currency-wars) by James Rickards
 * [Economic Facts and Fallacies](https://www.goodreads.com/book/show/2064279.Economic_Facts_and_Fallacies) by Thomas Sowell
+* [Every Shot Counts: Using the Revolutionary Strokes Gained Approach to Improve Your Golf Performance and Strategy] (https://www.goodreads.com/book/show/17674971-every-shot-counts) by Mark Broadie
+
+
 
 ##Sexuality
 
 * [Sex at Dawn: The Prehistoric Origins of Modern](https://www.goodreads.com/book/show/7640261-sex-at-dawn) by Christopher Ryan, Cacilda Jetha
 * [The Sex Myth](https://www.goodreads.com/book/show/13569582-the-sex-myth) by Brooke Magnanti
 * [The Ethical Slut: A Guide to Infinite Sexual Possibilities](http://www.goodreads.com/book/show/54944.The_Ethical_Slut?from_search=true) by  Dossie Easton, Catherine A. Liszt.
-* 
+
 
 ##Education
 
@@ -325,6 +333,8 @@ Books
 * [Madame Bovary](https://www.goodreads.com/book/show/2175.Madame_Bovary) by Gustave Flaubert
 * [De L'esprit Des Lois](https://www.goodreads.com/book/show/29854007-de-l-esprit-des-lois-nouvelle-edition) by Montesquieu
 * [Lettres persanes](http://www.goodreads.com/book/show/509686.Persian_Letters) by Montesquieu
+* [Don Quixote](http://www.goodreads.com/book/show/3836.Don_Quixote) by Miguel de Cervantes
+* [The Director] (http://www.goodreads.com/book/show/23316525-the-director) by David Ignatius
 
 ###Fantasy
 
@@ -349,6 +359,7 @@ Books
 * [Emma](https://www.goodreads.com/book/show/6969.Emma) by Jane Austen
 * [Lonesome Dove](https://www.goodreads.com/book/show/256008.Lonesome_Dove) by Larry McMurtry
 * [Kane and Abel](http://www.goodreads.com/book/show/78983.Kane_and_Abel) by Jeffrey Archer
+* [The Pillars of the Earth](https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth?from_search=true) by Ken Follett
 
 ###Humor
 
@@ -366,6 +377,7 @@ Books
 
 ###Science Fiction
 
+* [The Diamond Age](http://www.goodreads.com/book/show/827.The_Diamond_Age) by Neal Stephenson
 * [Ender's Game - Saga](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on) by Orson Scott Card 
 * [Foundation](https://www.goodreads.com/book/show/29579.Foundation) by Isaac Asimov
 * [Dune Chronicles](https://www.goodreads.com/search?q=dune) by Frank Herbert
@@ -373,6 +385,7 @@ Books
 * [Snow Crash](https://www.goodreads.com/book/show/830.Snow_Crash) by Neal Stephenson
 * [The Fifth Sacred Thing](https://www.goodreads.com/book/show/80689.The_Fifth_Sacred_Thing) by Starhawk
 * [The Player of Games](https://www.goodreads.com/book/show/18630.The_Player_of_Games) by Iain M. Banks
+* [Fahrenheit 451](https://www.goodreads.com/book/show/17470674-fahrenheit-451) by Ray Bradbury
 
 
 ###Horror
