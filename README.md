@@ -419,6 +419,7 @@ Books
 ##Computer Science and Programming
 * [Learn You a Haskell for Great Good!](https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good) by Miran Lipovača.
 * [The Pragmatic Programmer](http://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) by Andrew Hunt, Dave Thomas 
+* [Building Skills in Object-Oriented Design](http://www.itmaybeahack.com/homepage/books/oodesign.html) by Steven F. Lott
 
 ## License
 
