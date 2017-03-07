@@ -420,6 +420,7 @@ Books
 ##Computer Science and Programming
 * [Learn You a Haskell for Great Good!](https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good) by Miran Lipovača.
 * [The Pragmatic Programmer](http://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) by Andrew Hunt, Dave Thomas 
+* [Introduction to Algorithms](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
 
 ## License
 
