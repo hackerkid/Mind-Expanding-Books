@@ -76,6 +76,7 @@ Books
 * [The Accidental Billionaires : The Founding of Facebook, a Tale of Sex, Money, Genius and Betrayal](https://www.goodreads.com/book/show/6326920-the-accidental-billionaires) by Ben Mezrich
 * [Lean In : Women, Work and the Will to Lead](http://www.goodreads.com/book/show/16071764-lean-in) by Sheryl Sandberg
 * [High Output Management](https://www.goodreads.com/book/show/324750.High_Output_Management) by Andy Grove
+* [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](https://www.goodreads.com/book/show/1202.Freakonomics) by Steven D. Levitt, Stephen J. Dubner
 
 ##Philosophy And Psychology
 
