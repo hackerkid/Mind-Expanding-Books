@@ -5,8 +5,8 @@
 > Curated list of mind expanding books.
 
 ## Table of Contents
-- [Startups and Business](#startups-and-business)
-- [Philosophy and Psychology](#philosophy-and-psychology)
+* [Startups and Business](#startups-and-business)
+* [Philosophy and Psychology](#philosophy-and-psychology)
 * [Autobiographies and Biographies](#autobiographies-and-biographies)
 * [History](#history)
 * [Evolution, Science and Medicine](#science-and-medicine)
@@ -158,7 +158,7 @@
 * [Madame Curie: A Biography](https://www.goodreads.com/book/show/341166.Madame_Curie) by Marie Curie
 * [iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It](http://www.goodreads.com/book/show/798635.iWoz) by Steve Wozniak
 * [The Last Lecture](http://www.goodreads.com/book/show/2318271.The_Last_Lecture) by Randy Pausch
-* [Ghost in the Wires:	My Adventures as the World's Most Wanted Hacker] (http://www.goodreads.com/book/show/10256723-ghost-in-the-wires) by Kevin Mitnick
+* [Ghost in the Wires:	My Adventures as the World's Most Wanted Hacker](http://www.goodreads.com/book/show/10256723-ghost-in-the-wires) by Kevin Mitnick
 * [An Astronaut's Guide to Life on Earth](https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth) by Chris Hadfield
 * [Losing My Virginity: The Autobiography](https://www.goodreads.com/book/show/9533705-losing-my-virginity) by Richard Branson
 
@@ -179,10 +179,10 @@
 * [Churchill's Secret War: The British Empire and the Ravaging of India during World War II](https://www.goodreads.com/book/show/8890989-churchill-s-secret-war) by Madhusree Mukerjee
 * [The Revenge of Geography: What the Map Tells Us About Coming Conflicts and the Battle Against Fate](https://www.goodreads.com/book/show/13330422-the-revenge-of-geography) by Robert D. Kaplan
 * [God Created The Integers: The Mathematical Breakthroughs that Changed History](https://www.goodreads.com/book/show/2096.God_Created_The_Integers) by Stephen Hawking
-* [The World Is Flat: A Brief History of the Twenty-first Century](https://www.goodreads.com/book/show/<1911 class="The_World_Is_Flat"></1911>) by Thomas L. Friedman
+* [The World Is Flat: A Brief History of the Twenty-first Century](https://www.goodreads.com/book/show/1911.The_World_Is_Flat) by Thomas L. Friedman
 * [El Tiempo Entre Costuras (The Time Between Seams / The Time In Between)](https://www.goodreads.com/book/show/7502166-el-tiempo-entre-costuras) by María Dueñas
-* [Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground] (http://www.goodreads.com/book/show/9319468-kingpin) by Kevin Poulson
-* [Spycraft] (http://www.goodreads.com/book/show/971936.Spycraft) Robert Wallace, H. Keith Melton, Henry R. Schlesinger
+* [Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground](http://www.goodreads.com/book/show/9319468-kingpin) by Kevin Poulson
+* [Spycraft](http://www.goodreads.com/book/show/971936.Spycraft) Robert Wallace, H. Keith Melton, Henry R. Schlesinger
 
 ## Science and Medicine
 * [The Structure of Scientific Revolutions: 50th Anniversary Edition](https://www.goodreads.com/book/show/61539.The_Structure_of_Scientific_Revolutions) by Thomas S. Kuhn
@@ -215,7 +215,7 @@
 * [The Little Schemer](https://www.goodreads.com/book/show/548914.The_Little_Schemer) by Daniel P. Friedman, Matthias Felleisen, Duane Bibby, Gerald J. Sussman
 * [Out of Control: The New Biology of Machines, Social Systems, and the Economic World](https://www.goodreads.com/book/show/16080353-out-of-control) by Kevin Kelly
 * [The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future] (https://www.goodreads.com/book/show/27209431-the-inevitable)by Kevin Kelly
-* [Tomorrowland: Our Staggering Journey from Science Fiction to Science Fact] (http://www.goodreads.com/book/show/25060233-tomorrowland) by Steven Kotler
+* [Tomorrowland: Our Staggering Journey from Science Fiction to Science Fact](http://www.goodreads.com/book/show/25060233-tomorrowland) by Steven Kotler
 
 ## Logic and Problem Solving
 * [What Is the Name of This Book?: The Riddle of Dracula and Other Logical Puzzles](https://www.goodreads.com/book/show/493576.What_Is_the_Name_of_This_Book_) by Raymond M. Smullyan
@@ -244,7 +244,7 @@
 * [The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done About It](https://www.goodreads.com/book/show/493371.The_Bottom_Billion) by Paul Collier
 * [Currency Wars: The Making of the Next Global Crisis](https://www.goodreads.com/book/show/11515298-currency-wars) by James Rickards
 * [Economic Facts and Fallacies](https://www.goodreads.com/book/show/2064279.Economic_Facts_and_Fallacies) by Thomas Sowell
-* [Every Shot Counts: Using the Revolutionary Strokes Gained Approach to Improve Your Golf Performance and Strategy] (https://www.goodreads.com/book/show/17674971-every-shot-counts) by Mark Broadie
+* [Every Shot Counts: Using the Revolutionary Strokes Gained Approach to Improve Your Golf Performance and Strategy](https://www.goodreads.com/book/show/17674971-every-shot-counts) by Mark Broadie
 
 ## Sexuality
 * [Sex at Dawn: The Prehistoric Origins of Modern](https://www.goodreads.com/book/show/7640261-sex-at-dawn) by Christopher Ryan, Cacilda Jetha
@@ -321,7 +321,7 @@
 * [De L'esprit Des Lois](https://www.goodreads.com/book/show/29854007-de-l-esprit-des-lois-nouvelle-edition) by Montesquieu
 * [Lettres persanes](http://www.goodreads.com/book/show/509686.Persian_Letters) by Montesquieu
 * [Don Quixote](http://www.goodreads.com/book/show/3836.Don_Quixote) by Miguel de Cervantes
-* [The Director] (http://www.goodreads.com/book/show/23316525-the-director) by David Ignatius
+* [The Director](http://www.goodreads.com/book/show/23316525-the-director) by David Ignatius
 
 ### Fantasy
 * [Harry Potter](https://www.goodreads.com/series/45175-harry-potter) by J.K. Rowling
@@ -368,7 +368,7 @@
 * [The Player of Games](https://www.goodreads.com/book/show/18630.The_Player_of_Games) by Iain M. Banks
 * [Fahrenheit 451](https://www.goodreads.com/book/show/17470674-fahrenheit-451) by Ray Bradbury
 
-###Horror
+### Horror
 * [Dracula](http://www.goodreads.com/book/show/17245.Dracula) by Bram Stoker
 * [Frankenstein](http://www.goodreads.com/book/show/18490.Frankenstein) by Mary Shelley, Maurice Hindle
 * [House of Leaves](http://www.goodreads.com/book/show/24800.House_of_Leaves) by Mark Z. Danielewski
@@ -384,7 +384,7 @@
 ## Health
 * [8 Weeks to Optimum Health](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) by Andrew Weil
 * [Convict Conditioning](http://www.goodreads.com/book/show/7305111-convict-conditioning) by Paul Wade
-* [Eat and Run: My Unlikely Journey to Ultramarathon Greatness] (https://www.goodreads.com/book/show/13202092-eat-and-run?from_search=true) by  Scott Jurek, Steve Friedman
+* [Eat and Run: My Unlikely Journey to Ultramarathon Greatness](https://www.goodreads.com/book/show/13202092-eat-and-run) by  Scott Jurek, Steve Friedman
 
 ## Design
 * [Pattern Language: Towns, Buildings, Construction](https://www.goodreads.com/book/show/79766.A_Pattern_Language) by Christopher Alexander, Sara Ishikawa, Murray Silverstein, Max Jacobson, Ingrid Fiksdahl-King and Shlomo Angel
