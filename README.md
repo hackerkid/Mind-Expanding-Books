@@ -139,6 +139,7 @@
 * [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) by Viktor E. Frankl
 * [Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny!](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within) by Anthony Robbins
 * [Ego Is the Enemy](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy) by Ryan Holiday
+* [Grit](https://www.goodreads.com/book/show/27213329-grit) by Angela Duckworth
 
 ## Autobiographies and Biographies
 * [Elon Musk: Inventing the Future](https://www.goodreads.com/book/show/22543496-elon-musk) by Ashlee Vance
