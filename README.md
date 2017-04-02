@@ -17,12 +17,9 @@
 * [Education](#education)
 * [Writing](#writing)
 * [Theater and Film](#theater-and-film)
-* [Humor](#humor)
 * [Fiction](#fiction)
 * [Health](#health)
 * [Design](#design)
-* [Fantasy](#fantasy)
-* [Computer Science and Programming](#computer-science-and-programming)
 
 # Books
 
@@ -391,10 +388,6 @@
 * [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) by Steve Krug
 * [The Design of Everyday Things](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) by Donald Norman
 
-## Computer Science and Programming
-* [Learn You a Haskell for Great Good!](https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good) by Miran Lipovača.
-* [The Pragmatic Programmer](http://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) by Andrew Hunt, Dave Thomas
-* [Introduction to Algorithms](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
 
 ## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
