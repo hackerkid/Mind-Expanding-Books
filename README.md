@@ -160,6 +160,7 @@
 * [Losing My Virginity: The Autobiography](https://www.goodreads.com/book/show/9533705-losing-my-virginity) by Richard Branson
 
 ## History
+* [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens) by Yuval Noah Harari
 * [Discovery of India](http://www.goodreads.com/book/show/154126.The_Discovery_of_India) by Jawaharlal Nehru
 * [The Rise and Fall of the British Empire](https://www.goodreads.com/book/show/143980.The_Rise_and_Fall_of_the_British_Empire) by Lawrence James
 * [The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet](https://www.goodreads.com/book/show/29608.The_Codebreakers) by David Kahn
