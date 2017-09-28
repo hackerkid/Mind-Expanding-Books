@@ -1,5 +1,3 @@
-from shutil import copyfile
-
 file_with_books = './../README.MD'
 
 # we assume that every line after # Books starting with * is a book title
