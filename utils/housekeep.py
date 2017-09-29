@@ -1,3 +1,5 @@
+from config import GOODREADS_PUBLIC_API_KEY
+
 file_with_books = './../README.MD'
 
 # we assume that every line after # Books starting with * is a book title
@@ -80,7 +82,25 @@ def render(file_name, library):
                     out_file.write(line)
                     books_not_reached = True
 
-
+def get_details(book_object):
+    import xml.etree.ElementTree as ET
+    import urllib.request
+    import urllib.error
+    url = "http://www.goodreads.com/book/title.xml?key={}&title={}".format(GOODREADS_PUBLIC_API_KEY, book_object['title'])
+    url = url.replace(' ', '%20')
+    print(url)
+    try:
+        tree = ET.ElementTree(file=urllib.request.urlopen(url))
+        root = tree.getroot()
+        book = root.find('book')
+        book_object['year'] = book.find('publication_year').text
+        book_object['lang'] = book.find('language_code').text
+        book_object['avg_rt'] = book.find('average_rating').text
+        book_object['pages'] = book.find('num_pages').text
+    except urllib.error.HTTPError as e:
+        print('Error getting book details from goodread: ')
+        print(str(e.getcode()) + ' ' + e.msg)
+    print(book_object)
 
 library = load(file_with_books)
 library = sort_by(library, 'title')
@@ -91,3 +111,6 @@ library = load(file_with_books)
 library = sort_by(library, 'author')
 
 render('./../by-author.md', library)
+
+print(library)
+get_details(library['### Miscellaneous'][0])
