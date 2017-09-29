@@ -1,116 +1,57 @@
-from config import GOODREADS_PUBLIC_API_KEY
+# we assume that every line after # Books
+# starting with * is a book title if file type is old
+# starting with | (and not with | Name or |--) is a book if the file type is new
 
-file_with_books = './../README.MD'
-
-# we assume that every line after # Books starting with * is a book title
-
-
-def read_file_content(file):
-    with open(file) as f:
-        content = f.readlines()
-    # remove whitespaces
-    return [_.strip() for _ in content]
-
-
-def parse_book_string(book_string):
-    book = {}
-    book['title'] = book_string.split('[')[1].split(']')[0]
-    book['url'] = book_string.split('(')[1].split(')')[0]
-    book['author'] = book_string.split(' by ')[-1]
-    return book
-
-
-def load(file):
-    file = read_file_content(file)
-    print(file)
-    # we start one line after tilte # Books
-    line_to_start = file.index('# Books') + 1
-    current_title = ''
-    books_under_current_title = []
-    library = {}
-
-    for i in range(line_to_start, len(file)):
-        line = file[i]
-
-        # we have a title
-        if line.startswith('##'):
-            if len(current_title) == 0:
-                current_title = line
-            else:
-                library[current_title] = books_under_current_title
-                books_under_current_title = []
-                current_title = line
-            continue
-
-        # we have a book
-        if line.startswith('*'):
-            book = parse_book_string(line)
-            books_under_current_title.append(book)
-    return library
+# ARGUMENT HANDLING
+try:
+    import argparse
+    parser = argparse.ArgumentParser(description='Process file.')
+    parser.add_argument(
+        '--in_file',
+        help='File to process, defaults to ./../README.MD')
+    parser.add_argument(
+        '--out_file',
+        help='File to save to, defaults to ./../README-NEW.MD')
+    parser.add_argument(
+        '--file_type',
+        choices=['old', 'new'],
+        help='old if links are displayed in a list, new if in a table')
+    parser.add_argument(
+        '--sort_by',
+        choices = ['rating', 'title', 'author', 'year'],
+        help='defaults to rating')
+    flags = parser.parse_args()
+        #argparse.ArgumentParser(parents=[tools.argparser]).parse_args()
+    print(flags)
+except ImportError:
+    flags = None
 
 
-def sort_by(library, key_to_sort_on):
+def sort(library, key_to_sort_on, reverse = False):
     new_library = {}
     for key in library:
         books = library[key]
-        new_library[key] = sorted(books, key=lambda k: k[key_to_sort_on])
+        new_library[key] = sorted(books, key=lambda k: k[key_to_sort_on], reverse=reverse)
     return new_library
 
 
-def render_book_line(book_object):
-    return '* [{}]({}) by {}.\n'.format(book_object['title'], book_object['url'], book_object['author'])
+def main():
+    from read_file import load
+    from gooodreads import get_goodread_info
+    from write_file import render
+
+    in_file = flags.in_file or './../README.MD'
+    out_file = flags.out_file or './../README-NEW.md'
+    file_type = flags.file_type or 'new'
+    sort_by = flags.sort_by or 'rating'
+    reverse = True if sort_by == 'rating' else False
+
+    library = load(in_file, file_type)
+    get_goodread_info(library)
+    library = sort(library, sort_by, reverse)
+    render(in_file, out_file, library)
+
+if __name__ == '__main__':
+    main()
 
 
-# TODO: refine this logic
-def render(file_name, library):
-    books_not_reached = True
-    with open(file_name, 'w') as out_file:
-        with open(file_with_books) as original_file:
-            for line in original_file:
-
-                if line.strip() in library:
-                    if not books_not_reached: out_file.write('\n')
-                    books_not_reached = False
-                    out_file.write(line)
-                    for book in library[line.strip()]:
-                        out_file.write(render_book_line(book))
-                elif books_not_reached:
-                    out_file.write(line)
-                elif line.startswith('## License'):
-                    out_file.write('\n')
-                    out_file.write('\n')
-                    out_file.write(line)
-                    books_not_reached = True
-
-def get_details(book_object):
-    import xml.etree.ElementTree as ET
-    import urllib.request
-    import urllib.error
-    url = "http://www.goodreads.com/book/title.xml?key={}&title={}".format(GOODREADS_PUBLIC_API_KEY, book_object['title'])
-    url = url.replace(' ', '%20')
-    print(url)
-    try:
-        tree = ET.ElementTree(file=urllib.request.urlopen(url))
-        root = tree.getroot()
-        book = root.find('book')
-        book_object['year'] = book.find('publication_year').text
-        book_object['lang'] = book.find('language_code').text
-        book_object['avg_rt'] = book.find('average_rating').text
-        book_object['pages'] = book.find('num_pages').text
-    except urllib.error.HTTPError as e:
-        print('Error getting book details from GoodReads: ')
-        print(str(e.getcode()) + ' ' + e.msg)
-    print(book_object)
-
-library = load(file_with_books)
-library = sort_by(library, 'title')
-
-render('./../by-title.md', library)
-
-library = load(file_with_books)
-library = sort_by(library, 'author')
-
-render('./../by-author.md', library)
-
-print(library)
-get_details(library['### Miscellaneous'][0])
