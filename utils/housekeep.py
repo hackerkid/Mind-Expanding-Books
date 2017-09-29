@@ -98,7 +98,7 @@ def get_details(book_object):
         book_object['avg_rt'] = book.find('average_rating').text
         book_object['pages'] = book.find('num_pages').text
     except urllib.error.HTTPError as e:
-        print('Error getting book details from goodread: ')
+        print('Error getting book details from GoodReads: ')
         print(str(e.getcode()) + ' ' + e.msg)
     print(book_object)
 
