@@ -21,8 +21,6 @@ try:
         choices = ['rating', 'title', 'author', 'year'],
         help='defaults to rating')
     flags = parser.parse_args()
-        #argparse.ArgumentParser(parents=[tools.argparser]).parse_args()
-    print(flags)
 except ImportError:
     flags = None
 
