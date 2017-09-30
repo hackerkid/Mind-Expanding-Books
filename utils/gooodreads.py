@@ -26,7 +26,6 @@ def get_details(book_object):
 
 def get_goodread_info(library):
     import sys
-    return
     print('')
     print('Getting GoodReads data...')
 
