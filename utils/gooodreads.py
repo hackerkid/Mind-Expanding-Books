@@ -8,9 +8,9 @@ from config import GOODREADS_PUBLIC_API_KEY
 
 def get_details(book_object):
 
-    url = "http://www.goodreads.com/book/title.xml?key={}&title={}".format(GOODREADS_PUBLIC_API_KEY, urllib.parse.quote_plus(book_object['title']))
-    # url = url.replace(' ', '%20')
-    print(url)
+    url = "http://www.goodreads.com/book/title.xml?key={}&title={}".format(GOODREADS_PUBLIC_API_KEY,
+                                                                           urllib.parse.quote_plus(book_object['title']))
+
     try:
         tree = ET.ElementTree(file=urllib.request.urlopen(url))
         root = tree.getroot()
@@ -20,25 +20,35 @@ def get_details(book_object):
         book_object['rating'] = book.find('average_rating').text
         book_object['pages'] = book.find('num_pages').text
     except urllib.error.HTTPError as e:
-        print('Error getting book details from GoodReads: ')
+        print('Error getting book details from GoodReads for book: {}. \nGot error: '.format(book_object['title']))
         print(str(e.getcode()) + ' ' + e.msg)
-    print(book_object)
 
 
 def get_goodread_info(library):
-    i = 0
+    import sys
+    return
+    print('')
+    print('Getting GoodReads data...')
+
+    processed = 0
+    total_book_count = 0
+    for key in library:
+        total_book_count += len(library[key])
+
 
     for chapter in library:
         book_list = library[chapter]
         for book in book_list:
-
-            # do not call the api again if we already have the infomration
+            # do not call the api again if we already have the infomation
             if 'rating' in book and book['rating']:
+                processed += 1
                 continue
-            #print(i)
-            #if i == 10:
-                #break
             get_details(book)
-            #i += 1
+            processed += 1
+
+            print('{}/{} records processed.'.format(processed, total_book_count), end="\b")
+            sys.stdout.write('\r')
+            sys.stdout.flush()  # <- makes python print it anyway
+
             # need to wait a second between the requests, to not abuse the API
             time.sleep(1)

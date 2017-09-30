@@ -23,8 +23,9 @@ def render(in_file, out_file, library):
 
                     # render chapter and start of the table
                     out_file.write(line)
-                    out_file.write('| Name | Author | Goodreads Rating | Year Published |  \n')
-                    out_file.write('|------|--------|------------------|----------------|  \n')
+                    if len(library[line.strip()]) > 0:
+                        out_file.write('| Name | Author | Goodreads Rating | Year Published |  \n')
+                        out_file.write('|------|--------|------------------|----------------|  \n')
                     # render books
                     for book in library[line.strip()]:
                         out_file.write(render_book_line(book))
