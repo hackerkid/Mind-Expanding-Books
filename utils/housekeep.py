@@ -39,7 +39,7 @@ def main():
     from write_file import render
 
     in_file = flags.in_file or './../README.MD'
-    out_file = flags.out_file or './../README-NEW.md'
+    out_file = flags.out_file or './../README-new.md'
     file_type = flags.file_type or 'new'
     sort_by = flags.sort_by or 'rating'
     reverse = True if sort_by == 'rating' else False
