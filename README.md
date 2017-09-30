@@ -126,7 +126,7 @@
 * [Metamagical Themas: Questing For The Essence Of Mind And Pattern](https://www.goodreads.com/book/show/181239.Metamagical_Themas) by Douglas Hofstadter
 * [Education and the Significance of Life](https://www.goodreads.com/book/show/353435.Education_and_the_Significance_of_Life) by Krishnamurti
 * [Metaphors We Live By](https://www.goodreads.com/book/show/34459.Metaphors_We_Live_By) by George Lakoff, Mark Johnson
-* [The Hero with a Thousand Faces](https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces) Joseph Campbell
+* [The Hero with a Thousand Faces](https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces) by Joseph Campbell
 * [The User Illusion: Cutting Consciousness Down to Size](https://www.goodreads.com/book/show/106732.The_User_Illusion) by Tor Norretranders
 * [Outsmarting IQ: The Emerging Science of Learnable Intelligence](https://www.goodreads.com/book/show/1008488.Outsmarting_Iq) by David Perkins
 * [Spent: Sex, Evolution, and Consumer Behavior](https://www.goodreads.com/book/show/6283340-spent) by Geoffrey Miller
@@ -180,7 +180,7 @@
 * [The World Is Flat: A Brief History of the Twenty-first Century](https://www.goodreads.com/book/show/1911.The_World_Is_Flat) by Thomas L. Friedman
 * [El Tiempo Entre Costuras (The Time Between Seams / The Time In Between)](https://www.goodreads.com/book/show/7502166-el-tiempo-entre-costuras) by María Dueñas
 * [Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground](http://www.goodreads.com/book/show/9319468-kingpin) by Kevin Poulson
-* [Spycraft](http://www.goodreads.com/book/show/971936.Spycraft) Robert Wallace, H. Keith Melton, Henry R. Schlesinger
+* [Spycraft](http://www.goodreads.com/book/show/971936.Spycraft) by Robert Wallace, H. Keith Melton, Henry R. Schlesinger
 
 ## Science and Medicine
 * [The Structure of Scientific Revolutions: 50th Anniversary Edition](https://www.goodreads.com/book/show/61539.The_Structure_of_Scientific_Revolutions) by Thomas S. Kuhn
@@ -206,20 +206,20 @@
 * [The Quark and the Jaguar: Adventures in the Simple and the Complex](https://www.goodreads.com/book/show/270881.The_Quark_and_the_Jaguar) by Murray Gell-Mann
 * [Figments of Reality: The Evolution of the Curious Mind](https://www.goodreads.com/book/show/164560.Figments_of_Reality) by Ian Stewart, Jack Cohen
 * [How to Find a Habitable Planet](https://www.goodreads.com/book/show/7551498-how-to-find-a-habitable-planet) by James kasting
-* [Scientific Genius: A Psychology of Science](https://www.goodreads.com/book/show/1752295.Scientific_Genius) Dean Keith Simonton
-* [The Extended Phenotype: The Long Reach of the Gene](https://www.goodreads.com/book/show/61538.The_Extended_Phenotype) Richard Dawkins
-* [Rare Earth: Why Complex Life is Uncommon in the Universe](https://www.goodreads.com/book/show/88552.Rare_Earth) Peter D. Ward, Donald Brownlee
+* [Scientific Genius: A Psychology of Science](https://www.goodreads.com/book/show/1752295.Scientific_Genius) by Dean Keith Simonton
+* [The Extended Phenotype: The Long Reach of the Gene](https://www.goodreads.com/book/show/61538.The_Extended_Phenotype) by Richard Dawkins
+* [Rare Earth: Why Complex Life is Uncommon in the Universe](https://www.goodreads.com/book/show/88552.Rare_Earth) by Peter D. Ward, Donald Brownlee
 * [Mind Children: The Future of Robot and Human Intelligence](https://www.goodreads.com/book/show/648195.Mind_Children) by  Hans Moravec.
 * [The Little Schemer](https://www.goodreads.com/book/show/548914.The_Little_Schemer) by Daniel P. Friedman, Matthias Felleisen, Duane Bibby, Gerald J. Sussman
 * [Out of Control: The New Biology of Machines, Social Systems, and the Economic World](https://www.goodreads.com/book/show/16080353-out-of-control) by Kevin Kelly
-* [The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future](https://www.goodreads.com/book/show/27209431-the-inevitable)by Kevin Kelly
+* [The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future](https://www.goodreads.com/book/show/27209431-the-inevitable) by Kevin Kelly
 * [Tomorrowland: Our Staggering Journey from Science Fiction to Science Fact](http://www.goodreads.com/book/show/25060233-tomorrowland) by Steven Kotler
 
 ## Logic and Problem Solving
 * [What Is the Name of This Book?: The Riddle of Dracula and Other Logical Puzzles](https://www.goodreads.com/book/show/493576.What_Is_the_Name_of_This_Book_) by Raymond M. Smullyan
 * [How to Solve It: A New Aspect of Mathematical Method](https://www.goodreads.com/book/show/192221.How_to_Solve_It) by George Polya
 * [Labyrinths of Reason: Paradox, Puzzles, and the Frailty of Knowledge](https://www.goodreads.com/book/show/55436.Labyrinths_of_Reason) by William Poundstone
-* [A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](http://www.goodreads.com/book/show/18693655-a-mind-for-numbers) by Barbara Oakley
+* [A Mind for Numbers: How to Excel at Math and Science even If You Flunked Algebra](http://www.goodreads.com/book/show/18693655-a-mind-for-numbers) by Barbara Oakley
 
 ## Politics
 * [Resource Wars: The New Landscape of Global Conflict](https://www.goodreads.com/book/show/149206.Resource_Wars) by Michael Klare
@@ -277,7 +277,7 @@
 * [Thinking Shakespeare: A How-to Guide for Student Actors, Directors, and Anyone Else Who Wants to Feel More Comfortable With the Bard](https://www.goodreads.com/book/show/1334872.Thinking_Shakespeare) by Barry Edelstein.
 * [Hamlet in Purgatory](https://www.goodreads.com/book/show/33179.Hamlet_in_Purgatory) by Stephen Greenblatt
 * [Hamlet and Revenge](https://www.goodreads.com/book/show/625956.Hamlet_Revenge_) by Eleanor Prosser
-* [Shakespeare's Metrical Art](https://www.goodreads.com/book/show/428615.Shakespeare_s_Metrical_Art) George T. Wright
+* [Shakespeare's Metrical Art](https://www.goodreads.com/book/show/428615.Shakespeare_s_Metrical_Art) by George T. Wright
 
 ## Fiction
 
@@ -289,7 +289,7 @@
 * [Steppenwolf: A Novel](https://www.goodreads.com/book/show/16631.Steppenwolf) by Hermann Hesse, Basil Creighton
 * [The Glass Bead Game](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game) by Hermann Hesse, Richard and Clara Winston
 * [The Wall: (Intimacy) and Other Stories](https://www.goodreads.com/book/show/10031.The_Wall) by Jean-Paul Sartre, Lloyd Alexander
-* [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky
+* [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) by Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky
 * [Pride And Prejudice](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) by Jane Austen
 * [Mansfield Park](https://www.goodreads.com/book/show/45032) by Jane Austen
 * [Wuthering Heights](https://www.goodreads.com/book/show/6185.Wuthering_Heights) by Emily Bronte
