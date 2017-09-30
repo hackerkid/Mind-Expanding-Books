@@ -365,6 +365,7 @@
 * [The Fifth Sacred Thing](https://www.goodreads.com/book/show/80689.The_Fifth_Sacred_Thing) by Starhawk
 * [The Player of Games](https://www.goodreads.com/book/show/18630.The_Player_of_Games) by Iain M. Banks
 * [Fahrenheit 451](https://www.goodreads.com/book/show/17470674-fahrenheit-451) by Ray Bradbury
+* [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one) by Ernest Cline
 
 ### Horror
 * [Dracula](http://www.goodreads.com/book/show/17245.Dracula) by Bram Stoker
