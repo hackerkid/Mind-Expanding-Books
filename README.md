@@ -200,7 +200,7 @@
 * [The Selfish Gene](http://www.goodreads.com/book/show/61535.The_Selfish_Gene) by Richard Dawkins
 * [Mind Wars: Brain Research and National Defense](http://www.goodreads.com/book/show/599321.Mind_Wars) by Jonathan D. Moreno
 * [Evolution for Everyone: How Darwin's Theory Can Change the Way We Think About Our Lives](http://www.goodreads.com/book/show/159062.Evolution_for_Everyone) by David Sloan Wilson
-* [Darwin's Dangerous Idea](https://www.goodreads.com/book/show/2068.Darwin_s_Dangerous_Idea) Daniel C. Dennett
+* [Darwin's Dangerous Idea](https://www.goodreads.com/book/show/2068.Darwin_s_Dangerous_Idea) by Daniel C. Dennett
 * [The New Executive Brain: Frontal Lobes in a Complex World](https://www.goodreads.com/book/show/6745893-the-new-executive-brain) by Elkhonon Goldberg
 * [Catching Fire: How Cooking Made Us Human](https://www.goodreads.com/book/show/11148989-catching-fire) by Richard Wrangham
 * [The Quark and the Jaguar: Adventures in the Simple and the Complex](https://www.goodreads.com/book/show/270881.The_Quark_and_the_Jaguar) by Murray Gell-Mann
