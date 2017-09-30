@@ -9,7 +9,7 @@ def read_file_content(file):
 def parse_book_string(book_string):
     book = {}
     book['title'] = book_string.split('[')[1].split(']')[0]
-    book['url'] = book_string.split('(')[1].split(')')[0]
+    book['url'] = book_string.split(']')[1].split('(')[1].split(')')[0]
     book['author'] = book_string.split(' by ')[-1]
     book['rating'] = ''
     book['year'] = ''
@@ -20,7 +20,7 @@ def parse_book_string(book_string):
 def parse_book_string_new(book_string):
     book = {}
     book_split = book_string.split('|')
-    print(book_split)
+    # print(book_split)
     book['title'] = book_split[1].strip()
     book['author'] = book_split[2].strip()
     book['url'] = book_split[3].strip().split('[')[1].split('(')[1].split(')')[0]
@@ -31,7 +31,7 @@ def parse_book_string_new(book_string):
 
 def load(file, file_type):
     file = read_file_content(file)
-    print(file)
+
     # we start one line after tilte # Books
     line_to_start = file.index('# Books') + 1
     current_title = ''
