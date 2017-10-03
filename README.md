@@ -160,10 +160,10 @@
 | Steve Jobs | Walter Issacson | [4.09](http://www.goodreads.com/book/show/11084145-steve-jobs) | 2011 |  
 | My Experiments with Truth | Mahatma Gandhi | [4.07](http://www.goodreads.com/book/show/112803.The_Story_of_My_Experiments_With_Truth) | 1993 |  
 | The Story of My Life | Helen Keller | [4.07](http://www.goodreads.com/book/show/821611.The_Story_of_My_Life) | 1990 |  
+| Losing My Virginity: The Autobiography | Richard Branson | [3.97](https://www.goodreads.com/book/show/9533705-losing-my-virginity) |1999|  
 | Ghost in the Wires:	My Adventures as the World's Most Wanted Hacker | Kevin Mitnick | [3.95](http://www.goodreads.com/book/show/10256723-ghost-in-the-wires) | 2011 |  
 | An Autobiography: Toward Freedom | Jawaharlal Nehru | [3.85](http://www.goodreads.com/book/show/322939.An_Autobiography) | 1989 |  
 | iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It | Steve Wozniak | [3.82](http://www.goodreads.com/book/show/798635.iWoz) | 2007 |  
-| Losing My Virginity: The Autobiography | Richard Branson | [0.00](https://www.goodreads.com/book/show/9533705-losing-my-virginity) |  |  
 
 ## History
 | Name | Author | Goodreads Rating | Year Published |  
@@ -177,6 +177,7 @@
 | The Nazi Doctors: Medical Killing and the Psychology of Genocide | Robert Jay Lifton | [4.07](https://www.goodreads.com/book/show/173187.The_Nazi_Doctors) | 1986 |  
 | God Created The Integers: The Mathematical Breakthroughs that Changed History | Stephen Hawking | [4.06](https://www.goodreads.com/book/show/2096.God_Created_The_Integers) |  |  
 | Churchill's Secret War: The British Empire and the Ravaging of India during World War II | Madhusree Mukerjee | [4.05](https://www.goodreads.com/book/show/8890989-churchill-s-secret-war) | 2010 |  
+| El Tiempo Entre Costuras | María Dueñas | [4.04](https://www.goodreads.com/book/show/7502166-el-tiempo-entre-costuras) |2009 |  
 | Guns, Germs, And Steel : The Fates Of Human Societies | Jared M. Diamond | [4.00](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel) | 2005 |  
 | Discovery of India | Jawaharlal Nehru | [3.98](http://www.goodreads.com/book/show/154126.The_Discovery_of_India) |  |  
 | The Rational Optimist: How Prosperity Evolves (P.S.) | Matt Ridley | [3.98](https://www.goodreads.com/book/show/7776209-the-rational-optimist) | 2010 |  
@@ -188,7 +189,6 @@
 | Civilization: The West and the Rest: Niall Ferguson | Niall Ferguson | [3.78](https://www.goodreads.com/book/show/10475421-civilization) | 2011 |  
 | The Revenge of Geography: What the Map Tells Us About Coming Conflicts and the Battle Against Fate | Robert D. Kaplan | [3.68](https://www.goodreads.com/book/show/13330422-the-revenge-of-geography) | 2012 |  
 | The World Is Flat: A Brief History of the Twenty-first Century | Thomas L. Friedman | [3.66](https://www.goodreads.com/book/show/1911.The_World_Is_Flat) | 2006 |  
-| El Tiempo Entre Costuras (The Time Between Seams / The Time In Between) | María Dueñas | [](https://www.goodreads.com/book/show/7502166-el-tiempo-entre-costuras) |  |  
 
 ## Science and Medicine
 | Name | Author | Goodreads Rating | Year Published |  
@@ -274,9 +274,10 @@
 | How Children Fail | John Holt | [4.22](https://www.goodreads.com/book/show/573009.How_Children_Fail) | 1995 |  
 | Teaching as a Subversive Activity | Neil Postman, Charles Weingartner | [4.19](https://www.goodreads.com/book/show/79681.Teaching_as_a_Subversive_Activity) | 1971 |  
 | Summerhill School: A New View of Childhood | A. S. Neill, Albert Lamb | [4.09](https://www.goodreads.com/book/show/178734.Summerhill) | 1995 |  
+| The Art of Learning: An Inner Journey to Optimal Performance | Josh Waitzkin | [4.08](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) | 2016 |
 | Wounded by School: Recapturing the Joy in Learning and Standing Up to Old School Culture | Kirsten Olson, Sara Lawrence-Lightfoot, Parker J. Palmer | [3.92](https://www.goodreads.com/book/show/6425208-wounded-by-school) | 2009 |  
 | Curious Minds: How a Child Becomes a Scientist | John Brockman | [3.72](https://www.goodreads.com/book/show/409588.Curious_Minds) | 2005 |  
-| The Art of Learning: An Inner Journey to Optimal Performance | Josh Waitzkin | [0.00](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) | 2016 |  
+
 
 ## Writing
 | Name | Author | Goodreads Rating | Year Published |  
@@ -326,6 +327,7 @@
 | The Wall: (Intimacy) and Other Stories | Jean-Paul Sartre, Lloyd Alexander | [4.07](https://www.goodreads.com/book/show/10031.The_Wall) | 2010 |  
 | Sense and Sensibility | Jane Austen | [4.06](https://www.goodreads.com/book/show/14935.Sense_and_Sensibility) | 2003 |  
 | The Picture of Dorian Gray | Oscar Wilde | [4.06](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) | 1998 |  
+| Watership Down: A Novel | Richard Adams | [4.05 ](https://www.goodreads.com/book/show/76620.Watership_Down) |1975|  
 | One Hundred Years of Solitude | Gabriel Garcia Marquez, Gregory Rabassa | [4.04](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude) | 2003 |  
 | The Death of Ivan Ilych | Leo Tolstoy | [4.04](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) |  |  
 | Anna Karenina | Leo Tolstoy | [4.02](https://www.goodreads.com/book/show/15823480-anna-karenina) | 2012 |  
@@ -347,7 +349,6 @@
 | Confessions | Jean-Jacques Rousseau | [3.61](https://www.goodreads.com/book/show/12649.Confessions) | 2003 |  
 | Lettres persanes | Montesquieu | [3.54](http://www.goodreads.com/book/show/509686.Persian_Letters) |  |  
 | The Director | David Ignatius | [3.43](http://www.goodreads.com/book/show/23316525-the-director) | 2015 |  
-| Watership Down: A Novel | Richard Adams | [0.00](https://www.goodreads.com/book/show/76620.Watership_Down) |  |  
 
 ### Fantasy
 | Name | Author | Goodreads Rating | Year Published |  
