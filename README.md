@@ -56,7 +56,7 @@
 * [The 22 Immutable Laws Of Branding](https://www.goodreads.com/book/show/1565533.The_22_Immutable_Laws_of_Branding) by Laura Ries and Al Ries
 * [Rich Dad Poor Dad : What The Rich Teach Their Kids About Money That The Poor And Middle Class Don't](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) by Robert T. Kiyosaki
 * [Outliers: Story of Success](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) by Malcolm Gladwell
-* [The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) by Thomas Ferriss
+* [The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) by Timothy Ferriss
 * [How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success](https://www.goodreads.com/book/show/96593.The_Success_Principles) by Jack Canfield, Janet Switzer
 * [Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done) by David Allen
 * [SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance](https://www.goodreads.com/book/show/6402364-superfreakonomics) by Steven D. Litt
