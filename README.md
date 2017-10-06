@@ -116,6 +116,7 @@
 | The Upside of Irrationality: The Unexpected Benefits of Defying Logic | Dan Ariely | [4.00](https://www.goodreads.com/book/show/7815744-the-upside-of-irrationality) |  |  
 | Outsmarting IQ: The Emerging Science of Learnable Intelligence | David Perkins | [4.00](https://www.goodreads.com/book/show/1008488.Outsmarting_Iq) | 1995 |  
 | The Art of War | Sun Tzu | [3.95](https://www.goodreads.com/book/show/10534.The_Art_of_War) | 2005 |  
+| Willpower: Rediscovering the Greatest Human Strength | Ron P. Baumeister, John Tierney | [3.95](https://www.goodreads.com/book/show/11104933-willpower) | 2011 |  
 | A Whole New Mind: Why Right-Brainers Will Rule the Future | Daniel H. Pink | [3.95](https://www.goodreads.com/book/show/99315.A_Whole_New_Mind) |  |  
 | Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel | Rolf Potts | [3.92](https://www.goodreads.com/book/show/100247.Vagabonding) |  |  
 | Supernormal: Science, Yoga, and the Evidence for Extraordinary Psychic Abilities | Dean Radin | [3.91](https://www.goodreads.com/book/show/8694125-alone-together) | 2013 |  
