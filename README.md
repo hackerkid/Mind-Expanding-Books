@@ -353,6 +353,7 @@
 | Confessions | Jean-Jacques Rousseau | [3.61](https://www.goodreads.com/book/show/12649.Confessions) | 2003 |  
 | Lettres persanes | Montesquieu | [3.54](http://www.goodreads.com/book/show/509686.Persian_Letters) |  |  
 | The Director | David Ignatius | [3.43](http://www.goodreads.com/book/show/23316525-the-director) | 2015 |  
+| Love in the Time of Cholera | Gabriel García Marquez | [3.9](https://www.goodreads.com/book/show/9712.Love_in_the_Time_of_Cholera) | 1985 |  
 
 ### Fantasy
 | Name | Author | Goodreads Rating | Year Published |  
