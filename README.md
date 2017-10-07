@@ -341,6 +341,7 @@
 | The House of Mirth | Edith Wharton | [3.94](https://www.goodreads.com/book/show/17728.The_House_of_Mirth) | 2006 |  
 | Confessions of a Mask | Yukio Mishima | [3.91](https://www.goodreads.com/book/show/62794.Confessions_of_a_Mask) | 1998 |  
 | De L'esprit Des Lois | Montesquieu | [3.91](https://www.goodreads.com/book/show/29854007-de-l-esprit-des-lois-nouvelle-edition) | 1995 |  
+| Love in the Time of Cholera | Gabriel García Marquéz | [3.9](https://www.goodreads.com/book/show/9712.Love_in_the_Time_of_Cholera) | 1985 | 
 | Don Quixote | Miguel de Cervantes | [3.85](http://www.goodreads.com/book/show/3836.Don_Quixote) | 2003 |  
 | Mansfield Park | Jane Austen | [3.84](https://www.goodreads.com/book/show/45032) | 2003 |  
 | Wuthering Heights | Emily Bronte | [3.82](https://www.goodreads.com/book/show/6185.Wuthering_Heights) | 2002 |  
@@ -352,8 +353,7 @@
 | Madame Bovary | Gustave Flaubert | [3.65](https://www.goodreads.com/book/show/2175.Madame_Bovary) | 2004 |  
 | Confessions | Jean-Jacques Rousseau | [3.61](https://www.goodreads.com/book/show/12649.Confessions) | 2003 |  
 | Lettres persanes | Montesquieu | [3.54](http://www.goodreads.com/book/show/509686.Persian_Letters) |  |  
-| The Director | David Ignatius | [3.43](http://www.goodreads.com/book/show/23316525-the-director) | 2015 |  
-| Love in the Time of Cholera | Gabriel García Marquéz | [3.9](https://www.goodreads.com/book/show/9712.Love_in_the_Time_of_Cholera) | 1985 |  
+| The Director | David Ignatius | [3.43](http://www.goodreads.com/book/show/23316525-the-director) | 2015 |   
 
 ### Fantasy
 | Name | Author | Goodreads Rating | Year Published |  
@@ -366,10 +366,10 @@
 | Discworld | Terry Pratchett | [4.32](https://www.goodreads.com/series/40650-discworld) | 2001 |  
 | The Dark Tower | Stephen King | [4.27](https://www.goodreads.com/series/40750-the-dark-tower) |  |  
 | His Dark Materials | Philip Pullman | [4.25](https://www.goodreads.com/book/show/18116.His_Dark_Materials) |  |  
+| The Last Wish - Saga | Andrzej Sapkowski | [4.2](https://www.goodreads.com/book/show/1128434.The_Last_Wish) | 1993 |
 | The Chronicles of Narnia | Clive Staples Lewis | [4.24](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia) | 2002 |  
 | The City & The City | China Mieville | [3.91](https://www.goodreads.com/book/show/4703581-the-city-the-city) | 2009 |  
 | The Broken Empire | Mark Lawrence | [3.87](https://www.goodreads.com/series/64473-the-broken-empire) | 2011 |  
-| The Last Wish - Saga | Andrzej Sapkowski | [4.2](https://www.goodreads.com/book/show/1128434.The_Last_Wish) | 1993 |
 
 ### Historical Fiction
 | Name | Author | Goodreads Rating | Year Published |  
