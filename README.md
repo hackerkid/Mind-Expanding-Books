@@ -85,6 +85,7 @@
 | Man's Search for Meaning | Viktor E. Frankl | [4.33](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) | 2006 |  
 | The User Illusion: Cutting Consciousness Down to Size | Tor Norretranders | [4.30](https://www.goodreads.com/book/show/106732.The_User_Illusion) | 1999 |  
 | Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen | Christopher McDougall | [4.27](https://www.goodreads.com/book/show/6289283-born-to-run) | 2009 |  
+| Prometheus Rising | Robert Anton Wilson | [4.26](https://www.goodreads.com/book/show/28597.Prometheus_Rising) | 2010 |  
 | The Concise 48 Laws of Power | Robert Greene | [4.25](https://www.goodreads.com/book/show/18224060-the-concise-48-laws-of-power) | 2011 |  
 | The Hero with a Thousand Faces | Joseph Campbell | [4.24](https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces) | 1972 |  
 | Zen Mind, Beginner's Mind | Shunryu Suzuki, David Chadwick | [4.23](https://www.goodreads.com/book/show/402843.Zen_Mind_Beginner_s_Mind) |  |  
