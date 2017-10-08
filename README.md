@@ -195,7 +195,7 @@
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Asimov's New Guide to Science | Isaac Asimov | [4.36](https://www.goodreads.com/book/show/977262.Asimov_s_New_Guide_To_Science) | 1985 |  
-| Gödel, Escher, Bach: An Eternal Golden Braid | Douglas R. Hofstadter | [4.30](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) | 1999 |  
+| Gödel, Escher, Bach: An Eternal Golden Braid | Douglas R. Hofstadter | [4.30](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) | 1979 |  
 | The Little Schemer | Daniel P. Friedman, Matthias Felleisen, Duane Bibby, Gerald J. Sussman | [4.27](https://www.goodreads.com/book/show/548914.The_Little_Schemer) | 1995 |  
 | Scientific Genius: A Psychology of Science | Dean Keith Simonton | [4.25](https://www.goodreads.com/book/show/1752295.Scientific_Genius) | 1988 |  
 | Out of Control: The New Biology of Machines, Social Systems, and the Economic World | Kevin Kelly | [4.24](https://www.goodreads.com/book/show/16080353-out-of-control) | 1995 |  
