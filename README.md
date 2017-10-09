@@ -115,7 +115,8 @@
 | Antifragile: Things That Gain from Disorder (Incerto) | Nassim Nicholas Taleb | [4.04](https://www.goodreads.com/book/show/13530973-antifragile) | 2012 |  
 | The Power of Habit: Why We Do What We Do In Life And Business | Charles Duhigg | [4.03](https://www.goodreads.com/book/show/12609433-the-power-of-habit) | 2012 |  
 | The Upside of Irrationality: The Unexpected Benefits of Defying Logic | Dan Ariely | [4.00](https://www.goodreads.com/book/show/7815744-the-upside-of-irrationality) |  |  
-| Outsmarting IQ: The Emerging Science of Learnable Intelligence | David Perkins | [4.00](https://www.goodreads.com/book/show/1008488.Outsmarting_Iq) | 1995 |  
+| Outsmarting IQ: The Emerging Science of Learnable Intelligence | David Perkins | [4.00](https://www.goodreads.com/book/show/1008488.Outsmarting_Iq) | 1995 | 
+| Mindset: The new psychology of success | Carol S. Dweck,Ph.D. | [4](https://www.goodreads.com/book/show/40745.Mindset) | 2006 |
 | The Art of War | Sun Tzu | [3.95](https://www.goodreads.com/book/show/10534.The_Art_of_War) | 2005 |  
 | Willpower: Rediscovering the Greatest Human Strength | Ron P. Baumeister, John Tierney | [3.95](https://www.goodreads.com/book/show/11104933-willpower) | 2011 |  
 | A Whole New Mind: Why Right-Brainers Will Rule the Future | Daniel H. Pink | [3.95](https://www.goodreads.com/book/show/99315.A_Whole_New_Mind) |  |  
