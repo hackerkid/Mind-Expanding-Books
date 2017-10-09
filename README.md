@@ -76,6 +76,7 @@
 | Big Data: A Revolution That Will Transform How We Live, Work, and Think | Kenneth Cukier | [3.70](https://www.goodreads.com/book/show/15815598-big-data) | 2013 |  
 | The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich | Timothy Ferriss | [3.61](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) | 2012 |  
 | The Accidental Billionaires : The Founding of Facebook, a Tale of Sex, Money, Genius and Betrayal | Ben Mezrich | [3.50](https://www.goodreads.com/book/show/6326920-the-accidental-billionaires) | 2009 |  
+| Remote: Office Not Required | David Heinemeier Hansson, Jason Fried | [3.80](https://www.goodreads.com/book/show/17316682-remote) | 2012 |  
 
 ## Philosophy And Psychology
 | Name | Author | Goodreads Rating | Year Published |  
