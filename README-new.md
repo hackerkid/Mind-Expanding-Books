@@ -313,7 +313,7 @@
 |------|--------|------------------|----------------|
 | The Master and Margarita | Mikhail Bulgakov | [4.32](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita) | 1996 |
 | The Brothers Karamazov | Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky | [4.30](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | 2002 |
-| To kill a mockingbird | harper Lee | [4.26](https://www.goodreads.com/book/show/2657-To_Kill_a_Mockingbird) | 1960 |
+| To kill a mockingbird | Harper Lee | [4.26](https://www.goodreads.com/book/show/2657-To_Kill_a_Mockingbird) | 1960 |
 | Pride And Prejudice | Jane Austen | [4.24](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) | 2000 |
 | A Prayer for Owen Meany | John Irving | [4.22](https://www.goodreads.com/book/show/4473.A_Prayer_for_Owen_Meany) | 1990 |
 | Letters From The Earth | Mark Twain | [4.22](https://www.goodreads.com/book/show/37813.Letters_from_the_Earth) | 2004 |
