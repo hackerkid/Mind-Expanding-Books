@@ -158,6 +158,7 @@
 | Wings of Fire | A.P.J. Abdul Kalam | [4.20](http://www.goodreads.com/book/show/634583.Wings_of_Fire) | 2011 |  
 | An Astronaut's Guide to Life on Earth | Chris Hadfield | [4.14](https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth) | 2013 |  
 | The Diary of a Young Girl | Anne Frank | [4.10](http://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl) | 1993 |  
+| Einstein. His Life and Universe | Walter Isaacson | [4.08](https://www.goodreads.com/book/show/10884.Einstein) | 2007 |
 | Steve Jobs | Walter Issacson | [4.09](http://www.goodreads.com/book/show/11084145-steve-jobs) | 2011 |  
 | My Experiments with Truth | Mahatma Gandhi | [4.07](http://www.goodreads.com/book/show/112803.The_Story_of_My_Experiments_With_Truth) | 1993 |  
 | The Story of My Life | Helen Keller | [4.07](http://www.goodreads.com/book/show/821611.The_Story_of_My_Life) | 1990 |  
