@@ -239,8 +239,10 @@
 |------|--------|------------------|----------------|  
 | Justice: What's the Right Thing to Do? | Michael J. Sandel | [4.25](https://www.goodreads.com/book/show/6452731-justice) |  |  
 | The Righteous Mind: Why Good People are Divided by Politics and Religion |  Jonathan Haidt | [4.16](https://www.goodreads.com/book/show/11324722-the-righteous-mind) | 2012 |  
+| 1984 | George Orwell | [4.14](https://www.goodreads.com/book/show/5470.1984) | 1950 |
 | Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime | John Heilemann, Mark Halperin | [4.10](https://www.goodreads.com/book/show/6694937-game-change) | 2010 |  
 | The Myth of the Rational Voter: Why Democracies Choose Bad Policies | Bryan Caplan | [3.96](https://www.goodreads.com/book/show/698866.The_Myth_of_the_Rational_Voter) | 2007 |  
+| Animal Farm | George Orwell | [3.88](https://www.goodreads.com/book/show/7613.Animal_Farm) | 2003 | 
 | Resource Wars: The New Landscape of Global Conflict | Michael Klare | [3.73](https://www.goodreads.com/book/show/149206.Resource_Wars) |  |  
 | The Audacity of Hope: Thoughts on Reclaiming the American Dream | Barack Obama | [3.70](https://www.goodreads.com/book/show/9742.The_Audacity_of_Hope) | 2006 |  
 
