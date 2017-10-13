@@ -245,6 +245,7 @@
 | The Myth of the Rational Voter: Why Democracies Choose Bad Policies | Bryan Caplan | [3.96](https://www.goodreads.com/book/show/698866.The_Myth_of_the_Rational_Voter) | 2007 |  
 | Resource Wars: The New Landscape of Global Conflict | Michael Klare | [3.73](https://www.goodreads.com/book/show/149206.Resource_Wars) |  |  
 | The Audacity of Hope: Thoughts on Reclaiming the American Dream | Barack Obama | [3.70](https://www.goodreads.com/book/show/9742.The_Audacity_of_Hope) | 2006 |  
+| Strangers in Their Own Land: Anger and Mourning on the American Right | Arlie Russell Hochschild | [4.15](https://www.goodreads.com/book/show/28695425-strangers-in-their-own-land) | 2016 |  
 
 ## Economics
 | Name | Author | Goodreads Rating | Year Published |  
