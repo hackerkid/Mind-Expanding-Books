@@ -26,30 +26,30 @@
 ## Startups and Business
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
-| The Compound Effect | Darren Hardy | [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) |  |  
+| The Compound Effect | Darren Hardy | [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) | 2010 |  
 | High Output Management | Andy Grove | [4.38](https://www.goodreads.com/book/show/324750.High_Output_Management) | 1995 |  
-| How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success | Jack Canfield, Janet Switzer | [4.26](https://www.goodreads.com/book/show/96593.The_Success_Principles) |  |  
+| How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success | Jack Canfield, Janet Switzer | [4.26](https://www.goodreads.com/book/show/96593.The_Success_Principles) | 2007 |  
 | The Big Short: Inside the Doomsday Machine | Michael Lewis | [4.26](https://www.goodreads.com/book/show/8032112-the-big-short) | 2015 |  
 | The Score Takes Care of Itself: My Philosophy of Leadership | Bill Walsh, Steve Jamison, Craig Walsh | [4.21](https://www.goodreads.com/book/show/6342995-the-score-takes-care-of-itself) | 2009 |  
 | The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers | Ben Horowitz | [4.20](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) | 2014 |  
 | Outliers: Story of Success | Malcolm Gladwell | [4.11](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) | 2008 |  
 | The Strategy and Tactics of Pricing : A Guide to Move More Profitable | Thomas Nagle, John Hogan, Joseph Zale | [4.09](https://www.goodreads.com/book/show/99919.The_Strategy_and_Tactics_of_Pricing) | 2005 |  
-| Leaving Microsoft to Change the World: An Entrepreneur's Odyssey to Educate the World's Children | John Wood | [4.07](https://www.goodreads.com/book/show/95429.Leaving_Microsoft_to_Change_the_World) |  |  
+| Leaving Microsoft to Change the World: An Entrepreneur's Odyssey to Educate the World's Children | John Wood | [4.07](https://www.goodreads.com/book/show/95429.Leaving_Microsoft_to_Change_the_World) | 2006 |  
 | Hackers and Painters | Paul Graham | [4.06](https://www.goodreads.com/book/show/41793.Hackers_Painters) | 2004 |  
 | Good to Great: Why Some Companies Make the Leap And Others Don't | Jim Collins | [4.05](https://www.goodreads.com/book/show/76865.Good_to_Great) | 2001 |  
 | The Lean Startup: How Constant Innovation Creates Radically Successful Businesses | Eric Ries | [4.04](https://www.goodreads.com/book/show/10127019-the-lean-startup) | 2011 |  
 | The Power of Full Engagement: Managing Energy, Not Time, is the Key to High Performance and Personal Renewal | Jim Loehr, Tony Schwartz | [4.03](http://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement) | 2005 |  
 | The Checklist Manifesto: How To Get Things Right | Atul Gawande | [4.03](http://www.goodreads.com/book/show/6667514-the-checklist-manifesto) | 2009 |  
-| Where Good Ideas Come From | Steven Johnson | [4.03](https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from) |  |  
+| Where Good Ideas Come From | Steven Johnson | [4.03](https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from) | 2010 |  
 | Delivering Happiness: A Path to Profits, Passion, and Purpose | Tony Hsieh | [4.01](http://www.goodreads.com/book/show/6828896-delivering-happiness) | 2010 |  
-| The Innovator's Dilemma | clayton m. christensen | [4.00](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma) |  |  
-| Influencer: The New Science of Leading Change | Joseph Grenny, Kerry Patterson | [3.98](https://www.goodreads.com/book/show/914211.Influencer) |  |  
+| The Innovator's Dilemma | clayton m. christensen | [4.00](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma) | 1997 |  
+| Influencer: The New Science of Leading Change | Joseph Grenny, Kerry Patterson | [3.98](https://www.goodreads.com/book/show/914211.Influencer) | 2007 |  
 | The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It | Michael E. Gerber | [3.98](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) | 1995 |  
-| Getting Things Done: The Art of Stress-Free Productivity | David Allen | [3.98](https://www.goodreads.com/book/show/1633.Getting_Things_Done) |  |  
-| Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business My Way | Richard Branson | [3.97](https://www.goodreads.com/book/show/211099.Losing_My_Virginity) |  |  
+| Getting Things Done: The Art of Stress-Free Productivity | David Allen | [3.98](https://www.goodreads.com/book/show/1633.Getting_Things_Done) | 2001 |  
+| Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business My Way | Richard Branson | [3.97](https://www.goodreads.com/book/show/211099.Losing_My_Virginity) | 1998 |  
 | SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance | Steven D. Litt | [3.96](https://www.goodreads.com/book/show/6402364-superfreakonomics) | 2009 |  
 | The Ten Faces of Innovation | Tom Kelley | [3.96](https://www.goodreads.com/book/show/95656.The_Ten_Faces_of_Innovation) | 2005 |  
-| Rich Dad Poor Dad : What The Rich Teach Their Kids About Money That The Poor And Middle Class Don't | Robert T. Kiyosaki | [3.95](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) |  |  
+| Rich Dad Poor Dad : What The Rich Teach Their Kids About Money That The Poor And Middle Class Don't | Robert T. Kiyosaki | [3.95](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) | 1997 |  
 | Founders At Work: Stories Of Startups Early Days | Jessica Livingston | [3.94](https://www.goodreads.com/book/show/98233.Founders_at_Work) |  |  
 | The Paypal Wars | Eric M. Jackson | [3.94](https://www.goodreads.com/book/show/4052.The_PayPal_Wars) | 2010 |  
 | Lean In : Women, Work and the Will to Lead | Sheryl Sandberg | [3.94](http://www.goodreads.com/book/show/16071764-lean-in) | 2013 |  
