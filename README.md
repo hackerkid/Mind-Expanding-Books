@@ -349,7 +349,8 @@
 | Père Goriot | Honoré de Balzac | [3.82](https://www.goodreads.com/book/show/59145.P_re_Goriot) | 1997 |  
 | Adventures of Huckleberry Finn | Mark Twain | [3.80](https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn) | 2002 |  
 | The Catcher in the Rye | J.D. Salinger | [3.79](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye) | 2001 |  
-| Eugénie Grandet | Honoré de Balzac | [3.79](https://www.goodreads.com/book/show/59142.Eug_nie_Grandet) | 2003 |  
+| Eugénie Grandet | Honoré de Balzac | [3.79](https://www.goodreads.com/book/show/59142.Eug_nie_Grandet) | 2003 |
+| Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values  | Robert M. Pirsig | [3.76](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance) | 1974 |
 | Candide | Voltaire | [3.76](https://www.goodreads.com/book/show/19380.Candide) | 1991 |  
 | Madame Bovary | Gustave Flaubert | [3.65](https://www.goodreads.com/book/show/2175.Madame_Bovary) | 2004 |  
 | Confessions | Jean-Jacques Rousseau | [3.61](https://www.goodreads.com/book/show/12649.Confessions) | 2003 |  
