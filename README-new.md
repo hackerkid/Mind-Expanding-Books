@@ -1,6 +1,6 @@
 # Mind Expanding Books
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Awesome](https://travis-ci.org/hackerkid/Mind-Expanding-Books.svg?branch=master) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/hackerkid/bots](https://badges.gitter.im/hackerkid/bots.svg)](https://gitter.im/hackerkid/Mind-Expanding-Books?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/hackerkid/bots](https://badges.gitter.im/hackerkid/bots.svg)](https://gitter.im/hackerkid/Mind-Expanding-Books?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > Curated list of mind expanding books.
 
@@ -26,30 +26,30 @@
 ## Startups and Business
 | Name | Author | Goodreads Rating | Year Published |
 |------|--------|------------------|----------------|
-| The Compound Effect | Darren Hardy | [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) |  |
+| The Compound Effect | Darren Hardy | [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) | 2010 |
 | High Output Management | Andy Grove | [4.38](https://www.goodreads.com/book/show/324750.High_Output_Management) | 1995 |
-| How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success | Jack Canfield, Janet Switzer | [4.26](https://www.goodreads.com/book/show/96593.The_Success_Principles) |  |
+| How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success | Jack Canfield, Janet Switzer | [4.26](https://www.goodreads.com/book/show/96593.The_Success_Principles) | 2007 |
 | The Big Short: Inside the Doomsday Machine | Michael Lewis | [4.26](https://www.goodreads.com/book/show/8032112-the-big-short) | 2015 |
 | The Score Takes Care of Itself: My Philosophy of Leadership | Bill Walsh, Steve Jamison, Craig Walsh | [4.21](https://www.goodreads.com/book/show/6342995-the-score-takes-care-of-itself) | 2009 |
 | The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers | Ben Horowitz | [4.20](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) | 2014 |
 | Outliers: Story of Success | Malcolm Gladwell | [4.11](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) | 2008 |
 | The Strategy and Tactics of Pricing : A Guide to Move More Profitable | Thomas Nagle, John Hogan, Joseph Zale | [4.09](https://www.goodreads.com/book/show/99919.The_Strategy_and_Tactics_of_Pricing) | 2005 |
-| Leaving Microsoft to Change the World: An Entrepreneur's Odyssey to Educate the World's Children | John Wood | [4.07](https://www.goodreads.com/book/show/95429.Leaving_Microsoft_to_Change_the_World) |  |
+| Leaving Microsoft to Change the World: An Entrepreneur's Odyssey to Educate the World's Children | John Wood | [4.07](https://www.goodreads.com/book/show/95429.Leaving_Microsoft_to_Change_the_World) | 2006 |
 | Hackers and Painters | Paul Graham | [4.06](https://www.goodreads.com/book/show/41793.Hackers_Painters) | 2004 |
 | Good to Great: Why Some Companies Make the Leap And Others Don't | Jim Collins | [4.05](https://www.goodreads.com/book/show/76865.Good_to_Great) | 2001 |
 | The Lean Startup: How Constant Innovation Creates Radically Successful Businesses | Eric Ries | [4.04](https://www.goodreads.com/book/show/10127019-the-lean-startup) | 2011 |
 | The Power of Full Engagement: Managing Energy, Not Time, is the Key to High Performance and Personal Renewal | Jim Loehr, Tony Schwartz | [4.03](http://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement) | 2005 |
 | The Checklist Manifesto: How To Get Things Right | Atul Gawande | [4.03](http://www.goodreads.com/book/show/6667514-the-checklist-manifesto) | 2009 |
-| Where Good Ideas Come From | Steven Johnson | [4.03](https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from) |  |
+| Where Good Ideas Come From | Steven Johnson | [4.03](https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from) | 2010 |
 | Delivering Happiness: A Path to Profits, Passion, and Purpose | Tony Hsieh | [4.01](http://www.goodreads.com/book/show/6828896-delivering-happiness) | 2010 |
-| The Innovator's Dilemma | clayton m. christensen | [4.00](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma) |  |
-| Influencer: The New Science of Leading Change | Joseph Grenny, Kerry Patterson | [3.98](https://www.goodreads.com/book/show/914211.Influencer) |  |
+| The Innovator's Dilemma | clayton m. christensen | [4.00](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma) | 1997 |
+| Influencer: The New Science of Leading Change | Joseph Grenny, Kerry Patterson | [3.98](https://www.goodreads.com/book/show/914211.Influencer) | 2007 |
 | The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It | Michael E. Gerber | [3.98](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) | 1995 |
-| Getting Things Done: The Art of Stress-Free Productivity | David Allen | [3.98](https://www.goodreads.com/book/show/1633.Getting_Things_Done) |  |
-| Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business My Way | Richard Branson | [3.97](https://www.goodreads.com/book/show/211099.Losing_My_Virginity) |  |
+| Getting Things Done: The Art of Stress-Free Productivity | David Allen | [3.98](https://www.goodreads.com/book/show/1633.Getting_Things_Done) | 2001 |
+| Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business My Way | Richard Branson | [3.97](https://www.goodreads.com/book/show/211099.Losing_My_Virginity) | 1998 |
 | SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance | Steven D. Litt | [3.96](https://www.goodreads.com/book/show/6402364-superfreakonomics) | 2009 |
 | The Ten Faces of Innovation | Tom Kelley | [3.96](https://www.goodreads.com/book/show/95656.The_Ten_Faces_of_Innovation) | 2005 |
-| Rich Dad Poor Dad : What The Rich Teach Their Kids About Money That The Poor And Middle Class Don't | Robert T. Kiyosaki | [3.95](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) |  |
+| Rich Dad Poor Dad : What The Rich Teach Their Kids About Money That The Poor And Middle Class Don't | Robert T. Kiyosaki | [3.95](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) | 1997 |
 | Founders At Work: Stories Of Startups Early Days | Jessica Livingston | [3.94](https://www.goodreads.com/book/show/98233.Founders_at_Work) |  |
 | The Paypal Wars | Eric M. Jackson | [3.94](https://www.goodreads.com/book/show/4052.The_PayPal_Wars) | 2010 |
 | Lean In : Women, Work and the Will to Lead | Sheryl Sandberg | [3.94](http://www.goodreads.com/book/show/16071764-lean-in) | 2013 |
@@ -85,12 +85,12 @@
 | Man's Search for Meaning | Viktor E. Frankl | [4.33](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) | 2006 |
 | The User Illusion: Cutting Consciousness Down to Size | Tor Norretranders | [4.30](https://www.goodreads.com/book/show/106732.The_User_Illusion) | 1999 |
 | Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen | Christopher McDougall | [4.27](https://www.goodreads.com/book/show/6289283-born-to-run) | 2009 |
+| Prometheus Rising | Robert Anton Wilson | [4.26](https://www.goodreads.com/book/show/28597.Prometheus_Rising) | 2010 |
 | The Concise 48 Laws of Power | Robert Greene | [4.25](https://www.goodreads.com/book/show/18224060-the-concise-48-laws-of-power) | 2011 |
 | The Hero with a Thousand Faces | Joseph Campbell | [4.24](https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces) | 1972 |
 | Zen Mind, Beginner's Mind | Shunryu Suzuki, David Chadwick | [4.23](https://www.goodreads.com/book/show/402843.Zen_Mind_Beginner_s_Mind) |  |
 | The Age of Insight: The Quest to Understand the Unconscious in Art, Mind, and Brain, from Vienna 1900 to the Present | Eric Kandel | [4.22](https://www.goodreads.com/book/show/12263681-the-age-of-insight) | 2012 |
 | Influence: The Psychology of Persuasion | Robert B. Cialdini | [4.18](https://www.goodreads.com/book/show/5752.The_Blank_Slate) | 2006 |
-| Gifts of Immperfection | Brene Brown | [4.17](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) | 2010 |
 | Metamagical Themas: Questing For The Essence Of Mind And Pattern | Douglas Hofstadter | [4.16](https://www.goodreads.com/book/show/181239.Metamagical_Themas) | 1996 |
 | The Truth About Everything: An Irreverent History of Philosophy : With Illustrations | Matthew Stewart | [4.15](https://www.goodreads.com/book/show/18528861-the-truth-about-everything) | 1997 |
 | How to Win Friends and Influence People | Dale Carnegie | [4.14](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) | 1998 |
@@ -113,6 +113,7 @@
 | The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind | Michio Kaku | [4.04](https://www.goodreads.com/book/show/17978489-the-future-of-the-mind) | 2014 |
 | Every Thing Must Go: Metaphysics Naturalized | James Ladyman, Don Ross, et al | [4.04](https://www.goodreads.com/book/show/757403.Every_Thing_Must_Go) | 2007 |
 | Antifragile: Things That Gain from Disorder (Incerto) | Nassim Nicholas Taleb | [4.04](https://www.goodreads.com/book/show/13530973-antifragile) | 2012 |
+| Mindset: The new psychology of success | Carol S. Dweck,Ph.D. | [4.04](https://www.goodreads.com/book/show/40745.Mindset) | 2006 |
 | The Power of Habit: Why We Do What We Do In Life And Business | Charles Duhigg | [4.03](https://www.goodreads.com/book/show/12609433-the-power-of-habit) | 2012 |
 | The Upside of Irrationality: The Unexpected Benefits of Defying Logic | Dan Ariely | [4.00](https://www.goodreads.com/book/show/7815744-the-upside-of-irrationality) |  |
 | Outsmarting IQ: The Emerging Science of Learnable Intelligence | David Perkins | [4.00](https://www.goodreads.com/book/show/1008488.Outsmarting_Iq) | 1995 |
@@ -142,6 +143,7 @@
 | Rapt: Attention and the Focused Life: Winifred Gallagher | Winifred Gallagher | [3.54](https://www.goodreads.com/book/show/6262510-rapt) |  |
 | The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression | Debra Fine | [3.36](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) | 2005 |
 | Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) |  |
+| Gifs of Immperfection | Brene Brown | [](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) |  |
 
 ## Autobiographies and Biographies
 | Name | Author | Goodreads Rating | Year Published |
@@ -161,8 +163,8 @@
 | Steve Jobs | Walter Issacson | [4.09](http://www.goodreads.com/book/show/11084145-steve-jobs) | 2011 |
 | My Experiments with Truth | Mahatma Gandhi | [4.07](http://www.goodreads.com/book/show/112803.The_Story_of_My_Experiments_With_Truth) | 1993 |
 | The Story of My Life | Helen Keller | [4.07](http://www.goodreads.com/book/show/821611.The_Story_of_My_Life) | 1990 |
-| Losing My Virginity: The Autobiography | Richard Branson | [3.97](https://www.goodreads.com/book/show/9533705-losing-my-virginity) | 1999 |
-| Ghost in the Wires:	My Adventures as the World's Most Wanted Hacker | Kevin Mitnick | [3.95](http://www.goodreads.com/book/show/10256723-ghost-in-the-wires) | 2011 |
+| Losing My Virginity: The Autobiography | Richard Branson | [3.97](https://www.goodreads.com/book/show/9533705-losing-my-virginity) |1999|
+| Ghost in the Wires: My Adventures as the World's Most Wanted Hacker | Kevin Mitnick | [3.95](http://www.goodreads.com/book/show/10256723-ghost-in-the-wires) | 2011 |
 | An Autobiography: Toward Freedom | Jawaharlal Nehru | [3.85](http://www.goodreads.com/book/show/322939.An_Autobiography) | 1989 |
 | iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It | Steve Wozniak | [3.82](http://www.goodreads.com/book/show/798635.iWoz) | 2007 |
 
@@ -178,7 +180,7 @@
 | The Nazi Doctors: Medical Killing and the Psychology of Genocide | Robert Jay Lifton | [4.07](https://www.goodreads.com/book/show/173187.The_Nazi_Doctors) | 1986 |
 | God Created The Integers: The Mathematical Breakthroughs that Changed History | Stephen Hawking | [4.06](https://www.goodreads.com/book/show/2096.God_Created_The_Integers) |  |
 | Churchill's Secret War: The British Empire and the Ravaging of India during World War II | Madhusree Mukerjee | [4.05](https://www.goodreads.com/book/show/8890989-churchill-s-secret-war) | 2010 |
-| El Tiempo Entre Costuras | María Dueñas | [4.04](https://www.goodreads.com/book/show/7502166-el-tiempo-entre-costuras) | 2009 |
+| El Tiempo Entre Costuras | María Dueñas | [4.04](https://www.goodreads.com/book/show/7502166-el-tiempo-entre-costuras) |2009 |
 | Guns, Germs, And Steel : The Fates Of Human Societies | Jared M. Diamond | [4.00](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel) | 2005 |
 | Discovery of India | Jawaharlal Nehru | [3.98](http://www.goodreads.com/book/show/154126.The_Discovery_of_India) |  |
 | The Rational Optimist: How Prosperity Evolves (P.S.) | Matt Ridley | [3.98](https://www.goodreads.com/book/show/7776209-the-rational-optimist) | 2010 |
@@ -214,7 +216,7 @@
 | The Structure of Scientific Revolutions: 50th Anniversary Edition | Thomas S. Kuhn | [3.99](https://www.goodreads.com/book/show/61539.The_Structure_of_Scientific_Revolutions) | 1996 |
 | At Home in the Universe: The Search for the Laws of Self-Organization and Complexity | Stuart Kauffman | [3.97](https://www.goodreads.com/book/show/319006.At_Home_in_the_Universe) | 1996 |
 | The Wealth of Networks: How Social Production Transforms Markets and Freedom | Yochai Benkler | [3.95](https://www.goodreads.com/book/show/14721.The_Wealth_of_Networks) | 2006 |
-| Mind Children: The Future of Robot and Human Intelligence | Hans Moravec. | [3.95](https://www.goodreads.com/book/show/648195.Mind_Children) | 1990 |
+| Mind Children: The Future of Robot and Human Intelligence |  Hans Moravec. | [3.95](https://www.goodreads.com/book/show/648195.Mind_Children) | 1990 |
 | How to Find a Habitable Planet | James kasting | [3.93](https://www.goodreads.com/book/show/7551498-how-to-find-a-habitable-planet) | 2010 |
 | The 10,000 Year Explosion: How Civilization Accelerated Human Evolution | Gregory Cochran, Henry Harpending | [3.91](https://www.goodreads.com/book/show/6033964-the-10-000-year-explosion) |  |
 | Evolution for Everyone: How Darwin's Theory Can Change the Way We Think About Our Lives | David Sloan Wilson | [3.90](http://www.goodreads.com/book/show/159062.Evolution_for_Everyone) | 2007 |
@@ -238,7 +240,8 @@
 | Name | Author | Goodreads Rating | Year Published |
 |------|--------|------------------|----------------|
 | Justice: What's the Right Thing to Do? | Michael J. Sandel | [4.25](https://www.goodreads.com/book/show/6452731-justice) |  |
-| The Righteous Mind: Why Good People are Divided by Politics and Religion | Jonathan Haidt | [4.16](https://www.goodreads.com/book/show/11324722-the-righteous-mind) | 2012 |
+| The Righteous Mind: Why Good People are Divided by Politics and Religion |  Jonathan Haidt | [4.16](https://www.goodreads.com/book/show/11324722-the-righteous-mind) | 2012 |
+| Strangers in Their Own Land: Anger and Mourning on the American Right | Arlie Russell Hochschild | [4.15](https://www.goodreads.com/book/show/28695425-strangers-in-their-own-land) | 2016 |
 | Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime | John Heilemann, Mark Halperin | [4.10](https://www.goodreads.com/book/show/6694937-game-change) | 2010 |
 | The Myth of the Rational Voter: Why Democracies Choose Bad Policies | Bryan Caplan | [3.96](https://www.goodreads.com/book/show/698866.The_Myth_of_the_Rational_Voter) | 2007 |
 | Resource Wars: The New Landscape of Global Conflict | Michael Klare | [3.73](https://www.goodreads.com/book/show/149206.Resource_Wars) |  |
@@ -265,7 +268,7 @@
 | Name | Author | Goodreads Rating | Year Published |
 |------|--------|------------------|----------------|
 | Sex at Dawn: The Prehistoric Origins of Modern | Christopher Ryan, Cacilda Jetha | [4.02](https://www.goodreads.com/book/show/7640261-sex-at-dawn) | 2010 |
-| The Ethical Slut: A Guide to Infinite Sexual Possibilities | Dossie Easton, Catherine A. Liszt. | [3.83](http://www.goodreads.com/book/show/54944.The_Ethical_Slut?from_search=true) | 2004 |
+| The Ethical Slut: A Guide to Infinite Sexual Possibilities |  Dossie Easton, Catherine A. Liszt. | [3.83](http://www.goodreads.com/book/show/54944.The_Ethical_Slut?from_search=true) | 2004 |
 | The Sex Myth | Brooke Magnanti | [3.50](https://www.goodreads.com/book/show/13569582-the-sex-myth) | 2015 |
 
 ## Education
@@ -278,6 +281,7 @@
 | The Art of Learning: An Inner Journey to Optimal Performance | Josh Waitzkin | [4.08](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) | 2016 |
 | Wounded by School: Recapturing the Joy in Learning and Standing Up to Old School Culture | Kirsten Olson, Sara Lawrence-Lightfoot, Parker J. Palmer | [3.92](https://www.goodreads.com/book/show/6425208-wounded-by-school) | 2009 |
 | Curious Minds: How a Child Becomes a Scientist | John Brockman | [3.72](https://www.goodreads.com/book/show/409588.Curious_Minds) | 2005 |
+
 
 ## Writing
 | Name | Author | Goodreads Rating | Year Published |
@@ -312,6 +316,7 @@
 | Name | Author | Goodreads Rating | Year Published |
 |------|--------|------------------|----------------|
 | The Master and Margarita | Mikhail Bulgakov | [4.32](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita) | 1996 |
+| Infinite Jest | David Foster Wallace | [4.31](https://www.goodreads.com/book/show/6759.Infinite_Jest) | 1995 |
 | The Brothers Karamazov | Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky | [4.30](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | 2002 |
 | To kill a mockingbird | Harper Lee | [4.26](https://www.goodreads.com/book/show/2657-To_Kill_a_Mockingbird) | 1960 |
 | Pride And Prejudice | Jane Austen | [4.24](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) | 2000 |
@@ -328,7 +333,7 @@
 | The Wall: (Intimacy) and Other Stories | Jean-Paul Sartre, Lloyd Alexander | [4.07](https://www.goodreads.com/book/show/10031.The_Wall) | 2010 |
 | Sense and Sensibility | Jane Austen | [4.06](https://www.goodreads.com/book/show/14935.Sense_and_Sensibility) | 2003 |
 | The Picture of Dorian Gray | Oscar Wilde | [4.06](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) | 1998 |
-| Watership Down: A Novel | Richard Adams | [4.05 ](https://www.goodreads.com/book/show/76620.Watership_Down) | 1975 |
+| Watership Down: A Novel | Richard Adams | [4.05 ](https://www.goodreads.com/book/show/76620.Watership_Down) |1975|
 | One Hundred Years of Solitude | Gabriel Garcia Marquez, Gregory Rabassa | [4.04](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude) | 2003 |
 | The Death of Ivan Ilych | Leo Tolstoy | [4.04](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) |  |
 | Anna Karenina | Leo Tolstoy | [4.02](https://www.goodreads.com/book/show/15823480-anna-karenina) | 2012 |
@@ -338,6 +343,7 @@
 | The House of Mirth | Edith Wharton | [3.94](https://www.goodreads.com/book/show/17728.The_House_of_Mirth) | 2006 |
 | Confessions of a Mask | Yukio Mishima | [3.91](https://www.goodreads.com/book/show/62794.Confessions_of_a_Mask) | 1998 |
 | De L'esprit Des Lois | Montesquieu | [3.91](https://www.goodreads.com/book/show/29854007-de-l-esprit-des-lois-nouvelle-edition) | 1995 |
+| Love in the Time of Cholera | Gabriel García Marquéz | [3.9](https://www.goodreads.com/book/show/9712.Love_in_the_Time_of_Cholera) | 1985 |
 | Don Quixote | Miguel de Cervantes | [3.85](http://www.goodreads.com/book/show/3836.Don_Quixote) | 2003 |
 | Mansfield Park | Jane Austen | [3.84](https://www.goodreads.com/book/show/45032) | 2003 |
 | Wuthering Heights | Emily Bronte | [3.82](https://www.goodreads.com/book/show/6185.Wuthering_Heights) | 2002 |
@@ -362,6 +368,7 @@
 | Discworld | Terry Pratchett | [4.32](https://www.goodreads.com/series/40650-discworld) | 2001 |
 | The Dark Tower | Stephen King | [4.27](https://www.goodreads.com/series/40750-the-dark-tower) |  |
 | His Dark Materials | Philip Pullman | [4.25](https://www.goodreads.com/book/show/18116.His_Dark_Materials) |  |
+| The Last Wish - Saga | Andrzej Sapkowski | [4.2](https://www.goodreads.com/book/show/1128434.The_Last_Wish) | 1993 |
 | The Chronicles of Narnia | Clive Staples Lewis | [4.24](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia) | 2002 |
 | The City & The City | China Mieville | [3.91](https://www.goodreads.com/book/show/4703581-the-city-the-city) | 2009 |
 | The Broken Empire | Mark Lawrence | [3.87](https://www.goodreads.com/series/64473-the-broken-empire) | 2011 |
@@ -396,15 +403,18 @@
 ### Science Fiction
 | Name | Author | Goodreads Rating | Year Published |
 |------|--------|------------------|----------------|
-| The Hitchhiker's Guide to the Galaxy | Douglas Adams | [4.38](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) |  |
+| The Hitchhiker's Guide to the Galaxy | Douglas Adams | [4.38](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) ||
+| Ready Player One | Ernest Cline | [4.31](https://www.goodreads.com/book/show/9969571-ready-player-one) | 2011 |
 | Ender's Game - Saga | Orson Scott Card | [4.30](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on) | 1994 |
 | The Player of Games | Iain M. Banks | [4.26](https://www.goodreads.com/book/show/18630.The_Player_of_Games) | 1997 |
 | The Fifth Sacred Thing | Starhawk | [4.25](https://www.goodreads.com/book/show/80689.The_Fifth_Sacred_Thing) | 1994 |
+| Hyperion | Dan Simmons | [4.21](https://www.goodreads.com/book/show/77566.Hyperion) | 1989 |
 | The Diamond Age | Neal Stephenson | [4.19](http://www.goodreads.com/book/show/827.The_Diamond_Age) | 2000 |
 | Dune Chronicles | Frank Herbert | [4.19](https://www.goodreads.com/search?q=dune) | 2006 |
 | Foundation | Isaac Asimov | [4.13](https://www.goodreads.com/book/show/29579.Foundation) | 2004 |
 | Snow Crash | Neal Stephenson | [4.02](https://www.goodreads.com/book/show/830.Snow_Crash) | 2000 |
 | Fahrenheit 451 | Ray Bradbury | [3.97](https://www.goodreads.com/book/show/17470674-fahrenheit-451) | 2006 |
+| Little Brother | Cory Doctorow | [3.94](https://www.goodreads.com/book/show/954674.Little_Brother) | 2008 |
 
 ### Horror
 | Name | Author | Goodreads Rating | Year Published |
@@ -427,7 +437,7 @@
 | Name | Author | Goodreads Rating | Year Published |
 |------|--------|------------------|----------------|
 | Convict Conditioning | Paul Wade | [4.13](http://www.goodreads.com/book/show/7305111-convict-conditioning) | 2012 |
-| Eat and Run: My Unlikely Journey to Ultramarathon Greatness | Scott Jurek, Steve Friedman | [3.95](https://www.goodreads.com/book/show/13202092-eat-and-run) | 2012 |
+| Eat and Run: My Unlikely Journey to Ultramarathon Greatness |  Scott Jurek, Steve Friedman | [3.95](https://www.goodreads.com/book/show/13202092-eat-and-run) | 2012 |
 | 8 Weeks to Optimum Health | Andrew Weil | [3.86](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) |  |
 
 ## Design
@@ -438,7 +448,9 @@
 | The Design of Everyday Things | Donald Norman | [4.18](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) | 2002 |
 
 ## Credits
-
+* [@hackerkid](https://github.com/hackerkid) for starting the list.
+* [@geritol](https://github.com/geritol) for building the framework for maintaining the list.
+* All the [contributors](https://github.com/hackerkid/Mind-Expanding-Books/graphs/contributors) for keeping the list updated by adding new books.
 
 ## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
