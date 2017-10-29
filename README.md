@@ -13,6 +13,7 @@
 * [Logic and Problem Solving](#logic-and-problem-solving)
 * [Politics](#politics)
 * [Economics](#economics)
+* [Investment](#investment)
 * [Sexuality](#sexuality)
 * [Education](#education)
 * [Writing](#writing)
@@ -262,7 +263,15 @@
 | The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done About It | Paul Collier | [3.85](https://www.goodreads.com/book/show/493371.The_Bottom_Billion) | 2007 |  
 | The Thank You Economy | Gary Vaynerchuk | [3.83](https://www.goodreads.com/book/show/9203287-the-thank-you-economy) | 2011 |  
 | Super Crunchers: Why Thinking-By-Numbers is the New Way To Be Smart | Ian Ayres | [3.70](https://www.goodreads.com/book/show/1081413.Super_Crunchers) |  |  
-| A Farewell to Alms : A Brief Economic History of the World | Gregory Clark | [3.67](https://www.goodreads.com/book/show/150437.A_Farewell_to_Alms) | 2007 |  
+| A Farewell to Alms : A Brief Economic History of the World | Gregory Clark | [3.67](https://www.goodreads.com/book/show/150437.A_Farewell_to_Alms) | 2007 |
+
+## Investment
+| Name | Author | Goodreads Rating | Year Published |  
+|------|--------|------------------|----------------|
+| Principles | Ray Dalio | [4.38](https://www.goodreads.com/book/show/12935037-principles) | 2011
+| The Essays of Warren Buffett: Lessons for Corporate America | Warren Buffett | [4.37](https://www.goodreads.com/book/show/145565.The_Essays_of_Warren_Buffett) | 2001
+| A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing | Burton G. Malkiel | [4.06](https://www.goodreads.com/book/show/900892.A_Random_Walk_Down_Wall_Street) | 1973 |
+| The Intelligent Investor | Benjamin Graham | [4.26](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor) | 1949 |
 
 ## Sexuality
 | Name | Author | Goodreads Rating | Year Published |  
