@@ -13,6 +13,7 @@
 * [Logic and Problem Solving](#logic-and-problem-solving)
 * [Politics](#politics)
 * [Economics](#economics)
+* [Investment](#investment)
 * [Sexuality](#sexuality)
 * [Education](#education)
 * [Writing](#writing)
@@ -116,13 +117,13 @@
 | Mindset: The new psychology of success | Carol S. Dweck,Ph.D. | [4.04](https://www.goodreads.com/book/show/40745.Mindset) | 2006 |
 | The Power of Habit: Why We Do What We Do In Life And Business | Charles Duhigg | [4.03](https://www.goodreads.com/book/show/12609433-the-power-of-habit) | 2012 |  
 | The Upside of Irrationality: The Unexpected Benefits of Defying Logic | Dan Ariely | [4.00](https://www.goodreads.com/book/show/7815744-the-upside-of-irrationality) |  |  
-| Outsmarting IQ: The Emerging Science of Learnable Intelligence | David Perkins | [4.00](https://www.goodreads.com/book/show/1008488.Outsmarting_Iq) | 1995 | 
+| Outsmarting IQ: The Emerging Science of Learnable Intelligence | David Perkins | [4.00](https://www.goodreads.com/book/show/1008488.Outsmarting_Iq) | 1995 |
 | The Art of War | Sun Tzu | [3.95](https://www.goodreads.com/book/show/10534.The_Art_of_War) | 2005 |  
 | Willpower: Rediscovering the Greatest Human Strength | Ron P. Baumeister, John Tierney | [3.95](https://www.goodreads.com/book/show/11104933-willpower) | 2011 |  
 | A Whole New Mind: Why Right-Brainers Will Rule the Future | Daniel H. Pink | [3.95](https://www.goodreads.com/book/show/99315.A_Whole_New_Mind) |  |  
 | Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel | Rolf Potts | [3.92](https://www.goodreads.com/book/show/100247.Vagabonding) |  |  
 | Supernormal: Science, Yoga, and the Evidence for Extraordinary Psychic Abilities | Dean Radin | [3.91](https://www.goodreads.com/book/show/8694125-alone-together) | 2013 |  
-| Prisoner's Dilemma | William Poundstone | [3.91](https://www.goodreads.com/book/show/29506.Prisoner_s_Dilemma) | 1993 | 
+| Prisoner's Dilemma | William Poundstone | [3.91](https://www.goodreads.com/book/show/29506.Prisoner_s_Dilemma) | 1993 |
 | The Stuff of Thought: Language as a Window into Human Nature | Steven Pinker | [3.90](https://www.goodreads.com/book/show/373969.The_Stuff_of_Thought) | 2007 |  
 | Consilience: The Unity of Knowledge | Edward O. Wilson | [3.90](https://www.goodreads.com/book/show/55981.Consilience) | 1999 |  
 | Why We Make Mistakes: How We Look Without Seeing, Forget Things in Seconds, and Are All Pretty Sure We Are Way Above Average | Joseph T. Hallinan | [3.87](https://www.goodreads.com/book/show/5040579-why-we-make-mistakes) | 2009 |  
@@ -264,6 +265,14 @@
 | Super Crunchers: Why Thinking-By-Numbers is the New Way To Be Smart | Ian Ayres | [3.70](https://www.goodreads.com/book/show/1081413.Super_Crunchers) |  |  
 | A Farewell to Alms : A Brief Economic History of the World | Gregory Clark | [3.67](https://www.goodreads.com/book/show/150437.A_Farewell_to_Alms) | 2007 |  
 
+## Investment
+| Name | Author | Goodreads Rating | Year Published |  
+|------|--------|------------------|----------------|
+| Principles | Ray Dalio | [4.38](https://www.goodreads.com/book/show/12935037-principles) | 2011
+| The Essays of Warren Buffett: Lessons for Corporate America | Warren Buffett | [4.37](https://www.goodreads.com/book/show/145565.The_Essays_of_Warren_Buffett) | 2001
+| A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing | Burton G. Malkiel | [4.06](https://www.goodreads.com/book/show/900892.A_Random_Walk_Down_Wall_Street) | 1973 |
+| The Intelligent Investor | Benjamin Graham | [4.26](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor) | 1949 |
+
 ## Sexuality
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
@@ -342,7 +351,7 @@
 | The House of Mirth | Edith Wharton | [3.94](https://www.goodreads.com/book/show/17728.The_House_of_Mirth) | 2006 |  
 | Confessions of a Mask | Yukio Mishima | [3.91](https://www.goodreads.com/book/show/62794.Confessions_of_a_Mask) | 1998 |  
 | De L'esprit Des Lois | Montesquieu | [3.91](https://www.goodreads.com/book/show/29854007-de-l-esprit-des-lois-nouvelle-edition) | 1995 |  
-| Love in the Time of Cholera | Gabriel García Marquéz | [3.9](https://www.goodreads.com/book/show/9712.Love_in_the_Time_of_Cholera) | 1985 | 
+| Love in the Time of Cholera | Gabriel García Marquéz | [3.9](https://www.goodreads.com/book/show/9712.Love_in_the_Time_of_Cholera) | 1985 |
 | Don Quixote | Miguel de Cervantes | [3.85](http://www.goodreads.com/book/show/3836.Don_Quixote) | 2003 |  
 | Mansfield Park | Jane Austen | [3.84](https://www.goodreads.com/book/show/45032) | 2003 |  
 | Wuthering Heights | Emily Bronte | [3.82](https://www.goodreads.com/book/show/6185.Wuthering_Heights) | 2002 |  
