@@ -101,6 +101,7 @@
 | Bulfinch's Mythology | Thomas Bulfinch | [4.13](https://www.goodreads.com/book/show/588147.Bulfinch_s_Mythology) | 1998 |  
 | Ego Is the Enemy | Ryan Holiday | [4.12](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy) | 2016 |  
 | Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! | Anthony Robbins | [4.11](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within) |  |  
+| The Power of Now: A Guide to Spiritual Enlightenment | Eckhart Tolle | [4.11](https://www.goodreads.com/book/show/6708.The_Power_of_Now) | 1997 |  
 | Predictably Irrational | Dan Ariely | [4.10](https://www.goodreads.com/book/show/1713426.Predictably_Irrational) | 2008 |  
 | Flow: The Psychology of Optimal Experience | Mihaly Csikszentmihalyi | [4.10](https://www.goodreads.com/book/show/66354.Flow) | 1990 |  
 | Thinking, Fast and Slow | Daniel Kahneman | [4.09](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) | 2011 |  
