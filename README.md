@@ -52,6 +52,7 @@
 | SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance | Steven D. Litt | [3.96](https://www.goodreads.com/book/show/6402364-superfreakonomics) | 2009 |  
 | The Ten Faces of Innovation | Tom Kelley | [3.96](https://www.goodreads.com/book/show/95656.The_Ten_Faces_of_Innovation) | 2005 |  
 | Rich Dad Poor Dad : What The Rich Teach Their Kids About Money That The Poor And Middle Class Don't | Robert T. Kiyosaki | [3.95](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) | 1997 |  
+| Fanatical Prospecting: The Ultimate Guide for Starting Sales Conversations and Filling the Pipeline by Leveraging Social Selling, Telephone, E-Mail, and Cold Calling | Jeb Blount | [4.37](https://www.goodreads.com/book/show/26270465-fanatical-prospecting) | 2015 |  
 | Founders At Work: Stories Of Startups Early Days | Jessica Livingston | [3.94](https://www.goodreads.com/book/show/98233.Founders_at_Work) |  |  
 | The Paypal Wars | Eric M. Jackson | [3.94](https://www.goodreads.com/book/show/4052.The_PayPal_Wars) | 2010 |  
 | Lean In : Women, Work and the Will to Lead | Sheryl Sandberg | [3.94](http://www.goodreads.com/book/show/16071764-lean-in) | 2013 |  
