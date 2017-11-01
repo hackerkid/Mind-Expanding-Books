@@ -222,6 +222,7 @@
 | How to Find a Habitable Planet | James kasting | [3.93](https://www.goodreads.com/book/show/7551498-how-to-find-a-habitable-planet) | 2010 |  
 | The 10,000 Year Explosion: How Civilization Accelerated Human Evolution | Gregory Cochran, Henry Harpending | [3.91](https://www.goodreads.com/book/show/6033964-the-10-000-year-explosion) |  |  
 | Evolution for Everyone: How Darwin's Theory Can Change the Way We Think About Our Lives | David Sloan Wilson | [3.90](http://www.goodreads.com/book/show/159062.Evolution_for_Everyone) | 2007 |  
+| The Rise of Superman: Decoding the Science of Ultimate Human Performance | Steven Kotler | [3.88](www.goodreads.com/book/show/18222878-the-rise-of-superman) | 2014 |
 | The Shallows: What the Internet is Doing to Our Brains | Nicholas Carr | [3.85](https://www.goodreads.com/book/show/9778945-the-shallows) | 2011 |  
 | Catching Fire: How Cooking Made Us Human | Richard Wrangham | [3.83](https://www.goodreads.com/book/show/11148989-catching-fire) | 2009 |  
 | Heaven in a Chip: Fuzzy Visions of Society and Science in the Digital Age | Bart Kosko | [3.82](https://www.goodreads.com/book/show/172645.Heaven_in_a_Chip) | 2000 |  
