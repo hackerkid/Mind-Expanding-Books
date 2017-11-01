@@ -13,6 +13,7 @@
 * [Logic and Problem Solving](#logic-and-problem-solving)
 * [Politics](#politics)
 * [Economics](#economics)
+* [Gender](#gender)
 * [Sexuality](#sexuality)
 * [Education](#education)
 * [Writing](#writing)
@@ -267,6 +268,10 @@
 | Super Crunchers: Why Thinking-By-Numbers is the New Way To Be Smart | Ian Ayres | [3.70](https://www.goodreads.com/book/show/1081413.Super_Crunchers) |  |  
 | A Farewell to Alms : A Brief Economic History of the World | Gregory Clark | [3.67](https://www.goodreads.com/book/show/150437.A_Farewell_to_Alms) | 2007 |  
 
+## Gender
+| Name | Author | Goodreads Rating | Year Published |  
+|------|--------|------------------|----------------|  
+| Delusions of Gender: How Our Minds, Society, and Neurosexism Create Difference | Cordelia Fine | [4.15](https://www.goodreads.com/book/show/8031168-delusions-of-gender) | 2010
 ## Sexuality
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
