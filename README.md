@@ -240,7 +240,8 @@
 
 ## Politics
 | Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|  
+|------|--------|------------------|----------------|
+| The New Jim Crow: Mass Incarceration in the Age of Colorblindness | Michelle Alexander | [4.49](https://www.goodreads.com/book/show/6792458-the-new-jim-crow)| 2010
 | Justice: What's the Right Thing to Do? | Michael J. Sandel | [4.25](https://www.goodreads.com/book/show/6452731-justice) |  |  
 | The Righteous Mind: Why Good People are Divided by Politics and Religion |  Jonathan Haidt | [4.16](https://www.goodreads.com/book/show/11324722-the-righteous-mind) | 2012 |  
 | Strangers in Their Own Land: Anger and Mourning on the American Right | Arlie Russell Hochschild | [4.15](https://www.goodreads.com/book/show/28695425-strangers-in-their-own-land) | 2016 |  
