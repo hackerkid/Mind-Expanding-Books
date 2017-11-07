@@ -30,12 +30,12 @@
 |------|--------|------------------|----------------|  
 | The Compound Effect | Darren Hardy | [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) | 2010 |  
 | High Output Management | Andy Grove | [4.38](https://www.goodreads.com/book/show/324750.High_Output_Management) | 1995 |  
-| How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success | Jack Canfield, Janet Switzer | [4.26](https://www.goodreads.com/book/show/96593.The_Success_Principles) | 2007 |  
+| How to Get From Where You Are to Where You Want to Be: The 25 Principles of Success | Jack Canfield, Janet Switzer | [4.26](https://www.goodreads.com/book/show/96593.The_Success_Principles) | 2007 |  
 | The Big Short: Inside the Doomsday Machine | Michael Lewis | [4.26](https://www.goodreads.com/book/show/8032112-the-big-short) | 2015 |  
 | The Score Takes Care of Itself: My Philosophy of Leadership | Bill Walsh, Steve Jamison, Craig Walsh | [4.21](https://www.goodreads.com/book/show/6342995-the-score-takes-care-of-itself) | 2009 |  
 | The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers | Ben Horowitz | [4.20](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) | 2014 |  
 | Outliers: Story of Success | Malcolm Gladwell | [4.11](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) | 2008 |  
-| The Strategy and Tactics of Pricing : A Guide to Move More Profitable | Thomas Nagle, John Hogan, Joseph Zale | [4.09](https://www.goodreads.com/book/show/99919.The_Strategy_and_Tactics_of_Pricing) | 2005 |  
+| The Strategy and Tactics of Pricing: A Guide to Move More Profitable | Thomas Nagle, John Hogan, Joseph Zale | [4.09](https://www.goodreads.com/book/show/99919.The_Strategy_and_Tactics_of_Pricing) | 2005 |  
 | Start with Why: How Great Leaders Inspire Everyone to Take Action | Simon Sinek | [4.07](https://www.goodreads.com/book/show/7108725-start-with-why) | 2009 |  
 | Leaving Microsoft to Change the World: An Entrepreneur's Odyssey to Educate the World's Children | John Wood | [4.07](https://www.goodreads.com/book/show/95429.Leaving_Microsoft_to_Change_the_World) | 2006 |  
 | Hackers and Painters | Paul Graham | [4.06](https://www.goodreads.com/book/show/41793.Hackers_Painters) | 2004 |  
@@ -52,10 +52,10 @@
 | Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business My Way | Richard Branson | [3.97](https://www.goodreads.com/book/show/211099.Losing_My_Virginity) | 1998 |  
 | SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance | Steven D. Litt | [3.96](https://www.goodreads.com/book/show/6402364-superfreakonomics) | 2009 |  
 | The Ten Faces of Innovation | Tom Kelley | [3.96](https://www.goodreads.com/book/show/95656.The_Ten_Faces_of_Innovation) | 2005 |  
-| Rich Dad Poor Dad : What The Rich Teach Their Kids About Money That The Poor And Middle Class Don't | Robert T. Kiyosaki | [3.95](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) | 1997 |  
+| Rich Dad Poor Dad: What The Rich Teach Their Kids About Money That The Poor And Middle Class Don't | Robert T. Kiyosaki | [3.95](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) | 1997 |  
 | Founders At Work: Stories Of Startups Early Days | Jessica Livingston | [3.94](https://www.goodreads.com/book/show/98233.Founders_at_Work) |  |  
 | The Paypal Wars | Eric M. Jackson | [3.94](https://www.goodreads.com/book/show/4052.The_PayPal_Wars) | 2010 |  
-| Lean In : Women, Work and the Will to Lead | Sheryl Sandberg | [3.94](http://www.goodreads.com/book/show/16071764-lean-in) | 2013 |  
+| Lean In: Women, Work and the Will to Lead | Sheryl Sandberg | [3.94](http://www.goodreads.com/book/show/16071764-lean-in) | 2013 |  
 | ReWork: Change the Way You Work Forever | David Heinemeier Hansson | [3.93](https://www.goodreads.com/book/show/6732019-rework) | 2010 |  
 | The 22 Immutable Laws Of Branding | Laura Ries and Al Ries | [3.93](https://www.goodreads.com/book/show/1565533.The_22_Immutable_Laws_of_Branding) | 1998 |  
 | Freakonomics: A Rogue Economist Explores the Hidden Side of Everything | Steven D. Levitt, Stephen J. Dubner | [3.93](https://www.goodreads.com/book/show/1202.Freakonomics) | 2006 |  
@@ -78,7 +78,7 @@
 | One Click: Jeff Bezos and the Rise of Amazon.com | Richard Brandt | [3.75](https://www.goodreads.com/book/show/11223478-one-click) |  |  
 | Big Data: A Revolution That Will Transform How We Live, Work, and Think | Kenneth Cukier | [3.70](https://www.goodreads.com/book/show/15815598-big-data) | 2013 |  
 | The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich | Timothy Ferriss | [3.61](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) | 2012 |  
-| The Accidental Billionaires : The Founding of Facebook, a Tale of Sex, Money, Genius and Betrayal | Ben Mezrich | [3.50](https://www.goodreads.com/book/show/6326920-the-accidental-billionaires) | 2009 |  
+| The Accidental Billionaires: The Founding of Facebook, a Tale of Sex, Money, Genius and Betrayal | Ben Mezrich | [3.50](https://www.goodreads.com/book/show/6326920-the-accidental-billionaires) | 2009 |  
 
 ## Philosophy And Psychology
 | Name | Author | Goodreads Rating | Year Published |  
@@ -95,7 +95,7 @@
 | The Age of Insight: The Quest to Understand the Unconscious in Art, Mind, and Brain, from Vienna 1900 to the Present | Eric Kandel | [4.22](https://www.goodreads.com/book/show/12263681-the-age-of-insight) | 2012 |  
 | Influence: The Psychology of Persuasion | Robert B. Cialdini | [4.18](https://www.goodreads.com/book/show/5752.The_Blank_Slate) | 2006 |  
 | Metamagical Themas: Questing For The Essence Of Mind And Pattern | Douglas Hofstadter | [4.16](https://www.goodreads.com/book/show/181239.Metamagical_Themas) | 1996 |  
-| The Truth About Everything: An Irreverent History of Philosophy : With Illustrations | Matthew Stewart | [4.15](https://www.goodreads.com/book/show/18528861-the-truth-about-everything) | 1997 |  
+| The Truth About Everything: An Irreverent History of Philosophy: With Illustrations | Matthew Stewart | [4.15](https://www.goodreads.com/book/show/18528861-the-truth-about-everything) | 1997 |  
 | How to Win Friends and Influence People | Dale Carnegie | [4.14](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) | 1998 |  
 | Creative Visualization: Use the Power of Your Imagination to Create What You Want in Your Life | Shakti Gawain | [4.13](https://www.goodreads.com/book/show/582533.Creative_Visualization) | 2002 |  
 | Bulfinch's Mythology | Thomas Bulfinch | [4.13](https://www.goodreads.com/book/show/588147.Bulfinch_s_Mythology) | 1998 |  
@@ -185,7 +185,7 @@
 | God Created The Integers: The Mathematical Breakthroughs that Changed History | Stephen Hawking | [4.06](https://www.goodreads.com/book/show/2096.God_Created_The_Integers) |  |  
 | Churchill's Secret War: The British Empire and the Ravaging of India during World War II | Madhusree Mukerjee | [4.05](https://www.goodreads.com/book/show/8890989-churchill-s-secret-war) | 2010 |  
 | El Tiempo Entre Costuras | María Dueñas | [4.04](https://www.goodreads.com/book/show/7502166-el-tiempo-entre-costuras) |2009 |  
-| Guns, Germs, And Steel : The Fates Of Human Societies | Jared M. Diamond | [4.00](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel) | 2005 |  
+| Guns, Germs, And Steel: The Fates Of Human Societies | Jared M. Diamond | [4.00](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel) | 2005 |  
 | Discovery of India | Jawaharlal Nehru | [3.98](http://www.goodreads.com/book/show/154126.The_Discovery_of_India) |  |  
 | The Rational Optimist: How Prosperity Evolves (P.S.) | Matt Ridley | [3.98](https://www.goodreads.com/book/show/7776209-the-rational-optimist) | 2010 |  
 | Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground | Kevin Poulson | [3.96](http://www.goodreads.com/book/show/9319468-kingpin) | 2011 |  
@@ -267,7 +267,7 @@
 | The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done About It | Paul Collier | [3.85](https://www.goodreads.com/book/show/493371.The_Bottom_Billion) | 2007 |  
 | The Thank You Economy | Gary Vaynerchuk | [3.83](https://www.goodreads.com/book/show/9203287-the-thank-you-economy) | 2011 |  
 | Super Crunchers: Why Thinking-By-Numbers is the New Way To Be Smart | Ian Ayres | [3.70](https://www.goodreads.com/book/show/1081413.Super_Crunchers) |  |  
-| A Farewell to Alms : A Brief Economic History of the World | Gregory Clark | [3.67](https://www.goodreads.com/book/show/150437.A_Farewell_to_Alms) | 2007 |  
+| A Farewell to Alms: A Brief Economic History of the World | Gregory Clark | [3.67](https://www.goodreads.com/book/show/150437.A_Farewell_to_Alms) | 2007 |  
 
 ## Gender
 | Name | Author | Goodreads Rating | Year Published |  
