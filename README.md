@@ -149,7 +149,8 @@
 | Rapt: Attention and the Focused Life: Winifred Gallagher | Winifred Gallagher | [3.54](https://www.goodreads.com/book/show/6262510-rapt) |  |  
 | The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression | Debra Fine | [3.36](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) | 2005 |  
 | Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) |  |  
-| Gifs of Immperfection | Brene Brown | [](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) |  |  
+| Gifts of Imperfection | Brene Brown | [4.18](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) |  |  
+| Meditations | Marcus Aurelius | [4.21](https://www.goodreads.com/book/show/30659.Meditations) |  |
 
 ## Autobiographies and Biographies
 | Name | Author | Goodreads Rating | Year Published |  
