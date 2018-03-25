@@ -378,6 +378,7 @@
 | The Lord of the Rings | J.R.R. Tolkien | [4.47](https://www.goodreads.com/series/66175-the-lord-of-the-rings) | 2005 |  
 | A Song of Ice and Fire | George R.R. Martin | [4.45](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) | 2005 |  
 | Harry Potter | J.K. Rowling | [4.44](https://www.goodreads.com/series/45175-harry-potter) | 1997 |  
+| Mistborn | Brandon Sanderson | [4.43](https://www.goodreads.com/series/40910-mistborn) | 2006 |
 | Harry Potter and the Methods of Rationality | Eliezer Yudkowsky | [4.38](https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality) | 2015 |  
 | Discworld | Terry Pratchett | [4.32](https://www.goodreads.com/series/40650-discworld) | 2001 |  
 | The Dark Tower | Stephen King | [4.27](https://www.goodreads.com/series/40750-the-dark-tower) |  |  
