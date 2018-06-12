@@ -183,7 +183,7 @@
 | One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War | Michael Dobbs | [4.20](https://www.goodreads.com/book/show/2606779-one-minute-to-midnight) | 2008 |  
 | The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet | David Kahn | [4.18](https://www.goodreads.com/book/show/29608.The_Codebreakers) | 1996 |  
 | From Dawn to Decadence: 500 Years of Western Cultural Life 1500 to the Present | Jacques Barzun | [4.12](https://www.goodreads.com/book/show/58233.From_Dawn_to_Decadence) | 2001 |  
-| Why the West Rules--for Now: The Patterns of History, and What They Reveal About the Future | Ian Morrisage | [4.09](https://www.goodreads.com/book/show/9491855-why-the-west-rules-for-now) | 2010 |  
+| Why the West Rules--for Now: The Patterns of History, and What They Reveal About the Future | Ian Morris | [4.09](https://www.goodreads.com/book/show/9491855-why-the-west-rules-for-now) | 2010 |  
 | The Nazi Doctors: Medical Killing and the Psychology of Genocide | Robert Jay Lifton | [4.07](https://www.goodreads.com/book/show/173187.The_Nazi_Doctors) | 1986 |  
 | God Created The Integers: The Mathematical Breakthroughs that Changed History | Stephen Hawking | [4.06](https://www.goodreads.com/book/show/2096.God_Created_The_Integers) |  |  
 | Churchill's Secret War: The British Empire and the Ravaging of India during World War II | Madhusree Mukerjee | [4.05](https://www.goodreads.com/book/show/8890989-churchill-s-secret-war) | 2010 |  
