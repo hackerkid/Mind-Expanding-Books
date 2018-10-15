@@ -46,6 +46,7 @@
 | The Power of Full Engagement: Managing Energy, Not Time, is the Key to High Performance and Personal Renewal | Jim Loehr, Tony Schwartz | [4.03](http://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement) | 2005 |  
 | The Checklist Manifesto: How To Get Things Right | Atul Gawande | [4.03](http://www.goodreads.com/book/show/6667514-the-checklist-manifesto) | 2009 |  
 | Where Good Ideas Come From | Steven Johnson | [4.03](https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from) | 2010 |  
+| Target 3 Billion | A. P. J. Abdul Kalam, Srijan Pal Singh| [4.32](https://www.goodreads.com/book/show/13122864-target-3-billion?from_choice=false&from_home_module=false) |2011 |
 | Delivering Happiness: A Path to Profits, Passion, and Purpose | Tony Hsieh | [4.01](http://www.goodreads.com/book/show/6828896-delivering-happiness) | 2010 |  
 | The Innovator's Dilemma | clayton m. christensen | [4.00](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma) | 1997 |  
 | Influencer: The New Science of Leading Change | Joseph Grenny, Kerry Patterson | [3.98](https://www.goodreads.com/book/show/914211.Influencer) | 2007 |  
