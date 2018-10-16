@@ -277,6 +277,7 @@
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Delusions of Gender: How Our Minds, Society, and Neurosexism Create Difference | Cordelia Fine | [4.15](https://www.goodreads.com/book/show/8031168-delusions-of-gender) | 2010
+| We Should All Be Feminists | Chimamanda Ngozi Adichie | [4.46](https://www.goodreads.com/book/show/22738563-we-should-all-be-feminists) | 2014
 ## Sexuality
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
