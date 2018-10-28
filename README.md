@@ -24,6 +24,7 @@
 * [Health](#health)
 * [Design](#design)
 * [Travel](#travel)
+* [Nature](#nature)
 
 # Books
 
@@ -471,6 +472,11 @@
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Atlas Obscura: An Explorer's Guide to the World's Hidden Wonders | Joshua Foer | [4.24](https://www.goodreads.com/book/show/28110891-atlas-obscura) | 2016 |  
+
+## Nature
+| Name | Author | Goodreads Rating | Year Published |  
+|------|--------|------------------|----------------|  
+| Pilgrim at Tinker Creek | Annie Dillard | [4.11](https://www.goodreads.com/book/show/12527.Pilgrim_at_Tinker_Creek) | 1974 |  
 
 ## Credits
 * [@hackerkid](https://github.com/hackerkid) for starting the list.
