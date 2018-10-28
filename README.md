@@ -255,6 +255,7 @@
 | The Myth of the Rational Voter: Why Democracies Choose Bad Policies | Bryan Caplan | [3.96](https://www.goodreads.com/book/show/698866.The_Myth_of_the_Rational_Voter) | 2007 |  
 | Resource Wars: The New Landscape of Global Conflict | Michael Klare | [3.73](https://www.goodreads.com/book/show/149206.Resource_Wars) |  |  
 | The Audacity of Hope: Thoughts on Reclaiming the American Dream | Barack Obama | [3.70](https://www.goodreads.com/book/show/9742.The_Audacity_of_Hope) | 2006 |  
+| Bolo'bolo | P.M. | [4.05](https://www.goodreads.com/book/show/12395170-bolo-bolo) | 1984 |  
 
 ## Economics
 | Name | Author | Goodreads Rating | Year Published |  
