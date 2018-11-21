@@ -225,7 +225,7 @@
 | At Home in the Universe: The Search for the Laws of Self-Organization and Complexity | Stuart Kauffman | [3.97](https://www.goodreads.com/book/show/319006.At_Home_in_the_Universe) | 1996 |  
 | The Wealth of Networks: How Social Production Transforms Markets and Freedom | Yochai Benkler | [3.95](https://www.goodreads.com/book/show/14721.The_Wealth_of_Networks) | 2006 |  
 | Mind Children: The Future of Robot and Human Intelligence |  Hans Moravec. | [3.95](https://www.goodreads.com/book/show/648195.Mind_Children) | 1990 |  
-| How to Find a Habitable Planet | James kasting | [3.93](https://www.goodreads.com/book/show/7551498-how-to-find-a-habitable-planet) | 2010 |  
+| How to Find a Habitable Planet | James Kasting | [3.93](https://www.goodreads.com/book/show/7551498-how-to-find-a-habitable-planet) | 2010 |  
 | The 10,000 Year Explosion: How Civilization Accelerated Human Evolution | Gregory Cochran, Henry Harpending | [3.91](https://www.goodreads.com/book/show/6033964-the-10-000-year-explosion) |  |  
 | Evolution for Everyone: How Darwin's Theory Can Change the Way We Think About Our Lives | David Sloan Wilson | [3.90](http://www.goodreads.com/book/show/159062.Evolution_for_Everyone) | 2007 |  
 | The Shallows: What the Internet is Doing to Our Brains | Nicholas Carr | [3.85](https://www.goodreads.com/book/show/9778945-the-shallows) | 2011 |  
@@ -340,7 +340,7 @@
 | Steppenwolf: A Novel | Hermann Hesse, Basil Creighton | [4.11](https://www.goodreads.com/book/show/16631.Steppenwolf) | 1999 |  
 | The Glass Bead Game | Hermann Hesse, Richard and Clara Winston | [4.11](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game) | 2002 |  
 | War and Peace | Leo Tolstoy | [4.11](https://www.goodreads.com/book/show/656.War_and_Peace) | 1998 |  
-| Jane Eyre | Charlotte Brontë | [4.10](https://www.goodreads.com/book/show/10210.Jane_Eyre) |  |  
+| Jane Eyre | Charlotte Brontë | [4.10](https://www.goodreads.com/book/show/10210.Jane_Eyre) | 1847 |  
 | Germinal | Emile Zola | [4.10](https://www.goodreads.com/book/show/28407.Germinal) | 2004 |  
 | If on a Winter's Night a Traveler | Italo Calvino and William Weaver | [4.08](https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler) | 1982 |  
 | The Wall: (Intimacy) and Other Stories | Jean-Paul Sartre, Lloyd Alexander | [4.07](https://www.goodreads.com/book/show/10031.The_Wall) | 2010 |  
