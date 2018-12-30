@@ -452,10 +452,10 @@
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease | Michael Greger, M.D. | [4.54](https://www.goodreads.com/book/show/25663961-how-not-to-die) | 2015 |
+| Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength (2nd edition) | Steven Low | [4.3](https://www.goodreads.com/book/show/33293328-overcoming-gravity) | 2016 | 
 | Convict Conditioning | Paul Wade | [4.13](http://www.goodreads.com/book/show/7305111-convict-conditioning) | 2012 |  
 | Eat and Run: My Unlikely Journey to Ultramarathon Greatness |  Scott Jurek, Steve Friedman | [3.95](https://www.goodreads.com/book/show/13202092-eat-and-run) | 2012 |  
 | 8 Weeks to Optimum Health | Andrew Weil | [3.86](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) |  |  
-| Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength (2nd edition) | Steven Low | [4.3](https://www.goodreads.com/book/show/33293328-overcoming-gravity) | 2016 | 
 
 ## Design
 | Name | Author | Goodreads Rating | Year Published |  
