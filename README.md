@@ -24,6 +24,7 @@
 * [Health](#health)
 * [Design](#design)
 * [Travel](#travel)
+* [Language](#language)
 * [Nature](#nature)
 
 # Books
@@ -474,6 +475,11 @@
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Atlas Obscura: An Explorer's Guide to the World's Hidden Wonders | Joshua Foer | [4.24](https://www.goodreads.com/book/show/28110891-atlas-obscura) | 2016 |  
+
+## Language
+| Name | Author | Goodreads Rating | Year Published |  
+|------|--------|------------------|----------------|  
+| Le Ton beau de Marot: In Praise of the Music of Language | Douglas R. Hofstadter | [4.22](https://www.goodreads.com/book/show/248193.Le_Ton_beau_de_Marot) | 1997 |  
 
 ## Nature
 | Name | Author | Goodreads Rating | Year Published |  
