@@ -424,13 +424,13 @@
 | The Player of Games | Iain M. Banks | [4.26](https://www.goodreads.com/book/show/18630.The_Player_of_Games) | 1997 |  
 | The Fifth Sacred Thing | Starhawk | [4.25](https://www.goodreads.com/book/show/80689.The_Fifth_Sacred_Thing) | 1994 |
 | Hyperion | Dan Simmons | [4.21](https://www.goodreads.com/book/show/77566.Hyperion) | 1989 |  
+| Cosmicomics | Italo Calvino | [4.2](https://www.goodreads.com/book/show/59780.Cosmicomics) | 1965 |
 | The Diamond Age | Neal Stephenson | [4.19](http://www.goodreads.com/book/show/827.The_Diamond_Age) | 2000 |  
 | Dune Chronicles | Frank Herbert | [4.19](https://www.goodreads.com/search?q=dune) | 2006 |  
 | Foundation | Isaac Asimov | [4.13](https://www.goodreads.com/book/show/29579.Foundation) | 2004 |  
 | Snow Crash | Neal Stephenson | [4.02](https://www.goodreads.com/book/show/830.Snow_Crash) | 2000 |  
 | Fahrenheit 451 | Ray Bradbury | [3.97](https://www.goodreads.com/book/show/17470674-fahrenheit-451) | 2006 |  
 | Little Brother | Cory Doctorow | [3.94](https://www.goodreads.com/book/show/954674.Little_Brother) | 2008 |
-| Cosmicomics | Italo Calvino | [4.2](https://www.goodreads.com/book/show/59780.Cosmicomics) | 1965 |
 
 ### Horror
 | Name | Author | Goodreads Rating | Year Published |  
