@@ -179,6 +179,7 @@
 | Ghost in the Wires:	My Adventures as the World's Most Wanted Hacker | Kevin Mitnick | [3.95](http://www.goodreads.com/book/show/10256723-ghost-in-the-wires) | 2011 |  
 | An Autobiography: Toward Freedom | Jawaharlal Nehru | [3.85](http://www.goodreads.com/book/show/322939.An_Autobiography) | 1989 |  
 | iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It | Steve Wozniak | [3.82](http://www.goodreads.com/book/show/798635.iWoz) | 2007 |  
+| Einstein: His Life and Universe | Walter Isaacson | [4.09](https://www.goodreads.com/book/show/10884.Einstein) | 2007
 
 ## History
 | Name | Author | Goodreads Rating | Year Published |  
