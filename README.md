@@ -429,6 +429,8 @@ I just started an online community for book lovers at https://books.zulipchat.co
 ### Science Fiction
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
+| Death's End (Remembrance of Earth's Past #3) | Cixin Liu | [4.45](https://www.goodreads.com/book/show/25451264-death-s-end) | 2016 |
+| The Dark Forest (Remembrance of Earth's Past #2) | Cixin Liu | [4.41](https://www.goodreads.com/book/show/23168817-the-dark-forest) | 2015 |
 | The Hitchhiker's Guide to the Galaxy | Douglas Adams | [4.38](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) ||
 | Ready Player One | Ernest Cline | [4.31](https://www.goodreads.com/book/show/9969571-ready-player-one) | 2011 |
 | Ender's Game - Saga | Orson Scott Card | [4.30](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on) | 1994 |  
@@ -439,6 +441,7 @@ I just started an online community for book lovers at https://books.zulipchat.co
 | The Diamond Age | Neal Stephenson | [4.19](http://www.goodreads.com/book/show/827.The_Diamond_Age) | 2000 |  
 | Dune Chronicles | Frank Herbert | [4.19](https://www.goodreads.com/search?q=dune) | 2006 |  
 | Foundation | Isaac Asimov | [4.13](https://www.goodreads.com/book/show/29579.Foundation) | 2004 |  
+| The Three-Body Problem (Remembrance of Earth's Past #1) | Cixin Liu | [4.05](https://www.goodreads.com/book/show/20518872-the-three-body-problem) | 2014 |
 | Snow Crash | Neal Stephenson | [4.02](https://www.goodreads.com/book/show/830.Snow_Crash) | 2000 |  
 | Fahrenheit 451 | Ray Bradbury | [3.97](https://www.goodreads.com/book/show/17470674-fahrenheit-451) | 2006 |  
 | Little Brother | Cory Doctorow | [3.94](https://www.goodreads.com/book/show/954674.Little_Brother) | 2008 |
