@@ -384,6 +384,7 @@ I just started an online community for book lovers at https://books.zulipchat.co
 | Confessions | Jean-Jacques Rousseau | [3.61](https://www.goodreads.com/book/show/12649.Confessions) | 2003 |  
 | Lettres persanes | Montesquieu | [3.54](http://www.goodreads.com/book/show/509686.Persian_Letters) |  |  
 | The Director | David Ignatius | [3.43](http://www.goodreads.com/book/show/23316525-the-director) | 2015 |   
+| Atlas Shrugged | Ayn Rand | [3.68](https://www.goodreads.com/book/show/9365.Atlas_Shrugged) | 1957 |
 
 ### Fantasy
 | Name | Author | Goodreads Rating | Year Published |  
