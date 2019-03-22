@@ -380,11 +380,11 @@ I just started an online community for book lovers at https://books.zulipchat.co
 | Eugénie Grandet | Honoré de Balzac | [3.79](https://www.goodreads.com/book/show/59142.Eug_nie_Grandet) | 2003 |
 | Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values  | Robert M. Pirsig | [3.76](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance) | 1974 |
 | Candide | Voltaire | [3.76](https://www.goodreads.com/book/show/19380.Candide) | 1991 |  
+| Atlas Shrugged | Ayn Rand | [3.68](https://www.goodreads.com/book/show/9365.Atlas_Shrugged) | 1957 |
 | Madame Bovary | Gustave Flaubert | [3.65](https://www.goodreads.com/book/show/2175.Madame_Bovary) | 2004 |  
 | Confessions | Jean-Jacques Rousseau | [3.61](https://www.goodreads.com/book/show/12649.Confessions) | 2003 |  
 | Lettres persanes | Montesquieu | [3.54](http://www.goodreads.com/book/show/509686.Persian_Letters) |  |  
 | The Director | David Ignatius | [3.43](http://www.goodreads.com/book/show/23316525-the-director) | 2015 |   
-| Atlas Shrugged | Ayn Rand | [3.68](https://www.goodreads.com/book/show/9365.Atlas_Shrugged) | 1957 |
 
 ### Fantasy
 | Name | Author | Goodreads Rating | Year Published |  
