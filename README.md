@@ -38,10 +38,12 @@ I just started an online community for book lovers at https://books.zulipchat.co
 | Shoe Dog: A Memoir by the Creator of Nike | Phil Knight | [4.46](https://www.goodreads.com/book/show/27220736-shoe-dog) | 2016 | 
 | The Compound Effect | Darren Hardy | [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) | 2010 |  
 | High Output Management | Andy Grove | [4.38](https://www.goodreads.com/book/show/324750.High_Output_Management) | 1995 |  
+| Outwitting the Devil: The Secret to Freedom and Success | Napoleon Hill | [4.38](https://www.goodreads.com/book/show/10713286-outwitting-the-devil) | 2011 |
 | How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success | Jack Canfield, Janet Switzer | [4.26](https://www.goodreads.com/book/show/96593.The_Success_Principles) | 2007 |  
 | The Big Short: Inside the Doomsday Machine | Michael Lewis | [4.26](https://www.goodreads.com/book/show/8032112-the-big-short) | 2015 |  
 | The Score Takes Care of Itself: My Philosophy of Leadership | Bill Walsh, Steve Jamison, Craig Walsh | [4.21](https://www.goodreads.com/book/show/6342995-the-score-takes-care-of-itself) | 2009 |  
 | The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers | Ben Horowitz | [4.20](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) | 2014 |  
+| Think and Grow Rich | Napoleon Hill | [4.17](https://www.goodreads.com/book/show/30186948-think-and-grow-rich) | 1937 |
 | Outliers: Story of Success | Malcolm Gladwell | [4.11](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) | 2008 |  
 | The Strategy and Tactics of Pricing : A Guide to Move More Profitable | Thomas Nagle, John Hogan, Joseph Zale | [4.09](https://www.goodreads.com/book/show/99919.The_Strategy_and_Tactics_of_Pricing) | 2005 |  
 | Start with Why: How Great Leaders Inspire Everyone to Take Action | Simon Sinek | [4.07](https://www.goodreads.com/book/show/7108725-start-with-why) | 2009 |  
