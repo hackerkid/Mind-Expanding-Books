@@ -433,7 +433,7 @@ I just started an online community for book lovers at https://books.zulipchat.co
 ### Science Fiction
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
-| The Hitchhiker's Guide to the Galaxy | Douglas Adams | [4.38](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) ||
+| The Hitchhiker's Guide to the Galaxy | Douglas Adams | [4.38](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) | 1979|
 | Ready Player One | Ernest Cline | [4.31](https://www.goodreads.com/book/show/9969571-ready-player-one) | 2011 |
 | Ender's Game - Saga | Orson Scott Card | [4.30](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on) | 1994 |  
 | The Player of Games | Iain M. Banks | [4.26](https://www.goodreads.com/book/show/18630.The_Player_of_Games) | 1997 |  
