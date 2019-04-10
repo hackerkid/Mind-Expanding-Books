@@ -38,10 +38,12 @@ I just started an online community for book lovers at https://books.zulipchat.co
 | Shoe Dog: A Memoir by the Creator of Nike | Phil Knight | [4.46](https://www.goodreads.com/book/show/27220736-shoe-dog) | 2016 | 
 | The Compound Effect | Darren Hardy | [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) | 2010 |  
 | High Output Management | Andy Grove | [4.38](https://www.goodreads.com/book/show/324750.High_Output_Management) | 1995 |  
+| Outwitting the Devil: The Secret to Freedom and Success | Napoleon Hill | [4.38](https://www.goodreads.com/book/show/10713286-outwitting-the-devil) | 2011 |
 | How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success | Jack Canfield, Janet Switzer | [4.26](https://www.goodreads.com/book/show/96593.The_Success_Principles) | 2007 |  
 | The Big Short: Inside the Doomsday Machine | Michael Lewis | [4.26](https://www.goodreads.com/book/show/8032112-the-big-short) | 2015 |  
 | The Score Takes Care of Itself: My Philosophy of Leadership | Bill Walsh, Steve Jamison, Craig Walsh | [4.21](https://www.goodreads.com/book/show/6342995-the-score-takes-care-of-itself) | 2009 |  
 | The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers | Ben Horowitz | [4.20](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) | 2014 |  
+| Think and Grow Rich | Napoleon Hill | [4.17](https://www.goodreads.com/book/show/30186948-think-and-grow-rich) | 1937 |
 | Outliers: Story of Success | Malcolm Gladwell | [4.11](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) | 2008 |  
 | The Strategy and Tactics of Pricing : A Guide to Move More Profitable | Thomas Nagle, John Hogan, Joseph Zale | [4.09](https://www.goodreads.com/book/show/99919.The_Strategy_and_Tactics_of_Pricing) | 2005 |  
 | Start with Why: How Great Leaders Inspire Everyone to Take Action | Simon Sinek | [4.07](https://www.goodreads.com/book/show/7108725-start-with-why) | 2009 |  
@@ -174,6 +176,7 @@ I just started an online community for book lovers at https://books.zulipchat.co
 | The Man Who Knew Infinity : A Life of the Genius Ramanujan | Robert Kanigel | [4.15](https://www.goodreads.com/book/show/106139.The_Man_Who_Knew_Infinity) | 1991 |  
 | An Astronaut's Guide to Life on Earth | Chris Hadfield | [4.14](https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth) | 2013 |  
 | The Diary of a Young Girl | Anne Frank | [4.10](http://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl) | 1993 |  
+| Einstein: His Life and Universe | Walter Isaacson | [4.09](https://www.goodreads.com/book/show/10884.Einstein) | 2007 |
 | Steve Jobs | Walter Issacson | [4.09](http://www.goodreads.com/book/show/11084145-steve-jobs) | 2011 |  
 | My Experiments with Truth | Mahatma Gandhi | [4.07](http://www.goodreads.com/book/show/112803.The_Story_of_My_Experiments_With_Truth) | 1993 |  
 | The Story of My Life | Helen Keller | [4.07](http://www.goodreads.com/book/show/821611.The_Story_of_My_Life) | 1990 |  
@@ -377,6 +380,7 @@ I just started an online community for book lovers at https://books.zulipchat.co
 | Eugénie Grandet | Honoré de Balzac | [3.79](https://www.goodreads.com/book/show/59142.Eug_nie_Grandet) | 2003 |
 | Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values  | Robert M. Pirsig | [3.76](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance) | 1974 |
 | Candide | Voltaire | [3.76](https://www.goodreads.com/book/show/19380.Candide) | 1991 |  
+| Atlas Shrugged | Ayn Rand | [3.68](https://www.goodreads.com/book/show/9365.Atlas_Shrugged) | 1957 |
 | Madame Bovary | Gustave Flaubert | [3.65](https://www.goodreads.com/book/show/2175.Madame_Bovary) | 2004 |  
 | Confessions | Jean-Jacques Rousseau | [3.61](https://www.goodreads.com/book/show/12649.Confessions) | 2003 |  
 | Lettres persanes | Montesquieu | [3.54](http://www.goodreads.com/book/show/509686.Persian_Letters) |  |  
@@ -432,6 +436,8 @@ I just started an online community for book lovers at https://books.zulipchat.co
 | Death's End (Remembrance of Earth's Past #3) | Cixin Liu | [4.45](https://www.goodreads.com/book/show/25451264-death-s-end) | 2016 |
 | The Dark Forest (Remembrance of Earth's Past #2) | Cixin Liu | [4.41](https://www.goodreads.com/book/show/23168817-the-dark-forest) | 2015 |
 | The Hitchhiker's Guide to the Galaxy | Douglas Adams | [4.38](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) ||
+| The Martian | Andy Weir | [4.40](https://www.goodreads.com/book/show/18007564-the-martian) | 2012 |
+| The Hitchhiker's Guide to the Galaxy | Douglas Adams | [4.38](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) | 1979|
 | Ready Player One | Ernest Cline | [4.31](https://www.goodreads.com/book/show/9969571-ready-player-one) | 2011 |
 | Ender's Game - Saga | Orson Scott Card | [4.30](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on) | 1994 |  
 | The Player of Games | Iain M. Banks | [4.26](https://www.goodreads.com/book/show/18630.The_Player_of_Games) | 1997 |  
