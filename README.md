@@ -30,8 +30,6 @@
 
 # Books
 
-I just started an online community for book lovers at https://books.zulipchat.com. Became a founding member by joining now!
-
 ## Startups and Business
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
