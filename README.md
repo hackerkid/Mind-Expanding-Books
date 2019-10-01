@@ -232,6 +232,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Extended Phenotype: The Long Reach of the Gene | Richard Dawkins | [4.07](https://www.goodreads.com/book/show/61538.The_Extended_Phenotype) | 1999 |  
 | Rare Earth: Why Complex Life is Uncommon in the Universe | Peter D. Ward, Donald Brownlee | [4.06](https://www.goodreads.com/book/show/88552.Rare_Earth) | 2003 |  
 | Stiff: The Curious Lives of Human Cadavers | Mary Roach | [4.05](https://www.goodreads.com/book/show/32145.Stiff) | 2004 |  
+| The Man Who Mistook His Wife for A Hat and Other Clinical Tales | Oliver Sacks | [4.05](https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales) | 1998 |  
 | Darwin's Dangerous Idea | Daniel C. Dennett | [4.03](https://www.goodreads.com/book/show/2068.Darwin_s_Dangerous_Idea) |  |  
 | The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future | Kevin Kelly | [4.02](https://www.goodreads.com/book/show/27209431-the-inevitable) | 2016 |  
 | The Outer Limits of Reason: What Science, Mathematics, and Logic Cannot Tell Us | Noson S. Yanofsky | [4.00](http://www.goodreads.com/book/show/17841838-the-outer-limits-of-reason) | 2013 |  
