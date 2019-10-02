@@ -258,6 +258,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | A Mind for Numbers: How to Excel at Math and Science even If You Flunked Algebra | Barbara Oakley | [4.22](http://www.goodreads.com/book/show/18693655-a-mind-for-numbers) | 2014 |  
 | How to Solve It: A New Aspect of Mathematical Method | George Polya | [4.16](https://www.goodreads.com/book/show/192221.How_to_Solve_It) | 2015 |  
 | Labyrinths of Reason: Paradox, Puzzles, and the Frailty of Knowledge | William Poundstone | [4.05](https://www.goodreads.com/book/show/55436.Labyrinths_of_Reason) | 1989 |  
+| Mazes for the Mind: Computers and the Unexpected | Clifford A. Pickover | [4.05](https://www.goodreads.com/book/show/1986400.Mazes_for_the_Mind) | 1992 |
 
 ## Politics
 | Name | Author | Goodreads Rating | Year Published |  
