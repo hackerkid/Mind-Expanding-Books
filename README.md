@@ -270,6 +270,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime | John Heilemann, Mark Halperin | [4.10](https://www.goodreads.com/book/show/6694937-game-change) | 2010 |  
 | Bolo'bolo | P.M. | [4.05](https://www.goodreads.com/book/show/12395170-bolo-bolo) | 1984 |  
 | The Myth of the Rational Voter: Why Democracies Choose Bad Policies | Bryan Caplan | [3.96](https://www.goodreads.com/book/show/698866.The_Myth_of_the_Rational_Voter) | 2007 |  
+| The Art of Deception: Controlling the Human Element of Security | Kevin D. Mitnick | [3.76](https://www.goodreads.com/book/show/18160.The_Art_of_Deception) | 2003 |  
 | Resource Wars: The New Landscape of Global Conflict | Michael Klare | [3.73](https://www.goodreads.com/book/show/149206.Resource_Wars) |  |  
 | The Audacity of Hope: Thoughts on Reclaiming the American Dream | Barack Obama | [3.70](https://www.goodreads.com/book/show/9742.The_Audacity_of_Hope) | 2006 |  
 
