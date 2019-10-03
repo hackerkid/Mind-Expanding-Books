@@ -158,7 +158,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | How to Win Every Argument: The Use and Abuse of Logic | Madsen Pirie | [3.55](https://www.goodreads.com/book/show/112731.How_to_Win_Every_Argument) | 2006 |  
 | Rapt: Attention and the Focused Life: Winifred Gallagher | Winifred Gallagher | [3.54](https://www.goodreads.com/book/show/6262510-rapt) |  |  
 | The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression | Debra Fine | [3.36](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) | 2005 |  
-| Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) |  |  
+| Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) |  | 
+| Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones| James Clear | [4.32](https://www.goodreads.com/book/show/40121378-atomic-habits) | 2018 |  
 
 ## Autobiographies and Biographies
 | Name | Author | Goodreads Rating | Year Published |  
