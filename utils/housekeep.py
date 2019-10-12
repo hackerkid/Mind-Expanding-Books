@@ -20,6 +20,12 @@ try:
         '--sort_by',
         choices = ['rating', 'title', 'author', 'year'],
         help='defaults to rating')
+    parser.add_argument(
+        '--force',
+        dest='force',
+        action='store_true',
+        default=False
+    )
     flags = parser.parse_args()
 except ImportError:
     flags = None
@@ -42,10 +48,11 @@ def main():
     out_file = flags.out_file or './../README-new.md'
     input_file_type = flags.input_file_type or 'new'
     sort_by = flags.sort_by or 'rating'
+    force = flags.force
     reverse = True if sort_by == 'rating' else False
 
     library = load(in_file, input_file_type)
-    get_goodread_info(library)
+    get_goodread_info(library, force)
     library = sort(library, sort_by, reverse)
     render(in_file, out_file, library)
 

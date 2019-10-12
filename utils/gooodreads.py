@@ -19,12 +19,13 @@ def get_details(book_object):
         book_object['lang'] = book.find('language_code').text
         book_object['rating'] = book.find('average_rating').text
         book_object['pages'] = book.find('num_pages').text
+        book_object['image_url'] = book.find('image_url').text
     except urllib.error.HTTPError as e:
         print('Error getting book details from GoodReads for book: {}. \nGot error: '.format(book_object['title']))
         print(str(e.getcode()) + ' ' + e.msg)
 
 
-def get_goodread_info(library):
+def get_goodread_info(library, force):
     import sys
     print('')
     print('Getting GoodReads data...')
@@ -39,7 +40,7 @@ def get_goodread_info(library):
         book_list = library[chapter]
         for book in book_list:
             # do not call the api again if we already have the infomation
-            if 'rating' in book and book['rating']:
+            if not force and 'rating' in book and book['rating']:
                 processed += 1
                 continue
             get_details(book)
