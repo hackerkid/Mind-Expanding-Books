@@ -1,3 +1,5 @@
+import simplejson
+
 # we assume that every line after # Books
 # starting with * is a book title if file type is old
 # starting with | (and not with | Name or |--) is a book if the file type is new
@@ -26,6 +28,12 @@ try:
         action='store_true',
         default=False
     )
+    parser.add_argument(
+        '--store-json',
+        dest='store-json',
+        action='store_true',
+        default=False
+    )
     flags = parser.parse_args()
 except ImportError:
     flags = None
@@ -49,14 +57,15 @@ def main():
     input_file_type = flags.input_file_type or 'new'
     sort_by = flags.sort_by or 'rating'
     force = flags.force
+    store_json = flags.store_json
     reverse = True if sort_by == 'rating' else False
 
     library = load(in_file, input_file_type)
     get_goodread_info(library, force)
     library = sort(library, sort_by, reverse)
     render(in_file, out_file, library)
-
+    if store_json:
+        with open("out.json", "w") as f:
+            f.write(simplejson.dumps(library, indent=4, sort_keys=True))
 if __name__ == '__main__':
     main()
-
-
