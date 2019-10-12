@@ -13,7 +13,7 @@ try:
         '--out_file',
         help='File to save to, defaults to ./../README-NEW.MD')
     parser.add_argument(
-        '--file_type',
+        '--input_file_type',
         choices=['old', 'new'],
         help='old if links are displayed in a list, new if in a table')
     parser.add_argument(
@@ -40,11 +40,11 @@ def main():
 
     in_file = flags.in_file or './../README.MD'
     out_file = flags.out_file or './../README-new.md'
-    file_type = flags.file_type or 'new'
+    input_file_type = flags.input_file_type or 'new'
     sort_by = flags.sort_by or 'rating'
     reverse = True if sort_by == 'rating' else False
 
-    library = load(in_file, file_type)
+    library = load(in_file, input_file_type)
     get_goodread_info(library)
     library = sort(library, sort_by, reverse)
     render(in_file, out_file, library)
