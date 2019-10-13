@@ -46,6 +46,13 @@ def sort(library, key_to_sort_on, reverse = False):
         new_library[key] = sorted(books, key=lambda k: k[key_to_sort_on], reverse=reverse)
     return new_library
 
+def format_library(library):
+    formated_library = []
+    for category in library:
+        for book in library[category]:
+            book["category"] = category[len("## "):]
+            formated_library.append(book)
+    return formated_library
 
 def main():
     from read_file import load
@@ -66,6 +73,6 @@ def main():
     render(in_file, out_file, library)
     if store_json:
         with open("out.json", "w") as f:
-            f.write(simplejson.dumps(library, indent=4, sort_keys=True))
+            f.write(simplejson.dumps(format_library(library), indent=4, sort_keys=True))
 if __name__ == '__main__':
     main()
