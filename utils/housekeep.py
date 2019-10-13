@@ -30,7 +30,7 @@ try:
     )
     parser.add_argument(
         '--store-json',
-        dest='store-json',
+        dest='store_json',
         action='store_true',
         default=False
     )
