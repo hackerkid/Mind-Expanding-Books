@@ -8,7 +8,7 @@ const BookCard = ({ book }) => (
     <img class="w-full" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414347376l/18050143.jpg" alt="Sunset in the mountains" />
     <div class="px-6 py-4">
       <div class="font-bold text-xl mb-0">{ book.title }</div>
-      <p className="text-gray-700 font-bold text-base mb-1">
+      <div className="text-gray-700 font-bold text-base mb-1">
         <span className="mr-2 align-middle">{ book.year }</span> 
         <StarRatings 
           rating={ parseFloat(book.rating) }
@@ -17,7 +17,7 @@ const BookCard = ({ book }) => (
           starSpacing="1px"
           starRatedColor="#fa604a"
         />
-      </p>
+      </div>
       <p class="text-gray-700 text-base">
         { book.author }
       </p>
