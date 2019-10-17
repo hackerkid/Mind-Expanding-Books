@@ -109,6 +109,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Gifts of Imperfection | Brene Brown | [4.18](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) |  |  
 | Metamagical Themas: Questing For The Essence Of Mind And Pattern | Douglas Hofstadter | [4.16](https://www.goodreads.com/book/show/181239.Metamagical_Themas) | 1996 |  
 | The Truth About Everything: An Irreverent History of Philosophy : With Illustrations | Matthew Stewart | [4.15](https://www.goodreads.com/book/show/18528861-the-truth-about-everything) | 1997 |  
+| Illusions: The Adventures of a Reluctant Messiah | Richard Bach | [4.15](https://www.goodreads.com/book/show/29946.Illusions) | 1977 |  
 | How to Win Friends and Influence People | Dale Carnegie | [4.14](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) | 1998 |  
 | Creative Visualization: Use the Power of Your Imagination to Create What You Want in Your Life | Shakti Gawain | [4.13](https://www.goodreads.com/book/show/582533.Creative_Visualization) | 2002 |  
 | Bulfinch's Mythology | Thomas Bulfinch | [4.13](https://www.goodreads.com/book/show/588147.Bulfinch_s_Mythology) | 1998 |  
