@@ -11,7 +11,7 @@ export default ({data}) => {
       <div className="flex flex-wrap">
       {data.allBooksJson.edges.map(function(x) {
         return (
-          <BookCard book={x.node} />
+          <BookCard book={x.node} key={x.node.id} />
         )
       })}
       </div>
