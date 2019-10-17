@@ -1,12 +1,23 @@
 import PropTypes from "prop-types"
 import React from "react"
+import StarRatings from 'react-star-ratings';
 
 const BookCard = ({ book }) => (
   <div className="w-56 rounded overflow-hidden shadow-lg m-3">
     <img className="w-full" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414347376l/18050143.jpg" alt="Sunset in the mountains" />
     <div className="px-6 py-4">
       <div className="font-bold text-xl mb-2">{ book.title }</div>
-      <p className="text-gray-700 text-base">
+      <p className="text-gray-700 font-bold text-base mb-1">
+        <span className="mr-2 align-middle">{ book.year }</span> 
+        <StarRatings 
+          rating={ parseFloat(book.rating) }
+          numberOfStars={5}
+          starDimension="18px"
+          starSpacing="1px"
+          starRatedColor="#fa604a"
+        />
+      </p>
+      <p class="text-gray-700 text-base">
         { book.author }
       </p>
     </div>
