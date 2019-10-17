@@ -1,13 +1,12 @@
-import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 import StarRatings from 'react-star-ratings';
 
 const BookCard = ({ book }) => (
-    <div key={book.id} class="w-56 rounded overflow-hidden shadow-lg m-3">
-    <img class="w-full" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414347376l/18050143.jpg" alt="Sunset in the mountains" />
-    <div class="px-6 py-4">
-      <div class="font-bold text-xl mb-0">{ book.title }</div>
+    <div className="w-56 rounded overflow-hidden shadow-lg m-3">
+    <img className="w-full" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414347376l/18050143.jpg" alt="Sunset in the mountains" />
+    <div className="px-6 py-4">
+      <div className="font-bold text-xl mb-0">{ book.title }</div>
       <div className="text-gray-700 font-bold text-base mb-1">
         <span className="mr-2 align-middle">{ book.year }</span> 
         <StarRatings 
@@ -22,8 +21,8 @@ const BookCard = ({ book }) => (
         { book.author }
       </p>
     </div>
-    <div class="px-6 py-4">
-      <span class="inline-block bg-blue-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">{book.category}</span>
+    <div className="px-6 py-4">
+      <span className="inline-block bg-blue-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">{book.category}</span>
     </div>
   </div>
 )
