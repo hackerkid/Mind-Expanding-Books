@@ -17,7 +17,7 @@ const BookCard = ({ book }) => (
           starRatedColor="#fa604a"
         />
       </div>
-      <p class="text-gray-700 text-base">
+      <p className="text-gray-700 text-base">
         { book.author }
       </p>
     </div>
