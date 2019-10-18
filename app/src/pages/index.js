@@ -8,7 +8,7 @@ export default ({data}) => {
   return (
     <Layout>
       <SEO title="Home" />
-      <div className="flex flex-wrap">
+      <div className="flex flex-row flex-wrap">
       {data.allBooksJson.edges.map(function(x) {
         return (
           <BookCard book={x.node} key={x.node.id} />
