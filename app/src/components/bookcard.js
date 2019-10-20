@@ -3,7 +3,7 @@ import React from "react"
 import StarRatings from 'react-star-ratings';
 
 const BookCard = ({ book }) => (
-    <div className="mx-auto flex-grow-0 w-11/12 md:w-56 rounded-lg overflow-hidden shadow-lg m-3 flex flex-column flex-wrap items-stretch">
+    <div className="mx-auto flex-grow-0 w-11/12 md:w-56 rounded-lg overflow-hidden shadow-lg m-3 flex flex-column flex-wrap items-stretch book">
     <img className="self-start" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457284880l/27220736.jpg" alt="Sunset in the mountains" />
     <div className="px-6 py-4 w-full content-start">
       <div className="font-bold text-xl mb-0">{ book.title }</div>
