@@ -195,6 +195,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 ## History
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
+|The Monk who sold his Ferrari|Robin Sharma|[3.85](https://www.goodreads.com/book/show/43877.The_Monk_Who_Sold_His_Ferrari)|1999|
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | [4.42](https://www.goodreads.com/book/show/23692271-sapiens) | 2014 |  
 | How the Internet Happened: From Netscape to the iPhone | Brian McCullough | [4.36](https://www.goodreads.com/en/book/show/38212134-how-the-internet-happened) | 2018 |
 | The Discoverers | Daniel J. Boorstin | [4.34](https://www.goodreads.com/book/show/714380.The_Discoverers) | 2012 |  
