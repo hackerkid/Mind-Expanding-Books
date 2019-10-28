@@ -395,7 +395,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Madame Bovary | Gustave Flaubert | [3.65](https://www.goodreads.com/book/show/2175.Madame_Bovary) | 2004 |  
 | Confessions | Jean-Jacques Rousseau | [3.61](https://www.goodreads.com/book/show/12649.Confessions) | 2003 |  
 | Lettres persanes | Montesquieu | [3.54](http://www.goodreads.com/book/show/509686.Persian_Letters) |  |  
-| The Director | David Ignatius | [3.43](http://www.goodreads.com/book/show/23316525-the-director) | 2015 |   
+| The Director | David Ignatius | [3.43](http://www.goodreads.com/book/show/23316525-the-director) | 2015 |
+| Shibumi | Trevaninan | [4.21](https://www.goodreads.com/book/show/1059.Shibumi) | 2015 |
 
 ### Fantasy
 | Name | Author | Goodreads Rating | Year Published |  
@@ -412,7 +413,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Last Wish - Saga | Andrzej Sapkowski | [4.2](https://www.goodreads.com/book/show/1128434.The_Last_Wish) | 1993 |
 | The Chronicles of Narnia | Clive Staples Lewis | [4.24](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia) | 2002 |  
 | The City & The City | China Mieville | [3.91](https://www.goodreads.com/book/show/4703581-the-city-the-city) | 2009 |  
-| The Broken Empire | Mark Lawrence | [3.87](https://www.goodreads.com/series/64473-the-broken-empire) | 2011 |  
+| The Broken Empire | Mark Lawrence | [3.87](https://www.goodreads.com/series/64473-the-broken-empire) | 2005 |  
 
 ### Historical Fiction
 | Name | Author | Goodreads Rating | Year Published |  
@@ -429,7 +430,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 ### Humor
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
-| I Hope They Serve Beer In Hell | Tucker Max | [3.51](https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell) | 2006 |  
+| I Hope They Serve Beer In Hell | Tucker Max | [3.51](https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell) | 2006 | 
 
 ### Mystery
 | Name | Author | Goodreads Rating | Year Published |  
