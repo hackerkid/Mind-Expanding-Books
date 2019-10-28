@@ -1,14 +1,14 @@
 
 ## In this pull request
-- [ ]  I am adding a new book.
+- [x]  I am adding a new book.
 - [ ]  I am adding a new category
 - [ ] Removing a book
 
 ## Adding new book
-* The book I am adding is _ _ _ _
-* I am adding this book to _ _ _ _ section.
-* I have read this book _ _ times.
-* I think this book deserves to be in this list because _ _ _ _
+* The book I am adding is Life's Amazing Secrets
+* I am adding this book to Philosophy And Psychology section.
+* I have read this book 4 times.
+* I think this book deserves to be in this list because Life is very simple but we humans make it complex. Gaur Gopal Das writes and explains this in a very understandable manner.
 
 **If you are adding more than 1 books duplicate this section**
 
