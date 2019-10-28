@@ -1,0 +1,2 @@
+sl|name|author|rating
+1|martial god asura|red|NA
