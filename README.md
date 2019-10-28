@@ -164,7 +164,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Rapt: Attention and the Focused Life: Winifred Gallagher | Winifred Gallagher | [3.54](https://www.goodreads.com/book/show/6262510-rapt) |  |  
 | The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression | Debra Fine | [3.36](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) | 2005 |  
 | Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) |  | 
- 
+| The Power of Habit | Charles Duhigg | [4.08](https://www.goodreads.com/book/show/12609433-the-power-of-habit?from_search=true) | 2012 | 
 
 ## Autobiographies and Biographies
 | Name | Author | Goodreads Rating | Year Published |  
