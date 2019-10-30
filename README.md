@@ -436,7 +436,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|  
 | Sherlock Holmes | Arthur Conan Doyle | [4.30](https://www.goodreads.com/series/49996-sherlock-holmes) | 1998 |  
 | The Murder of Roger Ackroyd | Agatha Christie | [4.20](http://www.goodreads.com/book/show/16328.The_Murder_of_Roger_Ackroyd) | 2006 |  
-| The Eight | Katherine Neville | [4.17](https://www.goodreads.com/book/show/113310.The_Eight) |  |  
+| The Eight | Katherine Neville | [4.17](https://www.goodreads.com/book/show/113310.The_Eight) | 1988 |  
 | Memory Man | David Baldacci | [4.05](https://www.goodreads.com/book/show/23153154-memory-man) | 2015 |  
 | The Girl on the Train | Paula Hawkins | [3.88](https://www.goodreads.com/book/show/22557272-the-girl-on-the-train) | 2015 |  
 | The Da Vinci Code | Dan Brown | [3.79](http://www.goodreads.com/book/show/968.The_Da_Vinci_Code) | 2006 |  
