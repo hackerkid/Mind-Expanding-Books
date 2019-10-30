@@ -198,6 +198,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | [4.42](https://www.goodreads.com/book/show/23692271-sapiens) | 2014 |  
 | How the Internet Happened: From Netscape to the iPhone | Brian McCullough | [4.36](https://www.goodreads.com/en/book/show/38212134-how-the-internet-happened) | 2018 |
 | The Discoverers | Daniel J. Boorstin | [4.34](https://www.goodreads.com/book/show/714380.The_Discoverers) | 2012 |  
+| Homo Deus: A History of Tomorrow | Yuval Noah Harari | [4.27](https://www.goodreads.com/book/show/31138556-homo-deus) | 2017 |
 | One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War | Michael Dobbs | [4.20](https://www.goodreads.com/book/show/2606779-one-minute-to-midnight) | 2008 |  
 | The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet | David Kahn | [4.18](https://www.goodreads.com/book/show/29608.The_Codebreakers) | 1996 |  
 | From Dawn to Decadence: 500 Years of Western Cultural Life 1500 to the Present | Jacques Barzun | [4.12](https://www.goodreads.com/book/show/58233.From_Dawn_to_Decadence) | 2001 |  
