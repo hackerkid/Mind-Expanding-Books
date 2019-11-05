@@ -38,7 +38,7 @@ export default ({data}) => {
         )
       })}
       </div>
-      <h4 className="loadFake">Loading...</h4>
+      <h4 className="loadingIndicator">Loading...</h4>
     </Layout>
   )
 }
