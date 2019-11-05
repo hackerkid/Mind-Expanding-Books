@@ -5,7 +5,9 @@ import SEO from "../components/seo"
 import BookCard from "../components/bookcard"
 
 export default ({data}) => {
-  let max=data.allBooksJson.edges.length, init=4, end=8;
+  let max = data.allBooksJson.edges.length;
+  let init = 4;
+  let end = 8;
   function hide(){
     for(var i=init; i<document.getElementsByClassName("book").length; i++){
       document.getElementsByClassName("book")[i].hidden=true;
