@@ -169,10 +169,10 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|  
 | Unbroken: A World War II Story of Survival, Resilience, and Redemption | Laura Hillenbrand | [4.39](https://www.goodreads.com/book/show/8664353-unbroken) | 2010 |  
 | Long Walk to Freedom | Nelson Mandela | [4.31](http://www.goodreads.com/book/show/318431.Long_Walk_to_Freedom) | 1995 | 
-| The Third Door:The Wild Quest to Uncover How the World's Most Successful People Launched Their Careers| Alex banayan|[4.3](https://www.goodreads.com/book/show/36739769-the-third-door) | 2018 |
 | My Life and My Work | Henry Ford | [4.29](http://www.goodreads.com/book/show/1122054.My_Life_And_Work) |  |  
 | Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character | Richard Feynman | [4.29](https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_) | 1997 |  
 | The Autobiography of Malcolm X | Malcolm X, Alex Haley | [4.29](http://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X) |  |  
+| The Third Door:The Wild Quest to Uncover How the World's Most Successful People Launched Their Careers| Alex banayan|[4.28](https://www.goodreads.com/book/show/36739769-the-third-door) | 2018 |
 | Elon Musk: Inventing the Future | Ashlee Vance | [4.25](https://www.goodreads.com/book/show/22543496-elon-musk) | 2015 |  
 | The Last Lecture | Randy Pausch | [4.25](http://www.goodreads.com/book/show/2318271.The_Last_Lecture) | 2008 |  
 | Freedom in Exile | Dalai Lama XIV | [4.24](http://www.goodreads.com/book/show/567720.Freedom_in_Exile) | 1991 |  
