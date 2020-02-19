@@ -120,7 +120,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Predictably Irrational | Dan Ariely | [4.10](https://www.goodreads.com/book/show/1713426.Predictably_Irrational) | 2008 |  
 | Flow: The Psychology of Optimal Experience | Mihaly Csikszentmihalyi | [4.10](https://www.goodreads.com/book/show/66354.Flow) | 1990 |  
 | Thinking, Fast and Slow | Daniel Kahneman | [4.09](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) | 2011 |  
-| Irrational Man: A Study in Existential Philosophy | William Barrett | [4.09](https://www.goodreads.com/book/show/83321.Irrational_Man) |  |  
+| Irrational Man: A Study in Existential Philosophy | William Barrett | [4.09](https://www.goodreads.com/book/show/83321.Irrational_Man) |  |
+| Happy: Why More or Less Everything is Absolutely Fine | Derren Brown | [4.08](https://www.goodreads.com/book/show/30142270-happy) | 2016 |
 | The Beginning of Infinity: Explanations That Transform the World | David Deutsch | [4.08](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) |  |  
 | Metaphors We Live By | George Lakoff, Mark Johnson | [4.08](https://www.goodreads.com/book/show/34459.Metaphors_We_Live_By) | 2003 |  
 | Grit | Angela Duckworth | [4.08](https://www.goodreads.com/book/show/27213329-grit) | 2016 |  
