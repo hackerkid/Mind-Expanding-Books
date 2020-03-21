@@ -28,6 +28,7 @@ are interested in improving the website feel free to claim one of the open issue
 * [Travel](#travel)
 * [Language](#language)
 * [Nature](#nature)
+* [Self-help](#self-help)
 
 # Books
 
@@ -456,10 +457,12 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Cosmicomics | Italo Calvino | [4.2](https://www.goodreads.com/book/show/59780.Cosmicomics) | 1965 |
 | The Diamond Age | Neal Stephenson | [4.19](http://www.goodreads.com/book/show/827.The_Diamond_Age) | 2000 |  
 | Dune Chronicles | Frank Herbert | [4.19](https://www.goodreads.com/search?q=dune) | 2006 |  
+| The Sparrow | Mary Doria Russell | [4.16](https://www.goodreads.com/book/show/334176.The_Sparrow) | 1996 | 
 | Foundation | Isaac Asimov | [4.13](https://www.goodreads.com/book/show/29579.Foundation) | 2004 |  
 | Snow Crash | Neal Stephenson | [4.02](https://www.goodreads.com/book/show/830.Snow_Crash) | 2000 |  
 | Fahrenheit 451 | Ray Bradbury | [3.97](https://www.goodreads.com/book/show/17470674-fahrenheit-451) | 2006 |  
 | Little Brother | Cory Doctorow | [3.94](https://www.goodreads.com/book/show/954674.Little_Brother) | 2008 |
+
 
 ### Horror
 | Name | Author | Goodreads Rating | Year Published |  
@@ -509,7 +512,13 @@ If you like Mind Expanding books you should check out my new project http://diff
 ## Nature
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
-| Pilgrim at Tinker Creek | Annie Dillard | [4.11](https://www.goodreads.com/book/show/12527.Pilgrim_at_Tinker_Creek) | 1974 |  
+| Pilgrim at Tinker Creek | Annie Dillard | [4.11](https://www.goodreads.com/book/show/12527.Pilgrim_at_Tinker_Creek) | 1974 |
+
+## Self-help
+| Name | Author | Goodreads Rating | Year Published |  
+|------|--------|------------------|----------------|  
+| Motivation hacker | Nick Winter | [3.77](https://www.goodreads.com/book/show/17788725-the-motivation-hacker) | 2013 |  
+| The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change | Stephen R. Covey | [4.11](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People) | 1989 |  
 
 ## Credits
 * [@hackerkid](https://github.com/hackerkid) for starting the list.
