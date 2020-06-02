@@ -370,7 +370,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Germinal | Emile Zola | [4.10](https://www.goodreads.com/book/show/28407.Germinal) | 2004 |
 | If on a Winter's Night a Traveler | Italo Calvino and William Weaver | [4.08](https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler) | 1982 |
 | The Wall: (Intimacy) and Other Stories | Jean-Paul Sartre, Lloyd Alexander | [4.07](https://www.goodreads.com/book/show/10031.The_Wall) | 2010 |
-| Song of Solomon | Toni Morrison | [4.07](https://www.goodreads.com/book/show/11334.Song_of_Solomon?from_search=true&from_srp=true&qid=xIgjBtljfP&rank=1) | 2004 |
+| Song of Solomon | Toni Morrison | [4.07](https://www.goodreads.com/book/show/11334.Song_of_Solomon?from_search=true&from_srp=true&qid=xIgjBtljfP&rank=1) | 1977 |
 | Sense and Sensibility | Jane Austen | [4.06](https://www.goodreads.com/book/show/14935.Sense_and_Sensibility) | 2003 |
 | The Picture of Dorian Gray | Oscar Wilde | [4.06](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) | 1998 |
 | Watership Down: A Novel | Richard Adams | [4.05 ](https://www.goodreads.com/book/show/76620.Watership_Down) |1975|
