@@ -1,19 +1,20 @@
 import React, { useState, useEffect } from "react"
+import { graphql } from 'gatsby'
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import BookCard from "../components/bookcard"
 
-function myFunction(data, end, setEnd) {
-  if (document.documentElement.clientHeight+document.documentElement.scrollTop===document.documentElement.scrollHeight) {
-    setEnd(end+4)
+function myFunction(setEnd, end) {
+  if (document.documentElement.clientHeight+document.documentElement.scrollTop>=document.documentElement.scrollHeight) {
+    setEnd(end+12)
   }
 }
 
 export default ({data}) => {
-  let [end, setEnd] = useState(4);
+  let [end, setEnd] = useState(12);
   useEffect(()=>{
-    window.document.onscroll = () => myFunction(data, end, setEnd);
+    window.document.onscroll = () => myFunction(setEnd, end);
   })  
   return (
     <Layout>
@@ -24,7 +25,9 @@ export default ({data}) => {
           return (
             <BookCard book={x.node} key={x.node.id} />
           )
-        }        
+        }else{
+          return null;
+        }
       })}
       </div>
     </Layout>
