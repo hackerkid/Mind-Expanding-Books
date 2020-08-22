@@ -4,17 +4,17 @@ import React from "react"
 
 const Header = ({ siteTitle }) => (
   <header className="my-1 bg-red">
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: `white`,
-            textDecoration: `none`,
-          }}
-        >
-          {siteTitle}
-        </Link>
-      </h1>
+    <h1 style={{ margin: 0 }}>
+      <Link
+        to="/"
+        style={{
+          color: `white`,
+          textDecoration: `none`,
+        }}
+      >
+        {siteTitle}
+      </Link>
+    </h1>
   </header>
 )
 

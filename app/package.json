@@ -25,7 +25,10 @@
     "react-star-ratings": "^2.3.0"
   },
   "devDependencies": {
-    "prettier": "^1.18.2",
+    "eslint": "^7.7.0",
+    "husky": ">=4",
+    "lint-staged": ">=10",
+    "prettier": "1.19.1",
     "tailwindcss": "^1.1.2"
   },
   "keywords": [
@@ -46,5 +49,14 @@
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,jsx,json,md}": "prettier --write",
+    "*.js": "eslint --cache --fix"
   }
 }

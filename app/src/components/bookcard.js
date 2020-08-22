@@ -1,25 +1,30 @@
 import PropTypes from "prop-types"
 import React from "react"
-import StarRatings from 'react-star-ratings';
-import { Card, Row, Col } from 'react-bootstrap';
+import StarRatings from "react-star-ratings"
+import { Card, Row, Col } from "react-bootstrap"
 
 const BookCard = ({ book }) => (
-  <Card style={{ width: '44rem', height: '12rem' }}>
+  <Card style={{ width: "44rem", height: "12rem" }}>
     <Row>
       <Col>
-        <Card.Img variant="side" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457284880l/27220736.jpg" />
+        <Card.Img
+          variant="side"
+          src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457284880l/27220736.jpg"
+        />
       </Col>
       <Col>
         <Card.Body>
           <Card.Title>{book.title}</Card.Title>
           <StarRatings
-          rating={ parseFloat(book.rating) }
-          numberOfStars={5}
-          starDimension="18px"
-          starSpacing="1px"
-          starRatedColor="#fa604a"
-        />
-          <Card.Subtitle className="mb-2 text-muted">{book.author}</Card.Subtitle>
+            rating={parseFloat(book.rating)}
+            numberOfStars={5}
+            starDimension="18px"
+            starSpacing="1px"
+            starRatedColor="#fa604a"
+          />
+          <Card.Subtitle className="mb-2 text-muted">
+            {book.author}
+          </Card.Subtitle>
         </Card.Body>
       </Col>
     </Row>
