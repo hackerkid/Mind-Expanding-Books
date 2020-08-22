@@ -12,6 +12,13 @@ const BookCard = ({ book }) => (
       <Col>
         <Card.Body>
           <Card.Title>{book.title}</Card.Title>
+          <StarRatings
+          rating={ parseFloat(book.rating) }
+          numberOfStars={5}
+          starDimension="18px"
+          starSpacing="1px"
+          starRatedColor="#fa604a"
+        />
           <Card.Subtitle className="mb-2 text-muted">{book.author}</Card.Subtitle>
         </Card.Body>
       </Col>
