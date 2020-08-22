@@ -3,6 +3,13 @@ import { Nav } from "react-bootstrap";
 import { StaticQuery, graphql } from "gatsby"
 import '../styles/sidebar.css'
 
+function createSlug (categoryName) {
+    categoryName = categoryName.toLowerCase();
+    categoryName = categoryName.replace(/ /g, "-");
+    categoryName = categoryName.replace(/,/g, "");
+    return categoryName;
+};
+
 export default () => {
     return (
         <StaticQuery
@@ -20,16 +27,16 @@ export default () => {
             render={data => (
                 <Nav className="col-md-12 d-none d-md-block bg-light sidebar"
                     activeKey="/home"
-                    onSelect={selectedKey => alert(`selected ${selectedKey}`)}
                 >
-                    <div className="sidebar-sticky"></div>
+                    <div className="sidebar-sticky">
                     {data.allCategoriesJson.edges.map(function (x, index) {
                         return (
                             <Nav.Item>
-                                <Nav.Link href="/home">{x.node.name}</Nav.Link>
+                                <Nav.Link href={createSlug(x.node.name)}>{x.node.name}</Nav.Link>
                             </Nav.Item>
                         )
                     })}
+                    </div>
                 </Nav>
             )}
         />

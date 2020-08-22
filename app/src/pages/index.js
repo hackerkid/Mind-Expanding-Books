@@ -6,17 +6,18 @@ import SEO from "../components/seo"
 import BookCard from "../components/bookcard"
 import SideBar from "../components/sidebar";
 import {Container, Row, Col} from 'react-bootstrap';
+import BookFeed from "../components/feed";
 
-function myFunction(setEnd, end) {
+function myFunction(setMaximumBooksToShow, maximumBooksToShow) {
   if (document.documentElement.clientHeight+document.documentElement.scrollTop>=document.documentElement.scrollHeight) {
-    setEnd(end+12)
+    setMaximumBooksToShow(maximumBooksToShow + 12)
   }
 }
 
 export default ({data}) => {
-  let [end, setEnd] = useState(12);
+  let [maximumBooksToShow, setMaximumBooksToShow] = useState(12);
   useEffect(()=>{
-    window.document.onscroll = () => myFunction(setEnd, end);
+    window.document.onscroll = () => myFunction(setMaximumBooksToShow, maximumBooksToShow);
   })  
   return (
     <Layout>
@@ -27,15 +28,7 @@ export default ({data}) => {
             <SideBar />
           </Col>
           <Col>
-              {data.allBooksJson.edges.map(function(x, index) {
-                  if(index<end){
-                    return (
-                      <BookCard book={x.node} key={x.node.id} />
-                    )
-                  }else{
-                    return null;
-                  }
-              })}
+              <BookFeed data={data} limit={maximumBooksToShow} />
           </Col>
         </Row>
       </Container>
