@@ -4,6 +4,8 @@ import { graphql } from 'gatsby'
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import BookCard from "../components/bookcard"
+import SideBar from "../components/sidebar";
+import {Container, Row, Col} from 'react-bootstrap';
 
 function myFunction(setEnd, end) {
   if (document.documentElement.clientHeight+document.documentElement.scrollTop>=document.documentElement.scrollHeight) {
@@ -19,17 +21,24 @@ export default ({data}) => {
   return (
     <Layout>
       <SEO title="Home" />
-      <div className="flex flex-row flex-wrap">
-      {data.allBooksJson.edges.map(function(x, index) {
-        if(index<end){
-          return (
-            <BookCard book={x.node} key={x.node.id} />
-          )
-        }else{
-          return null;
-        }
-      })}
-      </div>
+      <Container fluid>
+        <Row>
+          <Col xs={2}>
+            <SideBar />
+          </Col>
+          <Col>
+              {data.allBooksJson.edges.map(function(x, index) {
+                  if(index<end){
+                    return (
+                      <BookCard book={x.node} key={x.node.id} />
+                    )
+                  }else{
+                    return null;
+                  }
+              })}
+          </Col>
+        </Row>
+      </Container>
     </Layout>
   )
 }
