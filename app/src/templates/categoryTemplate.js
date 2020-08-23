@@ -4,12 +4,13 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import SideBar from "../components/sidebar"
+import CategoryDescription from "../components/categorydescription"
 import { Container, Row, Col } from "react-bootstrap"
 import BookFeed from "../components/feed"
 
 const basicTemplate = props => {
   const { pageContext } = props
-  const { categoryName, books } = pageContext
+  const { categoryName, data } = pageContext
 
   return (
     <Layout>
@@ -20,7 +21,8 @@ const basicTemplate = props => {
             <SideBar />
           </Col>
           <Col>
-            <BookFeed books={books} categoryName={categoryName} />
+            <CategoryDescription categoryName={categoryName} />
+            <BookFeed data={data} categoryName={categoryName} />
           </Col>
         </Row>
       </Container>

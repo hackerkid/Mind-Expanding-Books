@@ -34,13 +34,12 @@ exports.createPages = async function ({ actions, graphql }) {
       }
     `,
     {categoryName: category.name})
-      
     createPage({
         path: createSlug(category.name),
         component: require.resolve("./src/templates/categoryTemplate.js"),
         context: {
             categoryName: category.name,
-            data: data,
+            data: data.data,
             limit: null,
         },
       })
