@@ -12,45 +12,59 @@
     "emoji": "👩🏾"
   },
   {
-    "name": "History"
+    "name": "History",
+    "emoji": "📜"
   },
   {
-    "name": "Science and Medicine"
+    "name": "Science and Medicine",
+    "emoji": "🔬"
   },
   {
-    "name": "Logic and Problem Solving"
+    "name": "Logic and Problem Solving",
+    "emoji": "🧩"
   },
   {
-    "name": "Politics"
+    "name": "Politics",
+    "emoji": "🗳️"
   },
   {
-    "name": "Economics"
+    "name": "Economics",
+    "emoji": "📈"
   },
   {
-    "name": "Gender"
+    "name": "Gender",
+    "emoji": "🏳️‍🌈"
   },
   {
-    "name": "Sexuality"
+    "name": "Sexuality",
+    "emoji": "😘"
   },
   {
-    "name": "Education"
+    "name": "Education",
+    "emoji": "🏫"
   },
   {
-    "name": "Writing"
+    "name": "Writing",
+    "emoji": "📝"
   },
   {
-    "name": "Theater and Film"
+    "name": "Theater and Film",
+    "emoji": "🎬"
   },
   {
-    "name": "Health"
+    "name": "Health",
+    "emoji": "👩‍⚕️"
   },
   {
-    "name": "Travel"
+    "name": "Travel",
+    "emoji": "🛩️"
   },
   {
-    "name": "Language"
+    "name": "Language",
+    "emoji": "🉐"
   },
   {
-    "name": "Nature"
+    "name": "Nature",
+    "emoji": "🌲"
   }
 ]
