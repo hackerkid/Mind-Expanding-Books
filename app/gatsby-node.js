@@ -22,6 +22,8 @@ exports.createPages = async function ({ actions, graphql }) {
               author
               year
               category
+              image_url
+              description
             }
           }
         }

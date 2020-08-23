@@ -3,6 +3,8 @@ import xml.etree.ElementTree as ET
 import urllib.request
 import urllib.error
 
+from bs4 import BeautifulSoup
+
 from config import GOODREADS_PUBLIC_API_KEY
 
 
@@ -21,7 +23,8 @@ def get_details(book_object):
         book_object["rating"] = book.find("average_rating").text
         book_object["pages"] = book.find("num_pages").text
         book_object["image_url"] = book.find("image_url").text
-        book_object["description"] = book.find("description").text
+        if (description := book.find("description").text):
+            book_object["description"] = BeautifulSoup(description).text
         book_object["isbn"] = book.find("isbn").text
         return True
     except urllib.error.HTTPError as e:

@@ -53,6 +53,8 @@ export const query = graphql`
           author
           year
           category
+          description
+          image_url
         }
       }
     }
