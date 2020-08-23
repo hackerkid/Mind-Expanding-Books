@@ -43,7 +43,12 @@ export default ({ data }) => {
 
 export const query = graphql`
   query MyQuery {
-    allBooksJson {
+    allBooksJson(
+      sort: {
+        fields: [rating]
+        order: DESC
+      }
+    ) {
       edges {
         node {
           id

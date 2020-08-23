@@ -12,6 +12,10 @@ exports.createPages = async function ({ actions, graphql }) {
                     eq: $categoryName
                 }
             }
+            sort: {
+              fields: [rating]
+              order: DESC
+            }
         ){
           edges {
             node {
