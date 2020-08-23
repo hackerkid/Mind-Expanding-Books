@@ -1,0 +1,8 @@
+appdirs==1.4.4
+attrs==20.1.0
+black==19.10b0
+click==7.1.2
+pathspec==0.8.0
+regex==2020.7.14
+toml==0.10.1
+typed-ast==1.4.1
