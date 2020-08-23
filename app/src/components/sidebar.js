@@ -2,13 +2,7 @@ import React from "react"
 import { Nav } from "react-bootstrap"
 import { StaticQuery, graphql } from "gatsby"
 import "../styles/sidebar.css"
-
-function createSlug(categoryName) {
-  categoryName = categoryName.toLowerCase()
-  categoryName = categoryName.replace(/ /g, "-")
-  categoryName = categoryName.replace(/,/g, "")
-  return categoryName
-}
+var slugify = require('slugify')
 
 export default () => {
   return (
@@ -20,6 +14,7 @@ export default () => {
               node {
                 id
                 name
+                emoji
               }
             }
           }
@@ -34,8 +29,8 @@ export default () => {
             {data.allCategoriesJson.edges.map(function(x, index) {
               return (
                 <Nav.Item>
-                  <Nav.Link href={createSlug(x.node.name)}>
-                    {x.node.name}
+                  <Nav.Link href={slugify(x.node.name)}>
+                    {x.node.emoji} {x.node.name}
                   </Nav.Link>
                 </Nav.Item>
               )

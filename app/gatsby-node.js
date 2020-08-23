@@ -1,12 +1,6 @@
 const fs = require("fs")
 const categories = JSON.parse(fs.readFileSync("src/data/categories.json"))
-
-function createSlug (categoryName) {
-    categoryName = categoryName.toLowerCase();
-    categoryName = categoryName.replace(/ /g, "-");
-    categoryName = categoryName.replace(/,/g, "");
-    return categoryName;
-};
+var slugify = require('slugify')
 
 exports.createPages = async function ({ actions, graphql }) {
   const { createPage } = actions
@@ -34,8 +28,9 @@ exports.createPages = async function ({ actions, graphql }) {
       }
     `,
     {categoryName: category.name})
+    console.log(category.name, data.data)
     createPage({
-        path: createSlug(category.name),
+        path: slugify(category.name),
         component: require.resolve("./src/templates/categoryTemplate.js"),
         context: {
             categoryName: category.name,

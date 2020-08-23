@@ -22,7 +22,8 @@
     "react-dom": "^16.10.2",
     "react-helmet": "^5.2.1",
     "react-star-rating-component": "^1.4.1",
-    "react-star-ratings": "^2.3.0"
+    "react-star-ratings": "^2.3.0",
+    "slugify": "^1.4.5"
   },
   "devDependencies": {
     "eslint": "^7.7.0",
