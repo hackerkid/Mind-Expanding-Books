@@ -5,7 +5,18 @@ from read_file import load
 from gooodreads import get_details
 from bs4 import BeautifulSoup
 
-required_fields = ["title", "author", "url", "rating", "year", "pages", "image_url", "description", "category"]
+required_fields = [
+    "title",
+    "author",
+    "url",
+    "rating",
+    "year",
+    "pages",
+    "image_url",
+    "description",
+    "category",
+]
+
 
 def book_has_all_fields(book):
     for required_field in required_fields:
@@ -14,11 +25,13 @@ def book_has_all_fields(book):
             return False
     return True
 
+
 def clean_category(category_raw):
     if "### " in category_raw:
         return category_raw[4:]
     if "## " in category_raw:
         return category_raw[3:]
+
 
 if __name__ == "__main__":
     library = load("../README.md", "new")
@@ -36,14 +49,20 @@ if __name__ == "__main__":
                 "title": title,
                 "author": book["author"],
                 "url": book["url"],
-                "category": category_name
+                "category": category_name,
             }
             fetched = get_details(new_book)
             if fetched:
                 print(f"✅ {title}")
                 existing_book_names_to_details[title] = new_book
                 with open("books.json", "w") as f:
-                    json.dump(existing_book_names_to_details, f, sort_keys=True, indent=4, separators=(',', ': '))
+                    json.dump(
+                        existing_book_names_to_details,
+                        f,
+                        sort_keys=True,
+                        indent=4,
+                        separators=(",", ": "),
+                    )
             else:
                 print(f"❌ Error while fetching {title}")
             time.sleep(1)
@@ -53,7 +72,13 @@ if __name__ == "__main__":
         book_list.append(book)
 
     with open("books.json", "w") as f:
-        json.dump(existing_book_names_to_details, f, sort_keys=True, indent=4, separators=(',', ': '))
+        json.dump(
+            existing_book_names_to_details,
+            f,
+            sort_keys=True,
+            indent=4,
+            separators=(",", ": "),
+        )
 
     with open("books_list.json", "w") as f:
-        json.dump(book_list, f, sort_keys=True, indent=4, separators=(',', ': '))
+        json.dump(book_list, f, sort_keys=True, indent=4, separators=(",", ": "))
