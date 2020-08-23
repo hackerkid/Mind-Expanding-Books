@@ -21,6 +21,9 @@ def get_details(book_object):
         book_object["rating"] = book.find("average_rating").text
         book_object["pages"] = book.find("num_pages").text
         book_object["image_url"] = book.find("image_url").text
+        book_object["description"] = book.find("description").text
+        book_object["isbn"] = book.find("isbn").text
+        return True
     except urllib.error.HTTPError as e:
         print(
             "Error getting book details from GoodReads for book: {}. \nGot error: ".format(
@@ -28,6 +31,7 @@ def get_details(book_object):
             )
         )
         print(str(e.getcode()) + " " + e.msg)
+        return False
 
 
 def get_goodread_info(library, force):
