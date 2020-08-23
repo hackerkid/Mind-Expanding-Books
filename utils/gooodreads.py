@@ -36,8 +36,8 @@ def get_goodread_info(library, force):
         total_book_count += len(library[key])
 
 
-    for chapter in library:
-        book_list = library[chapter]
+    for category in library:
+        book_list = library[category]
         for book in book_list:
             # do not call the api again if we already have the infomation
             if not force and 'rating' in book and book['rating']:

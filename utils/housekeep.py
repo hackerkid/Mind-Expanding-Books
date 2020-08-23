@@ -59,7 +59,7 @@ def main():
     from gooodreads import get_goodread_info
     from write_file import render
 
-    in_file = flags.in_file or './../README.MD'
+    in_file = flags.in_file or './../README.md'
     out_file = flags.out_file or './../README-new.md'
     input_file_type = flags.input_file_type or 'new'
     sort_by = flags.sort_by or 'rating'
