@@ -227,7 +227,8 @@
 | The Brain: The Story of You | David Eagleman | [4.20](https://www.goodreads.com/book/show/25776132.the-brain) | 2015 |  
 | A Short History of Nearly Everything | Bill Bryson | [4.19](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything) |  |  
 | The Symbolic Species: The Co-evolution of Language and the Brain | Terrence W. Deacon | [4.17](https://www.goodreads.com/book/show/733691.The_Symbolic_Species) | 1998 |  
-| A Brief History of Time | Stephen Hawking | [4.12](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time) | 1998 |  
+| A Brief History of Time | Stephen Hawking |
+[4.12](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time) | 1998 |  
 | The Selfish Gene | Richard Dawkins | [4.11](http://www.goodreads.com/book/show/61535.The_Selfish_Gene) |  |  
 | Figments of Reality: The Evolution of the Curious Mind | Ian Stewart, Jack Cohen | [4.11](https://www.goodreads.com/book/show/164560.Figments_of_Reality) | 2009 |  
 | The New Executive Brain: Frontal Lobes in a Complex World | Elkhonon Goldberg | [4.07](https://www.goodreads.com/book/show/6745893-the-new-executive-brain) |  |  
@@ -359,6 +360,7 @@
 | One Flew Over the Cuckoo's Nest | Ken Kesey | [4.18](https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest) | 1963 |  
 | Crime and Punishment | Fyodor Dostoyevsky | [4.18](https://www.goodreads.com/book/show/7144.Crime_and_Punishment) | 2002 |  
 | 1984 | George Orwell | [4.17](https://www.goodreads.com/book/show/40961427-1984) | 1949 |  
+| The Wind-Up Bird Chronical | Haruki Murakami | [4.16](https://www.goodreads.com/book/show/11275.The_Wind_Up_Bird_Chronicle) | 1997 |
 | Steppenwolf: A Novel | Hermann Hesse, Basil Creighton | [4.11](https://www.goodreads.com/book/show/16631.Steppenwolf) | 1999 |  
 | The Glass Bead Game | Hermann Hesse, Richard and Clara Winston | [4.11](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game) | 2002 |  
 | War and Peace | Leo Tolstoy | [4.11](https://www.goodreads.com/book/show/656.War_and_Peace) | 1998 |  
