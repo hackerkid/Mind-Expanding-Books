@@ -3,7 +3,6 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import BookCard from "../components/bookcard"
 import SideBar from "../components/sidebar"
 import { Container, Row, Col } from "react-bootstrap"
 import BookFeed from "../components/feed"
