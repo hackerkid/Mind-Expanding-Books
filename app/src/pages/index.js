@@ -8,6 +8,8 @@ import SideBar from "../components/sidebar"
 import { Container, Row, Col } from "react-bootstrap"
 import BookFeed from "../components/feed"
 
+
+
 function myFunction(setMaximumBooksToShow, maximumBooksToShow) {
   if (
     document.documentElement.clientHeight +
