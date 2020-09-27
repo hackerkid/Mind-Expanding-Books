@@ -6,9 +6,12 @@ import BookCard from "../components/bookcard"
 
 export default ({ data, limit }) => {
   return data.allBooksJson.edges.map(function(x, index) {
-    console.log(index, limit)
+    const book = x.node;
     if (!limit || index < limit) {
-      return <BookCard book={x.node} key={x.node.id} />
+      if(!book.description || book.description.length < 10) {
+        return null;
+      }
+      return <BookCard book={book} key={book.id} />
     } else {
       return null
     }

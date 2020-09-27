@@ -28,6 +28,7 @@ exports.createPages = async function ({ actions, graphql }) {
               category
               image_url
               description
+              amazon_url
             }
           }
         }

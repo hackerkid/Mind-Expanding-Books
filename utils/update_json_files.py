@@ -15,6 +15,7 @@ required_fields = [
     "image_url",
     "description",
     "category",
+    "amazon_url",
 ]
 
 
@@ -63,22 +64,11 @@ if __name__ == "__main__":
                         indent=4,
                         separators=(",", ": "),
                     )
+                
+                book_list = []
+                for _, book in existing_book_names_to_details.items():
+                    book_list.append(book)
+                with open("books_list.json", "w") as f:
+                    json.dump(book_list, f, sort_keys=True, indent=4, separators=(",", ": "))
             else:
                 print(f"❌ Error while fetching {title}")
-            time.sleep(1)
-
-    book_list = []
-    for _, book in existing_book_names_to_details.items():
-        book_list.append(book)
-
-    with open("books.json", "w") as f:
-        json.dump(
-            existing_book_names_to_details,
-            f,
-            sort_keys=True,
-            indent=4,
-            separators=(",", ": "),
-        )
-
-    with open("books_list.json", "w") as f:
-        json.dump(book_list, f, sort_keys=True, indent=4, separators=(",", ": "))
