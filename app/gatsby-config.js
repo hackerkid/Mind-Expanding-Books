@@ -35,6 +35,12 @@ module.exports = {
         path: `./src/data/`,
       },
     },
-    `gatsby-plugin-postcss`
+    `gatsby-plugin-postcss`,
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-139957969-2",
+      }
+    }
   ],
 }
