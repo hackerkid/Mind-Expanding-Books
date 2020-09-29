@@ -1,10 +1,10 @@
 # Mind Expanding Books
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://books.zulipchat.com)
-
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Curated list of mind expanding books.
 
+🌱 You might be interested in the beta website at [https://books.vishnuks.com](https://books.vishnuks.com)
 
 ## Table of Contents
 * [Startups and Business](#startups-and-business)
