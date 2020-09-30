@@ -169,6 +169,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|  
 | Unbroken: A World War II Story of Survival, Resilience, and Redemption | Laura Hillenbrand | [4.39](https://www.goodreads.com/book/show/8664353-unbroken) | 2010 |  
 | Long Walk to Freedom | Nelson Mandela | [4.31](http://www.goodreads.com/book/show/318431.Long_Walk_to_Freedom) | 1995 | 
+| Autobiography of a Yogi| Pramahansa Yogananda | [4.2](https://www.goodreads.com/book/show/639864.Autobiography_of_a_Yogi) | 1946|
 | My Life and My Work | Henry Ford | [4.29](http://www.goodreads.com/book/show/1122054.My_Life_And_Work) |  |  
 | Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character | Richard Feynman | [4.29](https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_) | 1997 |  
 | The Autobiography of Malcolm X | Malcolm X, Alex Haley | [4.29](http://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X) |  |  
