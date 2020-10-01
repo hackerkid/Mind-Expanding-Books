@@ -162,6 +162,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Utilitarianism | Geoffrey Scarre | [3.50](https://www.goodreads.com/book/show/3807762-utilitarianism) | 1996 |  
 | The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression | Debra Fine | [3.36](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) | 2005 |  
 | Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) |  | 
+| Ikigai: The Japanese Secret to a Long and Happy Life | Hector Garcia Puigcerver | [3.85](https://www.goodreads.com/book/show/40534545-ikigai) |  | 
  
 
 ## Autobiographies and Biographies
