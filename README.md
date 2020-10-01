@@ -191,6 +191,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Story of My Life | Helen Keller | [4.07](http://www.goodreads.com/book/show/821611.The_Story_of_My_Life) | 1990 |  
 | The Immortal Life of Henrietta Lacks | Rebecca Skloot | [4.05](https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks?ac=1&from_search=true) | 2010 |
 | Losing My Virginity: The Autobiography | Richard Branson | [3.97](https://www.goodreads.com/book/show/9533705-losing-my-virginity) |1999|  
+| My Inventions: The Autobiography of Nikola Tesla | Nikola Tesla | [3.96](https://www.goodreads.com/book/show/493.My_Inventions?ac=1&from_search=true&qid=PQw29iDQp5&rank=1) | 2006 |
 | Ghost in the Wires:	My Adventures as the World's Most Wanted Hacker | Kevin Mitnick | [3.95](http://www.goodreads.com/book/show/10256723-ghost-in-the-wires) | 2011 |  
 | An Autobiography: Toward Freedom | Jawaharlal Nehru | [3.85](http://www.goodreads.com/book/show/322939.An_Autobiography) | 1989 |  
 | iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It | Steve Wozniak | [3.82](http://www.goodreads.com/book/show/798635.iWoz) | 2007 |  
