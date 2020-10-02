@@ -59,6 +59,7 @@ export const query = graphql`
           category
           description
           image_url
+          amazon_url
         }
       }
     }

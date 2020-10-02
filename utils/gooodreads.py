@@ -5,8 +5,8 @@ import urllib.error
 
 from bs4 import BeautifulSoup
 
-from config import GOODREADS_PUBLIC_API_KEY
-
+from config import GOODREADS_PUBLIC_API_KEY, GOOGLE_SEARCH_RAPIDAPI_HOST, GOOGLE_SEARCH_RAPIDAPI_KEY
+from googlesearch import search
 
 def get_details(book_object):
 
@@ -15,7 +15,17 @@ def get_details(book_object):
     )
 
     try:
-        tree = ET.ElementTree(file=urllib.request.urlopen(url))
+        time_to_sleep = 1
+        while True:
+            response = urllib.request.urlopen(url)
+            print(response.getcode())
+            if response.getcode() == 429:
+                time_to_sleep = time_to_sleep * 2
+                print("Sleeping for {}".format(time_to_sleep))
+                time.sleep(time_to_sleep)
+            else:
+                break
+        tree = ET.ElementTree(file=response)
         root = tree.getroot()
         book = root.find("book")
         book_object["year"] = book.find("publication_year").text or ""
@@ -23,9 +33,23 @@ def get_details(book_object):
         book_object["rating"] = book.find("average_rating").text
         book_object["pages"] = book.find("num_pages").text
         book_object["image_url"] = book.find("image_url").text
-        if (description := book.find("description").text) :
+        if (description := book.find("description").text):
             book_object["description"] = BeautifulSoup(description).text
+        else:
+            book_object["description"] = ""
         book_object["isbn"] = book.find("isbn").text
+        print("Fetching amazon link")
+        import requests
+
+        url = "https://google-search3.p.rapidapi.com/api/v1/search/q=site:amazon.com {} {}".format(book_object["title"], book_object["author"])
+
+        headers = {
+            'x-rapidapi-host': GOOGLE_SEARCH_RAPIDAPI_HOST,
+            'x-rapidapi-key': GOOGLE_SEARCH_RAPIDAPI_KEY,
+        }
+
+        response = requests.request("GET", url, headers=headers)
+        book_object["amazon_url"] = response.json()["results"][0]["link"]
         return True
     except urllib.error.HTTPError as e:
         print(

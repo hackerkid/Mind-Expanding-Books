@@ -1,10 +1,10 @@
 # Mind Expanding Books
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://books.zulipchat.com)
-
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Curated list of mind expanding books.
 
+🌱 You might be interested in the beta website at [https://books.vishnuks.com](https://books.vishnuks.com)
 
 ## Table of Contents
 * [Startups and Business](#startups-and-business)
@@ -159,6 +159,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Alone Together: Why We Expect More from Technology and Less from Each Others | Sherry Turkle | [3.62](http://www.goodreads.com/book/show/8694125-alone-together) | 2011 |  
 | How to Win Every Argument: The Use and Abuse of Logic | Madsen Pirie | [3.55](https://www.goodreads.com/book/show/112731.How_to_Win_Every_Argument) | 2006 |  
 | Rapt: Attention and the Focused Life: Winifred Gallagher | Winifred Gallagher | [3.54](https://www.goodreads.com/book/show/6262510-rapt) |  |  
+| Utilitarianism | Geoffrey Scarre | [3.50](https://www.goodreads.com/book/show/3807762-utilitarianism) | 1996 |  
 | The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression | Debra Fine | [3.36](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) | 2005 |  
 | Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) |  | 
  
@@ -453,7 +454,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Hyperion | Dan Simmons | [4.21](https://www.goodreads.com/book/show/77566.Hyperion) | 1989 |  
 | Cosmicomics | Italo Calvino | [4.2](https://www.goodreads.com/book/show/59780.Cosmicomics) | 1965 |
 | The Diamond Age | Neal Stephenson | [4.19](http://www.goodreads.com/book/show/827.The_Diamond_Age) | 2000 |  
-| Dune Chronicles | Frank Herbert | [4.19](https://www.goodreads.com/search?q=dune) | 2006 |  
+| Dune Chronicles | Frank Herbert | [4.19](https://www.goodreads.com/search?q=dune) | 2006 |
+| The Forever War | Joe Haldemann | [4.15](https://www.goodreads.com/book/show/21611.The_Forever_War) | 1974
 | Foundation | Isaac Asimov | [4.13](https://www.goodreads.com/book/show/29579.Foundation) | 2004 |  
 | Snow Crash | Neal Stephenson | [4.02](https://www.goodreads.com/book/show/830.Snow_Crash) | 2000 |  
 | Fahrenheit 451 | Ray Bradbury | [3.97](https://www.goodreads.com/book/show/17470674-fahrenheit-451) | 2006 |  
@@ -492,6 +494,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | How Buildings Learn: What Happens After They're Built | Stewart Brand | [4.32](https://www.goodreads.com/book/show/38310.How_Buildings_Learn) | 1995 |
 | Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability | Steve Krug | [4.24](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) | 2014 |  
 | The Design of Everyday Things | Donald Norman | [4.18](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) | 2002 |  
+| Mismatch: How Inclusion Shapes Design |  Kat Holmes, John Maeda | [4.14](https://www.goodreads.com/book/show/39644200-mismatch) | 2018 |  
 | The Art of Looking Sideways | Alan Fletcher | [4.10](https://www.goodreads.com/book/show/15778.The_Art_of_Looking_Sideways) | 2001 |  
 
 ## Travel
