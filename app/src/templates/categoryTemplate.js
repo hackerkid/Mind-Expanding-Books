@@ -17,10 +17,10 @@ const basicTemplate = props => {
       <SEO title="Home" />
       <Container fluid>
         <Row>
-          <Col xs={2}>
+          <Col xs={3}>
             <SideBar />
           </Col>
-          <Col>
+          <Col xs={9}>
             <CategoryDescription categoryName={categoryName} />
             <BookFeed data={data} categoryName={categoryName} />
           </Col>

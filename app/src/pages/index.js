@@ -28,10 +28,10 @@ export default ({ data }) => {
       <SEO title="Home" />
       <Container fluid>
         <Row>
-          <Col xs={2}>
+          <Col xs={3}>
             <SideBar />
           </Col>
-          <Col>
+          <Col xs={9}>
             <BookFeed data={data} limit={maximumBooksToShow} />
           </Col>
         </Row>

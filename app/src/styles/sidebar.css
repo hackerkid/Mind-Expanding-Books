@@ -1,11 +1,11 @@
 .sidebar {
-  position: fixed;
+  position: relative;
   top: 0;
   bottom: 0;
   left: 0;
   min-height: 100vh !important;
-  padding: 48px 0 0;
-  box-shadow: inset -1px 0 0 rgba(0, 0, 0, 0.1);
+  padding: 30px 0 0;
+  border: 1px solid rgba(0, 0, 0, 0.1);
 }
 #sidebar-wrapper {
   min-height: 100vh !important;
