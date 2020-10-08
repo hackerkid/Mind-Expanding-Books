@@ -464,6 +464,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 ### Horror
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
+| It | Stephen King | [4.24](https://www.goodreads.com/book/show/830502.It) | 1986 |
 | House of Leaves | Mark Z. Danielewski | [4.13](http://www.goodreads.com/book/show/24800.House_of_Leaves) | 2000 |  
 | Dracula | Bram Stoker | [3.98](http://www.goodreads.com/book/show/17245.Dracula) | 1986 |  
 | Frankenstein | Mary Shelley, Maurice Hindle | [3.75](http://www.goodreads.com/book/show/18490.Frankenstein) | 2003 |  
