@@ -1,4 +1,5 @@
-(todo:please remove this todo and the sections you did not check below before you make your pull request)
+(todo:please remove this todo and the sections you did not check below before you make your pull request.
+If you are unsure, please check other PRs like this one: https://github.com/hackerkid/Mind-Expanding-Books/pull/207#issue-377268434)
 
 ## In this pull request 
 - [ ]  I am adding a new book.
