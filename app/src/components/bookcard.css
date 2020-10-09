@@ -1,0 +1,32 @@
+.card{
+    width: 44rem;
+    height: 21rem;
+    margin-bottom: 15px;
+}
+.card-image{
+    height: 12rem;
+    width:8rem;
+    padding-left: 25px; 
+    padding-right: -15px; 
+    padding-top: 30px
+
+}
+
+@media only screen and (max-width: 375px) {
+    .card{
+        width: 20rem;
+        height:40rem
+    }
+
+    .card-image{
+        height: 8rem;
+        margin-top: 20px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      padding: 0;
+      width: 50% !important;
+    
+    }
+
+  }

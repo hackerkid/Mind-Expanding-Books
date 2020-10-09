@@ -5,21 +5,18 @@ import { Card, Row, Col } from "react-bootstrap"
 
 import AmazonURL from "../components/amazonurl"
 
-const truncateContent = (content) => {
+const truncateContent = content => {
   if (!content) {
     return ""
   }
   return content.length > 350 ? content.substring(0, 350) + "..." : content
-};
+}
 
 const BookCard = ({ book }) => (
-  <Card style={{ width: "44rem", height: "21rem", marginBottom: "15px" }}>
+  <Card className="card">
     <Row>
-      <Col xs={3}>
-        <Card.Img
-          style={{ height: "12rem", width: "8rem", paddingLeft: "25px", paddingRight: "-15px", paddingTop: "30px" }}
-          src={book.image_url}
-        />
+      <Col xs={12}>
+        <Card.Img className="card-image" src={book.image_url} />
       </Col>
       <Col>
         <Card.Body>
@@ -33,13 +30,11 @@ const BookCard = ({ book }) => (
               starRatedColor="#fa604a"
             />
             <br />
-            {book.author} <b>{book.year ? book.year: null}</b>
+            {book.author} <b>{book.year ? book.year : null}</b>
             <br />
-            {book.amazon_url ? <AmazonURL book={book} />: null}
+            {book.amazon_url ? <AmazonURL book={book} /> : null}
           </Card.Subtitle>
-          <p>
-            {truncateContent(book.description)}
-          </p>
+          <p>{truncateContent(book.description)}</p>
         </Card.Body>
       </Col>
     </Row>
