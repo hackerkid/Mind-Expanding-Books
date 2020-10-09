@@ -15,7 +15,7 @@ const truncateContent = content => {
 const BookCard = ({ book }) => (
   <Card className="card">
     <Row>
-      <Col xs={12}>
+      <Col xs={12} md={3}>
         <Card.Img className="card-image" src={book.image_url} />
       </Col>
       <Col>
