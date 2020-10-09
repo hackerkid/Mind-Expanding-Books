@@ -1,5 +1,6 @@
+(todo:please remove this todo and the sections you did not check below before you make your pull request)
 
-## In this pull request
+## In this pull request 
 - [ ]  I am adding a new book.
 - [ ]  I am adding a new category
 - [ ] Removing a book
