@@ -26,12 +26,12 @@ export default ({ data }) => {
   return (
     <Layout>
       <SEO title="Home" />
-      <Container fluid>
+      <Container fluid> 
         <Row>
-          <Col xs={2}>
+          <Col xs={4} xl={2}>
             <SideBar />
           </Col>
-          <Col>
+          <Col xs={8} xl={10}>
             <BookFeed data={data} limit={maximumBooksToShow} />
           </Col>
         </Row>

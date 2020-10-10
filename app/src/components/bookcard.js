@@ -13,18 +13,19 @@ const truncateContent = (content) => {
 };
 
 const BookCard = ({ book }) => (
-  <Card style={{ width: "44rem", height: "21rem", marginBottom: "15px" }}>
+  <Card style={{marginBottom: "15px" }} >
     <Row>
-      <Col xs={3}>
+      <Col xs={12} md={4} xl={2}>
         <Card.Img
-          style={{ height: "12rem", width: "8rem", paddingLeft: "25px", paddingRight: "-15px", paddingTop: "30px" }}
+          style={{paddingLeft: "15px", paddingRight: "15px", paddingTop: "30px" }}
           src={book.image_url}
+          resizeMode="contain"
         />
       </Col>
-      <Col>
+      <Col xs={12} md={8} xl={10}>
         <Card.Body>
           <Card.Title>{book.title}</Card.Title>
-          <Card.Subtitle className="mb-2 text-muted">
+          <Card.Subtitle className="text-muted">
             <StarRatings
               rating={parseFloat(book.rating)}
               numberOfStars={5}
@@ -32,14 +33,17 @@ const BookCard = ({ book }) => (
               starSpacing="1px"
               starRatedColor="#fa604a"
             />
-            <br />
-            {book.author} <b>{book.year ? book.year: null}</b>
-            <br />
-            {book.amazon_url ? <AmazonURL book={book} />: null}
+            <Card.Text
+              style={{paddingTop: "10px", paddingBottom: "10px" }}
+            > 
+            {book.author} <b>{book.year ? book.year: null}</b> 
+            </Card.Text>
+            
           </Card.Subtitle>
           <p>
             {truncateContent(book.description)}
           </p>
+          {book.amazon_url ? <AmazonURL book={book} /> : null}
         </Card.Body>
       </Col>
     </Row>
