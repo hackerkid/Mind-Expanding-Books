@@ -25,11 +25,11 @@ export default () => {
           className="col-md-12 d-none d-md-block bg-light sidebar"
           activeKey="/home"
         >
-          <div className="sidebar-sticky">
+          <div className="sidebar-sticky" role="navigation" aria-label="Sidebar">
             {data.allCategoriesJson.edges.map(function(x, index) {
               return (
-                <Nav.Item>
-                  <Nav.Link href={slugify(x.node.name)}>
+                <Nav.Item key={x.node.name}>
+                  <Nav.Link href={slugify(x.node.name)} role="button">
                     {x.node.emoji} {x.node.name}
                   </Nav.Link>
                 </Nav.Item>

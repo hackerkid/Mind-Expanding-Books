@@ -14,11 +14,12 @@ const truncateContent = (content) => {
 
 const BookCard = ({ book }) => (
   <Card style={{ width: "44rem", height: "21rem", marginBottom: "15px" }}>
-    <Row>
+    <Row aria-label={book.title}>
       <Col xs={3}>
         <Card.Img
           style={{ height: "12rem", width: "8rem", paddingLeft: "25px", paddingRight: "-15px", paddingTop: "30px" }}
           src={book.image_url}
+          alt={book.title}
         />
       </Col>
       <Col>
