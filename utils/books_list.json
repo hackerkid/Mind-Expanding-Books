@@ -14,6 +14,20 @@
         "year": "2013"
     },
     {
+        "amazon_url": "https://www.amazon.com/Book-Thief-Markus-Zusak/dp/0375842209/ref=sr_1_1?dchild=1&keywords=the+book+thief&qid=1602348401&sr=8-1",
+        "author": "Markus Zuzak",
+        "category": "Classics",
+        "description": "Set in Germany in the years 1939-1943, The Book Thief tells the story of Liesel, narrated by Death who has in his possession the book she wrote.",
+        "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FBook-Thief-Markus-Zusak%2Fdp%2F0552773891&psig=AOvVaw09coLJSc6tKowfK-DfQ79v&ust=1602434876381000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj9hp69quwCFQAAAAAdAAAAABAI",
+        "isbn": null,
+        "lang": "eng",
+        "pages": "584",
+        "rating": "4.4",
+        "title": "The Book Theif",
+        "url": "https://www.goodreads.com/book/show/19063.The_Book_Thief",
+        "year": "2005"
+    },
+    {
         "amazon_url": "https://www.amazon.com/Things-They-Dont-About-Capitalism/dp/1608193381",
         "author": "Ha-Joon Chang",
         "category": "Economics",
