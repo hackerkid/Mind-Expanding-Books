@@ -1,4 +1,4 @@
-## How to setp development environment
+## How to setup development environment
 
 ```bash
 git clone https://github.com/hackerkid/Mind-Expanding-Books
