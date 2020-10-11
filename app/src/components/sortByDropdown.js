@@ -3,8 +3,8 @@ import { Dropdown } from 'react-bootstrap';
 
 export const compareFunctions = {
   title: ({ node: bookOne }, { node: bookTwo }) => bookOne.title.localeCompare(bookTwo.title),
-  year: ({ node: bookOne }, { node: bookTwo }) => bookTwo.year - bookOne.year,
-  rating: ({ node: bookOne }, { node: bookTwo }) => bookTwo.rating - bookOne.rating,
+  year: ({ node: bookOne }, { node: bookTwo }) => Number(bookTwo.year) - Number(bookOne.year),
+  rating: ({ node: bookOne }, { node: bookTwo }) => Number(bookTwo.rating) - Number(bookOne.rating),
 };
 
 export const FIELDS_TO_SORT_BY = ['rating', 'year', 'title'];
