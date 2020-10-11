@@ -6,8 +6,7 @@ import SortByDropdown, { FIELDS_TO_SORT_BY, compareFunctions } from './sortByDro
 export default ({ data, limit }) => {
   const [sortBy, setSortBy] = React.useState(FIELDS_TO_SORT_BY[0]);
 
-  const getSortedBooks = () => data.allBooksJson.edges
-    .slice(0, limit || data.allBooksJson.edges.length)
+  const getSortedBooks = () => [...data.allBooksJson.edges]
     .sort(compareFunctions[sortBy]);
 
   return (
