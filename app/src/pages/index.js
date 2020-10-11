@@ -19,7 +19,6 @@ function myFunction(setMaximumBooksToShow, maximumBooksToShow) {
 
 export default ({ data }) => {
   let [maximumBooksToShow, setMaximumBooksToShow] = useState(12)
-  console.log({data})
   useEffect(() => {
     window.document.onscroll = () =>
       myFunction(setMaximumBooksToShow, maximumBooksToShow)
