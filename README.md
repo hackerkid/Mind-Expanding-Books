@@ -436,6 +436,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Sherlock Holmes | Arthur Conan Doyle | [4.30](https://www.goodreads.com/series/49996-sherlock-holmes) | 1998 |  
+| And Then There Were None | Agatha Christie | [4.26](https://www.goodreads.com/series/49996-sherlock-holmes) | 1939 | 
 | The Murder of Roger Ackroyd | Agatha Christie | [4.20](http://www.goodreads.com/book/show/16328.The_Murder_of_Roger_Ackroyd) | 2006 |  
 | The Eight | Katherine Neville | [4.17](https://www.goodreads.com/book/show/113310.The_Eight) |  |  
 | Memory Man | David Baldacci | [4.05](https://www.goodreads.com/book/show/23153154-memory-man) | 2015 |  
