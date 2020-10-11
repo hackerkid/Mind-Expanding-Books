@@ -5,14 +5,15 @@ const saveBookToLocalStorage = (book) => {
 	if (typeof window !== undefined) {
 		const readingList = localStorage.getItem('Reading List')
 		let listData
+		let bookId = book.id
 
 		if (readingList === null) {
-			listData = []
+			listData = {}
 		} else {
 			listData = JSON.parse(readingList)
 		}
 
-		listData.push(book)
+		listData[bookId] = book
 
 		localStorage.setItem('Reading List', JSON.stringify(listData))
 	}
