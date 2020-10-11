@@ -10,12 +10,9 @@ export default ({ data, limit }) => {
     .slice(0, limit || data.allBooksJson.edges.length)
     .sort(compareFunctions[sortBy]);
 
-  const handleSortByItemClick = (field) => {
-    setSortBy(field);
-  };
   return (
     <>
-      <SortByDropdown sortBy={sortBy} onSortByItemClick={handleSortByItemClick} />
+      <SortByDropdown sortBy={sortBy} onSortByItemClick={setSortBy} />
       {getSortedBooks().map((x, index) => {
         const book = x.node;
         if (!limit || index < limit) {
