@@ -1,4 +1,4 @@
-import React,{ useState } from "react"
+import React from "react"
 import { Nav } from "react-bootstrap"
 import { StaticQuery, graphql } from "gatsby"
 import "../styles/sidebar.css"
