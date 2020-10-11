@@ -13,9 +13,9 @@ const truncateContent = (content) => {
 };
 
 const BookCard = ({ book }) => (
-  <Card style={{ width: "44rem", height: "21rem", marginBottom: "15px" }}>
+  <Card className="ml-5 mb-2">
     <Row>
-      <Col xs={3}>
+      <Col className="col-3 align-self-center">
         <Card.Img
           style={{ height: "12rem", width: "8rem", paddingLeft: "25px", paddingRight: "-15px", paddingTop: "30px" }}
           src={book.image_url}
@@ -40,6 +40,7 @@ const BookCard = ({ book }) => (
           <p>
             {truncateContent(book.description)}
           </p>
+          <button className="btn btn-primary">Read More</button>
         </Card.Body>
       </Col>
     </Row>
