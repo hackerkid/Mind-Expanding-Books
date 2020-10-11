@@ -1,6 +1,6 @@
 import React from "react"
 import { Nav } from "react-bootstrap"
-import { StaticQuery, graphql } from "gatsby"
+import { StaticQuery, graphql, Link } from "gatsby"
 import "../styles/sidebar.css"
 var slugify = require('slugify')
 
@@ -26,6 +26,11 @@ export default () => {
           activeKey="/home"
         >
           <div className="sidebar-sticky" role="navigation" aria-label="Sidebar">
+						<Nav.Item>
+							<Nav.Link>
+								<Link to="/readingList">Reading List</Link>
+							</Nav.Link>
+						</Nav.Item>
             {data.allCategoriesJson.edges.map(function(x, index) {
               return (
                 <Nav.Item key={x.node.name}>
