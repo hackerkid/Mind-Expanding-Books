@@ -44,7 +44,7 @@ export const query = graphql`
   query MyQuery {
     allBooksJson(
       sort: {
-        fields: [title]
+        fields: [rating]
         order: DESC
       }
     ) {
