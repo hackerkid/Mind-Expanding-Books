@@ -11,7 +11,7 @@ import BookFeed from "../components/feed"
 const basicTemplate = props => {
   const { pageContext } = props
   const { categoryName, data } = pageContext
-
+  console.log({data, categoryName})
   return (
     <Layout>
       <SEO title="Home" />
