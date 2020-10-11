@@ -39,7 +39,7 @@ const BookCard = ({ book }) => (
             <br />
             {book.amazon_url ? <AmazonURL book={book} />: null} 
 						<br />
-            <Bookmark />
+            <Bookmark book={book}/>
           </Card.Subtitle>
           <p>
             {truncateContent(book.description)}

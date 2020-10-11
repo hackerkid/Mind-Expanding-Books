@@ -1,10 +1,12 @@
 import React from 'react'
 import { Button } from "react-bootstrap"
 
-export default function bookmark() {
+export default ({ book }) => {
 	return (
 		<Button variant="secondary">
-			Add to reading list
+			<span onClick={() => console.log(book)}>
+				Add to reading list
+			</span>
 		</Button>
 	)
 }
