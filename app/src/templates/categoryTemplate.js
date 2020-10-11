@@ -10,18 +10,18 @@ import BookFeed from "../components/feed"
 
 const basicTemplate = props => {
   const { pageContext } = props
-  const { categoryName, data } = pageContext
+  const { categoryName, data, image } = pageContext
 
   return (
     <Layout>
       <SEO title="Home" />
       <Container fluid>
         <Row>
-          <Col xs={2}>
+          <Col lg={2}>
             <SideBar />
           </Col>
-          <Col>
-            <CategoryDescription categoryName={categoryName} />
+          <Col lg={10}>
+            <CategoryDescription categoryName={categoryName} categoryImage={image} />
             <BookFeed data={data} categoryName={categoryName} />
           </Col>
         </Row>
