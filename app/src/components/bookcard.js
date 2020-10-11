@@ -13,7 +13,7 @@ const truncateContent = (content) => {
   return content.length > 350 ? content.substring(0, 350) + "..." : content
 };
 
-const BookCard = ({ book }) => (
+const BookCard = ({ book, toggleSaveBook }) => (
   <Card style={{ width: "44rem", height: "23rem", marginBottom: "15px" }}>
     <Row aria-label={book.title}>
       <Col xs={3}>
@@ -39,7 +39,7 @@ const BookCard = ({ book }) => (
             <br />
             {book.amazon_url ? <AmazonURL book={book} />: null} 
 						<br />
-            <Bookmark book={book}/>
+            <Bookmark book={book} toggleSaveBook={toggleSaveBook}/>
           </Card.Subtitle>
           <p>
             {truncateContent(book.description)}
