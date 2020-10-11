@@ -10,8 +10,6 @@ export default ({ data, limit }) => {
     .slice(0, limit || data.allBooksJson.edges.length)
     .sort(compareFunctions[sortBy]);
 
-  console.log(getSortedBooks());
-
   const handleSortByItemClick = (field) => {
     setSortBy(field);
   };
