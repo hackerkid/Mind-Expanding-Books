@@ -14,7 +14,7 @@ const truncateContent = (content) => {
 };
 
 const BookCard = ({ book }) => (
-  <Card style={{ width: "44rem", height: "21rem", marginBottom: "15px" }}>
+  <Card style={{ width: "44rem", height: "23rem", marginBottom: "15px" }}>
     <Row aria-label={book.title}>
       <Col xs={3}>
         <Card.Img
