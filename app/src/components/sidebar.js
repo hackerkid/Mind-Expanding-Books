@@ -4,7 +4,7 @@ import { StaticQuery, graphql, Link } from "gatsby"
 import "../styles/sidebar.css"
 var slugify = require('slugify')
 
-export default () => {
+export default ({readingList}) => {
   return (
     <StaticQuery
       query={graphql`
@@ -28,7 +28,7 @@ export default () => {
           <div className="sidebar-sticky" role="navigation" aria-label="Sidebar">
 						<Nav.Item>
 							<Nav.Link>
-								<Link to="/readingList">Reading List</Link>
+								<Link to="/readingList" state={readingList}>Reading List</Link>
 							</Nav.Link>
 						</Nav.Item>
             {data.allCategoriesJson.edges.map(function(x, index) {

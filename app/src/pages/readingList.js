@@ -6,7 +6,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import BookFeed from "../components/feed"
 
-const ReadingList = ({data}) => (
+const ReadingList = ({data, location}) => (
   <Layout>
     <SEO title="Reading list" />
 		<Container fluid>
@@ -16,6 +16,8 @@ const ReadingList = ({data}) => (
           </Col>
           <Col>
 						<h2>Your reading list</h2>
+						<p>Note: The buttons in this page dont work yet</p>
+						{/* {console.log(location.state)} */}
             <BookFeed data={data} limit={12} />
           </Col>
         </Row>
