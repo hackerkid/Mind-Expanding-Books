@@ -8,7 +8,7 @@ const getTaggetURL = (book) => {
 export default ({ book }) => {
     return (
         <OutboundLink href={getTaggetURL(book)} target="_blank">
-            <img style={{ "width": "30px" }} src="https://img.icons8.com/color/48/000000/amazon.png"/>
+            <img alt="Amazon link" style={{ "width": "30px" }} src="https://img.icons8.com/color/48/000000/amazon.png"/>
         </OutboundLink>
     )
-} 
+}

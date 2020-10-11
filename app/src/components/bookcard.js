@@ -19,6 +19,7 @@ const BookCard = ({ book }) => (
         <Card.Img
           style={{ height: "12rem", width: "8rem", paddingLeft: "25px", paddingRight: "-15px", paddingTop: "30px" }}
           src={book.image_url}
+          alt={book.title}
         />
       </Col>
       <Col>
