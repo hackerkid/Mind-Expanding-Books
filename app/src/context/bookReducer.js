@@ -3,18 +3,18 @@ export default function bookReducer(state, action) {
 
 	switch (action.type) {
 		case 'init': {
-			if (action.content) {
-				return action.content
+				if (action.content) {
+					return action.content
+				}
+				return readingListCopy
 			}
-			return readingListCopy
-		}
 		case 'bookmark': {
 				let { bookIds, books } = readingListCopy
 				const { retrievedBook } = action
 				const retrievedBookId = retrievedBook.id
 				// Delete existing bookmark
 				if (bookIds.includes(retrievedBookId)) {
-					readingListCopy.bookIds = bookIds.filter(id => id !== retrievedBookId) // Not being removed from array
+					readingListCopy.bookIds = bookIds.filter(id => id !== retrievedBookId) 
 					delete books[retrievedBookId]
 					if (typeof window !== undefined) {
 						localStorage.setItem('Bookmarks', JSON.stringify(readingListCopy))
