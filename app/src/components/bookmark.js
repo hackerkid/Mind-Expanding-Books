@@ -2,8 +2,6 @@ import React, { useContext } from 'react'
 import { Button } from "react-bootstrap"
 import { BookmarkContext } from '../context/globalState'
 
-// Next task: toggle appearance if in reading list or not
-
 export default ({ book }) => {
 	const { updateReadingList, readingList } = useContext(BookmarkContext)
 	const readingListIds = readingList.bookIds
