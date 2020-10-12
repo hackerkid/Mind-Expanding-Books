@@ -8,7 +8,7 @@ const getTargetURL = (book) => {
 export default ({ book }) => {
     return (
         <OutboundLink href={getTargetURL(book)} target="_blank">
-            <img alt="Amazon link" style={{ "width": "30px" }} src="https://img.icons8.com/color/48/000000/amazon.png"/>
+            <img alt="Amazon link" style={{ marginBottom: "-8px" }} src="https://img.icons8.com/color/48/000000/amazon.png"/>
         </OutboundLink>
     )
 }
