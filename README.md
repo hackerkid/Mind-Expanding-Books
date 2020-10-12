@@ -2,9 +2,9 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Curated list of mind expanding books.
+> Books everyone should read!
 
-🌱 You might be interested in the beta website at [https://books.vishnuks.com](https://books.vishnuks.com)
+🌱 You might be interested in the beta website at [https://books.vishnuks.com](https://books.vishnuks.com). Source code live in `app/` directory.
 
 ## Table of Contents
 * [Startups and Business](#startups-and-business)
@@ -17,6 +17,7 @@
 * [Economics](#economics)
 * [Gender](#gender)
 * [Sexuality](#sexuality)
+* [Race](#race)
 * [Education](#education)
 * [Writing](#writing)
 * [Theater and Film](#theater-and-film)
@@ -306,7 +307,12 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|  
 | Sex at Dawn: The Prehistoric Origins of Modern | Christopher Ryan, Cacilda Jetha | [4.02](https://www.goodreads.com/book/show/7640261-sex-at-dawn) | 2010 |  
 | The Ethical Slut: A Guide to Infinite Sexual Possibilities |  Dossie Easton, Catherine A. Liszt. | [3.83](http://www.goodreads.com/book/show/54944.The_Ethical_Slut?from_search=true) | 2004 |  
-| The Sex Myth | Brooke Magnanti | [3.50](https://www.goodreads.com/book/show/13569582-the-sex-myth) | 2015 |  
+| The Sex Myth | Brooke Magnanti | [3.50](https://www.goodreads.com/book/show/13569582-the-sex-myth) | 2015 | 
+
+## Race
+| Name | Author | Goodreads Rating | Year Published |  
+|------|--------|------------------|----------------|  
+| So You Want to Talk About Race | Ijeoma Oluo | [4.53](https://www.goodreads.com/book/show/35099718-so-you-want-to-talk-about-race) | 2018 |  
 
 ## Education
 | Name | Author | Goodreads Rating | Year Published |  
