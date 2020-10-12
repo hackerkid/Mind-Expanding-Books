@@ -95,6 +95,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|  
 | Tattoos on the Heart: The Power of Boundless Compassion | Gregory Boyle | [4.41](https://www.goodreads.com/book/show/7090193-tattoos-on-the-heart) | 2010 |  
 | Education and the Significance of Life | Krishnamurti | [4.38](https://www.goodreads.com/book/show/353435.Education_and_the_Significance_of_Life) | 2008 |  
+| Passions Within Reason: The Strategic Role of the Emotions | [4.34](https://www.goodreads.com/book/show/452114.Passions_Within_Reason) | 1989 |
 | Man's Search for Meaning | Viktor E. Frankl | [4.33](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) | 2006 |  
 | Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones| James Clear | [4.32](https://www.goodreads.com/book/show/40121378-atomic-habits) | 2018 | 
 | The User Illusion: Cutting Consciousness Down to Size | Tor Norretranders | [4.30](https://www.goodreads.com/book/show/106732.The_User_Illusion) | 1999 |  
