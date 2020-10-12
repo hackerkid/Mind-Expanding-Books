@@ -10,9 +10,11 @@ export default function GlobalState({children}) {
 	})
 
 	useEffect(() => {
-		const retrievedBooks = JSON.parse(localStorage.getItem('Bookmarks'))
-		console.log(retrievedBooks)
-		updateReadingList({type: 'init', content: retrievedBooks})
+		if (typeof window !== undefined) {
+			const retrievedBooks = JSON.parse(localStorage.getItem('Bookmarks'))
+			console.log(retrievedBooks)
+			updateReadingList({type: 'init', content: retrievedBooks})
+		}
 	}, [])
 
 	return (
