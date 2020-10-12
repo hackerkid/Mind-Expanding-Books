@@ -4,6 +4,7 @@ import StarRatings from "react-star-ratings"
 import { Card, Row, Col } from "react-bootstrap"
 
 import AmazonURL from "../components/amazonurl"
+import GoodReadsImage from "../components/goodreadsimage"
 
 const truncateContent = (content) => {
   if (!content) {
@@ -37,6 +38,10 @@ const BookCard = ({ book }) => (
             {book.author} <b>{book.year ? book.year: null}</b>
             <br />
             {book.amazon_url ? <AmazonURL book={book} />: null}
+            <br />
+            <a href={book.url} >
+              <GoodReadsImage />
+            </a>
           </Card.Subtitle>
           <p>
             {truncateContent(book.description)}
