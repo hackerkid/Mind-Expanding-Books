@@ -414,6 +414,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Wheel of Time | Robert Jordan | [4.19](https://www.goodreads.com/series/41526-the-wheel-of-time) | 1990 |
 | The City & The City | China Mieville | [3.91](https://www.goodreads.com/book/show/4703581-the-city-the-city) | 2009 |  
 | The Broken Empire | Mark Lawrence | [3.87](https://www.goodreads.com/series/64473-the-broken-empire) | 2011 |  
+| The Left Hand of God | Paul Hoffman | [3.65](https://www.goodreads.com/book/show/7116709-the-left-hand-of-god) | 2010 |  
 
 ### Historical Fiction
 | Name | Author | Goodreads Rating | Year Published |  
