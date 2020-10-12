@@ -29,11 +29,9 @@ export default () => {
           activeKey="/home"
         >
           <div className="sidebar-sticky" role="navigation" aria-label="Sidebar">
-						<Nav.Item>
-							<Nav.Link>
-								<Link to="/readingList">Reading List ({readingList.bookIds.length})</Link>
-							</Nav.Link>
-						</Nav.Item>
+						<div style={{position: "relative", left: "0.9rem", paddingBottom: "0.2rem"}}>
+							<Link to="/readingList">🔖 Reading List ({readingList.bookIds.length})</Link>
+						</div>
             {data.allCategoriesJson.edges.map(function(x, index) {
               return (
                 <Nav.Item key={x.node.name}>
