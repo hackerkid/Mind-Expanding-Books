@@ -19,5 +19,5 @@ gatsby develop
 
 ## From where does the website fetches the data of the books?
 
-Website fetches the data of the books from `app/src/book.json` file. See [README in utils directory](../utils/README.MD)
+Website fetches the data of the books from `app/src/data/books.json` file. See [README in utils directory](../utils/README.MD)
 for details on how this file is generated.
