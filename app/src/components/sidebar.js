@@ -1,10 +1,13 @@
-import React from "react"
+import React, { useContext } from "react"
 import { Nav } from "react-bootstrap"
 import { StaticQuery, graphql, Link } from "gatsby"
 import "../styles/sidebar.css"
+import { BookmarkContext } from '../context/globalState'
 var slugify = require('slugify')
 
-export default ({readingList}) => {
+export default () => {
+	const { readingList } = useContext(BookmarkContext)
+
   return (
     <StaticQuery
       query={graphql`
@@ -28,7 +31,7 @@ export default ({readingList}) => {
           <div className="sidebar-sticky" role="navigation" aria-label="Sidebar">
 						<Nav.Item>
 							<Nav.Link>
-								<Link to="/readingList" state={readingList}>Reading List</Link>
+								<Link to="/readingList">Reading List ({readingList.bookIds.length})</Link>
 							</Nav.Link>
 						</Nav.Item>
             {data.allCategoriesJson.edges.map(function(x, index) {

@@ -1,4 +1,4 @@
-import React, { useReducer } from 'react'
+import React, { useReducer, useEffect } from 'react'
 import bookReducer from './bookReducer'
 
 export const BookmarkContext = React.createContext()
@@ -9,6 +9,12 @@ export default function GlobalState({children}) {
 		books: {},
 		bookIds: []
 	})
+
+	useEffect(() => {
+		const retrievedBooks = JSON.parse(localStorage.getItem('Bookmarks'))
+		console.log(retrievedBooks)
+		updateReadingList({type: 'init', content: retrievedBooks})
+	}, [])
 
 	return (
 		<BookmarkContext.Provider value={{readingList, updateReadingList}}>
