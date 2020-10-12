@@ -19,39 +19,22 @@ function myFunction(setMaximumBooksToShow, maximumBooksToShow) {
 
 export default ({ data }) => {
 	let [maximumBooksToShow, setMaximumBooksToShow] = useState(12)
-	let [readingList, updateReadingList] = useState({
-		books: {},
-		bookIds: []
-	})
+
   useEffect(() => {
-		// Populate books here
     window.document.onscroll = () =>
       myFunction(setMaximumBooksToShow, maximumBooksToShow)
 	})
 	
-	const toggleSaveBook = (book) => {
-		const newReadingList = {...readingList}
-
-		if (newReadingList.bookIds.includes(book.id)) {
-			newReadingList.bookIds = newReadingList.bookIds.filter(id => id !== book.id)
-			delete newReadingList.books[book.id]
-		} else {
-			newReadingList.books[book.id] = book 
-			newReadingList.bookIds.push(book.id)
-		}
-		updateReadingList(newReadingList)
-	}
-
   return (
     <Layout>
       <SEO title="Home" />
       <Container fluid>
         <Row>
           <Col xs={2}>
-            <SideBar readingList={readingList}/>
+            <SideBar />
           </Col>
           <Col>
-            <BookFeed data={data} limit={maximumBooksToShow} toggleSaveBook={toggleSaveBook}  />
+            <BookFeed data={data} limit={maximumBooksToShow} />
           </Col>
         </Row>
       </Container>

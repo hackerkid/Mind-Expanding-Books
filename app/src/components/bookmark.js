@@ -1,10 +1,10 @@
 import React from 'react'
 import { Button } from "react-bootstrap"
 
-export default ({ book, toggleSaveBook }) => {
+export default () => {
 	return (
 		<Button variant="secondary">
-			<span onClick={() => {toggleSaveBook(book)}}>
+			<span>
 				Add to reading list
 			</span>
 		</Button>
