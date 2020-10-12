@@ -1,7 +1,7 @@
 import React, { useReducer } from 'react'
 import bookReducer from './bookReducer'
 
-const BookmarkContext = React.createContext()
+export const BookmarkContext = React.createContext()
 
 export default function GlobalState({children}) {
 	// Object lets you toggle books in and out and array lets you map to reading list
@@ -11,7 +11,7 @@ export default function GlobalState({children}) {
 	})
 
 	return (
-		<BookmarkContext.Provider value={readingList, updateReadingList}>
+		<BookmarkContext.Provider value={{readingList, updateReadingList}}>
 			{children}
 		</BookmarkContext.Provider>
 	)
