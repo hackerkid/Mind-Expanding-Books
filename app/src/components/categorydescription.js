@@ -5,7 +5,7 @@ export default ({categoryName}) => {
     return (
         <div>
             <h2>
-                Mind expanding books on {categoryName}
+                {categoryName}
             </h2>
         </div>
     )
