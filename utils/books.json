@@ -1,5 +1,5 @@
-{
-    "1984": {
+[
+    {
         "amazon_url": "https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934",
         "author": "George Orwell",
         "category": "Classics",
@@ -13,7 +13,7 @@
         "url": "https://www.goodreads.com/book/show/40961427-1984",
         "year": "2013"
     },
-    "23 Things They Don't Tell You About Capitalism": {
+    {
         "amazon_url": "https://www.amazon.com/Things-They-Dont-About-Capitalism/dp/1608193381",
         "author": "Ha-Joon Chang",
         "category": "Economics",
@@ -27,7 +27,7 @@
         "url": "http://www.goodreads.com/book/show/8913542-23-things-they-don-t-tell-you-about-capitalism",
         "year": "2011"
     },
-    "8 Weeks to Optimum Health": {
+    {
         "amazon_url": "https://www.amazon.com/Weeks-Optimum-Health-Program-Advantage/dp/034549802X",
         "author": "Andrew Weil",
         "category": "Health",
@@ -41,7 +41,7 @@
         "url": "https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health",
         "year": ""
     },
-    "A Brief History of Time": {
+    {
         "amazon_url": "https://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168",
         "author": "Stephen Hawking",
         "category": "Science and Medicine",
@@ -55,7 +55,7 @@
         "url": "https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time",
         "year": "1998"
     },
-    "A Farewell to Alms : A Brief Economic History of the World": {
+    {
         "amazon_url": "https://www.amazon.com/Farewell-Alms-Economic-History-Princeton/dp/0691141282",
         "author": "Gregory Clark",
         "category": "Economics",
@@ -69,7 +69,7 @@
         "url": "https://www.goodreads.com/book/show/150437.A_Farewell_to_Alms",
         "year": "2007"
     },
-    "A Mind for Numbers: How to Excel at Math and Science even If You Flunked Algebra": {
+    {
         "amazon_url": "https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X",
         "author": "Barbara Oakley",
         "category": "Logic and Problem Solving",
@@ -83,7 +83,7 @@
         "url": "http://www.goodreads.com/book/show/18693655-a-mind-for-numbers",
         "year": "2014"
     },
-    "A Practical Handbook for the Actor": {
+    {
         "amazon_url": "https://www.amazon.com/Practical-Handbook-Actor-Melissa-Bruder/dp/0394744128",
         "author": "Melissa Bruder, Lee Michael Cohn, Madeleine Olnek, Nathaniel Pollack, Robert Previtio, Scott Zigler, David Mamet",
         "category": "Theater and Film",
@@ -97,7 +97,7 @@
         "url": "https://www.goodreads.com/book/show/166207.A_Practical_Handbook_for_the_Actor",
         "year": "1986"
     },
-    "A Prayer for Owen Meany": {
+    {
         "amazon_url": "https://www.amazon.com/Prayer-Owen-Meany-John-Irving/dp/006220422X",
         "author": "John Irving",
         "category": "Classics",
@@ -111,7 +111,7 @@
         "url": "https://www.goodreads.com/book/show/4473.A_Prayer_for_Owen_Meany",
         "year": "1990"
     },
-    "A Short History of Nearly Everything": {
+    {
         "amazon_url": "https://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X",
         "author": "Bill Bryson",
         "category": "Science and Medicine",
@@ -125,7 +125,7 @@
         "url": "https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything",
         "year": "2004"
     },
-    "A Song of Ice and Fire": {
+    {
         "amazon_url": "https://www.amazon.com/Song-Ice-Fire-Volumes/dp/0007477155",
         "author": "George R.R. Martin",
         "category": "Fantasy",
@@ -139,7 +139,7 @@
         "url": "https://www.goodreads.com/series/43790-a-song-of-ice-and-fire",
         "year": "2005"
     },
-    "A Whole New Mind: Why Right-Brainers Will Rule the Future": {
+    {
         "amazon_url": "https://www.amazon.com/Whole-New-Mind-Right-Brainers-Future/dp/1594481717",
         "author": "Daniel H. Pink",
         "category": "Philosophy And Psychology",
@@ -153,7 +153,7 @@
         "url": "https://www.goodreads.com/book/show/99315.A_Whole_New_Mind",
         "year": "2006"
     },
-    "Adventures of Huckleberry Finn": {
+    {
         "amazon_url": "https://www.amazon.com/Adventures-Huckleberry-Finn-Mark-Twain/dp/0486280616",
         "author": "Mark Twain",
         "category": "Classics",
@@ -167,7 +167,7 @@
         "url": "https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn",
         "year": "2002"
     },
-    "All the Light We Cannot See": {
+    {
         "amazon_url": "https://www.amazon.com/All-Light-We-Cannot-See/dp/1501173219",
         "author": "Anthony Doerr",
         "category": "Historical Fiction",
@@ -181,7 +181,7 @@
         "url": "https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see",
         "year": "2014"
     },
-    "Alone Together: Why We Expect More from Technology and Less from Each Others": {
+    {
         "amazon_url": "https://www.amazon.com/Alone-Together-Expect-Technology-Other/dp/0465031463",
         "author": "Sherry Turkle",
         "category": "Philosophy And Psychology",
@@ -195,7 +195,7 @@
         "url": "http://www.goodreads.com/book/show/8694125-alone-together",
         "year": "2011"
     },
-    "An Astronaut's Guide to Life on Earth": {
+    {
         "amazon_url": "https://www.amazon.com/Astronauts-Guide-Life-Earth-Determination/dp/0316253030",
         "author": "Chris Hadfield",
         "category": "Autobiographies and Biographies",
@@ -209,7 +209,7 @@
         "url": "https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth",
         "year": "2013"
     },
-    "An Autobiography: Toward Freedom": {
+    {
         "amazon_url": "https://www.amazon.com/Toward-Freedom-Autobiography-Jawaharlal-Nehru/dp/1508835411",
         "author": "Jawaharlal Nehru",
         "category": "Autobiographies and Biographies",
@@ -223,7 +223,7 @@
         "url": "http://www.goodreads.com/book/show/322939.An_Autobiography",
         "year": "1989"
     },
-    "Anna Karenina": {
+    {
         "amazon_url": "https://www.amazon.com/Anna-Karenina-Leo-Tolstoy/dp/0143035002",
         "author": "Leo Tolstoy",
         "category": "Classics",
@@ -237,7 +237,7 @@
         "url": "https://www.goodreads.com/book/show/15823480-anna-karenina",
         "year": "2012"
     },
-    "Antifragile: Things That Gain from Disorder (Incerto)": {
+    {
         "amazon_url": "https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680",
         "author": "Nassim Nicholas Taleb",
         "category": "Philosophy And Psychology",
@@ -251,7 +251,7 @@
         "url": "https://www.goodreads.com/book/show/13530973-antifragile",
         "year": ""
     },
-    "Asimov's New Guide to Science": {
+    {
         "amazon_url": "https://www.amazon.com/Asimovs-Guide-Science-Isaac-Asimov/dp/0465004733",
         "author": "Isaac Asimov",
         "category": "Science and Medicine",
@@ -265,7 +265,7 @@
         "url": "https://www.goodreads.com/book/show/977262.Asimov_s_New_Guide_To_Science",
         "year": "1985"
     },
-    "At Home in the Universe: The Search for the Laws of Self-Organization and Complexity": {
+    {
         "amazon_url": "https://www.amazon.com/At-Home-Universe-Self-Organization-Complexity/dp/0195111303",
         "author": "Stuart Kauffman",
         "category": "Science and Medicine",
@@ -279,7 +279,7 @@
         "url": "https://www.goodreads.com/book/show/319006.At_Home_in_the_Universe",
         "year": "1996"
     },
-    "Atlas Obscura: An Explorer's Guide to the World's Hidden Wonders": {
+    {
         "amazon_url": "https://www.amazon.com/Atlas-Obscura-Explorers-Worlds-Wonders/dp/0761169083",
         "author": "Joshua Foer",
         "category": "Travel",
@@ -293,7 +293,7 @@
         "url": "https://www.goodreads.com/book/show/28110891-atlas-obscura",
         "year": "2016"
     },
-    "Atlas Shrugged": {
+    {
         "amazon_url": "https://www.amazon.com/Atlas-Shrugged-Ayn-Rand/dp/0451191145",
         "author": "Ayn Rand",
         "category": "Classics",
@@ -307,7 +307,7 @@
         "url": "https://www.goodreads.com/book/show/9365.Atlas_Shrugged",
         "year": "1999"
     },
-    "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones": {
+    {
         "amazon_url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299",
         "author": "James Clear",
         "category": "Philosophy And Psychology",
@@ -321,7 +321,7 @@
         "url": "https://www.goodreads.com/book/show/40121378-atomic-habits",
         "year": ""
     },
-    "Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny!": {
+    {
         "amazon_url": "https://www.amazon.com/Awaken-Giant-Within-Immediate-Emotional/dp/0671791540",
         "author": "Anthony Robbins",
         "category": "Philosophy And Psychology",
@@ -335,7 +335,7 @@
         "url": "https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within",
         "year": "1992"
     },
-    "Behave: The Biology of Humans at Our Best and Worst": {
+    {
         "amazon_url": "https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/1594205078",
         "author": "Robert M. Sapolsky",
         "category": "Science and Medicine",
@@ -349,7 +349,7 @@
         "url": "https://www.goodreads.com/book/show/31170723-behave",
         "year": "2017"
     },
-    "Big Data: A Revolution That Will Transform How We Live, Work, and Think": {
+    {
         "amazon_url": "https://www.amazon.com/Big-Data-Revolution-Transform-Think/dp/0544227751",
         "author": "Kenneth Cukier",
         "category": "Startups and Business",
@@ -363,7 +363,7 @@
         "url": "https://www.goodreads.com/book/show/15815598-big-data",
         "year": "2013"
     },
-    "Bleak House": {
+    {
         "amazon_url": "https://www.amazon.com/Bleak-House-Dover-Thrift-Editions/dp/0486812464",
         "author": "Charles Dickens",
         "category": "Classics",
@@ -377,7 +377,7 @@
         "url": "https://www.goodreads.com/book/show/31242.Bleak_House",
         "year": "2006"
     },
-    "Bolo'bolo": {
+    {
         "amazon_url": "https://www.amazon.com/bolobolo-p-m/dp/1570272417",
         "author": "P.M.",
         "category": "Politics",
@@ -391,7 +391,7 @@
         "url": "https://www.goodreads.com/book/show/12395170-bolo-bolo",
         "year": ""
     },
-    "Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen": {
+    {
         "amazon_url": "https://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/0307279189",
         "author": "Christopher McDougall",
         "category": "Philosophy And Psychology",
@@ -405,7 +405,7 @@
         "url": "https://www.goodreads.com/book/show/6289283-born-to-run",
         "year": "2009"
     },
-    "Bulfinch's Mythology": {
+    {
         "amazon_url": "https://www.amazon.com/Bulfinchs-Mythology-Volumes-Chivalry-Charlemagne/dp/1440426309",
         "author": "Thomas Bulfinch",
         "category": "Philosophy And Psychology",
@@ -419,7 +419,7 @@
         "url": "https://www.goodreads.com/book/show/588147.Bulfinch_s_Mythology",
         "year": "1998"
     },
-    "Candide": {
+    {
         "amazon_url": "https://www.amazon.com/Candide-Voltaire/dp/1503253791",
         "author": "Voltaire",
         "category": "Classics",
@@ -433,7 +433,7 @@
         "url": "https://www.goodreads.com/book/show/19380.Candide",
         "year": "1991"
     },
-    "Capital in the Twenty-First Century": {
+    {
         "amazon_url": "https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/0674979850",
         "author": "Thomas Piketty",
         "category": "Economics",
@@ -447,7 +447,7 @@
         "url": "http://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century",
         "year": "2014"
     },
-    "Cat's Eye": {
+    {
         "amazon_url": "https://www.amazon.com/Cats-Eye-Margaret-Atwood/dp/0385491026",
         "author": "Margaret Atwood",
         "category": "Miscellaneous",
@@ -461,7 +461,7 @@
         "url": "https://www.goodreads.com/book/show/51019.Cat_s_Eye",
         "year": "1998"
     },
-    "Catch 22": {
+    {
         "amazon_url": "https://www.amazon.com/Catch-22-50th-Anniversary-Joseph-Heller/dp/1451626657",
         "author": "Joseph Heller",
         "category": "Classics",
@@ -475,7 +475,7 @@
         "url": "https://www.goodreads.com/book/show/4610.Catch_22",
         "year": "2004"
     },
-    "Catching Fire: How Cooking Made Us Human": {
+    {
         "amazon_url": "https://www.amazon.com/Catching-Fire-Cooking-Made-Human/dp/0465013627",
         "author": "Richard Wrangham",
         "category": "Science and Medicine",
@@ -489,7 +489,7 @@
         "url": "https://www.goodreads.com/book/show/11148989-catching-fire",
         "year": "2009"
     },
-    "Churchill's Secret War: The British Empire and the Ravaging of India during World War II": {
+    {
         "amazon_url": "https://www.amazon.com/Churchills-Secret-War-British-Ravaging/dp/0465024815",
         "author": "Madhusree Mukerjee",
         "category": "History",
@@ -503,7 +503,7 @@
         "url": "https://www.goodreads.com/book/show/8890989-churchill-s-secret-war",
         "year": "2010"
     },
-    "Civilization: The West and the Rest: Niall Ferguson": {
+    {
         "amazon_url": "https://www.amazon.com/Civilization-West-Rest-Niall-Ferguson/dp/0143122061",
         "author": "Niall Ferguson",
         "category": "History",
@@ -517,7 +517,7 @@
         "url": "https://www.goodreads.com/book/show/10475421-civilization",
         "year": "2011"
     },
-    "Clear and Simple as the Truth": {
+    {
         "amazon_url": "https://www.amazon.com/Clear-Simple-Truth-Writing-Princeton/dp/0691602999",
         "author": "Francis-No\u00ebl Thomas, Mark Turner",
         "category": "Writing",
@@ -531,7 +531,7 @@
         "url": "https://www.goodreads.com/book/show/120549.Clear_and_Simple_as_the_Truth",
         "year": "1996"
     },
-    "Cognitive Surplus: Creativity and Generosity in a Connected Age": {
+    {
         "amazon_url": "https://www.amazon.com/Cognitive-Surplus-Creativity-Generosity-Collaborators-ebook/dp/B003NX75HC",
         "author": "Clay Shirky",
         "category": "Startups and Business",
@@ -545,7 +545,7 @@
         "url": "https://www.goodreads.com/book/show/7614793-cognitive-surplus",
         "year": "2010"
     },
-    "Confessions": {
+    {
         "amazon_url": "https://www.amazon.com/Confessions-Oxford-Classics-Jean-Jacques-Rousseau/dp/0192822756",
         "author": "Jean-Jacques Rousseau",
         "category": "Classics",
@@ -559,7 +559,7 @@
         "url": "https://www.goodreads.com/book/show/12649.Confessions",
         "year": "2003"
     },
-    "Confessions of a Mask": {
+    {
         "amazon_url": "https://www.amazon.com/Confessions-Mask-Yukio-Mishima/dp/081120118X",
         "author": "Yukio Mishima",
         "category": "Classics",
@@ -573,7 +573,7 @@
         "url": "https://www.goodreads.com/book/show/62794.Confessions_of_a_Mask",
         "year": "1998"
     },
-    "Consilience: The Unity of Knowledge": {
+    {
         "amazon_url": "https://www.amazon.com/Consilience-Knowledge-Edward-Osborne-Wilson/dp/067976867X",
         "author": "Edward O. Wilson",
         "category": "Philosophy And Psychology",
@@ -587,7 +587,7 @@
         "url": "https://www.goodreads.com/book/show/55981.Consilience",
         "year": "1999"
     },
-    "Contagious: Why Things Catch On": {
+    {
         "amazon_url": "https://www.amazon.com/Contagious-Things-Catch-Jonah-Berger/dp/1451686587",
         "author": "Jonah Berger",
         "category": "Startups and Business",
@@ -601,7 +601,7 @@
         "url": "https://www.goodreads.com/book/show/15801967-contagious",
         "year": "2013"
     },
-    "Convict Conditioning": {
+    {
         "amazon_url": "https://www.amazon.com/Convict-Conditioning-Weakness-Using-Survival-Strength-ebook/dp/B004XIZN5M",
         "author": "Paul Wade",
         "category": "Health",
@@ -615,7 +615,7 @@
         "url": "http://www.goodreads.com/book/show/7305111-convict-conditioning",
         "year": "2012"
     },
-    "Cosmicomics": {
+    {
         "amazon_url": "https://www.amazon.com/Cosmicomics-Italo-Calvino/dp/0156226006",
         "author": "Italo Calvino",
         "category": "Science Fiction",
@@ -629,7 +629,7 @@
         "url": "https://www.goodreads.com/book/show/59780.Cosmicomics",
         "year": "1976"
     },
-    "Creative Visualization: Use the Power of Your Imagination to Create What You Want in Your Life": {
+    {
         "amazon_url": "https://www.amazon.com/Creative-Visualization-Power-Imagination-Create/dp/1577312295",
         "author": "Shakti Gawain",
         "category": "Philosophy And Psychology",
@@ -643,7 +643,7 @@
         "url": "https://www.goodreads.com/book/show/582533.Creative_Visualization",
         "year": "2002"
     },
-    "Crime and Punishment": {
+    {
         "amazon_url": "https://www.amazon.com/Crime-Punishment-Fyodor-Dostoyevsky/dp/0486415872",
         "author": "Fyodor Dostoyevsky",
         "category": "Classics",
@@ -657,7 +657,7 @@
         "url": "https://www.goodreads.com/book/show/7144.Crime_and_Punishment",
         "year": "2002"
     },
-    "Crowdsourcing: Why the Power of the Crowd Is Driving the Future of Business": {
+    {
         "amazon_url": "https://www.amazon.com/Crowdsourcing-Power-Driving-Future-Business/dp/0307396215",
         "author": "Jeff Howe",
         "category": "Startups and Business",
@@ -671,7 +671,7 @@
         "url": "https://www.goodreads.com/book/show/2601510-crowdsourcing",
         "year": ""
     },
-    "Curious Minds: How a Child Becomes a Scientist": {
+    {
         "amazon_url": "https://www.amazon.com/Curious-Minds-Child-Becomes-Scientist/dp/1400076862",
         "author": "John Brockman",
         "category": "Education",
@@ -685,7 +685,7 @@
         "url": "https://www.goodreads.com/book/show/409588.Curious_Minds",
         "year": "2005"
     },
-    "Currency Wars: The Making of the Next Global Crisis": {
+    {
         "amazon_url": "https://www.amazon.com/Currency-Wars-Making-Global-Crisis/dp/1591845564",
         "author": "James Rickards",
         "category": "Economics",
@@ -699,7 +699,7 @@
         "url": "https://www.goodreads.com/book/show/11515298-currency-wars",
         "year": "2011"
     },
-    "Darwin's Dangerous Idea": {
+    {
         "amazon_url": "https://www.amazon.com/DARWINS-DANGEROUS-IDEA-EVOLUTION-MEANINGS/dp/068482471X",
         "author": "Daniel C. Dennett",
         "category": "Science and Medicine",
@@ -713,7 +713,7 @@
         "url": "https://www.goodreads.com/book/show/2068.Darwin_s_Dangerous_Idea",
         "year": "1996"
     },
-    "David and Goliath: Underdogs, Misfits, and the Art of Battling Giants": {
+    {
         "amazon_url": "https://www.amazon.com/David-Goliath-Underdogs-Misfits-Battling/dp/0316204374",
         "author": "Malcolm Gladwell",
         "category": "Startups and Business",
@@ -727,7 +727,7 @@
         "url": "https://www.goodreads.com/book/show/15751404-david-and-goliath",
         "year": "2013"
     },
-    "De L'esprit Des Lois": {
+    {
         "amazon_url": "https://www.amazon.com/lesprit-lois-French-Montesquieu-ebook/dp/B005R5D7JE",
         "author": "Montesquieu",
         "category": "Classics",
@@ -741,7 +741,7 @@
         "url": "https://www.goodreads.com/book/show/29854007-de-l-esprit-des-lois-nouvelle-edition",
         "year": "1995"
     },
-    "Debt - Updated and Expanded: The First 5,000 Years": {
+    {
         "amazon_url": "https://www.amazon.com/Debt-Updated-Expanded-First-Years/dp/1612194192",
         "author": "David Graeber",
         "category": "Economics",
@@ -755,7 +755,7 @@
         "url": "https://www.goodreads.com/book/show/6617037-debt",
         "year": ""
     },
-    "Delivering Happiness: A Path to Profits, Passion, and Purpose": {
+    {
         "amazon_url": "https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220",
         "author": "Tony Hsieh",
         "category": "Startups and Business",
@@ -769,7 +769,7 @@
         "url": "http://www.goodreads.com/book/show/6828896-delivering-happiness",
         "year": "2010"
     },
-    "Delusions of Gender: How Our Minds, Society, and Neurosexism Create Difference": {
+    {
         "amazon_url": "https://www.amazon.com/Delusions-Gender-Society-Neurosexism-Difference/dp/0393340244",
         "author": "Cordelia Fine",
         "category": "Gender",
@@ -783,7 +783,7 @@
         "url": "https://www.goodreads.com/book/show/8031168-delusions-of-gender",
         "year": "2010"
     },
-    "Different Every Night: Putting the play on stage and keeping it fresh": {
+    {
         "amazon_url": "https://www.amazon.com/Different-Every-Night-Putting-keeping/dp/1854599674",
         "author": "Mike Alfreds",
         "category": "Theater and Film",
@@ -797,7 +797,7 @@
         "url": "https://www.goodreads.com/book/show/3493241-different-every-night",
         "year": "2008"
     },
-    "Discovery of India": {
+    {
         "amazon_url": "https://www.amazon.com/Discovery-India-Jawaharlal-Nehru/dp/1508631573",
         "author": "Jawaharlal Nehru",
         "category": "History",
@@ -811,7 +811,7 @@
         "url": "http://www.goodreads.com/book/show/154126.The_Discovery_of_India",
         "year": "2004"
     },
-    "Discworld": {
+    {
         "amazon_url": "https://www.amazon.com/Terry-pratchett-Discworld-novels-collection/dp/9123684453",
         "author": "Terry Pratchett",
         "category": "Fantasy",
@@ -825,7 +825,7 @@
         "url": "https://www.goodreads.com/series/40650-discworld",
         "year": "2005"
     },
-    "Don Quixote": {
+    {
         "amazon_url": "https://www.amazon.com/Quixote-Penguin-Classics-Cervantes-Saavedra/dp/0142437239",
         "author": "Miguel de Cervantes",
         "category": "Classics",
@@ -839,7 +839,7 @@
         "url": "http://www.goodreads.com/book/show/3836.Don_Quixote",
         "year": "2003"
     },
-    "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability": {
+    {
         "amazon_url": "https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515",
         "author": "Steve Krug",
         "category": "Design",
@@ -853,7 +853,7 @@
         "url": "https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited",
         "year": "2013"
     },
-    "Dracula": {
+    {
         "amazon_url": "https://imdb-webservice.amazon.com/title/tt0103874/",
         "author": "Bram Stoker",
         "category": "Horror",
@@ -867,7 +867,7 @@
         "url": "http://www.goodreads.com/book/show/17245.Dracula",
         "year": "1986"
     },
-    "Dune Chronicles": {
+    {
         "amazon_url": "https://www.amazon.com/dp/B074CG2XFV",
         "author": "Frank Herbert",
         "category": "Science Fiction",
@@ -881,7 +881,7 @@
         "url": "https://www.goodreads.com/search?q=dune",
         "year": "2006"
     },
-    "Eat and Run: My Unlikely Journey to Ultramarathon Greatness": {
+    {
         "amazon_url": "https://www.amazon.com/Eat-Run-Unlikely-Ultramarathon-Greatness/dp/0544002318",
         "author": "Scott Jurek, Steve Friedman",
         "category": "Health",
@@ -895,7 +895,7 @@
         "url": "https://www.goodreads.com/book/show/13202092-eat-and-run",
         "year": "2012"
     },
-    "Economic Facts and Fallacies": {
+    {
         "amazon_url": "https://www.amazon.com/Economic-Facts-Fallacies-Thomas-Sowell/dp/0465022030",
         "author": "Thomas Sowell",
         "category": "Economics",
@@ -909,7 +909,7 @@
         "url": "https://www.goodreads.com/book/show/2064279.Economic_Facts_and_Fallacies",
         "year": "2008"
     },
-    "Education and the Significance of Life": {
+    {
         "amazon_url": "https://www.amazon.com/Education-Significance-Life-Krishnamurti/dp/0060648767",
         "author": "Krishnamurti",
         "category": "Philosophy And Psychology",
@@ -923,7 +923,7 @@
         "url": "https://www.goodreads.com/book/show/353435.Education_and_the_Significance_of_Life",
         "year": "2008"
     },
-    "Ego Is the Enemy": {
+    {
         "amazon_url": "https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818",
         "author": "Ryan Holiday",
         "category": "Philosophy And Psychology",
@@ -937,7 +937,7 @@
         "url": "https://www.goodreads.com/book/show/27036528-ego-is-the-enemy",
         "year": "2016"
     },
-    "Einstein: His Life and Universe": {
+    {
         "amazon_url": "https://www.amazon.com/Einstein-Life-Universe-Walter-Isaacson/dp/0743264746",
         "author": "Walter Isaacson",
         "category": "Autobiographies and Biographies",
@@ -951,7 +951,7 @@
         "url": "https://www.goodreads.com/book/show/10884.Einstein",
         "year": "2007"
     },
-    "El Tiempo Entre Costuras": {
+    {
         "amazon_url": "https://www.amazon.com/tiempo-entre-costuras-Mar%C3%ADa-Due%C3%B1as-ebook/dp/B0064T07IQ",
         "author": "Mar\u00eda Due\u00f1as",
         "category": "History",
@@ -965,7 +965,7 @@
         "url": "https://www.goodreads.com/book/show/7502166-el-tiempo-entre-costuras",
         "year": "2009"
     },
-    "Elon Musk: Inventing the Future": {
+    {
         "amazon_url": "https://www.amazon.com/Elon-Musk-Inventing-Billionaire-Shaping/product-reviews/075355562X",
         "author": "Ashlee Vance",
         "category": "Autobiographies and Biographies",
@@ -979,7 +979,7 @@
         "url": "https://www.goodreads.com/book/show/22543496-elon-musk",
         "year": "2015"
     },
-    "Emma": {
+    {
         "amazon_url": "https://www.amazon.com/Emma-Jane-Austen/dp/1503261964",
         "author": "Jane Austen",
         "category": "Historical Fiction",
@@ -993,7 +993,7 @@
         "url": "https://www.goodreads.com/book/show/6969.Emma",
         "year": "2003"
     },
-    "Ender's Game - Saga": {
+    {
         "amazon_url": "https://www.amazon.com/Enders-Ender-Quintet-Orson-Scott/dp/0812550706",
         "author": "Orson Scott Card",
         "category": "Science Fiction",
@@ -1007,7 +1007,7 @@
         "url": "https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on",
         "year": "2004"
     },
-    "Eug\u00e9nie Grandet": {
+    {
         "amazon_url": "https://www.amazon.com/Eugenie-Grandet-Comedy-Honor%C3%A9-Balzac/dp/014044050X",
         "author": "Honor\u00e9 de Balzac",
         "category": "Classics",
@@ -1021,7 +1021,7 @@
         "url": "https://www.goodreads.com/book/show/59142.Eug_nie_Grandet",
         "year": "2003"
     },
-    "Every Shot Counts: Using the Revolutionary Strokes Gained Approach to Improve Your Golf Performance and Strategy": {
+    {
         "amazon_url": "https://www.amazon.com/Every-Shot-Counts-Revolutionary-Performance/dp/1592407501",
         "author": "Mark Broadie",
         "category": "Economics",
@@ -1035,7 +1035,7 @@
         "url": "https://www.goodreads.com/book/show/17674971-every-shot-counts",
         "year": "2014"
     },
-    "Every Thing Must Go: Metaphysics Naturalized": {
+    {
         "amazon_url": "https://www.amazon.com/Every-Thing-Must-Metaphysics-Naturalized/dp/0199573093",
         "author": "James Ladyman, Don Ross, et al",
         "category": "Philosophy And Psychology",
@@ -1049,7 +1049,7 @@
         "url": "https://www.goodreads.com/book/show/757403.Every_Thing_Must_Go",
         "year": "2007"
     },
-    "Evolution for Everyone: How Darwin's Theory Can Change the Way We Think About Our Lives": {
+    {
         "amazon_url": "https://www.amazon.com/Evolution-Everyone-Darwins-Theory-Change/dp/0385340923",
         "author": "David Sloan Wilson",
         "category": "Science and Medicine",
@@ -1063,7 +1063,7 @@
         "url": "http://www.goodreads.com/book/show/159062.Evolution_for_Everyone",
         "year": "2007"
     },
-    "Fahrenheit 451": {
+    {
         "amazon_url": "https://www.amazon.com/Fahrenheit-451-Ray-Bradbury/dp/1451673310",
         "author": "Ray Bradbury",
         "category": "Science Fiction",
@@ -1077,7 +1077,7 @@
         "url": "https://www.goodreads.com/book/show/17470674-fahrenheit-451",
         "year": "2011"
     },
-    "Figments of Reality: The Evolution of the Curious Mind": {
+    {
         "amazon_url": "https://www.amazon.com/Figments-Reality-Evolution-Curious-Mind/dp/0521663830",
         "author": "Ian Stewart, Jack Cohen",
         "category": "Science and Medicine",
@@ -1091,7 +1091,7 @@
         "url": "https://www.goodreads.com/book/show/164560.Figments_of_Reality",
         "year": "1999"
     },
-    "Flow: The Psychology of Optimal Experience": {
+    {
         "amazon_url": "https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202",
         "author": "Mihaly Csikszentmihalyi",
         "category": "Philosophy And Psychology",
@@ -1105,7 +1105,7 @@
         "url": "https://www.goodreads.com/book/show/66354.Flow",
         "year": "1990"
     },
-    "Foundation": {
+    {
         "amazon_url": "https://www.amazon.com/Foundation-Isaac-Asimov/dp/0553293354",
         "author": "Isaac Asimov",
         "category": "Science Fiction",
@@ -1119,7 +1119,7 @@
         "url": "https://www.goodreads.com/book/show/29579.Foundation",
         "year": "2004"
     },
-    "Founders At Work: Stories Of Startups Early Days": {
+    {
         "amazon_url": "https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788",
         "author": "Jessica Livingston",
         "category": "Startups and Business",
@@ -1133,7 +1133,7 @@
         "url": "https://www.goodreads.com/book/show/98233.Founders_at_Work",
         "year": "2007"
     },
-    "Frankenstein": {
+    {
         "amazon_url": "https://www.amazon.com/Frankenstein-Penguin-classics-Mary-Shelley/dp/014043237X",
         "author": "Mary Shelley, Maurice Hindle",
         "category": "Horror",
@@ -1147,7 +1147,7 @@
         "url": "http://www.goodreads.com/book/show/18490.Frankenstein",
         "year": "2018"
     },
-    "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything": {
+    {
         "amazon_url": "https://www.amazon.com/Freakonomics-Economist-Explores-Hidden-Everything/dp/0060731338",
         "author": "Steven D. Levitt, Stephen J. Dubner",
         "category": "Startups and Business",
@@ -1161,7 +1161,7 @@
         "url": "https://www.goodreads.com/book/show/1202.Freakonomics",
         "year": "2006"
     },
-    "Freedom in Exile": {
+    {
         "amazon_url": "https://www.amazon.com/Freedom-Exile-Autobiography-Holiness-Transaction/dp/1850895317",
         "author": "Dalai Lama XIV",
         "category": "Autobiographies and Biographies",
@@ -1175,7 +1175,7 @@
         "url": "http://www.goodreads.com/book/show/567720.Freedom_in_Exile",
         "year": "1991"
     },
-    "From Dawn to Decadence: 500 Years of Western Cultural Life 1500 to the Present": {
+    {
         "amazon_url": "https://www.amazon.com/Dawn-Decadence-Present-Western-Cultural/dp/0060928832",
         "author": "Jacques Barzun",
         "category": "History",
@@ -1189,7 +1189,7 @@
         "url": "https://www.goodreads.com/book/show/58233.From_Dawn_to_Decadence",
         "year": "2001"
     },
-    "Future Crimes": {
+    {
         "amazon_url": "https://www.amazon.com/Future-Crimes-Digital-Underground-Connected/dp/0804171459",
         "author": "Marc Goodman",
         "category": "Miscellaneous",
@@ -1203,7 +1203,7 @@
         "url": "https://www.goodreads.com/book/show/22318398-future-crimes?from_search=true",
         "year": "2015"
     },
-    "Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime": {
+    {
         "amazon_url": "https://www.amazon.com/Game-Change-Clintons-McCain-Lifetime/dp/0061733644",
         "author": "John Heilemann, Mark Halperin",
         "category": "Politics",
@@ -1217,7 +1217,7 @@
         "url": "https://www.goodreads.com/book/show/6694937-game-change",
         "year": "2010"
     },
-    "Games People Play: The Basic Handbook of Transactional Analysis": {
+    {
         "amazon_url": "https://www.amazon.com/Games-People-Play-Transactional-Analysis/dp/0345410033",
         "author": "Eric Berne.",
         "category": "Philosophy And Psychology",
@@ -1231,7 +1231,7 @@
         "url": "https://www.goodreads.com/book/show/49176.Games_People_Play",
         "year": ""
     },
-    "Germinal": {
+    {
         "amazon_url": "https://www.amazon.com/Germinal-Penguin-Classics-%C3%89mile-Zola/dp/0140447423",
         "author": "Emile Zola",
         "category": "Classics",
@@ -1245,7 +1245,7 @@
         "url": "https://www.goodreads.com/book/show/28407.Germinal",
         "year": "2004"
     },
-    "Getting Things Done: The Art of Stress-Free Productivity": {
+    {
         "amazon_url": "https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280",
         "author": "David Allen",
         "category": "Startups and Business",
@@ -1259,7 +1259,7 @@
         "url": "https://www.goodreads.com/book/show/1633.Getting_Things_Done",
         "year": "2002"
     },
-    "Ghost Fleet": {
+    {
         "amazon_url": "https://www.amazon.com/Ghost-Fleet-Novel-Next-World/dp/054470505X",
         "author": "P.W. Singer and August Cole",
         "category": "Miscellaneous",
@@ -1273,7 +1273,7 @@
         "url": "https://www.goodreads.com/book/show/22749719-ghost-fleet?from_search=true",
         "year": "2015"
     },
-    "Ghost in the Wires:\tMy Adventures as the World's Most Wanted Hacker": {
+    {
         "amazon_url": "https://www.amazon.com/Ghost-Wires-Adventures-Worlds-Wanted/dp/0316037729",
         "author": "Kevin Mitnick",
         "category": "Autobiographies and Biographies",
@@ -1287,7 +1287,7 @@
         "url": "http://www.goodreads.com/book/show/10256723-ghost-in-the-wires",
         "year": "2011"
     },
-    "Gifts of Imperfection": {
+    {
         "amazon_url": "https://www.amazon.com/Gifts-Imperfection-Think-Supposed-Embrace/dp/159285849X",
         "author": "Brene Brown",
         "category": "Philosophy And Psychology",
@@ -1301,7 +1301,7 @@
         "url": "https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection",
         "year": "2010"
     },
-    "God Created The Integers: The Mathematical Breakthroughs that Changed History": {
+    {
         "amazon_url": "https://www.amazon.com/God-Created-Integers-Mathematical-Breakthroughs/dp/0762430044",
         "author": "Stephen Hawking",
         "category": "History",
@@ -1315,7 +1315,7 @@
         "url": "https://www.goodreads.com/book/show/2096.God_Created_The_Integers",
         "year": "2005"
     },
-    "Good to Great: Why Some Companies Make the Leap And Others Don't": {
+    {
         "amazon_url": "https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6",
         "author": "Jim Collins",
         "category": "Startups and Business",
@@ -1329,7 +1329,7 @@
         "url": "https://www.goodreads.com/book/show/76865.Good_to_Great",
         "year": "2001"
     },
-    "Grit": {
+    {
         "amazon_url": "https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108",
         "author": "Angela Duckworth",
         "category": "Philosophy And Psychology",
@@ -1343,7 +1343,7 @@
         "url": "https://www.goodreads.com/book/show/27213329-grit",
         "year": "2016"
     },
-    "Guns, Germs, And Steel : The Fates Of Human Societies": {
+    {
         "amazon_url": "https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552",
         "author": "Jared M. Diamond",
         "category": "History",
@@ -1357,7 +1357,7 @@
         "url": "https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel",
         "year": "2005"
     },
-    "G\u00f6del, Escher, Bach: An Eternal Golden Braid": {
+    {
         "amazon_url": "https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567",
         "author": "Douglas R. Hofstadter",
         "category": "Science and Medicine",
@@ -1371,7 +1371,7 @@
         "url": "https://www.goodreads.com/book/show/24113.G_del_Escher_Bach",
         "year": "1999"
     },
-    "Hackers and Painters": {
+    {
         "amazon_url": "https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554",
         "author": "Paul Graham",
         "category": "Startups and Business",
@@ -1385,7 +1385,7 @@
         "url": "https://www.goodreads.com/book/show/41793.Hackers_Painters",
         "year": "2004"
     },
-    "Hamlet and Revenge": {
+    {
         "amazon_url": "https://www.amazon.com/Hamlet-Revenge-Eleanor-Prosser/dp/0804703175",
         "author": "Eleanor Prosser",
         "category": "Shakespeare",
@@ -1399,7 +1399,7 @@
         "url": "https://www.goodreads.com/book/show/625956.Hamlet_Revenge_",
         "year": "1971"
     },
-    "Hamlet in Purgatory": {
+    {
         "amazon_url": "https://www.amazon.com/Hamlet-Purgatory-Stephen-Greenblatt/dp/0691102570",
         "author": "Stephen Greenblatt",
         "category": "Shakespeare",
@@ -1413,7 +1413,7 @@
         "url": "https://www.goodreads.com/book/show/33179.Hamlet_in_Purgatory",
         "year": "2002"
     },
-    "Happy: Why More or Less Everything is Absolutely Fine": {
+    {
         "amazon_url": "https://www.amazon.com/Happy-More-Less-Everything-Absolutely/dp/0593076192",
         "author": "Derren Brown",
         "category": "Philosophy And Psychology",
@@ -1427,7 +1427,7 @@
         "url": "https://www.goodreads.com/book/show/30142270-happy",
         "year": "2016"
     },
-    "Harry Potter": {
+    {
         "amazon_url": "https://www.amazon.com/J.-K.-Rowling/e/B000AP9A6K",
         "author": "J.K. Rowling",
         "category": "Fantasy",
@@ -1441,7 +1441,7 @@
         "url": "https://www.goodreads.com/series/45175-harry-potter",
         "year": "2003"
     },
-    "Harry Potter and the Methods of Rationality": {
+    {
         "amazon_url": "https://www.amazon.com/Harry-Potter-Methods-Rationality-Chapters/dp/B00E640ZAG",
         "author": "Eliezer Yudkowsky",
         "category": "Fantasy",
@@ -1455,7 +1455,7 @@
         "url": "https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality",
         "year": "2015"
     },
-    "Hat Box: The Collected Lyrics of Stephen Sondheim": {
+    {
         "author": "Stephen Sondheim",
         "category": "Writing",
         "rating": "4.77",
@@ -1463,7 +1463,7 @@
         "url": "https://www.goodreads.com/book/show/12909101-hat-box",
         "year": ""
     },
-    "Heaven in a Chip: Fuzzy Visions of Society and Science in the Digital Age": {
+    {
         "amazon_url": "https://www.amazon.com/Heaven-Chip-Visions-Society-Science/dp/0609805673",
         "author": "Bart Kosko",
         "category": "Science and Medicine",
@@ -1477,7 +1477,7 @@
         "url": "https://www.goodreads.com/book/show/172645.Heaven_in_a_Chip",
         "year": "2000"
     },
-    "High Output Management": {
+    {
         "amazon_url": "https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884",
         "author": "Andy Grove",
         "category": "Startups and Business",
@@ -1491,7 +1491,7 @@
         "url": "https://www.goodreads.com/book/show/324750.High_Output_Management",
         "year": "1995"
     },
-    "His Dark Materials": {
+    {
         "amazon_url": "https://www.amazon.com/Dark-Materials-Yearling-3-book-Boxed/dp/0440419514",
         "author": "Philip Pullman",
         "category": "Fantasy",
@@ -1505,7 +1505,7 @@
         "url": "https://www.goodreads.com/book/show/18116.His_Dark_Materials",
         "year": "1996"
     },
-    "Homo Deus: A History of Tomorrow": {
+    {
         "amazon_url": "https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310",
         "author": "Yuval Noah Harari",
         "category": "History",
@@ -1519,7 +1519,7 @@
         "url": "https://www.goodreads.com/book/show/31138556-homo-deus",
         "year": ""
     },
-    "House of Leaves": {
+    {
         "amazon_url": "https://www.amazon.com/House-Leaves-Mark-Z-Danielewski/dp/0375703764",
         "author": "Mark Z. Danielewski",
         "category": "Horror",
@@ -1533,7 +1533,7 @@
         "url": "http://www.goodreads.com/book/show/24800.House_of_Leaves",
         "year": "2000"
     },
-    "How Buildings Learn: What Happens After They're Built": {
+    {
         "amazon_url": "https://www.amazon.com/How-Buildings-Learn-Happens-Theyre/dp/0140139966",
         "author": "Stewart Brand",
         "category": "Design",
@@ -1547,7 +1547,7 @@
         "url": "https://www.goodreads.com/book/show/38310.How_Buildings_Learn",
         "year": "1995"
     },
-    "How Children Fail": {
+    {
         "amazon_url": "https://www.amazon.com/Children-Fail-Classics-Child-Development/dp/0201484021",
         "author": "John Holt",
         "category": "Education",
@@ -1561,7 +1561,7 @@
         "url": "https://www.goodreads.com/book/show/573009.How_Children_Fail",
         "year": "1995"
     },
-    "How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease": {
+    {
         "amazon_url": "https://www.amazon.com/How-Not-Die-Discover-Scientifically/dp/1250066115",
         "author": "Michael Greger, M.D.",
         "category": "Health",
@@ -1575,7 +1575,7 @@
         "url": "https://www.goodreads.com/book/show/25663961-how-not-to-die",
         "year": "2015"
     },
-    "How the Internet Happened: From Netscape to the iPhone": {
+    {
         "amazon_url": "https://www.amazon.com/How-Internet-Happened-Netscape-iPhone/dp/1631493078",
         "author": "Brian McCullough",
         "category": "History",
@@ -1589,7 +1589,7 @@
         "url": "https://www.goodreads.com/en/book/show/38212134-how-the-internet-happened",
         "year": "2018"
     },
-    "How to Find a Habitable Planet": {
+    {
         "amazon_url": "https://www.amazon.com/Find-Habitable-Planet-Science-Essentials/dp/0691138052",
         "author": "James Kasting",
         "category": "Science and Medicine",
@@ -1603,7 +1603,7 @@
         "url": "https://www.goodreads.com/book/show/7551498-how-to-find-a-habitable-planet",
         "year": "2010"
     },
-    "How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success": {
+    {
         "amazon_url": "https://www.amazon.com/Success-Principles-TM-Where-Want/dp/0060594896",
         "author": "Jack Canfield, Janet Switzer",
         "category": "Startups and Business",
@@ -1617,7 +1617,7 @@
         "url": "https://www.goodreads.com/book/show/96593.The_Success_Principles",
         "year": "2007"
     },
-    "How to Solve It: A New Aspect of Mathematical Method": {
+    {
         "amazon_url": "https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069111966X",
         "author": "George Polya",
         "category": "Logic and Problem Solving",
@@ -1631,7 +1631,7 @@
         "url": "https://www.goodreads.com/book/show/192221.How_to_Solve_It",
         "year": "2015"
     },
-    "How to Stop Acting": {
+    {
         "amazon_url": "https://www.amazon.com/How-Stop-Acting-Revolutionary-Developing/dp/0571199992",
         "author": "Harold Guskin",
         "category": "Theater and Film",
@@ -1645,7 +1645,7 @@
         "url": "https://www.goodreads.com/book/show/808735.How_to_Stop_Acting",
         "year": "2003"
     },
-    "How to Win Every Argument: The Use and Abuse of Logic": {
+    {
         "amazon_url": "https://www.amazon.com/How-Win-Every-Argument-Abuse/dp/147252912X",
         "author": "Madsen Pirie",
         "category": "Philosophy And Psychology",
@@ -1659,7 +1659,7 @@
         "url": "https://www.goodreads.com/book/show/112731.How_to_Win_Every_Argument",
         "year": "2006"
     },
-    "How to Win Friends and Influence People": {
+    {
         "amazon_url": "https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034",
         "author": "Dale Carnegie",
         "category": "Philosophy And Psychology",
@@ -1673,7 +1673,7 @@
         "url": "https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People",
         "year": "1998"
     },
-    "Hyperion": {
+    {
         "amazon_url": "https://www.amazon.com/Hyperion-Cantos-Dan-Simmons/dp/0553283685",
         "author": "Dan Simmons",
         "category": "Science Fiction",
@@ -1687,7 +1687,7 @@
         "url": "https://www.goodreads.com/book/show/77566.Hyperion",
         "year": "1990"
     },
-    "I Hope They Serve Beer In Hell": {
+    {
         "amazon_url": "https://www.amazon.com/Hope-They-Serve-Beer-Hell/dp/0806532254",
         "author": "Tucker Max",
         "category": "Humor",
@@ -1701,7 +1701,7 @@
         "url": "https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell",
         "year": "2006"
     },
-    "If on a Winter's Night a Traveler": {
+    {
         "amazon_url": "https://www.amazon.com/Winters-Night-Traveler-Italo-Calvino/dp/0156439611",
         "author": "Italo Calvino and William Weaver",
         "category": "Classics",
@@ -1715,7 +1715,7 @@
         "url": "https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler",
         "year": "1982"
     },
-    "Illusions: The Adventures of a Reluctant Messiah": {
+    {
         "amazon_url": "https://www.amazon.com/Illusions-Adventures-Reluctant-Richard-Bach/dp/0440204887",
         "author": "Richard Bach",
         "category": "Philosophy And Psychology",
@@ -1729,7 +1729,7 @@
         "url": "https://www.goodreads.com/book/show/29946.Illusions",
         "year": "2001"
     },
-    "Impro: Improvisation and the Theatre": {
+    {
         "amazon_url": "https://www.amazon.com/Impro-Improvisation-Theatre-Keith-Johnstone/dp/0878301178",
         "author": "Keith Johnstone",
         "category": "Theater and Film",
@@ -1743,7 +1743,7 @@
         "url": "https://www.goodreads.com/book/show/306940.Impro",
         "year": ""
     },
-    "In Defense of Food: An Eater's Manifesto": {
+    {
         "amazon_url": "https://www.amazon.com/Defense-Food-Eaters-Manifesto/dp/1594201455",
         "author": "Michael Pollan",
         "category": "Philosophy And Psychology",
@@ -1757,7 +1757,7 @@
         "url": "https://www.goodreads.com/book/show/315425.In_Defense_of_Food",
         "year": "2008"
     },
-    "In the Blink of an Eye: A Perspective on Film Editing": {
+    {
         "amazon_url": "https://www.amazon.com/Blink-Eye-Perspective-Film-Editing/dp/1879505622",
         "author": "Walter Murch",
         "category": "Theater and Film",
@@ -1771,7 +1771,7 @@
         "url": "https://www.goodreads.com/book/show/2141.In_the_Blink_of_an_Eye",
         "year": ""
     },
-    "Infinite Jest": {
+    {
         "amazon_url": "https://www.amazon.com/Infinite-Jest-David-Foster-Wallace/dp/0316066524",
         "author": "David Foster Wallace",
         "category": "Classics",
@@ -1785,7 +1785,7 @@
         "url": "https://www.goodreads.com/book/show/6759.Infinite_Jest",
         "year": "2005"
     },
-    "Influence: The Psychology of Persuasion": {
+    {
         "amazon_url": "https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X",
         "author": "Robert B. Cialdini",
         "category": "Philosophy And Psychology",
@@ -1799,7 +1799,7 @@
         "url": "https://www.goodreads.com/book/show/5752.The_Blank_Slate",
         "year": "2006"
     },
-    "Influencer: The New Science of Leading Change": {
+    {
         "amazon_url": "https://www.amazon.com/Influencer-Science-Leading-Change-Second/dp/0071808868",
         "author": "Joseph Grenny, Kerry Patterson",
         "category": "Startups and Business",
@@ -1813,7 +1813,7 @@
         "url": "https://www.goodreads.com/book/show/914211.Influencer",
         "year": ""
     },
-    "Intuition Pumps And Other Tools for Thinking": {
+    {
         "amazon_url": "https://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/1491518871",
         "author": "Daniel C. Dennett",
         "category": "Philosophy And Psychology",
@@ -1827,7 +1827,7 @@
         "url": "https://www.goodreads.com/book/show/18378002-intuition-pumps-and-other-tools-for-thinking",
         "year": "2014"
     },
-    "Irrational Man: A Study in Existential Philosophy": {
+    {
         "amazon_url": "https://www.amazon.com/Irrational-Man-Study-Existential-Philosophy/dp/0385031386",
         "author": "William Barrett",
         "category": "Philosophy And Psychology",
@@ -1841,7 +1841,7 @@
         "url": "https://www.goodreads.com/book/show/83321.Irrational_Man",
         "year": "1962"
     },
-    "J'accuse": {
+    {
         "amazon_url": "https://www.amazon.com/J-accuse-Emile-Zola-French/dp/1654172154",
         "author": "Emile Zola",
         "category": "Classics",
@@ -1855,7 +1855,7 @@
         "url": "https://www.goodreads.com/book/show/816964.J_accuse",
         "year": "1998"
     },
-    "Jane Eyre": {
+    {
         "amazon_url": "https://www.amazon.com/Jane-Eyre-Charlotte-Bronte/dp/1503278190",
         "author": "Charlotte Bront\u00eb",
         "category": "Classics",
@@ -1869,7 +1869,7 @@
         "url": "https://www.goodreads.com/book/show/10210.Jane_Eyre",
         "year": "2003"
     },
-    "Jonathan Livingston Seagull": {
+    {
         "amazon_url": "https://www.amazon.com/Jonathan-Livingston-Seagull-Richard-Bach/dp/0743278909",
         "author": "Richard Bach",
         "category": "Philosophy And Psychology",
@@ -1883,7 +1883,7 @@
         "url": "https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull",
         "year": "2006"
     },
-    "Just the Arguments: 100 of the Most Important Arguments in Western Philosophy": {
+    {
         "amazon_url": "https://www.amazon.com/Just-Arguments-Important-Western-Philosophy/dp/1444336371",
         "author": "Michael Bruce, Steven Barbone",
         "category": "Philosophy And Psychology",
@@ -1897,7 +1897,7 @@
         "url": "https://www.goodreads.com/book/show/12838972-just-the-arguments",
         "year": "2011"
     },
-    "Justice: What's the Right Thing to Do?": {
+    {
         "amazon_url": "https://www.amazon.com/Justice-Whats-Right-Thing-Do/dp/0374532508",
         "author": "Michael J. Sandel",
         "category": "Politics",
@@ -1911,7 +1911,7 @@
         "url": "https://www.goodreads.com/book/show/6452731-justice",
         "year": "2009"
     },
-    "Kane and Abel": {
+    {
         "amazon_url": "https://www.amazon.com/Kane-Abel-Jeffrey-Archer/dp/0312942729",
         "author": "Jeffrey Archer",
         "category": "Historical Fiction",
@@ -1925,7 +1925,7 @@
         "url": "http://www.goodreads.com/book/show/78983.Kane_and_Abel",
         "year": "2004"
     },
-    "Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground": {
+    {
         "amazon_url": "https://www.amazon.com/Kingpin-Hacker-Billion-Dollar-Cybercrime-Underground/dp/0307588696",
         "author": "Kevin Poulson",
         "category": "History",
@@ -1939,7 +1939,7 @@
         "url": "http://www.goodreads.com/book/show/9319468-kingpin",
         "year": "2011"
     },
-    "Labyrinths of Reason: Paradox, Puzzles, and the Frailty of Knowledge": {
+    {
         "amazon_url": "https://www.amazon.com/Labyrinths-Reason-Paradox-Puzzles-Knowledge/dp/0385242719",
         "author": "William Poundstone",
         "category": "Logic and Problem Solving",
@@ -1953,7 +1953,7 @@
         "url": "https://www.goodreads.com/book/show/55436.Labyrinths_of_Reason",
         "year": "1989"
     },
-    "Le Ton beau de Marot: In Praise of the Music of Language": {
+    {
         "amazon_url": "https://www.amazon.com/Ton-Beau-Marot-Praise-Language/dp/0465086454",
         "author": "Douglas R. Hofstadter",
         "category": "Language",
@@ -1967,7 +1967,7 @@
         "url": "https://www.goodreads.com/book/show/248193.Le_Ton_beau_de_Marot",
         "year": "1998"
     },
-    "Lean In : Women, Work and the Will to Lead": {
+    {
         "amazon_url": "https://www.amazon.com/Lean-Women-Work-Will-Lead/dp/0385349947",
         "author": "Sheryl Sandberg",
         "category": "Startups and Business",
@@ -1981,7 +1981,7 @@
         "url": "http://www.goodreads.com/book/show/16071764-lean-in",
         "year": "2013"
     },
-    "Leaving Microsoft to Change the World: An Entrepreneur's Odyssey to Educate the World's Children": {
+    {
         "amazon_url": "https://www.amazon.com/Leaving-Microsoft-Change-World-Entrepreneurs-ebook/dp/B000UOJU16",
         "author": "John Wood",
         "category": "Startups and Business",
@@ -1995,7 +1995,7 @@
         "url": "https://www.goodreads.com/book/show/95429.Leaving_Microsoft_to_Change_the_World",
         "year": "2006"
     },
-    "Letters From The Earth": {
+    {
         "amazon_url": "https://www.amazon.com/Letters-Earth-Uncensored-Writings-Perennial/dp/0060518650",
         "author": "Mark Twain",
         "category": "Classics",
@@ -2009,7 +2009,7 @@
         "url": "https://www.goodreads.com/book/show/37813.Letters_from_the_Earth",
         "year": "2004"
     },
-    "Lettres persanes": {
+    {
         "amazon_url": "https://www.amazon.com/Lettres-Persanes-French-Montesquieu/dp/2253082228",
         "author": "Montesquieu",
         "category": "Classics",
@@ -2023,7 +2023,7 @@
         "url": "http://www.goodreads.com/book/show/509686.Persian_Letters",
         "year": "2006"
     },
-    "Life at the Speed of Light: From the Double Helix to the Dawn of Digital Life": {
+    {
         "amazon_url": "https://www.amazon.com/Life-Speed-Light-Double-Digital-ebook/dp/B00C1N5WRK",
         "author": "J. Craig Venter",
         "category": "Science and Medicine",
@@ -2037,7 +2037,7 @@
         "url": "www.goodreads.com/book/show/17674969-life-at-the-speed-of-light",
         "year": ""
     },
-    "Linchpin: Are You Indispensable": {
+    {
         "amazon_url": "https://www.amazon.com/Linchpin-Are-Indispensable-Seth-Godin/dp/1591844096",
         "author": "Seth Godin",
         "category": "Startups and Business",
@@ -2051,7 +2051,7 @@
         "url": "https://www.goodreads.com/book/show/7155145-linchpin",
         "year": "2010"
     },
-    "Little Brother": {
+    {
         "amazon_url": "https://www.amazon.com/Little-Brother-Cory-Doctorow/dp/0765323117",
         "author": "Cory Doctorow",
         "category": "Science Fiction",
@@ -2065,7 +2065,7 @@
         "url": "https://www.goodreads.com/book/show/954674.Little_Brother",
         "year": "2008"
     },
-    "Lonesome Dove": {
+    {
         "amazon_url": "https://www.amazon.com/Lonesome-Dove-Novel-Larry-McMurtry/dp/1439195269",
         "author": "Larry McMurtry",
         "category": "Historical Fiction",
@@ -2079,7 +2079,7 @@
         "url": "https://www.goodreads.com/book/show/256008.Lonesome_Dove",
         "year": "1999"
     },
-    "Long Walk to Freedom": {
+    {
         "amazon_url": "https://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189",
         "author": "Nelson Mandela",
         "category": "Autobiographies and Biographies",
@@ -2093,7 +2093,7 @@
         "url": "http://www.goodreads.com/book/show/318431.Long_Walk_to_Freedom",
         "year": "1995"
     },
-    "Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business My Way": {
+    {
         "amazon_url": "https://www.amazon.com/Losing-My-Virginity-Survived-Business/dp/0307720748",
         "author": "Richard Branson",
         "category": "Startups and Business",
@@ -2107,7 +2107,7 @@
         "url": "https://www.goodreads.com/book/show/211099.Losing_My_Virginity",
         "year": ""
     },
-    "Losing My Virginity: The Autobiography": {
+    {
         "amazon_url": "https://www.amazon.com/Losing-My-Virginity-Survived-Business/dp/0307720748",
         "author": "Richard Branson",
         "category": "Autobiographies and Biographies",
@@ -2121,7 +2121,7 @@
         "url": "https://www.goodreads.com/book/show/9533705-losing-my-virginity",
         "year": "1999"
     },
-    "Love in the Time of Cholera": {
+    {
         "amazon_url": "https://www.amazon.com/Love-Time-Cholera-Oprahs-Book/dp/0307389731",
         "author": "Gabriel Garc\u00eda Marqu\u00e9z",
         "category": "Classics",
@@ -2135,7 +2135,7 @@
         "url": "https://www.goodreads.com/book/show/9712.Love_in_the_Time_of_Cholera",
         "year": "2003"
     },
-    "Madame Bovary": {
+    {
         "amazon_url": "https://www.amazon.com/Madame-Bovary-Classics-Gustave-Flaubert/dp/0553213415",
         "author": "Gustave Flaubert",
         "category": "Classics",
@@ -2149,7 +2149,7 @@
         "url": "https://www.goodreads.com/book/show/2175.Madame_Bovary",
         "year": "2004"
     },
-    "Madame Curie: A Biography": {
+    {
         "amazon_url": "https://www.amazon.com/Madame-Curie-Biography-Eve-Illustrated/dp/B001CXRG24",
         "author": "Marie Curie",
         "category": "Autobiographies and Biographies",
@@ -2163,7 +2163,7 @@
         "url": "https://www.goodreads.com/book/show/341166.Madame_Curie",
         "year": "2001"
     },
-    "Make It Stick: The Science of Successful Learning": {
+    {
         "amazon_url": "https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013",
         "author": "Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel",
         "category": "Education",
@@ -2177,7 +2177,7 @@
         "url": "https://www.goodreads.com/book/show/18770267.make-it-stick",
         "year": "2014"
     },
-    "Man's Search for Meaning": {
+    {
         "amazon_url": "https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/080701429X",
         "author": "Viktor E. Frankl",
         "category": "Philosophy And Psychology",
@@ -2191,7 +2191,7 @@
         "url": "https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning",
         "year": "2006"
     },
-    "Mansfield Park": {
+    {
         "amazon_url": "https://www.amazon.com/Mansfield-Park-French-Jane-Austen-ebook/dp/B00XJRDG0C",
         "author": "Jane Austen",
         "category": "Classics",
@@ -2205,7 +2205,7 @@
         "url": "https://www.goodreads.com/book/show/45032",
         "year": "2003"
     },
-    "Mazes for the Mind: Computers and the Unexpected": {
+    {
         "amazon_url": "https://www.amazon.com/Mazes-Mind-Unexpected-Clifford-Pickover/dp/0312103530",
         "author": "Clifford A. Pickover",
         "category": "Logic and Problem Solving",
@@ -2219,7 +2219,7 @@
         "url": "https://www.goodreads.com/book/show/1986400.Mazes_for_the_Mind",
         "year": "1992"
     },
-    "Meditations": {
+    {
         "amazon_url": "https://www.amazon.com/Meditations-Marcus-Aurelius/dp/1503280462",
         "author": "Marcus Aurelius",
         "category": "Philosophy And Psychology",
@@ -2233,7 +2233,7 @@
         "url": "https://www.goodreads.com/book/show/30659.Meditations",
         "year": "2006"
     },
-    "Memory Man": {
+    {
         "amazon_url": "https://www.amazon.com/Memory-Man-Book-ebook/dp/B00N7TDP8K",
         "author": "David Baldacci",
         "category": "Mystery",
@@ -2247,7 +2247,7 @@
         "url": "https://www.goodreads.com/book/show/23153154-memory-man",
         "year": "2015"
     },
-    "Metamagical Themas: Questing For The Essence Of Mind And Pattern": {
+    {
         "amazon_url": "https://www.amazon.com/Metamagical-Themas-Questing-Essence-Pattern/dp/0465045669",
         "author": "Douglas Hofstadter",
         "category": "Philosophy And Psychology",
@@ -2261,7 +2261,7 @@
         "url": "https://www.goodreads.com/book/show/181239.Metamagical_Themas",
         "year": "1996"
     },
-    "Metaphors We Live By": {
+    {
         "amazon_url": "https://www.amazon.com/Metaphors-We-Live-George-Lakoff/dp/0226468011",
         "author": "George Lakoff, Mark Johnson",
         "category": "Philosophy And Psychology",
@@ -2275,7 +2275,7 @@
         "url": "https://www.goodreads.com/book/show/34459.Metaphors_We_Live_By",
         "year": "2003"
     },
-    "Mind Children: The Future of Robot and Human Intelligence": {
+    {
         "amazon_url": "https://www.amazon.com/Mind-Children-Future-Robot-Intelligence/dp/0674576187",
         "author": "Hans Moravec.",
         "category": "Science and Medicine",
@@ -2289,7 +2289,7 @@
         "url": "https://www.goodreads.com/book/show/648195.Mind_Children",
         "year": "1990"
     },
-    "Mind Wars: Brain Research and National Defense": {
+    {
         "amazon_url": "https://www.amazon.com/Mind-Wars-Research-National-Defense/dp/1932594167",
         "author": "Jonathan D. Moreno",
         "category": "Science and Medicine",
@@ -2303,7 +2303,7 @@
         "url": "http://www.goodreads.com/book/show/599321.Mind_Wars",
         "year": "2007"
     },
-    "Mindset: The new psychology of success": {
+    {
         "amazon_url": "https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322",
         "author": "Carol S. Dweck,Ph.D.",
         "category": "Philosophy And Psychology",
@@ -2317,7 +2317,7 @@
         "url": "https://www.goodreads.com/book/show/40745.Mindset",
         "year": "2006"
     },
-    "Mindstorms: Children, Computers, And Powerful Ideas": {
+    {
         "amazon_url": "https://www.amazon.com/Mindstorms-Children-Computers-Powerful-Ideas/dp/0465046746",
         "author": "Seymour A. Papert",
         "category": "Education",
@@ -2331,21 +2331,7 @@
         "url": "https://www.goodreads.com/book/show/703532.Mindstorms",
         "year": "1993"
     },
-    "Mismatch: How Inclusion Shapes Design": {
-        "amazon_url": "https://www.amazon.com/Mismatch-Inclusion-Simplicity-Technology-Business/dp/0262038889",
-        "author": "Kat Holmes, John Maeda",
-        "category": "Design",
-        "description": "How inclusive methods can build elegant design solutions that work for all.Sometimes designed objects reject their users: a computer mouse that doesn't work for left-handed people, for example, or a touchscreen payment system that only works for people who read English phrases, have 20/20 vision, and use a credit card. Something as simple as color choices can render a product unusable for millions. These mismatches are the building blocks of exclusion. In Mismatch, Kat Holmes describes how design can lead to exclusion, and how design can also remedy exclusion. Inclusive design methods--designing objects with rather than for excluded users--can create elegant solutions that work well and benefit all.Holmes tells stories of pioneers of inclusive design, many of whom were drawn to work on inclusion because of their own experiences of exclusion. A gamer and designer who depends on voice recognition shows Holmes his \"Wall of Exclusion,\" which displays dozens of game controllers that require two hands to operate; an architect shares her firsthand knowledge of how design can fail communities, gleaned from growing up in Detroit's housing projects; an astronomer who began to lose her eyesight adapts a technique called \"sonification\" so she can \"listen\" to the stars.Designing for inclusion is not a feel-good sideline. Holmes shows how inclusion can be a source of innovation and growth, especially for digital technologies. It can be a catalyst for creativity and a boost for the bottom line as a customer base expands. And each time we remedy a mismatched interaction, we create an opportunity for more people to contribute to society in meaningful ways.",
-        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538365830l/39644200._SX98_.jpg",
-        "isbn": "0262038889",
-        "lang": null,
-        "pages": "176",
-        "rating": "4.14",
-        "title": "Mismatch: How Inclusion Shapes Design",
-        "url": "https://www.goodreads.com/book/show/39644200-mismatch",
-        "year": "2018"
-    },
-    "Mistborn": {
+    {
         "amazon_url": "https://www.amazon.com/Mistborn-Final-Empire-Book-No/dp/0765350386",
         "author": "Brandon Sanderson",
         "category": "Fantasy",
@@ -2359,7 +2345,7 @@
         "url": "https://www.goodreads.com/series/40910-mistborn",
         "year": "2006"
     },
-    "Moral Tribes: Emotion, Reason, and the Gap Between Us and Them": {
+    {
         "amazon_url": "https://www.amazon.com/Moral-Tribes-Emotion-Reason-Between/dp/1594202605",
         "author": "Joshua Greene",
         "category": "Philosophy And Psychology",
@@ -2373,7 +2359,7 @@
         "url": "https://www.goodreads.com/book/show/17707599-moral-tribes",
         "year": "2013"
     },
-    "My Experiments with Truth": {
+    {
         "amazon_url": "https://www.amazon.com/Mohandas-K-Gandhi-Autobiography-Experiments/dp/0486245934",
         "author": "Mahatma Gandhi",
         "category": "Autobiographies and Biographies",
@@ -2387,7 +2373,7 @@
         "url": "http://www.goodreads.com/book/show/112803.The_Story_of_My_Experiments_With_Truth",
         "year": ""
     },
-    "My Life and My Work": {
+    {
         "amazon_url": "https://www.amazon.com/My-Life-Work-Henry-Ford/dp/1497432251",
         "author": "Henry Ford",
         "category": "Autobiographies and Biographies",
@@ -2401,7 +2387,7 @@
         "url": "http://www.goodreads.com/book/show/1122054.My_Life_And_Work",
         "year": "2007"
     },
-    "Notes on Directing: 130 Lessons in Leadership from the Director's Chair": {
+    {
         "amazon_url": "https://www.amazon.com/Notes-Directing-Leadership-Directors-Performance/dp/080271708X",
         "author": "Frank Hauser, Russell Reich",
         "category": "Theater and Film",
@@ -2415,7 +2401,7 @@
         "url": "https://www.goodreads.com/book/show/254808.Notes_on_Directing",
         "year": "2008"
     },
-    "On Writing: A Memoir of the Craft": {
+    {
         "amazon_url": "https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816",
         "author": "Stephen King",
         "category": "Writing",
@@ -2429,7 +2415,7 @@
         "url": "https://www.goodreads.com/book/show/10569.On_Writing",
         "year": "2002"
     },
-    "One Click: Jeff Bezos and the Rise of Amazon.com": {
+    {
         "amazon_url": "https://www.amazon.com/One-Click-Jeff-Bezos-Amazon-com/dp/1591845858",
         "author": "Richard Brandt",
         "category": "Startups and Business",
@@ -2443,7 +2429,7 @@
         "url": "https://www.goodreads.com/book/show/11223478-one-click",
         "year": ""
     },
-    "One Flew Over the Cuckoo's Nest": {
+    {
         "amazon_url": "https://www.amazon.com/One-Flew-Over-Cuckoos-Nest/dp/0451163966",
         "author": "Ken Kesey",
         "category": "Classics",
@@ -2457,7 +2443,7 @@
         "url": "https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest",
         "year": "1963"
     },
-    "One Hundred Years of Solitude": {
+    {
         "amazon_url": "https://www.amazon.com/Hundred-Solitude-Harper-Perennial-Classics/dp/0060883286",
         "author": "Gabriel Garcia Marquez, Gregory Rabassa",
         "category": "Classics",
@@ -2471,7 +2457,7 @@
         "url": "https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude",
         "year": "2003"
     },
-    "One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War": {
+    {
         "amazon_url": "https://www.amazon.com/One-Minute-Midnight-Kennedy-Khrushchev/dp/1400078911",
         "author": "Michael Dobbs",
         "category": "History",
@@ -2485,7 +2471,7 @@
         "url": "https://www.goodreads.com/book/show/2606779-one-minute-to-midnight",
         "year": "2008"
     },
-    "Origin of Wealth": {
+    {
         "amazon_url": "https://www.amazon.com/Origin-Wealth-Remaking-Economics-Business/dp/1422121038",
         "author": "Eric D. Beinhocker",
         "category": "Economics",
@@ -2499,7 +2485,7 @@
         "url": "https://www.goodreads.com/book/show/22456.The_Origin_of_Wealth",
         "year": "2006"
     },
-    "Origins of Form: The Shape of Natural and Man-Made Things": {
+    {
         "amazon_url": "https://www.amazon.com/Origins-Form-Natural-Man-made-Things_Why/dp/1589798082",
         "author": "Christopher Williams",
         "category": "Science and Medicine",
@@ -2513,7 +2499,7 @@
         "url": "https://www.goodreads.com/book/show/16255011-origins-of-form",
         "year": ""
     },
-    "Origins of Genius: Darwinian Perspectives on Creativity": {
+    {
         "amazon_url": "https://www.amazon.com/Origins-Genius-Darwinian-Perspectives-Creativity/dp/0195128796",
         "author": "Dean Keith",
         "category": "Science and Medicine",
@@ -2527,7 +2513,7 @@
         "url": "https://www.goodreads.com/book/show/254489.Origins_of_Genius",
         "year": "1999"
     },
-    "Out of Control: The New Biology of Machines, Social Systems, and the Economic World": {
+    {
         "amazon_url": "https://www.amazon.com/Out-Control-Biology-Machines-Economic/dp/0201483408",
         "author": "Kevin Kelly",
         "category": "Science and Medicine",
@@ -2541,7 +2527,7 @@
         "url": "https://www.goodreads.com/book/show/16080353-out-of-control",
         "year": "1995"
     },
-    "Outliers: Story of Success": {
+    {
         "amazon_url": "https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930",
         "author": "Malcolm Gladwell",
         "category": "Startups and Business",
@@ -2555,7 +2541,7 @@
         "url": "https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success",
         "year": "2008"
     },
-    "Outsmarting IQ: The Emerging Science of Learnable Intelligence": {
+    {
         "amazon_url": "https://www.amazon.com/Outsmarting-IQ-Emerging-Learnable-Intelligence/dp/0029252121",
         "author": "David Perkins",
         "category": "Philosophy And Psychology",
@@ -2569,7 +2555,7 @@
         "url": "https://www.goodreads.com/book/show/1008488.Outsmarting_Iq",
         "year": "1995"
     },
-    "Outwitting the Devil: The Secret to Freedom and Success": {
+    {
         "amazon_url": "https://www.amazon.com/Outwitting-Devil-Secret-Freedom-Success/dp/1469259036",
         "author": "Napoleon Hill",
         "category": "Startups and Business",
@@ -2583,7 +2569,7 @@
         "url": "https://www.goodreads.com/book/show/10713286-outwitting-the-devil",
         "year": "2011"
     },
-    "Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength (2nd edition)": {
+    {
         "amazon_url": "https://www.amazon.com/Overcoming-Gravity-Systematic-Gymnastics-Bodyweight/dp/0990873854",
         "author": "Steven Low",
         "category": "Health",
@@ -2597,7 +2583,7 @@
         "url": "https://www.goodreads.com/book/show/33293328-overcoming-gravity",
         "year": "2011"
     },
-    "Pattern Language: Towns, Buildings, Construction": {
+    {
         "amazon_url": "https://www.amazon.com/Pattern-Language-Buildings-Construction-Environmental/dp/0195019199",
         "author": "Christopher Alexander, Sara Ishikawa, Murray Silverstein, Max Jacobson, Ingrid Fiksdahl-King and Shlomo Angel",
         "category": "Design",
@@ -2611,7 +2597,7 @@
         "url": "https://www.goodreads.com/book/show/79766.A_Pattern_Language",
         "year": "1977"
     },
-    "Pilgrim at Tinker Creek": {
+    {
         "amazon_url": "https://www.amazon.com/Pilgrim-Tinker-Harper-Perennial-Classics/dp/0061233323",
         "author": "Annie Dillard",
         "category": "Nature",
@@ -2625,7 +2611,7 @@
         "url": "https://www.goodreads.com/book/show/12527.Pilgrim_at_Tinker_Creek",
         "year": "2000"
     },
-    "Predictably Irrational": {
+    {
         "amazon_url": "https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248",
         "author": "Dan Ariely",
         "category": "Philosophy And Psychology",
@@ -2639,7 +2625,7 @@
         "url": "https://www.goodreads.com/book/show/1713426.Predictably_Irrational",
         "year": "2008"
     },
-    "Pride And Prejudice": {
+    {
         "amazon_url": "https://www.amazon.com/Pride-Prejudice-Japanese-Jane-Austen/dp/4309462642",
         "author": "Jane Austen",
         "category": "Classics",
@@ -2653,7 +2639,7 @@
         "url": "https://www.goodreads.com/book/show/1885.Pride_and_Prejudice",
         "year": "2000"
     },
-    "Prisoner's Dilemma": {
+    {
         "amazon_url": "https://www.amazon.com/Prisoners-Dilemma-Neumann-Theory-Puzzle/dp/038541580X",
         "author": "William Poundstone",
         "category": "Philosophy And Psychology",
@@ -2667,7 +2653,7 @@
         "url": "https://www.goodreads.com/book/show/29506.Prisoner_s_Dilemma",
         "year": "2009"
     },
-    "Prometheus Rising": {
+    {
         "amazon_url": "https://www.amazon.com/Prometheus-Rising-Robert-Anton-Wilson/dp/0692710604",
         "author": "Robert Anton Wilson",
         "category": "Philosophy And Psychology",
@@ -2681,7 +2667,7 @@
         "url": "https://www.goodreads.com/book/show/28597.Prometheus_Rising",
         "year": "2010"
     },
-    "P\u00e8re Goriot": {
+    {
         "amazon_url": "https://www.amazon.com/p%C3%A8re-Goriot-French-Honor%C3%A9-Balzac-ebook/dp/B005R5NJ1K",
         "author": "Honor\u00e9 de Balzac",
         "category": "Classics",
@@ -2695,7 +2681,7 @@
         "url": "https://www.goodreads.com/book/show/59145.P_re_Goriot",
         "year": "1997"
     },
-    "Quiet: The Power of Introverts in a World That Can't Stop Talking": {
+    {
         "amazon_url": "https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153",
         "author": "Susan Cain",
         "category": "Philosophy And Psychology",
@@ -2709,7 +2695,7 @@
         "url": "https://www.goodreads.com/book/show/8520610-quiet",
         "year": "2012"
     },
-    "Rapt: Attention and the Focused Life: Winifred Gallagher": {
+    {
         "amazon_url": "https://www.amazon.com/Rapt-Attention-Focused-Winifred-Gallagher/dp/0143116908",
         "author": "Winifred Gallagher",
         "category": "Philosophy And Psychology",
@@ -2723,7 +2709,7 @@
         "url": "https://www.goodreads.com/book/show/6262510-rapt",
         "year": "2009"
     },
-    "Rare Earth: Why Complex Life is Uncommon in the Universe": {
+    {
         "amazon_url": "https://www.amazon.com/Rare-Earth-Complex-Uncommon-Universe/dp/0387952896",
         "author": "Peter D. Ward, Donald Brownlee",
         "category": "Science and Medicine",
@@ -2737,7 +2723,7 @@
         "url": "https://www.goodreads.com/book/show/88552.Rare_Earth",
         "year": "2003"
     },
-    "ReWork: Change the Way You Work Forever": {
+    {
         "amazon_url": "https://www.amazon.com/ReWork-Change-Way-Work-Forever-ebook/dp/B003ELY7PG",
         "author": "David Heinemeier Hansson",
         "category": "Startups and Business",
@@ -2751,7 +2737,7 @@
         "url": "https://www.goodreads.com/book/show/6732019-rework",
         "year": "2010"
     },
-    "Ready Player One": {
+    {
         "amazon_url": "https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448",
         "author": "Ernest Cline",
         "category": "Science Fiction",
@@ -2765,7 +2751,7 @@
         "url": "https://www.goodreads.com/book/show/9969571-ready-player-one",
         "year": "2011"
     },
-    "Resource Wars: The New Landscape of Global Conflict": {
+    {
         "amazon_url": "https://www.amazon.com/Resource-Wars-Landscape-Conflict-Introduction/dp/0805055762",
         "author": "Michael Klare",
         "category": "Politics",
@@ -2779,7 +2765,7 @@
         "url": "https://www.goodreads.com/book/show/149206.Resource_Wars",
         "year": "2002"
     },
-    "Rich Dad Poor Dad : What The Rich Teach Their Kids About Money That The Poor And Middle Class Don't": {
+    {
         "amazon_url": "https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194",
         "author": "Robert T. Kiyosaki",
         "category": "Startups and Business",
@@ -2793,7 +2779,7 @@
         "url": "https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad",
         "year": ""
     },
-    "Sapiens: A Brief History of Humankind": {
+    {
         "amazon_url": "https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095",
         "author": "Yuval Noah Harari",
         "category": "History",
@@ -2807,7 +2793,7 @@
         "url": "https://www.goodreads.com/book/show/23692271-sapiens",
         "year": "2014"
     },
-    "Scientific Genius: A Psychology of Science": {
+    {
         "amazon_url": "https://www.amazon.com/Scientific-Genius-Psychology-Dean-Simonton/dp/0521117135",
         "author": "Dean Keith Simonton",
         "category": "Science and Medicine",
@@ -2821,7 +2807,7 @@
         "url": "https://www.goodreads.com/book/show/1752295.Scientific_Genius",
         "year": "1988"
     },
-    "Sense and Sensibility": {
+    {
         "amazon_url": "https://www.amazon.com/Sense-Sensibility-Jane-Austen/dp/1503292738",
         "author": "Jane Austen",
         "category": "Classics",
@@ -2835,7 +2821,7 @@
         "url": "https://www.goodreads.com/book/show/14935.Sense_and_Sensibility",
         "year": "2003"
     },
-    "Sex at Dawn: The Prehistoric Origins of Modern": {
+    {
         "amazon_url": "https://www.amazon.com/Sex-Dawn-Stray-Modern-Relationships-ebook/dp/B007679QTG",
         "author": "Christopher Ryan, Cacilda Jetha",
         "category": "Sexuality",
@@ -2849,7 +2835,7 @@
         "url": "https://www.goodreads.com/book/show/7640261-sex-at-dawn",
         "year": "2010"
     },
-    "Shakespeare's Metrical Art": {
+    {
         "amazon_url": "https://www.amazon.com/Shakespeares-Metrical-Art-George-Wright/dp/0520076427",
         "author": "George T. Wright",
         "category": "Shakespeare",
@@ -2863,7 +2849,7 @@
         "url": "https://www.goodreads.com/book/show/428615.Shakespeare_s_Metrical_Art",
         "year": "1991"
     },
-    "Sherlock Holmes": {
+    {
         "amazon_url": "https://www.amazon.com/Sherlock-Holmes-Complete-Novels-Stories/dp/0553212419",
         "author": "Arthur Conan Doyle",
         "category": "Mystery",
@@ -2877,7 +2863,7 @@
         "url": "https://www.goodreads.com/series/49996-sherlock-holmes",
         "year": "2005"
     },
-    "Shoe Dog: A Memoir by the Creator of Nike": {
+    {
         "amazon_url": "https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44",
         "author": "Phil Knight",
         "category": "Startups and Business",
@@ -2891,7 +2877,7 @@
         "url": "https://www.goodreads.com/book/show/27220736-shoe-dog",
         "year": "2016"
     },
-    "Snoop: What Your Stuff Says About You: Sam Gosling": {
+    {
         "amazon_url": "https://www.amazon.com/Snoop-What-Your-Stuff-About/dp/0465013821",
         "author": "Sam Gosling",
         "category": "Philosophy And Psychology",
@@ -2905,7 +2891,7 @@
         "url": "https://www.goodreads.com/book/show/1581330.Snoop",
         "year": "2008"
     },
-    "Snow Crash": {
+    {
         "amazon_url": "https://www.amazon.com/Snow-Crash-Neal-Stephenson/dp/0553380958",
         "author": "Neal Stephenson",
         "category": "Science Fiction",
@@ -2919,7 +2905,7 @@
         "url": "https://www.goodreads.com/book/show/830.Snow_Crash",
         "year": "2003"
     },
-    "Sophie's World: A Novel About the History of Philosophy": {
+    {
         "amazon_url": "https://www.amazon.com/Sophies-World-History-Philosophy-Classics/dp/0374530718",
         "author": "Jostein Gaarder and Paulette Moller",
         "category": "Historical Fiction",
@@ -2933,7 +2919,7 @@
         "url": "https://www.goodreads.com/book/show/10959.Sophie_s_World",
         "year": "2007"
     },
-    "Spent: Sex, Evolution, and Consumer Behavior": {
+    {
         "amazon_url": "https://www.amazon.com/Spent-Sex-Evolution-Consumer-Behavior/dp/0143117238",
         "author": "Geoffrey Miller",
         "category": "Philosophy And Psychology",
@@ -2947,7 +2933,7 @@
         "url": "https://www.goodreads.com/book/show/6283340-spent",
         "year": ""
     },
-    "Spycraft": {
+    {
         "amazon_url": "https://www.amazon.com/Spycraft-History-Spytechs-Communism-Al-Qaeda/dp/0452295475",
         "author": "Robert Wallace, H. Keith Melton, Henry R. Schlesinger",
         "category": "History",
@@ -2961,7 +2947,7 @@
         "url": "http://www.goodreads.com/book/show/971936.Spycraft",
         "year": "2008"
     },
-    "Start with Why: How Great Leaders Inspire Everyone to Take Action": {
+    {
         "amazon_url": "https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447",
         "author": "Simon Sinek",
         "category": "Startups and Business",
@@ -2975,7 +2961,7 @@
         "url": "https://www.goodreads.com/book/show/7108725-start-with-why",
         "year": "2009"
     },
-    "Steppenwolf: A Novel": {
+    {
         "amazon_url": "https://www.amazon.com/Steppenwolf-Novel-Hermann-Hesse/dp/B000A6U2HU",
         "author": "Hermann Hesse, Basil Creighton",
         "category": "Classics",
@@ -2989,7 +2975,7 @@
         "url": "https://www.goodreads.com/book/show/16631.Steppenwolf",
         "year": "2015"
     },
-    "Steve Jobs": {
+    {
         "amazon_url": "https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537",
         "author": "Walter Issacson",
         "category": "Autobiographies and Biographies",
@@ -3003,7 +2989,7 @@
         "url": "http://www.goodreads.com/book/show/11084145-steve-jobs",
         "year": "2011"
     },
-    "Stiff: The Curious Lives of Human Cadavers": {
+    {
         "amazon_url": "https://www.amazon.com/Stiff-Curious-Lives-Human-Cadavers/dp/0393324826",
         "author": "Mary Roach",
         "category": "Science and Medicine",
@@ -3017,7 +3003,7 @@
         "url": "https://www.goodreads.com/book/show/32145.Stiff",
         "year": "2004"
     },
-    "Strangers in Their Own Land: Anger and Mourning on the American Right": {
+    {
         "amazon_url": "https://www.amazon.com/Strangers-Their-Own-Land-Mourning-ebook/dp/B074CMNKDQ",
         "author": "Arlie Russell Hochschild",
         "category": "Politics",
@@ -3031,7 +3017,7 @@
         "url": "https://www.goodreads.com/book/show/28695425-strangers-in-their-own-land",
         "year": ""
     },
-    "Strategy for Sustainability: A Business Manifesto": {
+    {
         "amazon_url": "https://www.amazon.com/Strategy-Sustainability-Manifesto-Adam-Werbach/dp/142217770X",
         "author": "Adam Werbach",
         "category": "Startups and Business",
@@ -3045,7 +3031,7 @@
         "url": "https://www.goodreads.com/book/show/6553353-strategy-for-sustainability",
         "year": "2009"
     },
-    "Summerhill School: A New View of Childhood": {
+    {
         "amazon_url": "https://www.amazon.com/Summerhill-School-New-View-Childhood/dp/0312141378",
         "author": "A. S. Neill, Albert Lamb",
         "category": "Education",
@@ -3059,7 +3045,7 @@
         "url": "https://www.goodreads.com/book/show/178734.Summerhill",
         "year": "1995"
     },
-    "Super Crunchers: Why Thinking-By-Numbers is the New Way To Be Smart": {
+    {
         "amazon_url": "https://www.amazon.com/Super-Crunchers-Thinking-Numbers-Smart/dp/0553384732",
         "author": "Ian Ayres",
         "category": "Economics",
@@ -3073,7 +3059,7 @@
         "url": "https://www.goodreads.com/book/show/1081413.Super_Crunchers",
         "year": "2007"
     },
-    "SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance": {
+    {
         "amazon_url": "https://www.amazon.com/Freakonomics-Economist-Explores-Hidden-Everything/dp/0060731338",
         "author": "Steven D. Litt",
         "category": "Startups and Business",
@@ -3087,7 +3073,7 @@
         "url": "https://www.goodreads.com/book/show/6402364-superfreakonomics",
         "year": "2009"
     },
-    "Supernormal: Science, Yoga, and the Evidence for Extraordinary Psychic Abilities": {
+    {
         "amazon_url": "https://www.amazon.com/Supernormal-Science-Evidence-Extraordinary-Abilities/dp/030798690X",
         "author": "Dean Radin",
         "category": "Philosophy And Psychology",
@@ -3101,7 +3087,7 @@
         "url": "https://www.goodreads.com/book/show/8694125-alone-together",
         "year": "2013"
     },
-    "Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character": {
+    {
         "amazon_url": "https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041",
         "author": "Richard Feynman",
         "category": "Autobiographies and Biographies",
@@ -3115,7 +3101,7 @@
         "url": "https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_",
         "year": "2018"
     },
-    "Tattoos on the Heart: The Power of Boundless Compassion": {
+    {
         "amazon_url": "https://www.amazon.com/Tattoos-Heart-Power-Boundless-Compassion/dp/1439153159",
         "author": "Gregory Boyle",
         "category": "Philosophy And Psychology",
@@ -3129,7 +3115,7 @@
         "url": "https://www.goodreads.com/book/show/7090193-tattoos-on-the-heart",
         "year": "2010"
     },
-    "Teaching as a Subversive Activity": {
+    {
         "amazon_url": "https://www.amazon.com/Teaching-Subversive-Activity-Neil-Postman/dp/0385290098",
         "author": "Neil Postman, Charles Weingartner",
         "category": "Education",
@@ -3143,7 +3129,7 @@
         "url": "https://www.goodreads.com/book/show/79681.Teaching_as_a_Subversive_Activity",
         "year": "1971"
     },
-    "The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future": {
+    {
         "amazon_url": "https://www.amazon.com/100-Startup-Reinvent-Living-Create/dp/0307951529",
         "author": "Chris Guillebeau",
         "category": "Startups and Business",
@@ -3157,7 +3143,7 @@
         "url": "https://www.goodreads.com/book/show/12605157-the-100-startup",
         "year": "2012"
     },
-    "The 10,000 Year Explosion: How Civilization Accelerated Human Evolution": {
+    {
         "amazon_url": "https://www.amazon.com/000-Year-Explosion-Civilization-Accelerated/dp/0465020429",
         "author": "Gregory Cochran, Henry Harpending",
         "category": "Science and Medicine",
@@ -3171,7 +3157,7 @@
         "url": "https://www.goodreads.com/book/show/6033964-the-10-000-year-explosion",
         "year": "2009"
     },
-    "The 22 Immutable Laws Of Branding": {
+    {
         "amazon_url": "https://www.amazon.com/22-Immutable-Laws-Branding/dp/0060007737",
         "author": "Laura Ries and Al Ries",
         "category": "Startups and Business",
@@ -3185,7 +3171,7 @@
         "url": "https://www.goodreads.com/book/show/1565533.The_22_Immutable_Laws_of_Branding",
         "year": "1998"
     },
-    "The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich": {
+    {
         "amazon_url": "https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357",
         "author": "Timothy Ferriss",
         "category": "Startups and Business",
@@ -3199,7 +3185,7 @@
         "url": "https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek",
         "year": "2011"
     },
-    "The Accidental Billionaires : The Founding of Facebook, a Tale of Sex, Money, Genius and Betrayal": {
+    {
         "amazon_url": "https://www.amazon.com/Accidental-Billionaires-Founding-Facebook-Betrayal/dp/0307740986",
         "author": "Ben Mezrich",
         "category": "Startups and Business",
@@ -3213,7 +3199,7 @@
         "url": "https://www.goodreads.com/book/show/6326920-the-accidental-billionaires",
         "year": "2009"
     },
-    "The Actor and the Target": {
+    {
         "amazon_url": "https://www.amazon.com/Actor-Target-New-Declan-Donnellan/dp/1559362855",
         "author": "Declan Donnellan",
         "category": "Theater and Film",
@@ -3227,7 +3213,7 @@
         "url": "https://www.goodreads.com/book/show/611466.The_Actor_and_the_Target",
         "year": "2006"
     },
-    "The Age of Insight: The Quest to Understand the Unconscious in Art, Mind, and Brain, from Vienna 1900 to the Present": {
+    {
         "amazon_url": "https://www.amazon.com/Age-Insight-Understand-Unconscious-Present/dp/1400068711",
         "author": "Eric Kandel",
         "category": "Philosophy And Psychology",
@@ -3241,7 +3227,7 @@
         "url": "https://www.goodreads.com/book/show/12263681-the-age-of-insight",
         "year": "2012"
     },
-    "The Art of Deception: Controlling the Human Element of Security": {
+    {
         "amazon_url": "https://www.amazon.com/Art-Deception-Controlling-Element-Security/dp/076454280X",
         "author": "Kevin D. Mitnick",
         "category": "Politics",
@@ -3255,7 +3241,7 @@
         "url": "https://www.goodreads.com/book/show/18160.The_Art_of_Deception",
         "year": "2003"
     },
-    "The Art of Learning: An Inner Journey to Optimal Performance": {
+    {
         "amazon_url": "https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465",
         "author": "Josh Waitzkin",
         "category": "Education",
@@ -3269,7 +3255,7 @@
         "url": "https://www.goodreads.com/book/show/857333.The_Art_of_Learning",
         "year": "2008"
     },
-    "The Art of Looking Sideways": {
+    {
         "amazon_url": "https://www.amazon.com/Art-Looking-Sideways-Alan-Fletcher/dp/0714834491",
         "author": "Alan Fletcher",
         "category": "Design",
@@ -3283,7 +3269,7 @@
         "url": "https://www.goodreads.com/book/show/15778.The_Art_of_Looking_Sideways",
         "year": "2001"
     },
-    "The Art of War": {
+    {
         "amazon_url": "https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772",
         "author": "Sun Tzu",
         "category": "Philosophy And Psychology",
@@ -3297,7 +3283,7 @@
         "url": "https://www.goodreads.com/book/show/10534.The_Art_of_War",
         "year": "2005"
     },
-    "The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything": {
+    {
         "amazon_url": "https://www.amazon.com/Art-Start-Time-Tested-Battle-Hardened-Starting/dp/1591840562",
         "author": "Guy Kawasaki",
         "category": "Startups and Business",
@@ -3311,7 +3297,7 @@
         "url": "https://www.goodreads.com/book/show/37875.The_Art_of_the_Start",
         "year": "2004"
     },
-    "The Ascent of Money: A Financial History of the World": {
+    {
         "amazon_url": "https://www.amazon.com/Ascent-Money-Financial-History-World/dp/0143116177",
         "author": "Niall Ferguson",
         "category": "Economics",
@@ -3325,7 +3311,7 @@
         "url": "https://www.goodreads.com/book/show/2714607-the-ascent-of-money",
         "year": "2008"
     },
-    "The Audacity of Hope: Thoughts on Reclaiming the American Dream": {
+    {
         "amazon_url": "https://www.amazon.com/Audacity-Hope-Thoughts-Reclaiming-American/dp/0307455874",
         "author": "Barack Obama",
         "category": "Politics",
@@ -3339,7 +3325,7 @@
         "url": "https://www.goodreads.com/book/show/9742.The_Audacity_of_Hope",
         "year": "2006"
     },
-    "The Autobiography of Malcolm X": {
+    {
         "amazon_url": "https://www.amazon.com/Autobiography-Malcolm-Told-Alex-Haley/dp/0345350685",
         "author": "Malcolm X, Alex Haley",
         "category": "Autobiographies and Biographies",
@@ -3353,7 +3339,7 @@
         "url": "http://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X",
         "year": "2015"
     },
-    "The Beginning of Infinity: Explanations That Transform the World": {
+    {
         "amazon_url": "https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359",
         "author": "David Deutsch",
         "category": "Philosophy And Psychology",
@@ -3367,7 +3353,7 @@
         "url": "https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity",
         "year": ""
     },
-    "The Big Short: Inside the Doomsday Machine": {
+    {
         "amazon_url": "https://www.amazon.com/Big-Short-Inside-Doomsday-Machine/dp/0393338827",
         "author": "Michael Lewis",
         "category": "Startups and Business",
@@ -3381,7 +3367,7 @@
         "url": "https://www.goodreads.com/book/show/8032112-the-big-short",
         "year": "2015"
     },
-    "The Black Swan: The Impact of the Highly Improbable": {
+    {
         "amazon_url": "https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X",
         "author": "Nassim Nicholas Taleb",
         "category": "Startups and Business",
@@ -3395,7 +3381,7 @@
         "url": "http://www.goodreads.com/book/show/242472.The_Black_Swan",
         "year": "2007"
     },
-    "The Blank Slate: The Modern Denial of Human Nature": {
+    {
         "amazon_url": "https://www.amazon.com/Blank-Slate-Modern-Denial-Nature/dp/0142003344",
         "author": "Steven Pinker",
         "category": "Philosophy And Psychology",
@@ -3409,7 +3395,7 @@
         "url": "http://www.goodreads.com/book/show/5752.The_Blank_Slate",
         "year": "2003"
     },
-    "The Bone People": {
+    {
         "amazon_url": "https://www.amazon.com/Bone-People-Novel-Keri-Hulme/dp/0140089225",
         "author": "Keri Hulme",
         "category": "Miscellaneous",
@@ -3423,7 +3409,7 @@
         "url": "https://www.goodreads.com/book/show/460635.The_Bone_People",
         "year": "1986"
     },
-    "The Book Thief": {
+    {
         "amazon_url": "https://www.amazon.com/Book-Thief-Markus-Zusak/dp/0375842209",
         "author": "Markus Zusak",
         "category": "Historical Fiction",
@@ -3437,7 +3423,7 @@
         "url": "https://www.goodreads.com/book/show/19063.The_Book_Thief",
         "year": "2006"
     },
-    "The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done About It": {
+    {
         "amazon_url": "https://www.amazon.com/Bottom-Billion-Poorest-Countries-Failing/dp/0195373383",
         "author": "Paul Collier",
         "category": "Economics",
@@ -3451,7 +3437,7 @@
         "url": "https://www.goodreads.com/book/show/493371.The_Bottom_Billion",
         "year": "2007"
     },
-    "The Brain: The Story of You": {
+    {
         "amazon_url": "https://www.amazon.com/Brain-Story-You-David-Eagleman/dp/0525433449",
         "author": "David Eagleman",
         "category": "Science and Medicine",
@@ -3465,7 +3451,7 @@
         "url": "https://www.goodreads.com/book/show/25776132.the-brain",
         "year": "2015"
     },
-    "The Broken Empire": {
+    {
         "amazon_url": "https://www.amazon.com/Prince-Thorns-Broken-Empire-Lawrence/dp/1937007685",
         "author": "Mark Lawrence",
         "category": "Fantasy",
@@ -3479,7 +3465,7 @@
         "url": "https://www.goodreads.com/series/64473-the-broken-empire",
         "year": "2011"
     },
-    "The Brothers Karamazov": {
+    {
         "amazon_url": "https://www.amazon.com/Brothers-Karamazov-Fyodor-Dostoevsky/dp/0374528373",
         "author": "Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky",
         "category": "Classics",
@@ -3493,7 +3479,7 @@
         "url": "https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov",
         "year": "2002"
     },
-    "The Catcher in the Rye": {
+    {
         "amazon_url": "https://www.amazon.com/Catcher-Rye-J-D-Salinger/dp/0316769487",
         "author": "J.D. Salinger",
         "category": "Classics",
@@ -3507,7 +3493,7 @@
         "url": "https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye",
         "year": "2001"
     },
-    "The Checklist Manifesto: How To Get Things Right": {
+    {
         "amazon_url": "https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000",
         "author": "Atul Gawande",
         "category": "Startups and Business",
@@ -3521,7 +3507,7 @@
         "url": "http://www.goodreads.com/book/show/6667514-the-checklist-manifesto",
         "year": "2009"
     },
-    "The Chronicles of Narnia": {
+    {
         "amazon_url": "https://www.amazon.com/Chronicles-Narnia-C-S-Lewis/dp/0066238501",
         "author": "Clive Staples Lewis",
         "category": "Fantasy",
@@ -3535,7 +3521,7 @@
         "url": "https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia",
         "year": "2005"
     },
-    "The City & The City": {
+    {
         "amazon_url": "https://www.amazon.com/City-Novel-Random-Readers-Circle/dp/034549752X",
         "author": "China Mieville",
         "category": "Fantasy",
@@ -3549,7 +3535,7 @@
         "url": "https://www.goodreads.com/book/show/4703581-the-city-the-city",
         "year": "2009"
     },
-    "The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet": {
+    {
         "amazon_url": "https://www.amazon.com/Codebreakers-Comprehensive-History-Communication-Internet/dp/0684831309",
         "author": "David Kahn",
         "category": "History",
@@ -3563,7 +3549,7 @@
         "url": "https://www.goodreads.com/book/show/29608.The_Codebreakers",
         "year": "1996"
     },
-    "The Compound Effect": {
+    {
         "amazon_url": "https://www.amazon.com/Compound-Effect-Darren-Hardy/dp/159315724X",
         "author": "Darren Hardy",
         "category": "Startups and Business",
@@ -3577,7 +3563,7 @@
         "url": "https://www.goodreads.com/book/show/9420697-the-compound-effect",
         "year": ""
     },
-    "The Concise 48 Laws of Power": {
+    {
         "amazon_url": "https://www.amazon.com/Concise-Laws-Power-Robert-Greene/dp/1861974043",
         "author": "Robert Greene",
         "category": "Philosophy And Psychology",
@@ -3591,7 +3577,7 @@
         "url": "https://www.goodreads.com/book/show/18224060-the-concise-48-laws-of-power",
         "year": "2011"
     },
-    "The Curse of the Mogul": {
+    {
         "amazon_url": "https://www.amazon.com/Curse-Mogul-Worlds-Leading-Companies/dp/1591843901",
         "author": "Jonathan A. Knee, Bruce C. Greenwald, Ava Seave",
         "category": "Startups and Business",
@@ -3605,7 +3591,7 @@
         "url": "https://www.goodreads.com/book/show/7162410-the-curse-of-the-mogul",
         "year": "2009"
     },
-    "The Da Vinci Code": {
+    {
         "amazon_url": "https://www.amazon.com/Vinci-Code-Robert-Langdon/dp/0307474275",
         "author": "Dan Brown",
         "category": "Mystery",
@@ -3619,7 +3605,7 @@
         "url": "http://www.goodreads.com/book/show/968.The_Da_Vinci_Code",
         "year": "2006"
     },
-    "The Dark Tower": {
+    {
         "amazon_url": "https://www.amazon.com/Dark-Tower-8-Book-Boxed-Set/dp/1501163566",
         "author": "Stephen King",
         "category": "Fantasy",
@@ -3633,7 +3619,7 @@
         "url": "https://www.goodreads.com/series/40750-the-dark-tower",
         "year": "2003"
     },
-    "The Death of Ivan Ilych": {
+    {
         "amazon_url": "https://www.amazon.com/Death-Ivan-Ilyich-Bantam-Classics/dp/0553210351",
         "author": "Leo Tolstoy",
         "category": "Classics",
@@ -3647,7 +3633,7 @@
         "url": "https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych",
         "year": ""
     },
-    "The Design of Everyday Things": {
+    {
         "amazon_url": "https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654",
         "author": "Donald Norman",
         "category": "Design",
@@ -3661,7 +3647,7 @@
         "url": "http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things",
         "year": "2002"
     },
-    "The Diamond Age": {
+    {
         "amazon_url": "https://www.amazon.com/Diamond-Age-Neal-Stephenson/dp/1491543388",
         "author": "Neal Stephenson",
         "category": "Science Fiction",
@@ -3675,7 +3661,7 @@
         "url": "http://www.goodreads.com/book/show/827.The_Diamond_Age",
         "year": "2000"
     },
-    "The Diary of a Young Girl": {
+    {
         "amazon_url": "https://www.amazon.com/Anne-Frank-Diary-Young-Girl/dp/B007Z332A0",
         "author": "Anne Frank",
         "category": "Autobiographies and Biographies",
@@ -3689,7 +3675,7 @@
         "url": "http://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl",
         "year": "1993"
     },
-    "The Director": {
+    {
         "amazon_url": "https://www.amazon.com/Director-Novel-David-Ignatius/dp/0393350592",
         "author": "David Ignatius",
         "category": "Classics",
@@ -3703,7 +3689,7 @@
         "url": "http://www.goodreads.com/book/show/23316525-the-director",
         "year": "2009"
     },
-    "The Discoverers": {
+    {
         "amazon_url": "https://www.amazon.com/Discoverers-History-Search-World-Himself/dp/0394726251",
         "author": "Daniel J. Boorstin",
         "category": "History",
@@ -3717,7 +3703,7 @@
         "url": "https://www.goodreads.com/book/show/714380.The_Discoverers",
         "year": "2012"
     },
-    "The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It": {
+    {
         "amazon_url": "https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280",
         "author": "Michael E. Gerber",
         "category": "Startups and Business",
@@ -3731,7 +3717,7 @@
         "url": "https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited",
         "year": "1995"
     },
-    "The Eight": {
+    {
         "amazon_url": "https://www.amazon.com/Eight-Katherine-Neville/dp/0345366239",
         "author": "Katherine Neville",
         "category": "Mystery",
@@ -3745,7 +3731,7 @@
         "url": "https://www.goodreads.com/book/show/113310.The_Eight",
         "year": "2000"
     },
-    "The Ethical Brain: The Science of Our Moral Dilemmas": {
+    {
         "amazon_url": "https://www.amazon.com/Ethical-Brain-Science-Moral-Dilemmas/dp/0060884738",
         "author": "Michael S. Gazzaniga",
         "category": "Philosophy And Psychology",
@@ -3759,7 +3745,7 @@
         "url": "https://www.goodreads.com/book/show/328734.The_Ethical_Brain",
         "year": "2006"
     },
-    "The Ethical Slut: A Guide to Infinite Sexual Possibilities": {
+    {
         "amazon_url": "https://www.amazon.com/Ethical-Slut-Infinite-Sexual-Possibilities/dp/1890159018",
         "author": "Dossie Easton, Catherine A. Liszt.",
         "category": "Sexuality",
@@ -3773,7 +3759,7 @@
         "url": "http://www.goodreads.com/book/show/54944.The_Ethical_Slut?from_search=true",
         "year": "2004"
     },
-    "The Extended Phenotype: The Long Reach of the Gene": {
+    {
         "amazon_url": "https://www.amazon.com/Extended-Phenotype-Reach-Popular-Science/dp/0192880519",
         "author": "Richard Dawkins",
         "category": "Science and Medicine",
@@ -3787,7 +3773,7 @@
         "url": "https://www.goodreads.com/book/show/61538.The_Extended_Phenotype",
         "year": "1999"
     },
-    "The Fifth Sacred Thing": {
+    {
         "amazon_url": "https://www.amazon.com/Fifth-Sacred-Thing-Maya-Greenwood/dp/0553373803",
         "author": "Starhawk",
         "category": "Science Fiction",
@@ -3801,7 +3787,7 @@
         "url": "https://www.goodreads.com/book/show/80689.The_Fifth_Sacred_Thing",
         "year": "1994"
     },
-    "The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression": {
+    {
         "amazon_url": "https://www.amazon.com/Fine-Art-Small-Talk-Conversation/dp/1401302262",
         "author": "Debra Fine",
         "category": "Philosophy And Psychology",
@@ -3815,21 +3801,7 @@
         "url": "https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk",
         "year": "2005"
     },
-    "The Forever War": {
-        "amazon_url": "https://www.amazon.com/Forever-War-Joe-Haldeman/dp/0312536631",
-        "author": "Joe Haldemann",
-        "category": "Science Fiction",
-        "description": "The Earth's leaders have drawn a line in the interstellar sand\u2014despite the fact that the fierce alien enemy that they would oppose is inscrutable, unconquerable, and very far away. A reluctant conscript drafted into an elite Military unit, Private William Mandella has been propelled through space and time to fight in the distant thousand-year conflict; to perform his duties without rancor and even rise up through military ranks. Pvt. Mandella is willing to do whatever it takes to survive the ordeal and return home. But \"home\" may be even more terrifying than battle, because, thanks to the time dilation caused by space travel, Mandella is aging months while the Earth he left behind is aging centuries.",
-        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386852511l/21611._SX98_.jpg",
-        "isbn": "0060510862",
-        "lang": "eng",
-        "pages": "278",
-        "rating": "4.14",
-        "title": "The Forever War",
-        "url": "https://www.goodreads.com/book/show/21611.The_Forever_War",
-        "year": "2003"
-    },
-    "The Four Steps to the Epiphany": {
+    {
         "amazon_url": "https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507",
         "author": "Steve Blank",
         "category": "Startups and Business",
@@ -3843,7 +3815,7 @@
         "url": "https://www.goodreads.com/book/show/762542.The_Four_Steps_to_the_Epiphany",
         "year": "2005"
     },
-    "The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind": {
+    {
         "amazon_url": "https://www.amazon.com/Future-Mind-Scientific-Understand-Enhance/dp/038553082X",
         "author": "Michio Kaku",
         "category": "Philosophy And Psychology",
@@ -3857,7 +3829,7 @@
         "url": "https://www.goodreads.com/book/show/17978489-the-future-of-the-mind",
         "year": "2014"
     },
-    "The Ghost Map: The Story of London's Most Terrifying Epidemic--and How It Changed Science, Cities, and the Modern World": {
+    {
         "amazon_url": "https://www.amazon.com/Ghost-Map-Londons-Terrifying-Epidemic/dp/1594482691",
         "author": "Steven Johnson",
         "category": "History",
@@ -3871,7 +3843,7 @@
         "url": "https://www.goodreads.com/book/show/36086.The_Ghost_Map",
         "year": "2006"
     },
-    "The Girl on the Train": {
+    {
         "amazon_url": "https://www.amazon.com/Girl-Train-Novel-Paula-Hawkins-ebook/dp/B00L9B7IKE",
         "author": "Paula Hawkins",
         "category": "Mystery",
@@ -3885,7 +3857,7 @@
         "url": "https://www.goodreads.com/book/show/22557272-the-girl-on-the-train",
         "year": "2015"
     },
-    "The Glass Bead Game": {
+    {
         "amazon_url": "https://www.amazon.com/Glass-Bead-Game-Magister-Novel-ebook/dp/B00ANI9G0O",
         "author": "Hermann Hesse, Richard and Clara Winston",
         "category": "Classics",
@@ -3899,7 +3871,7 @@
         "url": "https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game",
         "year": "2002"
     },
-    "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers": {
+    {
         "amazon_url": "https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205",
         "author": "Ben Horowitz",
         "category": "Startups and Business",
@@ -3913,7 +3885,7 @@
         "url": "https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things",
         "year": "2014"
     },
-    "The Help": {
+    {
         "amazon_url": "https://www.amazon.com/Help-Kathryn-Stockett/dp/0425232204",
         "author": "Kathryn Stockett",
         "category": "Historical Fiction",
@@ -3927,7 +3899,7 @@
         "url": "https://www.goodreads.com/book/show/4667024-the-help",
         "year": "2009"
     },
-    "The Hero with a Thousand Faces": {
+    {
         "amazon_url": "https://www.amazon.com/Thousand-Faces-Collected-Joseph-Campbell/dp/1577315936",
         "author": "Joseph Campbell",
         "category": "Philosophy And Psychology",
@@ -3941,7 +3913,7 @@
         "url": "https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces",
         "year": "1972"
     },
-    "The History of Western Philosophy": {
+    {
         "amazon_url": "https://www.amazon.com/History-Western-Philosophy-Bertrand-Russell/dp/0671201581",
         "author": "Bertrand Russell",
         "category": "Philosophy And Psychology",
@@ -3955,7 +3927,7 @@
         "url": "https://www.goodreads.com/book/show/243685.A_History_of_Western_Philosophy",
         "year": "1972"
     },
-    "The Hitchhiker's Guide to the Galaxy": {
+    {
         "amazon_url": "https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0345391802",
         "author": "Douglas Adams",
         "category": "Science Fiction",
@@ -3969,7 +3941,7 @@
         "url": "http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy",
         "year": "2007"
     },
-    "The House of Mirth": {
+    {
         "amazon_url": "https://www.amazon.com/House-Mirth-Dover-Thrift-Editions/dp/0486420493",
         "author": "Edith Wharton",
         "category": "Classics",
@@ -3983,7 +3955,7 @@
         "url": "https://www.goodreads.com/book/show/17728.The_House_of_Mirth",
         "year": "2006"
     },
-    "The Immortal Life of Henrietta Lacks": {
+    {
         "amazon_url": "https://www.amazon.com/Immortal-Life-Henrietta-Lacks/dp/1400052181",
         "author": "Rebecca Skloot",
         "category": "Autobiographies and Biographies",
@@ -3997,7 +3969,7 @@
         "url": "https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks?ac=1&from_search=true",
         "year": "2010"
     },
-    "The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future": {
+    {
         "amazon_url": "https://www.amazon.com/Inevitable-Understanding-Technological-Forces-Future/dp/0143110373",
         "author": "Kevin Kelly",
         "category": "Science and Medicine",
@@ -4011,7 +3983,7 @@
         "url": "https://www.goodreads.com/book/show/27209431-the-inevitable",
         "year": "2016"
     },
-    "The Innovator's Dilemma": {
+    {
         "amazon_url": "https://www.amazon.com/Innovators-Dilemma-Revolutionary-Change-Business/dp/0062060244",
         "author": "clayton m. christensen",
         "category": "Startups and Business",
@@ -4025,7 +3997,7 @@
         "url": "https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma",
         "year": "2003"
     },
-    "The Kingkiller Chronicle": {
+    {
         "amazon_url": "https://www.amazon.com/Wise-Mans-Fear-Kingkiller-Chronicle/dp/0756407915",
         "author": "Patrick Rothfuss",
         "category": "Fantasy",
@@ -4039,7 +4011,7 @@
         "url": "https://www.goodreads.com/series/45262-the-kingkiller-chronicle",
         "year": "2007"
     },
-    "The Last Lecture": {
+    {
         "amazon_url": "https://www.amazon.com/Last-Lecture-Randy-Pausch/dp/1401323251",
         "author": "Randy Pausch",
         "category": "Autobiographies and Biographies",
@@ -4053,7 +4025,7 @@
         "url": "http://www.goodreads.com/book/show/2318271.The_Last_Lecture",
         "year": "2008"
     },
-    "The Last Wish - Saga": {
+    {
         "author": "Andrzej Sapkowski",
         "category": "Fantasy",
         "rating": "4.2",
@@ -4061,7 +4033,7 @@
         "url": "https://www.goodreads.com/book/show/1128434.The_Last_Wish",
         "year": "1993"
     },
-    "The Lean Startup: How Constant Innovation Creates Radically Successful Businesses": {
+    {
         "amazon_url": "https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898",
         "author": "Eric Ries",
         "category": "Startups and Business",
@@ -4075,7 +4047,7 @@
         "url": "https://www.goodreads.com/book/show/10127019-the-lean-startup",
         "year": "2011"
     },
-    "The Little Schemer": {
+    {
         "amazon_url": "https://www.amazon.com/Little-Schemer-Daniel-P-Friedman/dp/0262560992",
         "author": "Daniel P. Friedman, Matthias Felleisen, Duane Bibby, Gerald J. Sussman",
         "category": "Science and Medicine",
@@ -4089,7 +4061,7 @@
         "url": "https://www.goodreads.com/book/show/548914.The_Little_Schemer",
         "year": "1995"
     },
-    "The Lord of the Rings": {
+    {
         "amazon_url": "https://www.amazon.com/Lord-Rings-J-R-R-Tolkien/dp/0544003411",
         "author": "J.R.R. Tolkien",
         "category": "Fantasy",
@@ -4103,7 +4075,7 @@
         "url": "https://www.goodreads.com/series/66175-the-lord-of-the-rings",
         "year": "1973"
     },
-    "The Man Who Knew Infinity : A Life of the Genius Ramanujan": {
+    {
         "amazon_url": "https://www.amazon.com/Man-Who-Knew-Infinity-Ramanujan/dp/1476763496",
         "author": "Robert Kanigel",
         "category": "Autobiographies and Biographies",
@@ -4117,7 +4089,7 @@
         "url": "https://www.goodreads.com/book/show/106139.The_Man_Who_Knew_Infinity",
         "year": "1992"
     },
-    "The Man Who Mistook His Wife for A Hat and Other Clinical Tales": {
+    {
         "amazon_url": "https://www.amazon.com/Man-Who-Mistook-His-Wife/dp/1491514078",
         "author": "Oliver Sacks",
         "category": "Science and Medicine",
@@ -4131,7 +4103,7 @@
         "url": "https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales",
         "year": "1998"
     },
-    "The Martian": {
+    {
         "amazon_url": "https://www.amazon.com/Martian-Andy-Weir/dp/0553418025",
         "author": "Andy Weir",
         "category": "Science Fiction",
@@ -4145,7 +4117,7 @@
         "url": "https://www.goodreads.com/book/show/18007564-the-martian",
         "year": "2014"
     },
-    "The Master Switch: The Rise and Fall of Information Empires": {
+    {
         "amazon_url": "https://www.amazon.com/Master-Switch-Rise-Information-Empires/dp/0307390993",
         "author": "Tim Wu",
         "category": "History",
@@ -4159,7 +4131,7 @@
         "url": "https://www.goodreads.com/book/show/8201080-the-master-switch",
         "year": "2010"
     },
-    "The Master and Margarita": {
+    {
         "amazon_url": "https://www.amazon.com/Master-Margarita-Mikhail-Bulgakov/dp/0679760806",
         "author": "Mikhail Bulgakov",
         "category": "Classics",
@@ -4173,7 +4145,7 @@
         "url": "https://www.goodreads.com/book/show/117833.The_Master_and_Margarita",
         "year": "1996"
     },
-    "The Murder of Roger Ackroyd": {
+    {
         "amazon_url": "https://www.amazon.com/Murder-Roger-Ackroyd-Hercule-Mysteries/dp/0062073567",
         "author": "Agatha Christie",
         "category": "Mystery",
@@ -4187,7 +4159,7 @@
         "url": "http://www.goodreads.com/book/show/16328.The_Murder_of_Roger_Ackroyd",
         "year": "2006"
     },
-    "The Myth of the Rational Voter: Why Democracies Choose Bad Policies": {
+    {
         "amazon_url": "https://www.amazon.com/Myth-Rational-Voter-Democracies-Policies/dp/0691138737",
         "author": "Bryan Caplan",
         "category": "Politics",
@@ -4201,7 +4173,7 @@
         "url": "https://www.goodreads.com/book/show/698866.The_Myth_of_the_Rational_Voter",
         "year": "2007"
     },
-    "The Nazi Doctors: Medical Killing and the Psychology of Genocide": {
+    {
         "amazon_url": "https://www.amazon.com/Nazi-Doctors-Medical-Psychology-Genocide/dp/0465049052",
         "author": "Robert Jay Lifton",
         "category": "History",
@@ -4215,7 +4187,7 @@
         "url": "https://www.goodreads.com/book/show/173187.The_Nazi_Doctors",
         "year": "1986"
     },
-    "The New Executive Brain: Frontal Lobes in a Complex World": {
+    {
         "amazon_url": "https://www.amazon.com/New-Executive-Brain-Frontal-Complex/dp/0195329406",
         "author": "Elkhonon Goldberg",
         "category": "Science and Medicine",
@@ -4229,7 +4201,7 @@
         "url": "https://www.goodreads.com/book/show/6745893-the-new-executive-brain",
         "year": "2009"
     },
-    "The New Jim Crow: Mass Incarceration in the Age of Colorblindness": {
+    {
         "amazon_url": "https://www.amazon.com/New-Jim-Crow-Incarceration-Colorblindness/dp/1595586431",
         "author": "Michelle Alexander",
         "category": "Politics",
@@ -4243,7 +4215,7 @@
         "url": "https://www.goodreads.com/book/show/6792458-the-new-jim-crow",
         "year": "2010"
     },
-    "The Outer Limits of Reason: What Science, Mathematics, and Logic Cannot Tell Us": {
+    {
         "amazon_url": "https://www.amazon.com/Outer-Limits-Reason-Science-Mathematics/dp/026252984X",
         "author": "Noson S. Yanofsky",
         "category": "Science and Medicine",
@@ -4257,7 +4229,7 @@
         "url": "http://www.goodreads.com/book/show/17841838-the-outer-limits-of-reason",
         "year": "2013"
     },
-    "The Paradox of Choice: Why More Is Less": {
+    {
         "amazon_url": "https://www.amazon.com/Paradox-Choice-More-Less-Revised-ebook/dp/B000TDGGVU",
         "author": "Barry Shwartz",
         "category": "Startups and Business",
@@ -4271,7 +4243,7 @@
         "url": "https://www.goodreads.com/book/show/10639.The_Paradox_of_Choice",
         "year": "2005"
     },
-    "The Paypal Wars": {
+    {
         "amazon_url": "https://www.amazon.com/PayPal-Wars-Battles-Media-Planet/dp/1936488590",
         "author": "Eric M. Jackson",
         "category": "Startups and Business",
@@ -4285,7 +4257,7 @@
         "url": "https://www.goodreads.com/book/show/4052.The_PayPal_Wars",
         "year": "2010"
     },
-    "The Picture of Dorian Gray": {
+    {
         "amazon_url": "https://www.amazon.com/Picture-Dorian-Dover-Thrift-Editions/dp/0486278077",
         "author": "Oscar Wilde",
         "category": "Classics",
@@ -4299,7 +4271,7 @@
         "url": "https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray",
         "year": "2004"
     },
-    "The Pillars of the Earth": {
+    {
         "amazon_url": "https://www.amazon.com/Pillars-Earth-Novel-Kingsbridge/dp/0451166892",
         "author": "Ken Follett",
         "category": "Historical Fiction",
@@ -4313,7 +4285,7 @@
         "url": "https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth?from_search=true",
         "year": "2002"
     },
-    "The Player of Games": {
+    {
         "amazon_url": "https://www.amazon.com/Player-Games-Culture-Iain-Banks/dp/0316005401",
         "author": "Iain M. Banks",
         "category": "Science Fiction",
@@ -4327,7 +4299,7 @@
         "url": "https://www.goodreads.com/book/show/18630.The_Player_of_Games",
         "year": "1997"
     },
-    "The Power of Full Engagement: Managing Energy, Not Time, is the Key to High Performance and Personal Renewal": {
+    {
         "amazon_url": "https://www.amazon.com/Power-Full-Engagement-Managing-Performance/dp/0743226755",
         "author": "Jim Loehr, Tony Schwartz",
         "category": "Startups and Business",
@@ -4341,7 +4313,7 @@
         "url": "http://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement",
         "year": "2005"
     },
-    "The Power of Habit: Why We Do What We Do In Life And Business": {
+    {
         "amazon_url": "https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X",
         "author": "Charles Duhigg",
         "category": "Philosophy And Psychology",
@@ -4355,7 +4327,7 @@
         "url": "https://www.goodreads.com/book/show/12609433-the-power-of-habit",
         "year": "2012"
     },
-    "The Power of Now: A Guide to Spiritual Enlightenment": {
+    {
         "amazon_url": "https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808",
         "author": "Eckhart Tolle",
         "category": "Philosophy And Psychology",
@@ -4369,7 +4341,7 @@
         "url": "https://www.goodreads.com/book/show/6708.The_Power_of_Now",
         "year": "2004"
     },
-    "The Quark and the Jaguar: Adventures in the Simple and the Complex": {
+    {
         "amazon_url": "https://www.amazon.com/Quark-Jaguar-Adventures-Simple-Complex/dp/0805072535",
         "author": "Murray Gell-Mann",
         "category": "Science and Medicine",
@@ -4383,7 +4355,7 @@
         "url": "https://www.goodreads.com/book/show/270881.The_Quark_and_the_Jaguar",
         "year": "2000"
     },
-    "The Queen's Gambit": {
+    {
         "amazon_url": "https://www.amazon.com/Queens-Gambit-Novel-Walter-Tevis/dp/1400030609",
         "author": "Walter Tevis",
         "category": "Miscellaneous",
@@ -4397,7 +4369,7 @@
         "url": "https://www.goodreads.com/book/show/62022.The_Queen_s_Gambit",
         "year": "2003"
     },
-    "The Rational Optimist: How Prosperity Evolves (P.S.)": {
+    {
         "amazon_url": "https://www.amazon.com/Rational-Optimist-Prosperity-Evolves-P-s/dp/0061452068",
         "author": "Matt Ridley",
         "category": "History",
@@ -4411,7 +4383,7 @@
         "url": "https://www.goodreads.com/book/show/7776209-the-rational-optimist",
         "year": "2010"
     },
-    "The Revenge of Geography: What the Map Tells Us About Coming Conflicts and the Battle Against Fate": {
+    {
         "amazon_url": "https://www.amazon.com/Revenge-Geography-Coming-Conflicts-Against/dp/0812982223",
         "author": "Robert D. Kaplan",
         "category": "History",
@@ -4425,7 +4397,7 @@
         "url": "https://www.goodreads.com/book/show/13330422-the-revenge-of-geography",
         "year": "2012"
     },
-    "The Righteous Mind: Why Good People are Divided by Politics and Religion": {
+    {
         "amazon_url": "https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777",
         "author": "Jonathan Haidt",
         "category": "Politics",
@@ -4439,7 +4411,7 @@
         "url": "https://www.goodreads.com/book/show/11324722-the-righteous-mind",
         "year": "2012"
     },
-    "The Rise and Fall of the British Empire": {
+    {
         "amazon_url": "https://www.amazon.com/Rise-Fall-British-Empire/dp/031216985X",
         "author": "Lawrence James",
         "category": "History",
@@ -4453,7 +4425,7 @@
         "url": "https://www.goodreads.com/book/show/143980.The_Rise_and_Fall_of_the_British_Empire",
         "year": "1997"
     },
-    "The Score Takes Care of Itself: My Philosophy of Leadership": {
+    {
         "amazon_url": "https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472",
         "author": "Bill Walsh, Steve Jamison, Craig Walsh",
         "category": "Startups and Business",
@@ -4467,7 +4439,7 @@
         "url": "https://www.goodreads.com/book/show/6342995-the-score-takes-care-of-itself",
         "year": "2009"
     },
-    "The Selfish Gene": {
+    {
         "amazon_url": "https://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925",
         "author": "Richard Dawkins",
         "category": "Science and Medicine",
@@ -4481,7 +4453,7 @@
         "url": "http://www.goodreads.com/book/show/61535.The_Selfish_Gene",
         "year": "2006"
     },
-    "The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century": {
+    {
         "amazon_url": "https://www.amazon.com/Sense-Style-Thinking-Persons-Writing/dp/0143127799",
         "author": "Steven Pinker",
         "category": "Writing",
@@ -4495,7 +4467,7 @@
         "url": "http://www.goodreads.com/book/show/20821371-the-sense-of-style",
         "year": "2014"
     },
-    "The Sex Myth": {
+    {
         "amazon_url": "https://www.amazon.com/Sex-Myth-Everything-Were-Wrong/dp/0297866397",
         "author": "Brooke Magnanti",
         "category": "Sexuality",
@@ -4509,7 +4481,7 @@
         "url": "https://www.goodreads.com/book/show/13569582-the-sex-myth",
         "year": "2015"
     },
-    "The Shallows: What the Internet is Doing to Our Brains": {
+    {
         "amazon_url": "https://www.amazon.com/Shallows-What-Internet-Doing-Brains/dp/0393339750",
         "author": "Nicholas Carr",
         "category": "Science and Medicine",
@@ -4523,7 +4495,7 @@
         "url": "https://www.goodreads.com/book/show/9778945-the-shallows",
         "year": "2011"
     },
-    "The Signal and the Noise: Why So Many Predictions Fail--but Some Don't": {
+    {
         "amazon_url": "https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087",
         "author": "Nate Silver",
         "category": "Economics",
@@ -4537,7 +4509,7 @@
         "url": "https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise",
         "year": "2012"
     },
-    "The Social Contract": {
+    {
         "amazon_url": "https://www.amazon.com/Social-Contract-Transl-Maurice-Cranston/dp/B00YO41TWQ",
         "author": "Jean-Jacques Rousseau, Maurice Cranston",
         "category": "Philosophy And Psychology",
@@ -4551,7 +4523,7 @@
         "url": "https://www.goodreads.com/book/show/12651.The_Social_Contract",
         "year": "2006"
     },
-    "The Story of My Life": {
+    {
         "amazon_url": "https://www.amazon.com/Story-My-Life-Helen-Keller/dp/1512092975",
         "author": "Helen Keller",
         "category": "Autobiographies and Biographies",
@@ -4565,7 +4537,7 @@
         "url": "http://www.goodreads.com/book/show/821611.The_Story_of_My_Life",
         "year": "1990"
     },
-    "The Strategy and Tactics of Pricing : A Guide to Move More Profitable": {
+    {
         "amazon_url": "https://www.amazon.com/Strategy-Tactics-Pricing-New-International/dp/1292023236",
         "author": "Thomas Nagle, John Hogan, Joseph Zale",
         "category": "Startups and Business",
@@ -4579,7 +4551,7 @@
         "url": "https://www.goodreads.com/book/show/99919.The_Strategy_and_Tactics_of_Pricing",
         "year": ""
     },
-    "The Structure of Scientific Revolutions: 50th Anniversary Edition": {
+    {
         "amazon_url": "https://www.amazon.com/Structure-Scientific-Revolutions-50th-Anniversary/dp/0226458121",
         "author": "Thomas S. Kuhn",
         "category": "Science and Medicine",
@@ -4593,7 +4565,7 @@
         "url": "https://www.goodreads.com/book/show/61539.The_Structure_of_Scientific_Revolutions",
         "year": "1996"
     },
-    "The Stuff of Thought: Language as a Window into Human Nature": {
+    {
         "amazon_url": "https://www.amazon.com/Stuff-Thought-Language-Window-Nature/dp/0143114247",
         "author": "Steven Pinker",
         "category": "Philosophy And Psychology",
@@ -4607,7 +4579,7 @@
         "url": "https://www.goodreads.com/book/show/373969.The_Stuff_of_Thought",
         "year": "2007"
     },
-    "The Symbolic Species: The Co-evolution of Language and the Brain": {
+    {
         "amazon_url": "https://www.amazon.com/Symbolic-Species-Co-evolution-Language-Brain/dp/0393317544",
         "author": "Terrence W. Deacon",
         "category": "Science and Medicine",
@@ -4621,7 +4593,7 @@
         "url": "https://www.goodreads.com/book/show/733691.The_Symbolic_Species",
         "year": "1998"
     },
-    "The Ten Faces of Innovation": {
+    {
         "amazon_url": "https://www.amazon.com/Ten-Faces-Innovation-Strategies-Organization/dp/0385512074",
         "author": "Tom Kelley",
         "category": "Startups and Business",
@@ -4635,7 +4607,7 @@
         "url": "https://www.goodreads.com/book/show/95656.The_Ten_Faces_of_Innovation",
         "year": "2005"
     },
-    "The Thank You Economy": {
+    {
         "amazon_url": "https://www.amazon.com/Thank-You-Economy-Gary-Vaynerchuk/dp/0061914185",
         "author": "Gary Vaynerchuk",
         "category": "Economics",
@@ -4649,7 +4621,7 @@
         "url": "https://www.goodreads.com/book/show/9203287-the-thank-you-economy",
         "year": "2011"
     },
-    "The Third Door:The Wild Quest to Uncover How the World's Most Successful People Launched Their Careers": {
+    {
         "amazon_url": "https://www.amazon.com/Third-Door-Uncover-Successful-Launched/dp/0804136661",
         "author": "Alex banayan",
         "category": "Autobiographies and Biographies",
@@ -4663,7 +4635,7 @@
         "url": "https://www.goodreads.com/book/show/36739769-the-third-door",
         "year": "2018"
     },
-    "The Tipping Point: How Little Things Can Make a Big Difference": {
+    {
         "amazon_url": "https://www.amazon.com/Tipping-Point-Little-Things-Difference/dp/0316346624",
         "author": "Malcolm Gladwell",
         "category": "Startups and Business",
@@ -4677,7 +4649,7 @@
         "url": "https://www.goodreads.com/book/show/2612.The_Tipping_Point",
         "year": "2002"
     },
-    "The Truth About Everything: An Irreverent History of Philosophy : With Illustrations": {
+    {
         "amazon_url": "https://www.amazon.com/Truth-About-Everything-Irreverent-Illustrations/dp/1573921106",
         "author": "Matthew Stewart",
         "category": "Philosophy And Psychology",
@@ -4691,7 +4663,7 @@
         "url": "https://www.goodreads.com/book/show/18528861-the-truth-about-everything",
         "year": "1997"
     },
-    "The Upside of Irrationality: The Unexpected Benefits of Defying Logic": {
+    {
         "amazon_url": "https://www.amazon.com/Upside-Irrationality-Unexpected-Benefits-Defying-ebook/dp/B003JBHVZY",
         "author": "Dan Ariely",
         "category": "Philosophy And Psychology",
@@ -4705,7 +4677,7 @@
         "url": "https://www.goodreads.com/book/show/7815744-the-upside-of-irrationality",
         "year": "2010"
     },
-    "The User Illusion: Cutting Consciousness Down to Size": {
+    {
         "amazon_url": "https://www.amazon.com/User-Illusion-Cutting-Consciousness-Penguin/dp/0140230122",
         "author": "Tor Norretranders",
         "category": "Philosophy And Psychology",
@@ -4719,7 +4691,7 @@
         "url": "https://www.goodreads.com/book/show/106732.The_User_Illusion",
         "year": "1999"
     },
-    "The Wall: (Intimacy) and Other Stories": {
+    {
         "amazon_url": "https://www.amazon.com/Wall-Intimacy-Stories-Directions-Paperbook/dp/0811201902",
         "author": "Jean-Paul Sartre, Lloyd Alexander",
         "category": "Classics",
@@ -4733,7 +4705,7 @@
         "url": "https://www.goodreads.com/book/show/10031.The_Wall",
         "year": "2010"
     },
-    "The Wealth of Networks: How Social Production Transforms Markets and Freedom": {
+    {
         "amazon_url": "https://www.amazon.com/Wealth-Networks-Production-Transforms-Markets/dp/0300125771",
         "author": "Yochai Benkler",
         "category": "Science and Medicine",
@@ -4747,7 +4719,7 @@
         "url": "https://www.goodreads.com/book/show/14721.The_Wealth_of_Networks",
         "year": "2006"
     },
-    "The Wheel of Time": {
+    {
         "amazon_url": "https://www.amazon.com/Wheel-Time-Boxed-Set-Books/dp/0812538366",
         "author": "Robert Jordan",
         "category": "Fantasy",
@@ -4761,7 +4733,7 @@
         "url": "https://www.goodreads.com/series/41526-the-wheel-of-time",
         "year": "1990"
     },
-    "The World Is Flat: A Brief History of the Twenty-first Century": {
+    {
         "amazon_url": "https://www.amazon.com/World-Flat-History-Twenty-first-Century/dp/0374292884",
         "author": "Thomas L. Friedman",
         "category": "History",
@@ -4775,7 +4747,7 @@
         "url": "https://www.goodreads.com/book/show/1911.The_World_Is_Flat",
         "year": "2006"
     },
-    "Think and Grow Rich": {
+    {
         "amazon_url": "https://www.amazon.com/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331",
         "author": "Napoleon Hill",
         "category": "Startups and Business",
@@ -4789,7 +4761,7 @@
         "url": "https://www.goodreads.com/book/show/30186948-think-and-grow-rich",
         "year": "2016"
     },
-    "Thinking Shakespeare: A How-to Guide for Student Actors, Directors, and Anyone Else Who Wants to Feel More Comfortable With the Bard": {
+    {
         "amazon_url": "https://www.amazon.com/Thinking-Shakespeare-How-Directors-Comfortable/dp/1411498720",
         "author": "Barry Edelstein.",
         "category": "Shakespeare",
@@ -4803,7 +4775,7 @@
         "url": "https://www.goodreads.com/book/show/1334872.Thinking_Shakespeare",
         "year": "2007"
     },
-    "Thinking, Fast and Slow": {
+    {
         "amazon_url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555",
         "author": "Daniel Kahneman",
         "category": "Philosophy And Psychology",
@@ -4817,7 +4789,7 @@
         "url": "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow",
         "year": "2011"
     },
-    "This Will Make You Smarter: New Scientific Concepts to Improve Your Thinking": {
+    {
         "amazon_url": "https://www.amazon.com/This-Will-Make-You-Smarter-ebook/dp/B005LC1OR0",
         "author": "John Brockman",
         "category": "Philosophy And Psychology",
@@ -4831,7 +4803,7 @@
         "url": "https://www.goodreads.com/book/show/13035774-this-will-make-you-smarter",
         "year": "2012"
     },
-    "Tomorrowland: Our Staggering Journey from Science Fiction to Science Fact": {
+    {
         "amazon_url": "https://www.amazon.com/Tomorrowland-Journey-Science-Fiction-Fact-ebook/dp/B00O4IA82E",
         "author": "Steven Kotler",
         "category": "Science and Medicine",
@@ -4845,7 +4817,7 @@
         "url": "http://www.goodreads.com/book/show/25060233-tomorrowland",
         "year": "2015"
     },
-    "Too Big to Fail": {
+    {
         "amazon_url": "https://www.amazon.com/Too-Big-Fail-Washington-System/dp/0143118242",
         "author": "Andrew Ross Sorkin",
         "category": "Startups and Business",
@@ -4859,7 +4831,7 @@
         "url": "https://www.goodreads.com/book/show/6687247-too-big-to-fail",
         "year": "2009"
     },
-    "Unbroken: A World War II Story of Survival, Resilience, and Redemption": {
+    {
         "amazon_url": "https://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/0812974492",
         "author": "Laura Hillenbrand",
         "category": "Autobiographies and Biographies",
@@ -4873,7 +4845,7 @@
         "url": "https://www.goodreads.com/book/show/8664353-unbroken",
         "year": "2010"
     },
-    "Utilitarianism": {
+    {
         "amazon_url": "https://www.amazon.com/Utilitarianism-Problems-Philosophy-Geoffrey-Scarre/dp/0415121973",
         "author": "Geoffrey Scarre",
         "category": "Philosophy And Psychology",
@@ -4887,7 +4859,7 @@
         "url": "https://www.goodreads.com/book/show/3807762-utilitarianism",
         "year": "2002"
     },
-    "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel": {
+    {
         "amazon_url": "https://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/0812992180",
         "author": "Rolf Potts",
         "category": "Philosophy And Psychology",
@@ -4901,7 +4873,7 @@
         "url": "https://www.goodreads.com/book/show/100247.Vagabonding",
         "year": "2002"
     },
-    "War and Peace": {
+    {
         "amazon_url": "https://www.amazon.com/War-Peace-Vintage-Classics-Tolstoy/dp/1400079985",
         "author": "Leo Tolstoy",
         "category": "Classics",
@@ -4915,7 +4887,7 @@
         "url": "https://www.goodreads.com/book/show/656.War_and_Peace",
         "year": "1998"
     },
-    "Watership Down: A Novel": {
+    {
         "amazon_url": "https://www.amazon.com/Watership-Down-Novel-Richard-Adams/dp/0743277708",
         "author": "Richard Adams",
         "category": "Classics",
@@ -4929,7 +4901,7 @@
         "url": "https://www.goodreads.com/book/show/76620.Watership_Down",
         "year": "2011"
     },
-    "What Is the Name of This Book?: The Riddle of Dracula and Other Logical Puzzles": {
+    {
         "amazon_url": "https://www.amazon.com/What-Name-This-Book-Recreational/dp/0486481980",
         "author": "Raymond M. Smullyan",
         "category": "Logic and Problem Solving",
@@ -4943,7 +4915,7 @@
         "url": "https://www.goodreads.com/book/show/493576.What_Is_the_Name_of_This_Book_",
         "year": "2011"
     },
-    "What the Dog Saw: and other adventures": {
+    {
         "amazon_url": "https://www.amazon.com/What-Dog-Saw-Other-Adventures/dp/0316076201",
         "author": "Malcolm Gladwell",
         "category": "Philosophy And Psychology",
@@ -4957,7 +4929,7 @@
         "url": "https://www.goodreads.com/book/show/6516450-what-the-dog-saw-and-other-adventures",
         "year": "2009"
     },
-    "Where Good Ideas Come From": {
+    {
         "amazon_url": "https://www.amazon.com/Where-Good-Ideas-Come-Innovation/dp/1594485380",
         "author": "Steven Johnson",
         "category": "Startups and Business",
@@ -4971,7 +4943,7 @@
         "url": "https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from",
         "year": "2010"
     },
-    "Who Says Elephants Can't Dance?: Leading a Great Enterprise through Dramatic Change": {
+    {
         "amazon_url": "https://www.amazon.com/Who-Says-Elephants-Cant-Dance/dp/B001MZKXVI",
         "author": "Louis V Gerstner, Jr",
         "category": "Startups and Business",
@@ -4985,7 +4957,7 @@
         "url": "https://www.goodreads.com/book/show/603985.Who_Says_Elephants_Can_t_Dance_",
         "year": "2003"
     },
-    "Why Does the World Exist?: An Existential Detective Story": {
+    {
         "amazon_url": "https://www.amazon.com/Why-Does-World-Exist-Existential/dp/0871403595",
         "author": "Jim Holt",
         "category": "Philosophy And Psychology",
@@ -4999,7 +4971,7 @@
         "url": "http://www.goodreads.com/book/show/8854815-why-does-the-world-exist",
         "year": "2012"
     },
-    "Why Smart People Can Be So Stupid": {
+    {
         "amazon_url": "https://www.amazon.com/Why-Smart-People-Can-Stupid/dp/0300101708",
         "author": "Robert J Sternberg",
         "category": "Philosophy And Psychology",
@@ -5013,7 +4985,7 @@
         "url": "https://www.goodreads.com/book/show/300300.Why_Smart_People_Can_Be_So_Stupid",
         "year": "2003"
     },
-    "Why We Make Mistakes: How We Look Without Seeing, Forget Things in Seconds, and Are All Pretty Sure We Are Way Above Average": {
+    {
         "amazon_url": "https://www.amazon.com/Why-We-Make-Mistakes-Without/dp/0767928067",
         "author": "Joseph T. Hallinan",
         "category": "Philosophy And Psychology",
@@ -5027,7 +4999,7 @@
         "url": "https://www.goodreads.com/book/show/5040579-why-we-make-mistakes",
         "year": "2009"
     },
-    "Why the West Rules--for Now: The Patterns of History, and What They Reveal About the Future": {
+    {
         "amazon_url": "https://www.amazon.com/Why-West-Rules-Now-Patterns/dp/0312611692",
         "author": "Ian Morris",
         "category": "History",
@@ -5041,7 +5013,7 @@
         "url": "https://www.goodreads.com/book/show/9491855-why-the-west-rules-for-now",
         "year": "2010"
     },
-    "Willpower: Rediscovering the Greatest Human Strength": {
+    {
         "amazon_url": "https://www.amazon.com/Willpower-Rediscovering-Greatest-Human-Strength/dp/0143122231",
         "author": "Ron P. Baumeister, John Tierney",
         "category": "Philosophy And Psychology",
@@ -5055,7 +5027,7 @@
         "url": "https://www.goodreads.com/book/show/11104933-willpower",
         "year": "2011"
     },
-    "Wings of Fire": {
+    {
         "amazon_url": "https://www.amazon.com/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461",
         "author": "A.P.J. Abdul Kalam",
         "category": "Autobiographies and Biographies",
@@ -5069,7 +5041,7 @@
         "url": "http://www.goodreads.com/book/show/634583.Wings_of_Fire",
         "year": "2011"
     },
-    "Wounded by School: Recapturing the Joy in Learning and Standing Up to Old School Culture": {
+    {
         "amazon_url": "https://www.amazon.com/Wounded-School-Recapturing-Learning-Standing/dp/0807749559",
         "author": "Kirsten Olson, Sara Lawrence-Lightfoot, Parker J. Palmer",
         "category": "Education",
@@ -5083,7 +5055,7 @@
         "url": "https://www.goodreads.com/book/show/6425208-wounded-by-school",
         "year": "2009"
     },
-    "Wuthering Heights": {
+    {
         "amazon_url": "https://www.amazon.com/Wuthering-Heights-Wordsworth-Classics-Bronte/dp/1853260010",
         "author": "Emily Bronte",
         "category": "Classics",
@@ -5097,7 +5069,7 @@
         "url": "https://www.goodreads.com/book/show/6185.Wuthering_Heights",
         "year": "2002"
     },
-    "Xeelee Sequence": {
+    {
         "amazon_url": "https://www.amazon.com/Xeelee-Stephen-Baxter/dp/0575090413",
         "author": "Stephen Baxter",
         "category": "Miscellaneous",
@@ -5111,7 +5083,7 @@
         "url": "http://www.goodreads.com/series/49784-xeelee-sequence",
         "year": "1992"
     },
-    "You Just Don't Understand: Women and Men in Conversation": {
+    {
         "amazon_url": "https://www.amazon.com/You-Just-Dont-Understand-Conversation/dp/0060959622",
         "author": "Deborah Tannen",
         "category": "Philosophy And Psychology",
@@ -5125,7 +5097,7 @@
         "url": "https://www.goodreads.com/book/show/147222.You_Just_Don_t_Understand",
         "year": "2007"
     },
-    "Zen Mind, Beginner's Mind": {
+    {
         "amazon_url": "https://www.amazon.com/Zen-Mind-Beginners-Informal-Meditation-ebook/dp/B00I8USOM0",
         "author": "Shunryu Suzuki, David Chadwick",
         "category": "Philosophy And Psychology",
@@ -5139,7 +5111,7 @@
         "url": "https://www.goodreads.com/book/show/402843.Zen_Mind_Beginner_s_Mind",
         "year": "1973"
     },
-    "Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values": {
+    {
         "amazon_url": "https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469",
         "author": "Robert M. Pirsig",
         "category": "Classics",
@@ -5153,7 +5125,7 @@
         "url": "https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance",
         "year": "2006"
     },
-    "Zero to One": {
+    {
         "amazon_url": "https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296",
         "author": "Peter Thiel, Blake Masters",
         "category": "Startups and Business",
@@ -5167,7 +5139,7 @@
         "url": "https://www.goodreads.com/book/show/18050143-zero-to-one",
         "year": "2014"
     },
-    "iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It": {
+    {
         "amazon_url": "https://www.amazon.com/iWoz-Computer-Invented-Personal-Co-Founded/dp/0393330435",
         "author": "Steve Wozniak",
         "category": "Autobiographies and Biographies",
@@ -5180,5 +5152,33 @@
         "title": "iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It",
         "url": "http://www.goodreads.com/book/show/798635.iWoz",
         "year": "2007"
+    },
+    {
+        "amazon_url": "https://www.amazon.com/Forever-War-Joe-Haldeman/dp/0312536631",
+        "author": "Joe Haldemann",
+        "category": "Science Fiction",
+        "description": "The Earth's leaders have drawn a line in the interstellar sand\u2014despite the fact that the fierce alien enemy that they would oppose is inscrutable, unconquerable, and very far away. A reluctant conscript drafted into an elite Military unit, Private William Mandella has been propelled through space and time to fight in the distant thousand-year conflict; to perform his duties without rancor and even rise up through military ranks. Pvt. Mandella is willing to do whatever it takes to survive the ordeal and return home. But \"home\" may be even more terrifying than battle, because, thanks to the time dilation caused by space travel, Mandella is aging months while the Earth he left behind is aging centuries.",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386852511l/21611._SX98_.jpg",
+        "isbn": "0060510862",
+        "lang": "eng",
+        "pages": "278",
+        "rating": "4.14",
+        "title": "The Forever War",
+        "url": "https://www.goodreads.com/book/show/21611.The_Forever_War",
+        "year": "2003"
+    },
+    {
+        "amazon_url": "https://www.amazon.com/Mismatch-Inclusion-Simplicity-Technology-Business/dp/0262038889",
+        "author": "Kat Holmes, John Maeda",
+        "category": "Design",
+        "description": "How inclusive methods can build elegant design solutions that work for all.Sometimes designed objects reject their users: a computer mouse that doesn't work for left-handed people, for example, or a touchscreen payment system that only works for people who read English phrases, have 20/20 vision, and use a credit card. Something as simple as color choices can render a product unusable for millions. These mismatches are the building blocks of exclusion. In Mismatch, Kat Holmes describes how design can lead to exclusion, and how design can also remedy exclusion. Inclusive design methods--designing objects with rather than for excluded users--can create elegant solutions that work well and benefit all.Holmes tells stories of pioneers of inclusive design, many of whom were drawn to work on inclusion because of their own experiences of exclusion. A gamer and designer who depends on voice recognition shows Holmes his \"Wall of Exclusion,\" which displays dozens of game controllers that require two hands to operate; an architect shares her firsthand knowledge of how design can fail communities, gleaned from growing up in Detroit's housing projects; an astronomer who began to lose her eyesight adapts a technique called \"sonification\" so she can \"listen\" to the stars.Designing for inclusion is not a feel-good sideline. Holmes shows how inclusion can be a source of innovation and growth, especially for digital technologies. It can be a catalyst for creativity and a boost for the bottom line as a customer base expands. And each time we remedy a mismatched interaction, we create an opportunity for more people to contribute to society in meaningful ways.",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538365830l/39644200._SX98_.jpg",
+        "isbn": "0262038889",
+        "lang": null,
+        "pages": "176",
+        "rating": "4.14",
+        "title": "Mismatch: How Inclusion Shapes Design",
+        "url": "https://www.goodreads.com/book/show/39644200-mismatch",
+        "year": "2018"
     }
-}
+]

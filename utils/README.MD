@@ -1,34 +1,21 @@
-# Utils for Mind-Expanding-Books
+`utils/` mainly contains scripts for generating `app/src/books.json` file from `README.md`
 
-Simple command line interface to extend and order the Mind-Expanding-Books list.
+## Generating `app/src/books.json`
 
-## Getting started
+The website shows name of the book, year, rating, cover, amazon link, etc in book card. Some of the
+data like name, year, rating etc is present in the [main README.md](../README.md). Other details
+like cover photo, amazon link etc is fetched from various APIs.
 
-### Setup
-1) Copy ```config-sample.py``` to ```config.py```
+The script that fetches all these extra data lives in `utils/update_json_files.py` (utils is present in the parent directory of `app/`)
 
-```bash
-  cp config-sample.py config.py
-```
-2) Get a GoodReads API key [here](https://www.goodreads.com/api/keys)
-3) Copy your public key to the ```config.py``` file
+The script goes through all the books in [main README.md](../README.md) and starts fetching the extra details
+from `Goodreads` and `Google Search` API. And the result is stored in `utils/books.json` and `utils/book_name_to_details.json`
+(used for caching only).
 
-### Converting
+Once the script completes the run, the `utils/books.json` file is copied to `app/src/books.json`
 
-Run
+And the website uses the data from `app/src/books.json` for generating the pages.
 
-```bash
-  python3 housekeep.py --file_type='old'
-```
-
-The ``--file_type='old'`` flag is needed if the books are displayed in the old format (in a list). New format is the default (when the records are displayed in tables).
-
-This will convert to the new format and save it to ``README-new.md``.
-
-**Note!** the first conversion can take some time, we wait 1 second between each request to GoodReads to not abuse the API.
-After the first generation only missing records will be tried to be retrieved.
-
-Run to see the available arguments
-```bash
-  python3 housekeep.py --help
-```
+In most cases, you don't want to run the `utils/update_json_files.py` or make changes to it while working on the website.
+The only time you want to mess with the script is when you want to fetch some extra data from `API` or want to update
+the `book.json` file to include a newly added book or category.
