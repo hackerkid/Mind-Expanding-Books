@@ -17,6 +17,7 @@
 * [Economics](#economics)
 * [Gender](#gender)
 * [Sexuality](#sexuality)
+* [Race](#race)
 * [Education](#education)
 * [Writing](#writing)
 * [Theater and Film](#theater-and-film)
