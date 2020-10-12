@@ -1,4 +1,4 @@
-This directory contains the source code of the Mind Expanding Books [website](https://books.vishnuks.com)
+`app/` directory contains the source code of the Mind Expanding Books [website](https://books.vishnuks.com)
 
 ## How to setup development environment
 

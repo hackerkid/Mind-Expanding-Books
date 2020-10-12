@@ -6,7 +6,7 @@ The website shows name of the book, year, rating, cover, amazon link, etc in boo
 data like name, year, rating etc is present in the [main README.md](../README.md). Other details
 like cover photo, amazon link etc is fetched from various APIs.
 
-The script that fetches all these extra data lives in `utils/update_json_files.py` (utils is present in the parent directory of `app/`)
+The script that fetches all these extra data lives in `utils/update_json_files.py`
 
 The script goes through all the books in [main README.md](../README.md) and starts fetching the extra details
 from `Goodreads` and `Google Search` API. And the result is stored in `utils/books.json` and `utils/book_name_to_details.json`
