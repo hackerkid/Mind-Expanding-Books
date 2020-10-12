@@ -516,6 +516,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Le Ton beau de Marot: In Praise of the Music of Language | Douglas R. Hofstadter | [4.22](https://www.goodreads.com/book/show/248193.Le_Ton_beau_de_Marot) | 1997 |  
+| The Language Instinct: How the Mind Creates Language | Steven Pinker | [4.02](https://www.goodreads.com/book/show/5755.The_Language_Instinct) | 2000 |
 
 ## Nature
 | Name | Author | Goodreads Rating | Year Published |  
