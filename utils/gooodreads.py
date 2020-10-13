@@ -45,7 +45,7 @@ def get_details(book_object):
 
         headers = {
             'x-rapidapi-host': GOOGLE_SEARCH_RAPIDAPI_HOST,
-            'x-rapidapi-key': GOOGLE_SEARCH_RAPIDAPI_KEY,
+            'x-rapidapi-key': GOOGLESEARCH_RAPIDAPI_KEY,
         }
 
         response = requests.request("GET", url, headers=headers)
