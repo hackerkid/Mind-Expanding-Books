@@ -5,7 +5,7 @@ import urllib.error
 
 from bs4 import BeautifulSoup
 
-from config import GOODREADS_PUBLIC_API_KEY, GOOGLE_SEARCH_RAPIDAPI_HOST, GOOGLE_SEARCH_RAPIDAPI_KEY
+from config import GOODREADS_PUBLIC_API_KEY, GOOGLE_SEARCH_RAPIDAPI_HOST, GOOGLESEARCH_RAPIDAPI_KEY
 from googlesearch import search
 
 def get_details(book_object):
