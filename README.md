@@ -106,6 +106,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Age of Insight: The Quest to Understand the Unconscious in Art, Mind, and Brain, from Vienna 1900 to the Present | Eric Kandel | [4.22](https://www.goodreads.com/book/show/12263681-the-age-of-insight) | 2012 |
 | Meditations | Marcus Aurelius | [4.21](https://www.goodreads.com/book/show/30659.Meditations) |  |
 | Influence: The Psychology of Persuasion | Robert B. Cialdini | [4.18](https://www.goodreads.com/book/show/5752.The_Blank_Slate) | 2006 |  
+| The Gift of Fear: Survival Signals That Protect Us from Violence | Gavin de Becker | [4.18](https://www.goodreads.com/book/show/56465.The_Gift_of_Fear) | 2000 |  
 | Gifts of Imperfection | Brene Brown | [4.18](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) |  |  
 | Metamagical Themas: Questing For The Essence Of Mind And Pattern | Douglas Hofstadter | [4.16](https://www.goodreads.com/book/show/181239.Metamagical_Themas) | 1996 |  
 | The Truth About Everything: An Irreverent History of Philosophy : With Illustrations | Matthew Stewart | [4.15](https://www.goodreads.com/book/show/18528861-the-truth-about-everything) | 1997 |  
