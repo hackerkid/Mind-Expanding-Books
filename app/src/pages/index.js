@@ -1,28 +1,28 @@
-import React, { useState, useEffect } from "react"
-import { graphql } from "gatsby"
+/* eslint-disable react/prop-types */
+import React, { useState, useEffect } from 'react';
+import { graphql } from 'gatsby';
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import SideBar from "../components/sidebar"
-import { Container, Row, Col } from "react-bootstrap"
-import BookFeed from "../components/feed"
+import { Container, Row, Col } from 'react-bootstrap';
+import Layout from '../components/layout';
+import SEO from '../components/seo';
+import SideBar from '../components/sidebar';
+import BookFeed from '../components/feed';
 
 function myFunction(setMaximumBooksToShow, maximumBooksToShow) {
   if (
-    document.documentElement.clientHeight +
-      document.documentElement.scrollTop >=
-    document.documentElement.scrollHeight
+    document.documentElement.clientHeight
+      + document.documentElement.scrollTop
+    >= document.documentElement.scrollHeight
   ) {
-    setMaximumBooksToShow(maximumBooksToShow + 12)
+    setMaximumBooksToShow(maximumBooksToShow + 12);
   }
 }
 
 export default ({ data }) => {
-  let [maximumBooksToShow, setMaximumBooksToShow] = useState(12)
+  const [maximumBooksToShow, setMaximumBooksToShow] = useState(12);
   useEffect(() => {
-    window.document.onscroll = () =>
-      myFunction(setMaximumBooksToShow, maximumBooksToShow)
-  })
+    window.document.onscroll = () => myFunction(setMaximumBooksToShow, maximumBooksToShow);
+  });
   return (
     <Layout>
       <SEO title="Home" />
@@ -37,8 +37,8 @@ export default ({ data }) => {
         </Row>
       </Container>
     </Layout>
-  )
-}
+  );
+};
 
 export const query = graphql`
   query MyQuery {
@@ -64,4 +64,4 @@ export const query = graphql`
       }
     }
   }
-`
+`;

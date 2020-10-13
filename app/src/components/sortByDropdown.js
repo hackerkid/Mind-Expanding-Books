@@ -1,13 +1,20 @@
 import React from 'react';
 import { Dropdown } from 'react-bootstrap';
+import { any } from 'prop-types';
 
 export const compareFunctions = {
-  title_a_z: ({ node: bookOne }, { node: bookTwo }) => bookOne.title.localeCompare(bookTwo.title),
-  title_z_a: ({ node: bookOne }, { node: bookTwo }) => bookTwo.title.localeCompare(bookOne.title),
-  year_descending: ({ node: bookOne }, { node: bookTwo }) => Number(bookTwo.year) - Number(bookOne.year),
-  year_ascending: ({ node: bookOne }, { node: bookTwo }) => Number(bookOne.year) - Number(bookTwo.year),
-  rating_descending: ({ node: bookOne }, { node: bookTwo }) => Number(bookTwo.rating) - Number(bookOne.rating),
-  rating_ascending: ({ node: bookOne }, { node: bookTwo }) => Number(bookOne.rating) - Number(bookTwo.rating),
+  title_a_z: ({ node: bookOne },
+    { node: bookTwo }) => bookOne.title.localeCompare(bookTwo.title),
+  title_z_a: ({ node: bookOne },
+    { node: bookTwo }) => bookTwo.title.localeCompare(bookOne.title),
+  year_descending: ({ node: bookOne },
+    { node: bookTwo }) => Number(bookTwo.year) - Number(bookOne.year),
+  year_ascending: ({ node: bookOne },
+    { node: bookTwo }) => Number(bookOne.year) - Number(bookTwo.year),
+  rating_descending: ({ node: bookOne },
+    { node: bookTwo }) => Number(bookTwo.rating) - Number(bookOne.rating),
+  rating_ascending: ({ node: bookOne },
+    { node: bookTwo }) => Number(bookOne.rating) - Number(bookTwo.rating),
 };
 
 export const FIELDS_TO_SORT_BY = [
@@ -19,18 +26,23 @@ export const FIELDS_TO_SORT_BY = [
   { label: 'Title, Z-A', value: 'title_z_a' },
 ];
 
-export default ({ sortBy, onSortByItemClick }) => (
+const propTypes = {
+  sortBy: any,
+  onSortByItemClick: any,
+};
+
+export default () => (
   <div className="mb-2">
     <Dropdown>
       <Dropdown.Toggle variant="outline">
         Sort By:
         {' '}
-        {sortBy}
+        {propTypes.sortBy}
       </Dropdown.Toggle>
 
       <Dropdown.Menu>
         {FIELDS_TO_SORT_BY.map((field) => (
-          <Dropdown.Item onClick={() => onSortByItemClick(field)}>
+          <Dropdown.Item key={field.value} onClick={() => propTypes.onSortByItemClick(field)}>
             {field.label}
           </Dropdown.Item>
         ))}

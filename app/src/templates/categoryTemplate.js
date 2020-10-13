@@ -1,6 +1,4 @@
-import React, { useState, useEffect } from 'react';
-import { graphql } from 'gatsby';
-
+import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
@@ -21,7 +19,7 @@ const basicTemplate = (props) => {
           </Col>
           <Col>
             <CategoryDescription categoryName={categoryName} />
-            <BookFeed data={data} categoryName={categoryName} />
+            <BookFeed data={data} limit={12} />
           </Col>
         </Row>
       </Container>

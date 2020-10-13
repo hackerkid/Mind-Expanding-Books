@@ -1,33 +1,39 @@
-import PropTypes from "prop-types"
-import React from "react"
-import StarRatings from "react-star-ratings"
-import { Card, Row, Col } from "react-bootstrap"
+import React from 'react';
+import StarRatings from 'react-star-ratings';
+import { Card, Row, Col } from 'react-bootstrap';
+import PropTypes from 'prop-types';
 
-import AmazonURL from "../components/amazonurl"
-import GoodReadsImage from "../components/goodreadsimage"
+import AmazonURL from './amazonurl';
+import GoodReadsImage from './goodreadsimage';
 
 const truncateContent = (content) => {
   if (!content) {
-    return ""
+    return '';
   }
-  return content.length > 350 ? content.substring(0, 350) + "..." : content
+  return content.length > 350 ? `${content.substring(0, 350)}...` : content;
 };
 
 const BookCard = ({ book }) => (
-  <Card style={{ width: "44rem", height: "18rem", marginBottom: "15px" }}>
+  <Card style={{ width: '44rem', height: '18rem', marginBottom: '15px' }}>
     <Row aria-label={book.title}>
       <Col xs={3}>
         <Card.Img
-          style={{ width: "9rem", paddingLeft: "25px", paddingRight: "-15px", paddingTop: "30px" }}
+          style={{
+            width: '9rem', paddingLeft: '25px', paddingRight: '-15px', paddingTop: '30px',
+          }}
           src={book.image_url}
           alt={book.title}
         />
       </Col>
       <Col>
-        <Card.Body style={{ marginLeft: "-30px"}}>
+        <Card.Body style={{ marginLeft: '-30px' }}>
           <Card.Title>{book.title}</Card.Title>
           <Card.Subtitle className="mb-2 text-muted">
-            <div>{book.author} <b>{book.year ? book.year: null}</b></div>
+            <div>
+              {book.author}
+              {' '}
+              <b>{book.year ? book.year : null}</b>
+            </div>
             <div>
               <StarRatings
                 rating={parseFloat(book.rating)}
@@ -37,30 +43,31 @@ const BookCard = ({ book }) => (
                 starRatedColor="#fa604a"
               />
             </div>
-            <div style={{ display: "flex", alignItems: "center", paddingTop: ".75rem" }}>
-              <div style= {{ width: "30px", height: "30px", marginRight: "5px" }}>
-                {book.amazon_url ? <AmazonURL book={book} />: null}
+            <div style={{ display: 'flex', alignItems: 'center', paddingTop: '.75rem' }}>
+              <div style={{ width: '30px', height: '30px', marginRight: '5px' }}>
+                {book.amazon_url ? <AmazonURL book={book} /> : null}
               </div>
-              <div style= {{ width: "30px", height: "30px" }}>
-                <a href={book.url} ><GoodReadsImage /></a>
+              <div style={{ width: '30px', height: '30px' }}>
+                <a href={book.url} aria-label="GoodReads"><GoodReadsImage /></a>
               </div>
             </div>
           </Card.Subtitle>
-          <p style={{ color: "gray", fontSize: "0.8rem", paddingTop: "1rem" }}>
+          <p style={{ color: 'gray', fontSize: '0.8rem', paddingTop: '1rem' }}>
             {truncateContent(book.description)}
           </p>
         </Card.Body>
       </Col>
     </Row>
   </Card>
-)
+);
 
 BookCard.propTypes = {
-  siteTitle: PropTypes.object,
-}
+  book: PropTypes.shape(),
+};
 
 BookCard.defaultProps = {
   book: {},
-}
 
-export default BookCard
+};
+
+export default BookCard;

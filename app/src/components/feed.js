@@ -1,14 +1,14 @@
 import React from 'react';
 import '../styles/sidebar.css';
+import PropTypes from 'prop-types';
 import BookCard from './bookcard';
 import SortByDropdown, { FIELDS_TO_SORT_BY, compareFunctions } from './sortByDropdown';
 
-export default ({ data, limit }) => {
+const BookFeed = ({ data, limit }) => {
   const [sortBy, setSortBy] = React.useState(FIELDS_TO_SORT_BY[0]);
 
   const sortedBooks = React.useMemo(() => [...data.allBooksJson.edges]
-    .sort(compareFunctions[sortBy.value]),
-  [sortBy]);
+    .sort(compareFunctions[sortBy.value]), [sortBy]);
 
   return (
     <>
@@ -26,3 +26,16 @@ export default ({ data, limit }) => {
     </>
   );
 };
+
+BookFeed.propTypes = {
+  data: PropTypes.shape(),
+  limit: PropTypes.number,
+};
+
+BookFeed.defaultProps = {
+  data: {},
+  limit: PropTypes.number,
+
+};
+
+export default BookFeed;
