@@ -325,6 +325,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Art of Learning: An Inner Journey to Optimal Performance | Josh Waitzkin | [4.08](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) | 2016 |
 | Wounded by School: Recapturing the Joy in Learning and Standing Up to Old School Culture | Kirsten Olson, Sara Lawrence-Lightfoot, Parker J. Palmer | [3.92](https://www.goodreads.com/book/show/6425208-wounded-by-school) | 2009 |  
 | Curious Minds: How a Child Becomes a Scientist | John Brockman | [3.72](https://www.goodreads.com/book/show/409588.Curious_Minds) | 2005 |  
+| The Little Prince | Antoine de Saint-Exupéry | [4,31](https://www.goodreads.com/book/show/71091.Il_piccolo_principe?ac=1&from_search=true&qid=Ot5tWt8TKY&rank=1) | 1943 |
 
 
 ## Writing
