@@ -240,7 +240,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Scientific Genius: A Psychology of Science | Dean Keith Simonton | [4.25](https://www.goodreads.com/book/show/1752295.Scientific_Genius) | 1988 |  
 | Out of Control: The New Biology of Machines, Social Systems, and the Economic World | Kevin Kelly | [4.24](https://www.goodreads.com/book/show/16080353-out-of-control) | 1995 |  
 | The Brain: The Story of You | David Eagleman | [4.20](https://www.goodreads.com/book/show/25776132.the-brain) | 2015 |
-| A Short History of Nearly Everything | Bill Bryson | [4.19](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything) |  |  
+| A Short History of Nearly Everything | Bill Bryson | [4.19](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything) |  | 
+| Things to Make and Do in the Fourth Dimension |  Matt Parker | [4.19](https://www.goodreads.com/en/book/show/21805670-things-to-make-and-do-in-the-fourth-dimension) | 2014 |  
 | The Symbolic Species: The Co-evolution of Language and the Brain | Terrence W. Deacon | [4.17](https://www.goodreads.com/book/show/733691.The_Symbolic_Species) | 1998 |  
 | A Brief History of Time | Stephen Hawking | [4.12](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time) | 1998 |  
 | The Selfish Gene | Richard Dawkins | [4.11](http://www.goodreads.com/book/show/61535.The_Selfish_Gene) |  |  
