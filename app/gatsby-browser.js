@@ -5,4 +5,10 @@
  */
 
 // You can delete this file if you're not using it
-import "./src/styles/global.css"
+import React from "react"
+
+import GlobalState from "./src/context/globalState"
+
+export const wrapRootElement = ({ element }) => (
+	<GlobalState>{element}</GlobalState>
+)

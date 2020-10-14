@@ -4,6 +4,7 @@ import StarRatings from "react-star-ratings"
 import { Card, Row, Col } from "react-bootstrap"
 
 import AmazonURL from "../components/amazonurl"
+import Bookmark from "../components/bookmark"
 import GoodReadsImage from "../components/goodreadsimage"
 
 const truncateContent = (content) => {
@@ -14,7 +15,7 @@ const truncateContent = (content) => {
 };
 
 const BookCard = ({ book }) => (
-  <Card style={{ width: "44rem", height: "18rem", marginBottom: "15px" }}>
+  <Card style={{ width: "44rem", height: "23rem", marginBottom: "15px" }}>
     <Row aria-label={book.title}>
       <Col xs={3}>
         <Card.Img
@@ -44,6 +45,7 @@ const BookCard = ({ book }) => (
               <div style= {{ width: "30px", height: "30px" }}>
                 <a href={book.url} ><GoodReadsImage /></a>
               </div>
+								<Bookmark book={book} />
             </div>
           </Card.Subtitle>
           <p style={{ color: "gray", fontSize: "0.8rem", paddingTop: "1rem" }}>
