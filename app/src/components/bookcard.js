@@ -62,7 +62,7 @@ return(
             {show && showFullText(book.description)}
           </p>
           {!show && <button className="btn btn-primary" onClick={() => toggleShow(true)}>Show More</button>}
-          {show && <button className="btn btn-primary" onClick={() => toggleShow(true)}>Show Less</button>}
+          {show && <button className="btn btn-primary" onClick={() => toggleShow(false)}>Show Less</button>}
           
         </Card.Body>
       </Col>
