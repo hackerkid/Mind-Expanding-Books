@@ -1,5 +1,5 @@
 import React, { useContext } from "react"
-import { Nav } from "react-bootstrap"
+import { Navbar, Nav } from "react-bootstrap"
 import { StaticQuery, graphql, Link } from "gatsby"
 import "../styles/sidebar.css"
 import { BookmarkContext } from '../context/globalState'
