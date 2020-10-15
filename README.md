@@ -278,7 +278,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | How to Solve It: A New Aspect of Mathematical Method | George Polya | [4.16](https://www.goodreads.com/book/show/192221.How_to_Solve_It) | 2015 |  
 | Labyrinths of Reason: Paradox, Puzzles, and the Frailty of Knowledge | William Poundstone | [4.05](https://www.goodreads.com/book/show/55436.Labyrinths_of_Reason) | 1989 |  
 | Mazes for the Mind: Computers and the Unexpected | Clifford A. Pickover | [4.05](https://www.goodreads.com/book/show/1986400.Mazes_for_the_Mind) | 1992 |
-
+| Problem Solving 101: A Simple Book | Ken Watanabe | [4.10](https://www.goodreads.com/book/show/6271219-problem-solving-101) | 2009 | 
 ## Politics
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|
