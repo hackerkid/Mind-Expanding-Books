@@ -1,10 +1,9 @@
 import PropTypes from "prop-types"
-import React from "react"
+import React,{useState} from "react"
 import StarRatings from "react-star-ratings"
 import { Card, Row, Col } from "react-bootstrap"
 
 import AmazonURL from "../components/amazonurl"
-
 const truncateContent = (content) => {
   if (!content) {
     return ""
@@ -12,7 +11,17 @@ const truncateContent = (content) => {
   return content.length > 350 ? content.substring(0, 350) + "..." : content
 };
 
-const BookCard = ({ book }) => (
+const showFullText = (content) =>{
+  if (!content) {
+    return ""
+  }
+  console.log(content)
+  return content
+}
+
+const BookCard = ( {book} ) =>{
+  const [show,toggleShow] = useState(false)
+return(
   <Card className="ml-5 mb-2">
     <Row>
       <Col className="col-3 align-self-center">
@@ -39,14 +48,18 @@ const BookCard = ({ book }) => (
             {book.amazon_url ? <AmazonURL book={book} />: null}
           </Card.Subtitle>
           <p>
-            {truncateContent(book.description)}
+            {!show && truncateContent(book.description)}
+            {show && showFullText(book.description)}
           </p>
-          <button className="btn btn-primary">Read More</button>
+          {!show && <button className="btn btn-primary" onClick={() => toggleShow(true)}>Show More</button>}
+          {show && <button className="btn btn-primary" onClick={() => toggleShow(true)}>Show Less</button>}
+          
         </Card.Body>
       </Col>
     </Row>
   </Card>
 )
+}
 
 BookCard.propTypes = {
   siteTitle: PropTypes.object,
