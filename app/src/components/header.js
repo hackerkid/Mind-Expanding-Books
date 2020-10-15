@@ -3,12 +3,11 @@ import PropTypes from "prop-types"
 import React from "react"
 
 const Header = ({ siteTitle }) => (
-  <header className="my-1 bg-red" aria-labelledby='main-title'>
+  <header className="my-1 bg-red custom-header" aria-labelledby='main-title'>
     <h1 id="main-title" style={{ margin: 0 }}>
       <Link
         to="/"
         style={{
-          color: `white`,
           textDecoration: `none`,
         }}
       >
