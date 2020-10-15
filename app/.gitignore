@@ -67,3 +67,6 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+# ignore package-lock as it complicates merging
+package-lock.json

@@ -18,11 +18,13 @@ function myFunction(setMaximumBooksToShow, maximumBooksToShow) {
 }
 
 export default ({ data }) => {
-  let [maximumBooksToShow, setMaximumBooksToShow] = useState(12)
+	let [maximumBooksToShow, setMaximumBooksToShow] = useState(12)
+
   useEffect(() => {
     window.document.onscroll = () =>
       myFunction(setMaximumBooksToShow, maximumBooksToShow)
-  })
+	})
+	
   return (
     <Layout>
       <SEO title="Home" />
