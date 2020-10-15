@@ -95,6 +95,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|  
 | Tattoos on the Heart: The Power of Boundless Compassion | Gregory Boyle | [4.41](https://www.goodreads.com/book/show/7090193-tattoos-on-the-heart) | 2010 |  
 | Education and the Significance of Life | Krishnamurti | [4.38](https://www.goodreads.com/book/show/353435.Education_and_the_Significance_of_Life) | 2008 |  
+| Passions Within Reason: The Strategic Role of the Emotions | Robert H. Frank | [4.34](https://www.goodreads.com/book/show/452114.Passions_Within_Reason) | 1989 |
 | Man's Search for Meaning | Viktor E. Frankl | [4.33](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) | 2006 |  
 | Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones| James Clear | [4.32](https://www.goodreads.com/book/show/40121378-atomic-habits) | 2018 | 
 | The User Illusion: Cutting Consciousness Down to Size | Tor Norretranders | [4.30](https://www.goodreads.com/book/show/106732.The_User_Illusion) | 1999 |  
@@ -106,6 +107,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Age of Insight: The Quest to Understand the Unconscious in Art, Mind, and Brain, from Vienna 1900 to the Present | Eric Kandel | [4.22](https://www.goodreads.com/book/show/12263681-the-age-of-insight) | 2012 |
 | Meditations | Marcus Aurelius | [4.21](https://www.goodreads.com/book/show/30659.Meditations) |  |
 | Influence: The Psychology of Persuasion | Robert B. Cialdini | [4.18](https://www.goodreads.com/book/show/5752.The_Blank_Slate) | 2006 |  
+| The Gift of Fear: Survival Signals That Protect Us from Violence | Gavin de Becker | [4.18](https://www.goodreads.com/book/show/56465.The_Gift_of_Fear) | 2000 |  
 | Gifts of Imperfection | Brene Brown | [4.18](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) |  |  
 | Metamagical Themas: Questing For The Essence Of Mind And Pattern | Douglas Hofstadter | [4.16](https://www.goodreads.com/book/show/181239.Metamagical_Themas) | 1996 |  
 | The Truth About Everything: An Irreverent History of Philosophy : With Illustrations | Matthew Stewart | [4.15](https://www.goodreads.com/book/show/18528861-the-truth-about-everything) | 1997 |  
@@ -128,6 +130,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Blank Slate: The Modern Denial of Human Nature | Steven Pinker | [4.07](http://www.goodreads.com/book/show/5752.The_Blank_Slate) | 2003 |  
 | The History of Western Philosophy | Bertrand Russell | [4.06](https://www.goodreads.com/book/show/243685.A_History_of_Western_Philosophy) | 2008 |  
 | Moral Tribes: Emotion, Reason, and the Gap Between Us and Them | Joshua Greene | [4.05](https://www.goodreads.com/book/show/17707599-moral-tribes) | 2013 |  
+| The Elephant in the Brain: Hidden Motives in Everyday Life | Kevin Simler, Robin Hanson | [4.05](https://www.goodreads.com/book/show/28820444-the-elephant-in-the-brain) | 2017 |
 | Quiet: The Power of Introverts in a World That Can't Stop Talking | Susan Cain | [4.04](https://www.goodreads.com/book/show/8520610-quiet) | 2012 |  
 | The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind | Michio Kaku | [4.04](https://www.goodreads.com/book/show/17978489-the-future-of-the-mind) | 2014 |  
 | Every Thing Must Go: Metaphysics Naturalized | James Ladyman, Don Ross, et al | [4.04](https://www.goodreads.com/book/show/757403.Every_Thing_Must_Go) | 2007 |  
@@ -188,6 +191,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Story of My Life | Helen Keller | [4.07](http://www.goodreads.com/book/show/821611.The_Story_of_My_Life) | 1990 |  
 | The Immortal Life of Henrietta Lacks | Rebecca Skloot | [4.05](https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks?ac=1&from_search=true) | 2010 |
 | Losing My Virginity: The Autobiography | Richard Branson | [3.97](https://www.goodreads.com/book/show/9533705-losing-my-virginity) |1999|  
+| My Inventions: The Autobiography of Nikola Tesla | Nikola Tesla | [3.96](https://www.goodreads.com/book/show/493.My_Inventions?ac=1&from_search=true&qid=PQw29iDQp5&rank=1) | 2006 |
 | Ghost in the Wires:	My Adventures as the World's Most Wanted Hacker | Kevin Mitnick | [3.95](http://www.goodreads.com/book/show/10256723-ghost-in-the-wires) | 2011 |  
 | An Autobiography: Toward Freedom | Jawaharlal Nehru | [3.85](http://www.goodreads.com/book/show/322939.An_Autobiography) | 1989 |  
 | iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It | Steve Wozniak | [3.82](http://www.goodreads.com/book/show/798635.iWoz) | 2007 |  
@@ -514,6 +518,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Le Ton beau de Marot: In Praise of the Music of Language | Douglas R. Hofstadter | [4.22](https://www.goodreads.com/book/show/248193.Le_Ton_beau_de_Marot) | 1997 |  
+| The Language Instinct: How the Mind Creates Language | Steven Pinker | [4.02](https://www.goodreads.com/book/show/5755.The_Language_Instinct) | 2000 |
 
 ## Nature
 | Name | Author | Goodreads Rating | Year Published |  

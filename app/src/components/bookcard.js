@@ -4,6 +4,7 @@ import StarRatings from "react-star-ratings"
 import { Card, Row, Col } from "react-bootstrap"
 
 import AmazonURL from "../components/amazonurl"
+import Bookmark from "../components/bookmark"
 import GoodReadsImage from "../components/goodreadsimage"
 
 const truncateContent = (content) => {
@@ -39,7 +40,6 @@ const BookCard = ({ book }) => (
             > 
             {book.author} <b>{book.year ? book.year: null}</b> 
             </Card.Text>
-            
           </Card.Subtitle>
           <p>
             {truncateContent(book.description)}
