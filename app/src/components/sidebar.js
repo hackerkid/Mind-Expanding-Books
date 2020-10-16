@@ -25,7 +25,7 @@ export default () => {
       `}
       render={data => (
         <Nav
-          className="col-md-12 d-none d-md-block bg-light sidebar"
+          className="col-md-2 d-none d-md-block bg-light sidebar"
           activeKey="/home"
         >
           <div className="sidebar-sticky" role="navigation" aria-label="Sidebar">

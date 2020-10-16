@@ -1,5 +1,5 @@
 import PropTypes from "prop-types"
-import React from "react"
+import React,{useState} from "react"
 import StarRatings from "react-star-ratings"
 import { Card, Row, Col } from "react-bootstrap"
 
@@ -14,10 +14,19 @@ const truncateContent = (content) => {
   return content.length > 350 ? content.substring(0, 350) + "..." : content
 };
 
-const BookCard = ({ book }) => (
-  <Card style={{ width: "44rem", height: "23rem", marginBottom: "15px" }}>
-    <Row aria-label={book.title}>
-      <Col xs={3}>
+const showFullText = (content) =>{
+  if (!content) {
+    return ""
+  }
+  return content
+}
+
+const BookCard = ({book}) =>{
+  const [show,toggleShow] = useState(false)
+return(
+  <Card className="ml-5 mb-2">
+    <Row>
+      <Col className="col-3 align-self-center">
         <Card.Img
           style={{ width: "9rem", paddingLeft: "25px", paddingRight: "-15px", paddingTop: "30px" }}
           src={book.image_url}
@@ -49,13 +58,18 @@ const BookCard = ({ book }) => (
             </div>
           </Card.Subtitle>
           <p style={{ color: "gray", fontSize: "0.8rem", paddingTop: "1rem" }}>
-            {truncateContent(book.description)}
+            {!show && truncateContent(book.description)}
+            {show && showFullText(book.description)}
           </p>
+          {!show && <button className="btn btn-primary" onClick={() => toggleShow(true)}>Show More</button>}
+          {show && <button className="btn btn-primary" onClick={() => toggleShow(false)}>Show Less</button>}
+          
         </Card.Body>
       </Col>
     </Row>
   </Card>
 )
+}
 
 BookCard.propTypes = {
   siteTitle: PropTypes.object,
