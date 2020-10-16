@@ -275,7 +275,9 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|  
 | What Is the Name of This Book?: The Riddle of Dracula and Other Logical Puzzles | Raymond M. Smullyan | [4.24](https://www.goodreads.com/book/show/493576.What_Is_the_Name_of_This_Book_) | 2011 |  
 | A Mind for Numbers: How to Excel at Math and Science even If You Flunked Algebra | Barbara Oakley | [4.22](http://www.goodreads.com/book/show/18693655-a-mind-for-numbers) | 2014 |  
-| How to Solve It: A New Aspect of Mathematical Method | George Polya | [4.16](https://www.goodreads.com/book/show/192221.How_to_Solve_It) | 2015 |  
+| How to Solve It: A New Aspect of Mathematical Method | George Polya | [4.16](https://www.goodreads.com/book/show/192221.How_to_Solve_It) | 2015 | 
+| Superforecasting: The Art and Science of Prediction |  Philip E. Tetlock, Dan Gardner | [4.10](https://www.goodreads.com/book/show/23995360-superforecasting) | 2015 |
+| Problem Solving 101: A Simple Book | Ken Watanabe | [4.10](https://www.goodreads.com/book/show/6271219-problem-solving-101) | 2009 |  
 | Labyrinths of Reason: Paradox, Puzzles, and the Frailty of Knowledge | William Poundstone | [4.05](https://www.goodreads.com/book/show/55436.Labyrinths_of_Reason) | 1989 |  
 | Mazes for the Mind: Computers and the Unexpected | Clifford A. Pickover | [4.05](https://www.goodreads.com/book/show/1986400.Mazes_for_the_Mind) | 1992 |
 
@@ -531,7 +533,9 @@ If you like Mind Expanding books you should check out my new project http://diff
 ## Nature
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
-| Pilgrim at Tinker Creek | Annie Dillard | [4.11](https://www.goodreads.com/book/show/12527.Pilgrim_at_Tinker_Creek) | 1974 |  
+| The Sixth Extinction: An Unnatural History | Elizabeth Kolbert | [4.13](https://www.goodreads.com/book/show/17910054-the-sixth-extinction) | 2014 | 
+| Pilgrim at Tinker Creek | Annie Dillard | [4.11](https://www.goodreads.com/book/show/12527.Pilgrim_at_Tinker_Creek) | 1974 |
+
 
 ## Credits
 * [@hackerkid](https://github.com/hackerkid) for starting the list.
