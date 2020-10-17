@@ -40,6 +40,7 @@
 ## Startups and Business
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
+| Never Split the Difference | Chris Voss | [4.40](https://www.goodreads.com/book/show/26156469-never-split-the-difference) | 2016 |
 | Shoe Dog: A Memoir by the Creator of Nike | Phil Knight | [4.46](https://www.goodreads.com/book/show/27220736-shoe-dog) | 2016 | 
 | The Compound Effect | Darren Hardy | [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) | 2010 |  
 | High Output Management | Andy Grove | [4.38](https://www.goodreads.com/book/show/324750.High_Output_Management) | 1995 |  
