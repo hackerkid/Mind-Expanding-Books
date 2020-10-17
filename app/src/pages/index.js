@@ -37,6 +37,16 @@ export default ({ data }) => {
             <BookFeed data={data} limit={maximumBooksToShow} />
           </Col>
         </Row>
+        <Row>
+        {/* <footer style={{marginLeft: 150,
+          width: `100%`,
+          position: `fixed`,
+          bottom: 0}}>
+    © {new Date().getFullYear()}, Built with
+    {` `}
+    <a href="https://www.gatsbyjs.org">Gatsby</a>
+  </footer> */}
+        </Row>
       </Container>
     </Layout>
   )

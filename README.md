@@ -1,5 +1,12 @@
 # Mind Expanding Books
 
+
+<h2  align="center">
+  🔥🔥
+  Check out my latest project - <a href="http://bit.ly/diff-books">diff.blog</a>
+</h2>
+<br>
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Books everyone should read!
@@ -233,7 +240,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Scientific Genius: A Psychology of Science | Dean Keith Simonton | [4.25](https://www.goodreads.com/book/show/1752295.Scientific_Genius) | 1988 |  
 | Out of Control: The New Biology of Machines, Social Systems, and the Economic World | Kevin Kelly | [4.24](https://www.goodreads.com/book/show/16080353-out-of-control) | 1995 |  
 | The Brain: The Story of You | David Eagleman | [4.20](https://www.goodreads.com/book/show/25776132.the-brain) | 2015 |
-| A Short History of Nearly Everything | Bill Bryson | [4.19](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything) |  |  
+| A Short History of Nearly Everything | Bill Bryson | [4.19](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything) |  | 
+| Things to Make and Do in the Fourth Dimension |  Matt Parker | [4.19](https://www.goodreads.com/en/book/show/21805670-things-to-make-and-do-in-the-fourth-dimension) | 2014 |  
 | The Symbolic Species: The Co-evolution of Language and the Brain | Terrence W. Deacon | [4.17](https://www.goodreads.com/book/show/733691.The_Symbolic_Species) | 1998 |  
 | A Brief History of Time | Stephen Hawking | [4.12](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time) | 1998 |  
 | The Selfish Gene | Richard Dawkins | [4.11](http://www.goodreads.com/book/show/61535.The_Selfish_Gene) |  |  
@@ -267,7 +275,9 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|  
 | What Is the Name of This Book?: The Riddle of Dracula and Other Logical Puzzles | Raymond M. Smullyan | [4.24](https://www.goodreads.com/book/show/493576.What_Is_the_Name_of_This_Book_) | 2011 |  
 | A Mind for Numbers: How to Excel at Math and Science even If You Flunked Algebra | Barbara Oakley | [4.22](http://www.goodreads.com/book/show/18693655-a-mind-for-numbers) | 2014 |  
-| How to Solve It: A New Aspect of Mathematical Method | George Polya | [4.16](https://www.goodreads.com/book/show/192221.How_to_Solve_It) | 2015 |  
+| How to Solve It: A New Aspect of Mathematical Method | George Polya | [4.16](https://www.goodreads.com/book/show/192221.How_to_Solve_It) | 2015 | 
+| Superforecasting: The Art and Science of Prediction |  Philip E. Tetlock, Dan Gardner | [4.10](https://www.goodreads.com/book/show/23995360-superforecasting) | 2015 |
+| Problem Solving 101: A Simple Book | Ken Watanabe | [4.10](https://www.goodreads.com/book/show/6271219-problem-solving-101) | 2009 |  
 | Labyrinths of Reason: Paradox, Puzzles, and the Frailty of Knowledge | William Poundstone | [4.05](https://www.goodreads.com/book/show/55436.Labyrinths_of_Reason) | 1989 |  
 | Mazes for the Mind: Computers and the Unexpected | Clifford A. Pickover | [4.05](https://www.goodreads.com/book/show/1986400.Mazes_for_the_Mind) | 1992 |
 
@@ -322,6 +332,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Mindstorms: Children, Computers, And Powerful Ideas | Seymour A. Papert | [4.32](https://www.goodreads.com/book/show/703532.Mindstorms) | 1993 |  
+| The Little Prince | Antoine de Saint-Exupéry | [4,31](https://www.goodreads.com/book/show/71091.Il_piccolo_principe) | 1943 |
 | How Children Fail | John Holt | [4.22](https://www.goodreads.com/book/show/573009.How_Children_Fail) | 1995 |  
 | Make It Stick: The Science of Successful Learning | Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel | [4.20](https://www.goodreads.com/book/show/18770267.make-it-stick) | 2014 |
 | Teaching as a Subversive Activity | Neil Postman, Charles Weingartner | [4.19](https://www.goodreads.com/book/show/79681.Teaching_as_a_Subversive_Activity) | 1971 |  
@@ -329,6 +340,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Art of Learning: An Inner Journey to Optimal Performance | Josh Waitzkin | [4.08](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) | 2016 |
 | Wounded by School: Recapturing the Joy in Learning and Standing Up to Old School Culture | Kirsten Olson, Sara Lawrence-Lightfoot, Parker J. Palmer | [3.92](https://www.goodreads.com/book/show/6425208-wounded-by-school) | 2009 |  
 | Curious Minds: How a Child Becomes a Scientist | John Brockman | [3.72](https://www.goodreads.com/book/show/409588.Curious_Minds) | 2005 |  
+
 
 
 ## Writing
@@ -523,7 +535,9 @@ If you like Mind Expanding books you should check out my new project http://diff
 ## Nature
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
-| Pilgrim at Tinker Creek | Annie Dillard | [4.11](https://www.goodreads.com/book/show/12527.Pilgrim_at_Tinker_Creek) | 1974 |  
+| The Sixth Extinction: An Unnatural History | Elizabeth Kolbert | [4.13](https://www.goodreads.com/book/show/17910054-the-sixth-extinction) | 2014 | 
+| Pilgrim at Tinker Creek | Annie Dillard | [4.11](https://www.goodreads.com/book/show/12527.Pilgrim_at_Tinker_Creek) | 1974 |
+
 
 ## Credits
 * [@hackerkid](https://github.com/hackerkid) for starting the list.

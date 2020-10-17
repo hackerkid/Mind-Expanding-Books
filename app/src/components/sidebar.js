@@ -24,7 +24,7 @@ export default () => {
         }
       `}
       render={data => (
-        <Navbar collapseOnSelect expand="lg" bg="ligt" variant="light">
+        <Navbar className="sidebar-sticky" collapseOnSelect expand="lg" bg="ligt" variant="light">
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse>
           <div>
