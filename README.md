@@ -309,6 +309,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Ascent of Money: A Financial History of the World | Niall Ferguson | [3.88](https://www.goodreads.com/book/show/2714607-the-ascent-of-money) |  |  
 | The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done About It | Paul Collier | [3.85](https://www.goodreads.com/book/show/493371.The_Bottom_Billion) | 2007 |  
 | The Thank You Economy | Gary Vaynerchuk | [3.83](https://www.goodreads.com/book/show/9203287-the-thank-you-economy) | 2011 |  
+| Economics 101: From Consumer Behavior to Competitive Markets--Everything You Need to Know About Economics | Alfred Mill | [3.76](https://www.goodreads.com/book/show/28494049-economics-101) | 2016 |  
 | Super Crunchers: Why Thinking-By-Numbers is the New Way To Be Smart | Ian Ayres | [3.70](https://www.goodreads.com/book/show/1081413.Super_Crunchers) |  |  
 | A Farewell to Alms : A Brief Economic History of the World | Gregory Clark | [3.67](https://www.goodreads.com/book/show/150437.A_Farewell_to_Alms) | 2007 |  
 
