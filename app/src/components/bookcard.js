@@ -24,16 +24,19 @@ const showFullText = (content) =>{
 const BookCard = ({book}) =>{
   const [show,toggleShow] = useState(false)
 return(
-  <Card className="ml-5 mb-2">
-    <Row>
-      <Col className="col-3 align-self-center">
-        <Card.Img
-          style={{ width: "9rem", paddingLeft: "25px", paddingRight: "-15px", paddingTop: "30px" }}
-          src={book.image_url}
-          alt={book.title}
-        />
+  <Card className="mb-2">
+    <Row className="flex flex-md-row flex-sm-column flex-column">
+      <Col className="align-self-center col-sm-0 col-0 col-md-3">
+        <div
+          style={{ height: "300px", position: "relative", overflow: "hidden" }}
+          className="w-100 pl-md-3">
+          <Card.Img
+            src={book.image_url}
+            alt={book.title}
+          />
+        </div>
       </Col>
-      <Col>
+      <Col className="pl-sm-5 pl-5 pl-md-4">
         <Card.Body style={{ marginLeft: "-30px"}}>
           <Card.Title>{book.title}</Card.Title>
           <Card.Subtitle className="mb-2 text-muted">

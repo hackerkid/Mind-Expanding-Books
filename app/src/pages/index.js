@@ -30,7 +30,7 @@ export default ({ data }) => {
       <SEO title="Home" />
       <Container fluid>
         <Row>
-          <Col xs={2}>
+          <Col xs={2} className="d-none d-sm-none d-md-block d-lg-block d-xl-block">
             <SideBar />
           </Col>
           <Col>
