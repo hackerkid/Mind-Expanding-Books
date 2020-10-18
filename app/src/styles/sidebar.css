@@ -8,6 +8,11 @@
   box-shadow: inset -1px 0 0 rgba(0, 0, 0, 0.1);
   width: max-content;
 }
+
+.nav-link {
+  font-size: .900rem;
+}
+
 #sidebar-wrapper {
   min-height: 100vh !important;
   width: 100vw;
@@ -25,3 +30,6 @@
   min-width: 0;
   width: 100%;
 }
+
+
+

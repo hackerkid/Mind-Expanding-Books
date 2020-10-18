@@ -3,17 +3,17 @@ import PropTypes from "prop-types"
 import React from "react"
 
 const Header = ({ siteTitle }) => (
-  <header className="my-1 bg-red custom-header" aria-labelledby='main-title'>
-    <h1 id="main-title" style={{ margin: 0 }}>
+  <header className="mx-2 bg-red d-none d-lg-block custom-header" aria-labelledby='main-title'>
+    <h4 className="d-flex justify-content-end" id="main-title" style={{ margin: 16 }}>
       <Link
         to="/"
         style={{
-          textDecoration: `none`,
+          textDecorationColor: `none`,
         }}
       >
         {siteTitle}
       </Link>
-    </h1>
+    </h4>
   </header>
 )
 
