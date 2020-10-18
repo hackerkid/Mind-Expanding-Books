@@ -1,12 +1,12 @@
 import React from "react";
 
 
-export default ({categoryName}) => {
+export default ({categoryName, categoryImage}) => {
     return (
-        <div aria-labelledby="category-description">
-            <h2 id="category-description">
-                {categoryName}
-            </h2>
+        <div className="my-2 mx-2" aria-labelledby="category-description">
+            <h4 id="category-description">
+    {categoryImage} {categoryName}
+            </h4>
         </div>
     )
 }

@@ -42,6 +42,7 @@ exports.createPages = async function ({ actions, graphql }) {
         context: {
             categoryName: category.name,
             data: data.data,
+            image: category.emoji,
             limit: null,
         },
       })
