@@ -41,6 +41,9 @@ const BookCard = ({ book }) => {
           <Card.Body>
             <Card.Title>{book.title}</Card.Title>
             <Card.Subtitle className="text-muted">
+              <Card.Text style={{ paddingTop: "2px"}}>
+                {book.author} <b>{book.year ? book.year : null}</b>
+              </Card.Text>
               <StarRatings
                 rating={parseFloat(book.rating)}
                 numberOfStars={5}
@@ -48,9 +51,17 @@ const BookCard = ({ book }) => {
                 starSpacing="1px"
                 starRatedColor="#fa604a"
               />
-              <Card.Text style={{ paddingTop: "10px", paddingBottom: "10px" }}>
-                {book.author} <b>{book.year ? book.year : null}</b>
-              </Card.Text>
+              <div style={{display: "flex",alignItems: "center",paddingTop: ".75rem",}} >
+                <div style={{ width: "30px", height: "30px", marginRight: "5px" }}>
+                  {book.amazon_url ? <AmazonURL book={book} /> : null}
+                </div>
+                <div style={{ width: "30px", height: "30px" }}>
+                  <a href={book.url}>
+                    <GoodReadsImage />
+                  </a>
+                </div>
+                <Bookmark book={book} />
+              </div>
             </Card.Subtitle>
             <p
               style={{ color: "gray", fontSize: "0.8rem", paddingTop: "1rem" }}
@@ -74,24 +85,6 @@ const BookCard = ({ book }) => {
                 Show Less
               </button>
             )}
-            <div
-              style={{
-                display: "flex",
-                alignItems: "center",
-                paddingTop: ".75rem",
-              }}
-            >
-              <div
-                style={{ width: "30px", height: "30px", marginRight: "5px" }}
-              >
-                {book.amazon_url ? <AmazonURL book={book} /> : null}
-              </div>
-              <div style={{ width: "30px", height: "30px" }}>
-                <a href={book.url}>
-                  <GoodReadsImage />
-                </a>
-              </div>
-            </div>
           </Card.Body>
         </Col>
       </Row>
