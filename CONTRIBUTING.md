@@ -11,5 +11,7 @@ Please ensure your pull request adheres to the following guidelines:
   `| Book name | Author | [Goodreads rating](Goodreads url) | Year published |`
 - Make sure that the book in inserted in the correct order according to the Goodreads rating.
 - Mention in pull request clearly why you think the book deserve to be in the list.
+- Specify clearly the joner of the book and the why one must read those kind of books.
 
+Read, learn and teach.
 Thank you!
