@@ -28,3 +28,10 @@ virtualenv .
 source bin/activate
 pip install -r requirements.txt
 ```
+
+## Executing the script
+
+- Register at [goodreads](https://www.goodreads.com)
+- Apply for a developer api [here](https://www.goodreads.com/api)
+- Copy utils/config-sample.py as utils/config.py
+- Fill in the API Key credentials
