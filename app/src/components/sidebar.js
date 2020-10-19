@@ -33,7 +33,7 @@ export default () => {
 						</div>
             {data.allCategoriesJson.edges.map(function(x, index) {
               return (
-                <Nav.Item>
+                <Nav.Item key={index}>
                   <Nav.Link href={slugify(x.node.name)}>
                     {x.node.emoji} {x.node.name}
                   </Nav.Link>
