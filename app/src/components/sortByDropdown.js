@@ -29,8 +29,8 @@ export default ({ sortBy, onSortByItemClick }) => (
       </Dropdown.Toggle>
 
       <Dropdown.Menu>
-        {FIELDS_TO_SORT_BY.map((field) => (
-          <Dropdown.Item onClick={() => onSortByItemClick(field)}>
+        {FIELDS_TO_SORT_BY.map((field, index) => (
+          <Dropdown.Item key={index} onClick={() => onSortByItemClick(field)}>
             {field.label}
           </Dropdown.Item>
         ))}

@@ -4,7 +4,7 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import SideBar from "../components/sidebar"
-import { Container, Row, Col } from "react-bootstrap"
+import { Container, Row, Col, Navbar } from "react-bootstrap"
 import BookFeed from "../components/feed"
 
 function myFunction(setMaximumBooksToShow, maximumBooksToShow) {
@@ -18,22 +18,34 @@ function myFunction(setMaximumBooksToShow, maximumBooksToShow) {
 }
 
 export default ({ data }) => {
-  let [maximumBooksToShow, setMaximumBooksToShow] = useState(12)
+	let [maximumBooksToShow, setMaximumBooksToShow] = useState(12)
+
   useEffect(() => {
     window.document.onscroll = () =>
       myFunction(setMaximumBooksToShow, maximumBooksToShow)
-  })
+	})
+	
   return (
     <Layout>
       <SEO title="Home" />
-      <Container fluid>
+      <Container fluid> 
         <Row>
-          <Col xs={2}>
+          <Col lg={2}>
             <SideBar />
           </Col>
-          <Col>
+          <Col lg={10}>
             <BookFeed data={data} limit={maximumBooksToShow} />
           </Col>
+        </Row>
+        <Row>
+        {/* <footer style={{marginLeft: 150,
+          width: `100%`,
+          position: `fixed`,
+          bottom: 0}}>
+    © {new Date().getFullYear()}, Built with
+    {` `}
+    <a href="https://www.gatsbyjs.org">Gatsby</a>
+  </footer> */}
         </Row>
       </Container>
     </Layout>
