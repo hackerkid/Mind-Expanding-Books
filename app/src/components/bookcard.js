@@ -34,7 +34,6 @@ const BookCard = ({ book }) => {
               paddingTop: "30px",
             }}
             src={book.image_url}
-            resizeMode="contain"
           />
         </Col>
         <Col xs={12} md={8} xl={10}>
