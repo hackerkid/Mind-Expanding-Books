@@ -302,6 +302,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 ## Economics
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
+| The Simple Path to Wealth: Your road map to financial independence and a rich, free life |  J.L. Collins | [4.47](https://www.goodreads.com/book/show/30646587-the-simple-path-to-wealth) | 2016 |  
 | Origin of Wealth | Eric D. Beinhocker | [4.23](https://www.goodreads.com/book/show/22456.The_Origin_of_Wealth) | 2006 |  
 | Every Shot Counts: Using the Revolutionary Strokes Gained Approach to Improve Your Golf Performance and Strategy | Mark Broadie | [4.23](https://www.goodreads.com/book/show/17674971-every-shot-counts) | 2014 |  
 | Economic Facts and Fallacies | Thomas Sowell | [4.18](https://www.goodreads.com/book/show/2064279.Economic_Facts_and_Fallacies) | 2008 |  
