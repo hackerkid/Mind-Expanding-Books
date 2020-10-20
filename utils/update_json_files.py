@@ -46,11 +46,11 @@ def validate_bookcover(book_details):
         This API checks for book cover, and returns with a valid
         bookcover if nophoto found on goodreads, using openlibrary
     """
-    no_photo_url='https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png'
-    open_library_url='http://covers.openlibrary.org/b/isbn/book_isbn-M.jpg'
+    no_photo_url='https://s.gr-assets.com/assets/nophoto/book/'
+    open_library_url='http://covers.openlibrary.org/b/isbn/{isbn}-M.jpg'
 
-    if (book_details['image_url'] == no_photo_url):
-        book_details['image_url'] = open_library_url.replace('book_isbn', book_details['isbn'])
+    if (book_details['image_url'].__contains__(no_photo_url)):
+        book_details['image_url'] = open_library_url.format(isbn=book_details['isbn'])
     return book_details
 
 if __name__ == "__main__":
