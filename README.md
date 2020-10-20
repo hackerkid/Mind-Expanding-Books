@@ -41,6 +41,7 @@
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Never Split the Difference | Chris Voss | [4.40](https://www.goodreads.com/book/show/26156469-never-split-the-difference) | 2016 |
+| Nail it then Scale it: The Entrepreneur's Guide to Creating and Managing Breakthrough | Nathan Furr | [4.13](https://www.goodreads.com/book/show/12236649-nail-it-then-scale-it) | 2011 | 
 | Shoe Dog: A Memoir by the Creator of Nike | Phil Knight | [4.46](https://www.goodreads.com/book/show/27220736-shoe-dog) | 2016 | 
 | The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company | Robert Iger, Joel Lovell | [4.44](https://www.goodreads.com/book/show/44525305-the-ride-of-a-lifetime) | 2019 | 
 | The Compound Effect | Darren Hardy | [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) | 2010 |  
