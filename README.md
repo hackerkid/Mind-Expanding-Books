@@ -355,7 +355,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Hat Box: The Collected Lyrics of Stephen Sondheim | Stephen Sondheim | [4.77](https://www.goodreads.com/book/show/12909101-hat-box) |  |  
-| On Writing: A Memoir of the Craft | Stephen King | [4.31](https://www.goodreads.com/book/show/10569.On_Writing) | 2002 |  
+| On Writing: A Memoir of the Craft | Stephen King | [4.31](https://www.goodreads.com/book/show/10569.On_Writing) | 2002 |
+| Bird by Bird: Some Instructions on Writing and Life | Anne Lamott | [4.23](https://www.goodreads.com/book/show/12543.Bird_by_Bird) | 1995 |  
 | Clear and Simple as the Truth | Francis-Noël Thomas, Mark Turner | [4.06](https://www.goodreads.com/book/show/120549.Clear_and_Simple_as_the_Truth) | 1996 |  
 | The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century | Steven Pinker | [4.03](http://www.goodreads.com/book/show/20821371-the-sense-of-style) | 2014 |  
 
