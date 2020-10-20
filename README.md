@@ -455,6 +455,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | All the Light We Cannot See | Anthony Doerr | [4.31](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see) | 2014 |  
 | The Pillars of the Earth | Ken Follett | [4.29](https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth?from_search=true) | 2002 |  
 | Kane and Abel | Jeffrey Archer | [4.27](http://www.goodreads.com/book/show/78983.Kane_and_Abel) | 2004 |  
+| One Day in the Life of Ivan Denisovich | Aleksandr Solzhenitsyn | [4](https://www.goodreads.com/book/show/17125.One_Day_in_the_Life_of_Ivan_Denisovich) | 1962 |
 | Emma | Jane Austen | [3.99](https://www.goodreads.com/book/show/6969.Emma) | 2003 |  
 | Sophie's World: A Novel About the History of Philosophy | Jostein Gaarder and Paulette Moller | [3.88](https://www.goodreads.com/book/show/10959.Sophie_s_World) | 1996 |  
 
