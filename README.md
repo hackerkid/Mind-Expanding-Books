@@ -386,48 +386,48 @@ If you like Mind Expanding books you should check out my new project http://diff
 ### Classics
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
-| The Master and Margarita | Mikhail Bulgakov | [4.32](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita) | 1996 |  
-| Infinite Jest | David Foster Wallace | [4.31](https://www.goodreads.com/book/show/6759.Infinite_Jest) | 1995 |  
-| The Brothers Karamazov | Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky | [4.30](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | 2002 |  
-| Pride And Prejudice | Jane Austen | [4.24](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) | 2000 |  
-| A Prayer for Owen Meany | John Irving | [4.22](https://www.goodreads.com/book/show/4473.A_Prayer_for_Owen_Meany) | 1990 |  
-| Letters From The Earth | Mark Twain | [4.22](https://www.goodreads.com/book/show/37813.Letters_from_the_Earth) | 2004 |  
+| The Master and Margarita | Mikhail Bulgakov | [4.32](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita) | 1966 |  
+| Infinite Jest | David Foster Wallace | [4.31](https://www.goodreads.com/book/show/6759.Infinite_Jest) | 1996 |  
+| The Brothers Karamazov | Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky | [4.30](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | 1880 |  
+| Pride And Prejudice | Jane Austen | [4.24](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) | 1813 |  
+| A Prayer for Owen Meany | John Irving | [4.22](https://www.goodreads.com/book/show/4473.A_Prayer_for_Owen_Meany) | 1989 |  
+| Letters From The Earth | Mark Twain | [4.22](https://www.goodreads.com/book/show/37813.Letters_from_the_Earth) | 1962 |  
 | One Flew Over the Cuckoo's Nest | Ken Kesey | [4.18](https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest) | 1963 |  
-| Crime and Punishment | Fyodor Dostoyevsky | [4.18](https://www.goodreads.com/book/show/7144.Crime_and_Punishment) | 2002 |  
+| Crime and Punishment | Fyodor Dostoyevsky | [4.18](https://www.goodreads.com/book/show/7144.Crime_and_Punishment) | 1866 |  
 | 1984 | George Orwell | [4.17](https://www.goodreads.com/book/show/40961427-1984) | 1949 |  
-| Steppenwolf: A Novel | Hermann Hesse, Basil Creighton | [4.11](https://www.goodreads.com/book/show/16631.Steppenwolf) | 1999 |  
-| The Glass Bead Game | Hermann Hesse, Richard and Clara Winston | [4.11](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game) | 2002 |  
-| War and Peace | Leo Tolstoy | [4.11](https://www.goodreads.com/book/show/656.War_and_Peace) | 1998 |  
+| Steppenwolf: A Novel | Hermann Hesse, Basil Creighton | [4.11](https://www.goodreads.com/book/show/16631.Steppenwolf) | 1927 |  
+| The Glass Bead Game | Hermann Hesse, Richard and Clara Winston | [4.11](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game) | 1943 |  
+| War and Peace | Leo Tolstoy | [4.11](https://www.goodreads.com/book/show/656.War_and_Peace) | 1867 |  
 | Jane Eyre | Charlotte Brontë | [4.10](https://www.goodreads.com/book/show/10210.Jane_Eyre) | 1847 |  
-| Germinal | Emile Zola | [4.10](https://www.goodreads.com/book/show/28407.Germinal) | 2004 |  
-| If on a Winter's Night a Traveler | Italo Calvino and William Weaver | [4.08](https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler) | 1982 |  
-| The Wall: (Intimacy) and Other Stories | Jean-Paul Sartre, Lloyd Alexander | [4.07](https://www.goodreads.com/book/show/10031.The_Wall) | 2010 |  
-| Sense and Sensibility | Jane Austen | [4.06](https://www.goodreads.com/book/show/14935.Sense_and_Sensibility) | 2003 |  
-| The Picture of Dorian Gray | Oscar Wilde | [4.06](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) | 1998 |  
-| Watership Down: A Novel | Richard Adams | [4.05 ](https://www.goodreads.com/book/show/76620.Watership_Down) |1975|  
-| One Hundred Years of Solitude | Gabriel Garcia Marquez, Gregory Rabassa | [4.04](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude) | 2003 |  
-| The Death of Ivan Ilych | Leo Tolstoy | [4.04](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) |  |  
-| Anna Karenina | Leo Tolstoy | [4.02](https://www.goodreads.com/book/show/15823480-anna-karenina) | 2012 |  
-| Bleak House | Charles Dickens | [4.00](https://www.goodreads.com/book/show/31242.Bleak_House) | 2006 |  
-| J'accuse | Emile Zola | [3.99](https://www.goodreads.com/book/show/816964.J_accuse) | 1998 |  
-| Catch 22 | Joseph Heller | [3.98](https://www.goodreads.com/book/show/4610.Catch_22) | 2004 |  
-| The House of Mirth | Edith Wharton | [3.94](https://www.goodreads.com/book/show/17728.The_House_of_Mirth) | 2006 |  
-| Confessions of a Mask | Yukio Mishima | [3.91](https://www.goodreads.com/book/show/62794.Confessions_of_a_Mask) | 1998 |  
-| De L'esprit Des Lois | Montesquieu | [3.91](https://www.goodreads.com/book/show/29854007-de-l-esprit-des-lois-nouvelle-edition) | 1995 |  
+| Germinal | Emile Zola | [4.10](https://www.goodreads.com/book/show/28407.Germinal) | 1885 |  
+| If on a Winter's Night a Traveler | Italo Calvino and William Weaver | [4.08](https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler) | 1979 |  
+| The Wall: (Intimacy) and Other Stories | Jean-Paul Sartre, Lloyd Alexander | [4.07](https://www.goodreads.com/book/show/10031.The_Wall) | 1948 |  
+| Sense and Sensibility | Jane Austen | [4.06](https://www.goodreads.com/book/show/14935.Sense_and_Sensibility) | 1811 |  
+| The Picture of Dorian Gray | Oscar Wilde | [4.06](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) | 1890 |  
+| Watership Down: A Novel | Richard Adams | [4.05 ](https://www.goodreads.com/book/show/76620.Watership_Down) |1972|  
+| One Hundred Years of Solitude | Gabriel Garcia Marquez, Gregory Rabassa | [4.04](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude) | 1967 |  
+| The Death of Ivan Ilych | Leo Tolstoy | [4.04](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) | 1886  |  
+| Anna Karenina | Leo Tolstoy | [4.02](https://www.goodreads.com/book/show/15823480-anna-karenina) | 1878 |  
+| Bleak House | Charles Dickens | [4.00](https://www.goodreads.com/book/show/31242.Bleak_House) | 1853 |  
+| J'accuse | Emile Zola | [3.99](https://www.goodreads.com/book/show/816964.J_accuse) | 1898 |  
+| Catch 22 | Joseph Heller | [3.98](https://www.goodreads.com/book/show/4610.Catch_22) | 1961 |  
+| The House of Mirth | Edith Wharton | [3.94](https://www.goodreads.com/book/show/17728.The_House_of_Mirth) | 1905 |  
+| Confessions of a Mask | Yukio Mishima | [3.91](https://www.goodreads.com/book/show/62794.Confessions_of_a_Mask) | 1949 |  
+| De L'esprit Des Lois | Montesquieu | [3.91](https://www.goodreads.com/book/show/29854007-de-l-esprit-des-lois-nouvelle-edition) | 1748 |  
 | Love in the Time of Cholera | Gabriel García Marquéz | [3.9](https://www.goodreads.com/book/show/9712.Love_in_the_Time_of_Cholera) | 1985 | 
-| Don Quixote | Miguel de Cervantes | [3.85](http://www.goodreads.com/book/show/3836.Don_Quixote) | 2003 |  
-| Mansfield Park | Jane Austen | [3.84](https://www.goodreads.com/book/show/45032) | 2003 |  
-| Wuthering Heights | Emily Bronte | [3.82](https://www.goodreads.com/book/show/6185.Wuthering_Heights) | 2002 |  
-| Père Goriot | Honoré de Balzac | [3.82](https://www.goodreads.com/book/show/59145.P_re_Goriot) | 1997 |  
-| Adventures of Huckleberry Finn | Mark Twain | [3.80](https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn) | 2002 |  
-| The Catcher in the Rye | J.D. Salinger | [3.79](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye) | 2001 |  
-| Eugénie Grandet | Honoré de Balzac | [3.79](https://www.goodreads.com/book/show/59142.Eug_nie_Grandet) | 2003 |
+| Don Quixote | Miguel de Cervantes | [3.85](http://www.goodreads.com/book/show/3836.Don_Quixote) | 1605 |  
+| Mansfield Park | Jane Austen | [3.84](https://www.goodreads.com/book/show/45032) | 1814 |  
+| Wuthering Heights | Emily Bronte | [3.82](https://www.goodreads.com/book/show/6185.Wuthering_Heights) | 1847 |  
+| Père Goriot | Honoré de Balzac | [3.82](https://www.goodreads.com/book/show/59145.P_re_Goriot) | 1834 |  
+| Adventures of Huckleberry Finn | Mark Twain | [3.80](https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn) | 1884 |  
+| The Catcher in the Rye | J.D. Salinger | [3.79](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye) | 1951 |  
+| Eugénie Grandet | Honoré de Balzac | [3.79](https://www.goodreads.com/book/show/59142.Eug_nie_Grandet) | 1833 |
 | Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values  | Robert M. Pirsig | [3.76](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance) | 1974 |
-| Candide | Voltaire | [3.76](https://www.goodreads.com/book/show/19380.Candide) | 1991 |  
+| Candide | Voltaire | [3.76](https://www.goodreads.com/book/show/19380.Candide) | 1759 |  
 | Atlas Shrugged | Ayn Rand | [3.68](https://www.goodreads.com/book/show/9365.Atlas_Shrugged) | 1957 |
-| Madame Bovary | Gustave Flaubert | [3.65](https://www.goodreads.com/book/show/2175.Madame_Bovary) | 2004 |  
-| Confessions | Jean-Jacques Rousseau | [3.61](https://www.goodreads.com/book/show/12649.Confessions) | 2003 |  
-| Lettres persanes | Montesquieu | [3.54](http://www.goodreads.com/book/show/509686.Persian_Letters) |  |  
+| Madame Bovary | Gustave Flaubert | [3.65](https://www.goodreads.com/book/show/2175.Madame_Bovary) | 1856 |  
+| Confessions | Jean-Jacques Rousseau | [3.61](https://www.goodreads.com/book/show/12649.Confessions) | 1782 |  
+| Lettres persanes | Montesquieu | [3.54](http://www.goodreads.com/book/show/509686.Persian_Letters) | 1721 |  
 | The Director | David Ignatius | [3.43](http://www.goodreads.com/book/show/23316525-the-director) | 2015 |   
 
 ### Fantasy
@@ -440,8 +440,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Mistborn | Brandon Sanderson | [4.43](https://www.goodreads.com/series/40910-mistborn) | 2006 |
 | Harry Potter and the Methods of Rationality | Eliezer Yudkowsky | [4.38](https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality) | 2015 |  
 | Discworld | Terry Pratchett | [4.32](https://www.goodreads.com/series/40650-discworld) | 2001 |  
-| The Dark Tower | Stephen King | [4.27](https://www.goodreads.com/series/40750-the-dark-tower) |  |  
-| His Dark Materials | Philip Pullman | [4.25](https://www.goodreads.com/book/show/18116.His_Dark_Materials) |  |  
+| The Dark Tower | Stephen King | [4.27](https://www.goodreads.com/series/40750-the-dark-tower) | 1982 |  
+| His Dark Materials | Philip Pullman | [4.25](https://www.goodreads.com/book/show/18116.His_Dark_Materials) | 1995 |  
 | The Last Wish - Saga | Andrzej Sapkowski | [4.2](https://www.goodreads.com/book/show/1128434.The_Last_Wish) | 1993 |
 | The Chronicles of Narnia | Clive Staples Lewis | [4.24](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia) | 2002 |  
 | The Wheel of Time | Robert Jordan | [4.19](https://www.goodreads.com/series/41526-the-wheel-of-time) | 1990 |
@@ -451,16 +451,16 @@ If you like Mind Expanding books you should check out my new project http://diff
 ### Historical Fiction
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
-| Lonesome Dove | Larry McMurtry | [4.47](https://www.goodreads.com/book/show/256008.Lonesome_Dove) | 1999 |  
+| Lonesome Dove | Larry McMurtry | [4.47](https://www.goodreads.com/book/show/256008.Lonesome_Dove) | 1985 |  
 | The Help | Kathryn Stockett | [4.45](https://www.goodreads.com/book/show/4667024-the-help) | 2009 |  
 | A Thousand Splendid Suns | Khaled Hosseini | [4.4](https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns) | 2007 |
 | The Book Thief | Markus Zusak | [4.36](https://www.goodreads.com/book/show/19063.The_Book_Thief) | 2005 |  
 | All the Light We Cannot See | Anthony Doerr | [4.31](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see) | 2014 |  
-| The Pillars of the Earth | Ken Follett | [4.29](https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth?from_search=true) | 2002 |  
-| Kane and Abel | Jeffrey Archer | [4.27](http://www.goodreads.com/book/show/78983.Kane_and_Abel) | 2004 |  
+| The Pillars of the Earth | Ken Follett | [4.29](https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth?from_search=true) | 1989 |  
+| Kane and Abel | Jeffrey Archer | [4.27](http://www.goodreads.com/book/show/78983.Kane_and_Abel) | 1979 |  
 | One Day in the Life of Ivan Denisovich | Aleksandr Solzhenitsyn | [4](https://www.goodreads.com/book/show/17125.One_Day_in_the_Life_of_Ivan_Denisovich) | 1962 |
-| Emma | Jane Austen | [3.99](https://www.goodreads.com/book/show/6969.Emma) | 2003 |  
-| Sophie's World: A Novel About the History of Philosophy | Jostein Gaarder and Paulette Moller | [3.88](https://www.goodreads.com/book/show/10959.Sophie_s_World) | 1996 |  
+| Emma | Jane Austen | [3.99](https://www.goodreads.com/book/show/6969.Emma) | 1815 |  
+| Sophie's World: A Novel About the History of Philosophy | Jostein Gaarder and Paulette Moller | [3.88](https://www.goodreads.com/book/show/10959.Sophie_s_World) | 1991 |  
 
 ### Humor
 | Name | Author | Goodreads Rating | Year Published |  
