@@ -176,7 +176,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Rapt: Attention and the Focused Life: Winifred Gallagher | Winifred Gallagher | [3.54](https://www.goodreads.com/book/show/6262510-rapt) |  |  
 | Utilitarianism | Geoffrey Scarre | [3.50](https://www.goodreads.com/book/show/3807762-utilitarianism) | 1996 |  
 | The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression | Debra Fine | [3.36](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) | 2005 |  
-| Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) |  | 
+| Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) |  |
+| Tuesdays with Morrie | Mitch Albom | [4.11](https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie) | 1997 |
  
 
 ## Autobiographies and Biographies
