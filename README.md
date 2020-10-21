@@ -44,6 +44,7 @@
 | Shoe Dog: A Memoir by the Creator of Nike | Phil Knight | [4.46](https://www.goodreads.com/book/show/27220736-shoe-dog) | 2016 | 
 | The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company | Robert Iger, Joel Lovell | [4.44](https://www.goodreads.com/book/show/44525305-the-ride-of-a-lifetime) | 2019 | 
 | The Compound Effect | Darren Hardy | [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) | 2010 |  
+| Failing to Succeed: The Story of India's First E-Commerce Company | K. Vaitheeswaran | [4.39](https://www.goodreads.com/book/show/35626210-failing-to-succeed) | 2017 | 
 | High Output Management | Andy Grove | [4.38](https://www.goodreads.com/book/show/324750.High_Output_Management) | 1995 |  
 | Outwitting the Devil: The Secret to Freedom and Success | Napoleon Hill | [4.38](https://www.goodreads.com/book/show/10713286-outwitting-the-devil) | 2011 |
 | How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success | Jack Canfield, Janet Switzer | [4.26](https://www.goodreads.com/book/show/96593.The_Success_Principles) | 2007 |  
