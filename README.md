@@ -289,6 +289,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Problem Solving 101: A Simple Book | Ken Watanabe | [4.10](https://www.goodreads.com/book/show/6271219-problem-solving-101) | 2009 |  
 | Labyrinths of Reason: Paradox, Puzzles, and the Frailty of Knowledge | William Poundstone | [4.05](https://www.goodreads.com/book/show/55436.Labyrinths_of_Reason) | 1989 |  
 | Mazes for the Mind: Computers and the Unexpected | Clifford A. Pickover | [4.05](https://www.goodreads.com/book/show/1986400.Mazes_for_the_Mind) | 1992 |
+| Concepts of Programming Languages | Robert W. Sebesta | [3.68](https://www.goodreads.com/book/show/603257.Concepts_of_Programming_Languages) | 1988 |
 
 ## Politics
 | Name | Author | Goodreads Rating | Year Published |  
