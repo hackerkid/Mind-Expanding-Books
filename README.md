@@ -129,7 +129,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Creative Visualization: Use the Power of Your Imagination to Create What You Want in Your Life | Shakti Gawain | [4.13](https://www.goodreads.com/book/show/582533.Creative_Visualization) | 2002 |  
 | Bulfinch's Mythology | Thomas Bulfinch | [4.13](https://www.goodreads.com/book/show/588147.Bulfinch_s_Mythology) | 1998 |  
 | Ego Is the Enemy | Ryan Holiday | [4.12](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy) | 2016 |  
-| Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! | Anthony Robbins | [4.11](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within) |  |  
+| Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! | Anthony Robbins | [4.11](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within) | 1991 |  
 | The Power of Now: A Guide to Spiritual Enlightenment | Eckhart Tolle | [4.11](https://www.goodreads.com/book/show/6708.The_Power_of_Now) | 1997 | 
 | Tuesdays with Morrie | Mitch Albom | [4.11](https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie) | 1997 |
 | Predictably Irrational | Dan Ariely | [4.10](https://www.goodreads.com/book/show/1713426.Predictably_Irrational) | 2008 |  
@@ -137,7 +137,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Thinking, Fast and Slow | Daniel Kahneman | [4.09](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) | 2011 |  
 | Irrational Man: A Study in Existential Philosophy | William Barrett | [4.09](https://www.goodreads.com/book/show/83321.Irrational_Man) |  |
 | Happy: Why More or Less Everything is Absolutely Fine | Derren Brown | [4.08](https://www.goodreads.com/book/show/30142270-happy) | 2016 |
-| The Beginning of Infinity: Explanations That Transform the World | David Deutsch | [4.08](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) |  |  
+| The Beginning of Infinity: Explanations That Transform the World | David Deutsch | [4.08](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) | 2011 |  
 | Metaphors We Live By | George Lakoff, Mark Johnson | [4.08](https://www.goodreads.com/book/show/34459.Metaphors_We_Live_By) | 2003 |  
 | Grit | Angela Duckworth | [4.08](https://www.goodreads.com/book/show/27213329-grit) | 2016 |  
 | In Defense of Food: An Eater's Manifesto | Michael Pollan | [4.07](https://www.goodreads.com/book/show/315425.In_Defense_of_Food) | 2008 |  
@@ -151,12 +151,12 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Antifragile: Things That Gain from Disorder (Incerto) | Nassim Nicholas Taleb | [4.04](https://www.goodreads.com/book/show/13530973-antifragile) | 2012 |  
 | Mindset: The new psychology of success | Carol S. Dweck,Ph.D. | [4.04](https://www.goodreads.com/book/show/40745.Mindset) | 2006 |
 | The Power of Habit: Why We Do What We Do In Life And Business | Charles Duhigg | [4.03](https://www.goodreads.com/book/show/12609433-the-power-of-habit) | 2012 |  
-| The Upside of Irrationality: The Unexpected Benefits of Defying Logic | Dan Ariely | [4.00](https://www.goodreads.com/book/show/7815744-the-upside-of-irrationality) |  |  
+| The Upside of Irrationality: The Unexpected Benefits of Defying Logic | Dan Ariely | [4.00](https://www.goodreads.com/book/show/7815744-the-upside-of-irrationality) | 2010 |  
 | Outsmarting IQ: The Emerging Science of Learnable Intelligence | David Perkins | [4.00](https://www.goodreads.com/book/show/1008488.Outsmarting_Iq) | 1995 | 
 | The Art of War | Sun Tzu | [3.95](https://www.goodreads.com/book/show/10534.The_Art_of_War) | 2005 |  
 | Willpower: Rediscovering the Greatest Human Strength | Ron P. Baumeister, John Tierney | [3.95](https://www.goodreads.com/book/show/11104933-willpower) | 2011 |  
-| A Whole New Mind: Why Right-Brainers Will Rule the Future | Daniel H. Pink | [3.95](https://www.goodreads.com/book/show/99315.A_Whole_New_Mind) |  |  
-| Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel | Rolf Potts | [3.92](https://www.goodreads.com/book/show/100247.Vagabonding) |  |  
+| A Whole New Mind: Why Right-Brainers Will Rule the Future | Daniel H. Pink | [3.95](https://www.goodreads.com/book/show/99315.A_Whole_New_Mind) |2006  |  
+| Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel | Rolf Potts | [3.92](https://www.goodreads.com/book/show/100247.Vagabonding) |2002  |  
 | Supernormal: Science, Yoga, and the Evidence for Extraordinary Psychic Abilities | Dean Radin | [3.91](https://www.goodreads.com/book/show/8694125-alone-together) | 2013 |  
 | Prisoner's Dilemma | William Poundstone | [3.91](https://www.goodreads.com/book/show/29506.Prisoner_s_Dilemma) | 1993 | 
 | The Stuff of Thought: Language as a Window into Human Nature | Steven Pinker | [3.90](https://www.goodreads.com/book/show/373969.The_Stuff_of_Thought) | 2007 |  
@@ -165,21 +165,21 @@ If you like Mind Expanding books you should check out my new project http://diff
 | You Just Don't Understand: Women and Men in Conversation | Deborah Tannen | [3.86](https://www.goodreads.com/book/show/147222.You_Just_Don_t_Understand) | 2007 |  
 | Just the Arguments: 100 of the Most Important Arguments in Western Philosophy | Michael Bruce, Steven Barbone | [3.85](https://www.goodreads.com/book/show/12838972-just-the-arguments) | 2011 |  
 | What the Dog Saw: and other adventures | Malcolm Gladwell | [3.82](https://www.goodreads.com/book/show/6516450-what-the-dog-saw-and-other-adventures) | 2009 |  
-| Spent: Sex, Evolution, and Consumer Behavior | Geoffrey Miller | [3.82](https://www.goodreads.com/book/show/6283340-spent) |  |  
-| Games People Play: The Basic Handbook of Transactional Analysis | Eric Berne. | [3.81](https://www.goodreads.com/book/show/49176.Games_People_Play) |  |  
+| Spent: Sex, Evolution, and Consumer Behavior | Geoffrey Miller | [3.82](https://www.goodreads.com/book/show/6283340-spent) | 2009 |  
+| Games People Play: The Basic Handbook of Transactional Analysis | Eric Berne. | [3.81](https://www.goodreads.com/book/show/49176.Games_People_Play) | 1964 |  
 | This Will Make You Smarter: New Scientific Concepts to Improve Your Thinking | John Brockman | [3.81](https://www.goodreads.com/book/show/13035774-this-will-make-you-smarter) | 2012 |  
 | Intuition Pumps And Other Tools for Thinking | Daniel C. Dennett | [3.80](https://www.goodreads.com/book/show/18378002-intuition-pumps-and-other-tools-for-thinking) | 2014 |  
-| Jonathan Livingston Seagull | Richard Bach | [3.80](https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull) |  |  
+| Jonathan Livingston Seagull | Richard Bach | [3.80](https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull) |  1970|  
 | Why Does the World Exist?: An Existential Detective Story | Jim Holt | [3.77](http://www.goodreads.com/book/show/8854815-why-does-the-world-exist) | 2012 |  
-| The Social Contract | Jean-Jacques Rousseau, Maurice Cranston | [3.75](https://www.goodreads.com/book/show/12651.The_Social_Contract) |  |  
+| The Social Contract | Jean-Jacques Rousseau, Maurice Cranston | [3.75](https://www.goodreads.com/book/show/12651.The_Social_Contract) | 2009 |  
 | The Ethical Brain: The Science of Our Moral Dilemmas | Michael S. Gazzaniga | [3.70](https://www.goodreads.com/book/show/328734.The_Ethical_Brain) | 2006 |  
 | Why Smart People Can Be So Stupid | Robert J Sternberg | [3.68](https://www.goodreads.com/book/show/300300.Why_Smart_People_Can_Be_So_Stupid) | 2003 |  
 | Alone Together: Why We Expect More from Technology and Less from Each Others | Sherry Turkle | [3.62](http://www.goodreads.com/book/show/8694125-alone-together) | 2011 |  
 | How to Win Every Argument: The Use and Abuse of Logic | Madsen Pirie | [3.55](https://www.goodreads.com/book/show/112731.How_to_Win_Every_Argument) | 2006 |  
-| Rapt: Attention and the Focused Life: Winifred Gallagher | Winifred Gallagher | [3.54](https://www.goodreads.com/book/show/6262510-rapt) |  |  
+| Rapt: Attention and the Focused Life: Winifred Gallagher | Winifred Gallagher | [3.54](https://www.goodreads.com/book/show/6262510-rapt) | 2009 |  
 | Utilitarianism | Geoffrey Scarre | [3.50](https://www.goodreads.com/book/show/3807762-utilitarianism) | 1996 |  
 | The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression | Debra Fine | [3.36](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) | 2005 |  
-| Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) |  | 
+| Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) | 2001 | 
  
 
 ## Autobiographies and Biographies
@@ -188,9 +188,9 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Becoming | Michelle Obama | [4.53](https://www.goodreads.com/book/show/38746485-becoming) | 2018 |  
 | Unbroken: A World War II Story of Survival, Resilience, and Redemption | Laura Hillenbrand | [4.39](https://www.goodreads.com/book/show/8664353-unbroken) | 2010 |  
 | Long Walk to Freedom | Nelson Mandela | [4.31](http://www.goodreads.com/book/show/318431.Long_Walk_to_Freedom) | 1995 | 
-| My Life and My Work | Henry Ford | [4.29](http://www.goodreads.com/book/show/1122054.My_Life_And_Work) |  |  
+| My Life and My Work | Henry Ford | [4.29](http://www.goodreads.com/book/show/1122054.My_Life_And_Work) | 1922 |  
 | Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character | Richard Feynman | [4.29](https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_) | 1997 |  
-| The Autobiography of Malcolm X | Malcolm X, Alex Haley | [4.29](http://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X) |  |  
+| The Autobiography of Malcolm X | Malcolm X, Alex Haley | [4.29](http://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X) |1965  |  
 | The Third Door:The Wild Quest to Uncover How the World's Most Successful People Launched Their Careers| Alex banayan|[4.28](https://www.goodreads.com/book/show/36739769-the-third-door) | 2018 |
 | Elon Musk: Inventing the Future | Ashlee Vance | [4.25](https://www.goodreads.com/book/show/22543496-elon-musk) | 2015 |  
 | The Last Lecture | Randy Pausch | [4.25](http://www.goodreads.com/book/show/2318271.The_Last_Lecture) | 2008 |  
@@ -226,13 +226,13 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Churchill's Secret War: The British Empire and the Ravaging of India during World War II | Madhusree Mukerjee | [4.05](https://www.goodreads.com/book/show/8890989-churchill-s-secret-war) | 2010 |  
 | El Tiempo Entre Costuras | María Dueñas | [4.04](https://www.goodreads.com/book/show/7502166-el-tiempo-entre-costuras) |2009 |  
 | Guns, Germs, And Steel : The Fates Of Human Societies | Jared M. Diamond | [4.00](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel) | 2005 |  
-| Discovery of India | Jawaharlal Nehru | [3.98](http://www.goodreads.com/book/show/154126.The_Discovery_of_India) |  |  
+| Discovery of India | Jawaharlal Nehru | [3.98](http://www.goodreads.com/book/show/154126.The_Discovery_of_India) | 1946 |  
 | The Rational Optimist: How Prosperity Evolves (P.S.) | Matt Ridley | [3.98](https://www.goodreads.com/book/show/7776209-the-rational-optimist) | 2010 |  
 | Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground | Kevin Poulson | [3.96](http://www.goodreads.com/book/show/9319468-kingpin) | 2011 |  
-| The Ghost Map: The Story of London's Most Terrifying Epidemic--and How It Changed Science, Cities, and the Modern World | Steven Johnson | [3.91](https://www.goodreads.com/book/show/36086.The_Ghost_Map) |  |  
+| The Ghost Map: The Story of London's Most Terrifying Epidemic--and How It Changed Science, Cities, and the Modern World | Steven Johnson | [3.91](https://www.goodreads.com/book/show/36086.The_Ghost_Map) |2006 |  
 | The Rise and Fall of the British Empire | Lawrence James | [3.89](https://www.goodreads.com/book/show/143980.The_Rise_and_Fall_of_the_British_Empire) | 1997 |  
 | The Master Switch: The Rise and Fall of Information Empires | Tim Wu | [3.89](https://www.goodreads.com/book/show/8201080-the-master-switch) | 2010 |  
-| Spycraft | Robert Wallace, H. Keith Melton, Henry R. Schlesinger | [3.81](http://www.goodreads.com/book/show/971936.Spycraft) |  |  
+| Spycraft | Robert Wallace, H. Keith Melton, Henry R. Schlesinger | [3.81](http://www.goodreads.com/book/show/971936.Spycraft) |1987  |  
 | Civilization: The West and the Rest: Niall Ferguson | Niall Ferguson | [3.78](https://www.goodreads.com/book/show/10475421-civilization) | 2011 |  
 | The Revenge of Geography: What the Map Tells Us About Coming Conflicts and the Battle Against Fate | Robert D. Kaplan | [3.68](https://www.goodreads.com/book/show/13330422-the-revenge-of-geography) | 2012 |  
 | The World Is Flat: A Brief History of the Twenty-first Century | Thomas L. Friedman | [3.66](https://www.goodreads.com/book/show/1911.The_World_Is_Flat) | 2006 |  
@@ -248,18 +248,18 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Scientific Genius: A Psychology of Science | Dean Keith Simonton | [4.25](https://www.goodreads.com/book/show/1752295.Scientific_Genius) | 1988 |  
 | Out of Control: The New Biology of Machines, Social Systems, and the Economic World | Kevin Kelly | [4.24](https://www.goodreads.com/book/show/16080353-out-of-control) | 1995 |  
 | The Brain: The Story of You | David Eagleman | [4.20](https://www.goodreads.com/book/show/25776132.the-brain) | 2015 |
-| A Short History of Nearly Everything | Bill Bryson | [4.19](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything) |  | 
+| A Short History of Nearly Everything | Bill Bryson | [4.19](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything) |2003  | 
 | Things to Make and Do in the Fourth Dimension |  Matt Parker | [4.19](https://www.goodreads.com/en/book/show/21805670-things-to-make-and-do-in-the-fourth-dimension) | 2014 |  
 | The Symbolic Species: The Co-evolution of Language and the Brain | Terrence W. Deacon | [4.17](https://www.goodreads.com/book/show/733691.The_Symbolic_Species) | 1998 |  
 | A Brief History of Time | Stephen Hawking | [4.12](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time) | 1998 |  
-| The Selfish Gene | Richard Dawkins | [4.11](http://www.goodreads.com/book/show/61535.The_Selfish_Gene) |  |  
+| The Selfish Gene | Richard Dawkins | [4.11](http://www.goodreads.com/book/show/61535.The_Selfish_Gene) |1976  |  
 | Figments of Reality: The Evolution of the Curious Mind | Ian Stewart, Jack Cohen | [4.11](https://www.goodreads.com/book/show/164560.Figments_of_Reality) | 2009 |  
 | The New Executive Brain: Frontal Lobes in a Complex World | Elkhonon Goldberg | [4.07](https://www.goodreads.com/book/show/6745893-the-new-executive-brain) |  |  
 | The Extended Phenotype: The Long Reach of the Gene | Richard Dawkins | [4.07](https://www.goodreads.com/book/show/61538.The_Extended_Phenotype) | 1999 |  
 | Rare Earth: Why Complex Life is Uncommon in the Universe | Peter D. Ward, Donald Brownlee | [4.06](https://www.goodreads.com/book/show/88552.Rare_Earth) | 2003 |  
 | Stiff: The Curious Lives of Human Cadavers | Mary Roach | [4.05](https://www.goodreads.com/book/show/32145.Stiff) | 2004 |  
 | The Man Who Mistook His Wife for A Hat and Other Clinical Tales | Oliver Sacks | [4.05](https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales) | 1998 |  
-| Darwin's Dangerous Idea | Daniel C. Dennett | [4.03](https://www.goodreads.com/book/show/2068.Darwin_s_Dangerous_Idea) |  |  
+| Darwin's Dangerous Idea | Daniel C. Dennett | [4.03](https://www.goodreads.com/book/show/2068.Darwin_s_Dangerous_Idea) |1995  |  
 | The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future | Kevin Kelly | [4.02](https://www.goodreads.com/book/show/27209431-the-inevitable) | 2016 |  
 | The Outer Limits of Reason: What Science, Mathematics, and Logic Cannot Tell Us | Noson S. Yanofsky | [4.00](http://www.goodreads.com/book/show/17841838-the-outer-limits-of-reason) | 2013 |  
 | The Structure of Scientific Revolutions: 50th Anniversary Edition | Thomas S. Kuhn | [3.99](https://www.goodreads.com/book/show/61539.The_Structure_of_Scientific_Revolutions) | 1996 |  
@@ -267,13 +267,13 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Wealth of Networks: How Social Production Transforms Markets and Freedom | Yochai Benkler | [3.95](https://www.goodreads.com/book/show/14721.The_Wealth_of_Networks) | 2006 |  
 | Mind Children: The Future of Robot and Human Intelligence |  Hans Moravec. | [3.95](https://www.goodreads.com/book/show/648195.Mind_Children) | 1990 |  
 | How to Find a Habitable Planet | James Kasting | [3.93](https://www.goodreads.com/book/show/7551498-how-to-find-a-habitable-planet) | 2010 |  
-| The 10,000 Year Explosion: How Civilization Accelerated Human Evolution | Gregory Cochran, Henry Harpending | [3.91](https://www.goodreads.com/book/show/6033964-the-10-000-year-explosion) |  |  
+| The 10,000 Year Explosion: How Civilization Accelerated Human Evolution | Gregory Cochran, Henry Harpending | [3.91](https://www.goodreads.com/book/show/6033964-the-10-000-year-explosion) | 2009 |  
 | Evolution for Everyone: How Darwin's Theory Can Change the Way We Think About Our Lives | David Sloan Wilson | [3.90](http://www.goodreads.com/book/show/159062.Evolution_for_Everyone) | 2007 |
 | Life at the Speed of Light: From the Double Helix to the Dawn of Digital Life | J. Craig Venter | [3.87](www.goodreads.com/book/show/17674969-life-at-the-speed-of-light) | 2013 |
 | The Shallows: What the Internet is Doing to Our Brains | Nicholas Carr | [3.85](https://www.goodreads.com/book/show/9778945-the-shallows) | 2011 |  
 | Catching Fire: How Cooking Made Us Human | Richard Wrangham | [3.83](https://www.goodreads.com/book/show/11148989-catching-fire) | 2009 |  
 | Heaven in a Chip: Fuzzy Visions of Society and Science in the Digital Age | Bart Kosko | [3.82](https://www.goodreads.com/book/show/172645.Heaven_in_a_Chip) | 2000 |  
-| The Quark and the Jaguar: Adventures in the Simple and the Complex | Murray Gell-Mann | [3.81](https://www.goodreads.com/book/show/270881.The_Quark_and_the_Jaguar) |  |  
+| The Quark and the Jaguar: Adventures in the Simple and the Complex | Murray Gell-Mann | [3.81](https://www.goodreads.com/book/show/270881.The_Quark_and_the_Jaguar) |1994  |  
 | Tomorrowland: Our Staggering Journey from Science Fiction to Science Fact | Steven Kotler | [3.80](http://www.goodreads.com/book/show/25060233-tomorrowland) | 2015 |  
 | Origins of Genius: Darwinian Perspectives on Creativity | Dean Keith | [3.74](https://www.goodreads.com/book/show/254489.Origins_of_Genius) | 1999 |  
 | Mind Wars: Brain Research and National Defense | Jonathan D. Moreno | [3.45](http://www.goodreads.com/book/show/599321.Mind_Wars) | 2007 |  
@@ -301,7 +301,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Bolo'bolo | P.M. | [4.05](https://www.goodreads.com/book/show/12395170-bolo-bolo) | 1984 |  
 | The Myth of the Rational Voter: Why Democracies Choose Bad Policies | Bryan Caplan | [3.96](https://www.goodreads.com/book/show/698866.The_Myth_of_the_Rational_Voter) | 2007 |  
 | The Art of Deception: Controlling the Human Element of Security | Kevin D. Mitnick | [3.76](https://www.goodreads.com/book/show/18160.The_Art_of_Deception) | 2003 |  
-| Resource Wars: The New Landscape of Global Conflict | Michael Klare | [3.73](https://www.goodreads.com/book/show/149206.Resource_Wars) |  |  
+| Resource Wars: The New Landscape of Global Conflict | Michael Klare | [3.73](https://www.goodreads.com/book/show/149206.Resource_Wars) |2001  |  
 | The Audacity of Hope: Thoughts on Reclaiming the American Dream | Barack Obama | [3.70](https://www.goodreads.com/book/show/9742.The_Audacity_of_Hope) | 2006 |  
 
 ## Economics
@@ -313,13 +313,13 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Economic Facts and Fallacies | Thomas Sowell | [4.18](https://www.goodreads.com/book/show/2064279.Economic_Facts_and_Fallacies) | 2008 |  
 | Debt - Updated and Expanded: The First 5,000 Years | David Graeber | [4.17](https://www.goodreads.com/book/show/6617037-debt) | 2011 |  
 | Capital in the Twenty-First Century | Thomas Piketty | [4.01](http://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century) | 2014 |  
-| 23 Things They Don't Tell You About Capitalism | Ha-Joon Chang | [3.97](http://www.goodreads.com/book/show/8913542-23-things-they-don-t-tell-you-about-capitalism) |  |  
-| The Signal and the Noise: Why So Many Predictions Fail--but Some Don't | Nate Silver | [3.96](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise) |  |  
+| 23 Things They Don't Tell You About Capitalism | Ha-Joon Chang | [3.97](http://www.goodreads.com/book/show/8913542-23-things-they-don-t-tell-you-about-capitalism) | 2010 |  
+| The Signal and the Noise: Why So Many Predictions Fail--but Some Don't | Nate Silver | [3.96](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise) | 2012 |  
 | Currency Wars: The Making of the Next Global Crisis | James Rickards | [3.96](https://www.goodreads.com/book/show/11515298-currency-wars) | 2011 |  
-| The Ascent of Money: A Financial History of the World | Niall Ferguson | [3.88](https://www.goodreads.com/book/show/2714607-the-ascent-of-money) |  |  
+| The Ascent of Money: A Financial History of the World | Niall Ferguson | [3.88](https://www.goodreads.com/book/show/2714607-the-ascent-of-money) |2008  |  
 | The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done About It | Paul Collier | [3.85](https://www.goodreads.com/book/show/493371.The_Bottom_Billion) | 2007 |  
 | The Thank You Economy | Gary Vaynerchuk | [3.83](https://www.goodreads.com/book/show/9203287-the-thank-you-economy) | 2011 |  
-| Super Crunchers: Why Thinking-By-Numbers is the New Way To Be Smart | Ian Ayres | [3.70](https://www.goodreads.com/book/show/1081413.Super_Crunchers) |  |  
+| Super Crunchers: Why Thinking-By-Numbers is the New Way To Be Smart | Ian Ayres | [3.70](https://www.goodreads.com/book/show/1081413.Super_Crunchers) | 2007 |  
 | A Farewell to Alms : A Brief Economic History of the World | Gregory Clark | [3.67](https://www.goodreads.com/book/show/150437.A_Farewell_to_Alms) | 2007 |  
 
 ## Gender
