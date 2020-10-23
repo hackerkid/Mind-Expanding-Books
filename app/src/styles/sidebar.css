@@ -10,7 +10,7 @@
 }
 
 .nav-link {
-  font-size: .900rem;
+  font-size: 0.9rem;
 }
 
 #sidebar-wrapper {
@@ -33,6 +33,6 @@
 .navbar {
   padding: 10px 0px;
 }
-
-
-
+.navbar-toggler {
+  margin-bottom: 1.2rem;
+}
