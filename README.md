@@ -294,6 +294,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Righteous Mind: Why Good People are Divided by Politics and Religion |  Jonathan Haidt | [4.16](https://www.goodreads.com/book/show/11324722-the-righteous-mind) | 2012 |  
 | Strangers in Their Own Land: Anger and Mourning on the American Right | Arlie Russell Hochschild | [4.15](https://www.goodreads.com/book/show/28695425-strangers-in-their-own-land) | 2016 |  
 | Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime | John Heilemann, Mark Halperin | [4.10](https://www.goodreads.com/book/show/6694937-game-change) | 2010 |  
+| The Worst President in History: The Legacy of Barack Obama | Matt Margolis | [4.06](https://www.goodreads.com/book/show/30900521-the-worst-president-in-history) | 2016 |
 | Bolo'bolo | P.M. | [4.05](https://www.goodreads.com/book/show/12395170-bolo-bolo) | 1984 |  
 | The Myth of the Rational Voter: Why Democracies Choose Bad Policies | Bryan Caplan | [3.96](https://www.goodreads.com/book/show/698866.The_Myth_of_the_Rational_Voter) | 2007 |  
 | The Art of Deception: Controlling the Human Element of Security | Kevin D. Mitnick | [3.76](https://www.goodreads.com/book/show/18160.The_Art_of_Deception) | 2003 |  
