@@ -372,7 +372,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | In the Blink of an Eye: A Perspective on Film Editing | Walter Murch | [4.24](https://www.goodreads.com/book/show/2141.In_the_Blink_of_an_Eye) | 1995 |  
 | Notes on Directing: 130 Lessons in Leadership from the Director's Chair | Frank Hauser, Russell Reich | [4.21](https://www.goodreads.com/book/show/254808.Notes_on_Directing) |  |  
 | How to Stop Acting | Harold Guskin | [4.17](https://www.goodreads.com/book/show/808735.How_to_Stop_Acting) | 2003 |  
-| A Practical Handbook for the Actor | Melissa Bruder, Lee Michael Cohn, Madeleine Olnek, Nathaniel Pollack, Robert Previtio, Scott Zigler, David Mamet | [3.87](https://www.goodreads.com/book/show/166207.A_Practical_Handbook_for_the_Actor) | 1986 |  
+| A Practical Handbook for the Actor | Melissa Bruder, Lee Michael Cohn, Madeleine Olnek, Nathaniel Pollack, Robert Previtio, Scott Zigler, David Mamet | [3.87](https://www.goodreads.com/book/show/166207.A_Practical_Handbook_for_the_Actor) | 1986 |
+|Harry Potter and the Deathly Hallows |  J.K. Rowling | [4.62] (https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows) | 2007 |
 
 ## Shakespeare
 | Name | Author | Goodreads Rating | Year Published |  
