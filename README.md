@@ -468,6 +468,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | One Day in the Life of Ivan Denisovich | Aleksandr Solzhenitsyn | [4](https://www.goodreads.com/book/show/17125.One_Day_in_the_Life_of_Ivan_Denisovich) | 1962 |
 | Emma | Jane Austen | [3.99](https://www.goodreads.com/book/show/6969.Emma) | 1815 |  
 | Sophie's World: A Novel About the History of Philosophy | Jostein Gaarder and Paulette Moller | [3.88](https://www.goodreads.com/book/show/10959.Sophie_s_World) | 1991 |  
+| The Kite Runner | Khaled Hosseini | [4.3](https://www.goodreads.com/book/show/77203.The_Kite_Runner) | 2003 |  
+
 
 ### Humor
 | Name | Author | Goodreads Rating | Year Published |  
