@@ -328,8 +328,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|  
 | Cemetary Boys | Aiden Thomas | [4.48](https://www.goodreads.com/book/show/52339313-cemetery-boys) | 2020
 | Delusions of Gender: How Our Minds, Society, and Neurosexism Create Difference | Cordelia Fine | [4.15](https://www.goodreads.com/book/show/8031168-delusions-of-gender) | 2010
-| Paul Takes the Form of a Mortal Girl | Andrea Lawlor | [4.00](https://www.goodreads.com/book/show/35838277-paul-takes-the-form-of-a-mortal-girl?from_search=true&from_srp=true&qid=9UWKXeinOj&rank=1) | 2017
-| Becoming A Man | P. Carl | [3.95](https://www.goodreads.com/book/show/50091840-becoming-a-man?from_search=true&from_srp=true&qid=mKSctRbu2e&rank=5) | 2020
+| Paul Takes the Form of a Mortal Girl | Andrea Lawlor | [4.00](https://www.goodreads.com/book/show/35838277-paul-takes-the-form-of-a-mortal-girl) | 2017
+| Becoming A Man | P. Carl | [3.95](https://www.goodreads.com/book/show/50091840-becoming-a-man) | 2020
 
 
 ## Sexuality
