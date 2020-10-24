@@ -357,7 +357,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 ## Writing
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
-| Hat Box: The Collected Lyrics of Stephen Sondheim | Stephen Sondheim | [4.77](https://www.goodreads.com/book/show/12909101-hat-box) |  |  
+| Hat Box: The Collected Lyrics | Stephen Sondheim | [4.77](https://www.goodreads.com/book/show/12909101-hat-box) |  |  
 | On Writing: A Memoir of the Craft | Stephen King | [4.31](https://www.goodreads.com/book/show/10569.On_Writing) | 2002 |
 | Bird by Bird: Some Instructions on Writing and Life | Anne Lamott | [4.23](https://www.goodreads.com/book/show/12543.Bird_by_Bird) | 1995 |  
 | Clear and Simple as the Truth | Francis-Noël Thomas, Mark Turner | [4.06](https://www.goodreads.com/book/show/120549.Clear_and_Simple_as_the_Truth) | 1996 |  
@@ -443,7 +443,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Discworld | Terry Pratchett | [4.32](https://www.goodreads.com/series/40650-discworld) | 2001 |  
 | The Dark Tower | Stephen King | [4.27](https://www.goodreads.com/series/40750-the-dark-tower) | 1982 |  
 | His Dark Materials | Philip Pullman | [4.25](https://www.goodreads.com/book/show/18116.His_Dark_Materials) | 1995 |  
-| The Last Wish - Saga | Andrzej Sapkowski | [4.2](https://www.goodreads.com/book/show/1128434.The_Last_Wish) | 1993 |
+| The Last Wish  | Andrzej Sapkowski | [4.2](https://www.goodreads.com/book/show/1128434.The_Last_Wish) | 1993 |
 | The Chronicles of Narnia | Clive Staples Lewis | [4.24](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia) | 2002 |  
 | The Wheel of Time | Robert Jordan | [4.19](https://www.goodreads.com/series/41526-the-wheel-of-time) | 1990 |
 | The City & The City | China Mieville | [3.91](https://www.goodreads.com/book/show/4703581-the-city-the-city) | 2009 |  
