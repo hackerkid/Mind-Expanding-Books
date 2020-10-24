@@ -98,7 +98,9 @@
 | One Click: Jeff Bezos and the Rise of Amazon.com | Richard Brandt | [3.75](https://www.goodreads.com/book/show/11223478-one-click) | 2011 |  
 | Big Data: A Revolution That Will Transform How We Live, Work, and Think | Kenneth Cukier | [3.70](https://www.goodreads.com/book/show/15815598-big-data) | 2013 |  
 | The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich | Timothy Ferriss | [3.61](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) | 2012 |  
-| The Accidental Billionaires : The Founding of Facebook, a Tale of Sex, Money, Genius and Betrayal | Ben Mezrich | [3.50](https://www.goodreads.com/book/show/6326920-the-accidental-billionaires) | 2009 |  
+| The Accidental Billionaires : The Founding of Facebook, a Tale of Sex, Money, Genius and Betrayal | Ben Mezrich | [3.50](https://www.goodreads.com/book/show/6326920-the-accidental-billionaires) | 2009 | 
+| Things a Little Bird Told Me : Confessions of the Creative Mind | Biz Stone | [3.93](https://www.goodreads.com/book/show/18296144-things-a-little-bird-told-me) | 2014 | 
+| The Moment of Lift: How Empowering Women Changes the World | Melinda Gates | [4.30](https://www.goodreads.com/book/show/40776644-the-moment-of-lift) | 2019 | 
 
 If you like Mind Expanding books you should check out my new project http://diff.blog. It's a platform that help you keep updated with the developer community.
 
@@ -209,7 +211,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | My Inventions: The Autobiography of Nikola Tesla | Nikola Tesla | [3.96](https://www.goodreads.com/book/show/493.My_Inventions?ac=1&from_search=true&qid=PQw29iDQp5&rank=1) | 2006 |
 | Ghost in the Wires:	My Adventures as the World's Most Wanted Hacker | Kevin Mitnick | [3.95](http://www.goodreads.com/book/show/10256723-ghost-in-the-wires) | 2011 |  
 | An Autobiography: Toward Freedom | Jawaharlal Nehru | [3.85](http://www.goodreads.com/book/show/322939.An_Autobiography) | 1989 |  
-| iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It | Steve Wozniak | [3.82](http://www.goodreads.com/book/show/798635.iWoz) | 2007 |  
+| iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It | Steve Wozniak | [3.82](http://www.goodreads.com/book/show/798635.iWoz) | 2007 |
+| Born a Crime: Stories From a South African Childhood | Trevor Noah | [4.45](https://www.goodreads.com/book/show/29780253-born-a-crime) | 2016 |
 ## History
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
