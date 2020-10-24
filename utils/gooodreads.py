@@ -3,9 +3,11 @@ import xml.etree.ElementTree as ET
 import urllib.request
 import urllib.error
 
+import requests
+
 from bs4 import BeautifulSoup
 
-from config import GOODREADS_PUBLIC_API_KEY, GOOGLE_SEARCH_RAPIDAPI_HOST, GOOGLE_SEARCH_RAPIDAPI_KEY
+from config import GOODREADS_PUBLIC_API_KEY, GOOGLE_SEARCH_RAPIDAPI_HOST, GOOGLE_SEARCH_RAPIDAPI_KEY, GOOGLE_BOOK_API_KEY
 from googlesearch import search
 
 def get_details(book_object):
@@ -13,7 +15,7 @@ def get_details(book_object):
     url = "http://www.goodreads.com/book/title.xml?key={}&title={}".format(
         GOODREADS_PUBLIC_API_KEY, urllib.parse.quote_plus(book_object["title"])
     )
-
+    print(url)
     try:
         time_to_sleep = 1
         while True:
@@ -33,14 +35,26 @@ def get_details(book_object):
         book_object["rating"] = book.find("average_rating").text
         book_object["pages"] = book.find("num_pages").text
         book_object["image_url"] = book.find("image_url").text
-        if (description := book.find("description").text):
+        book_object["isbn"] = book.find("isbn").text
+
+        description = book.find("description").text
+        if description:
             book_object["description"] = BeautifulSoup(description).text
         else:
             book_object["description"] = ""
-        book_object["isbn"] = book.find("isbn").text
-        print("Fetching amazon link")
-        import requests
+            # Attempt to use Google Book API
+            url = "https://www.googleapis.com/books/v1/volumes?q={}+inauthor:{}&key={}".format(
+                book_object["title"], book_object["author"], GOOGLE_BOOK_API_KEY,
+            )
+            response = requests.request("GET", url)
 
+            for item in response.json()["items"]:
+                if "description" in item["volumeInfo"]:
+                    book_object["description"] = item["volumeInfo"]["description"]
+                    break
+            
+        print("Fetching amazon link")
+        
         url = "https://google-search3.p.rapidapi.com/api/v1/search/q=site:amazon.com {} {}".format(book_object["title"], book_object["author"])
 
         headers = {
