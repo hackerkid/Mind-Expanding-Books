@@ -40,7 +40,7 @@ def get_details(book_object):
         book_object["isbn"] = book.find("isbn").text
         print("Fetching amazon link")
         import requests
-        
+
         url = "https://google-search3.p.rapidapi.com/api/v1/search/q=site:amazon.com {} {}".format(book_object["title"], book_object["author"])
 
         headers = {
