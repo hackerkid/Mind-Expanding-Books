@@ -48,7 +48,8 @@
 | High Output Management | Andy Grove | [4.38](https://www.goodreads.com/book/show/324750.High_Output_Management) | 1995 |  
 | Outwitting the Devil: The Secret to Freedom and Success | Napoleon Hill | [4.38](https://www.goodreads.com/book/show/10713286-outwitting-the-devil) | 2011 |
 | How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success | Jack Canfield, Janet Switzer | [4.26](https://www.goodreads.com/book/show/96593.The_Success_Principles) | 2007 |  
-| The Big Short: Inside the Doomsday Machine | Michael Lewis | [4.26](https://www.goodreads.com/book/show/8032112-the-big-short) | 2015 |  
+| The Big Short: Inside the Doomsday Machine | Michael Lewis | [4.26](https://www.goodreads.com/book/show/8032112-the-big-short) | 2015 |
+| The Future Is Faster Than You Think: How Converging Technologies Are Transforming Business, Industries, and Our Lives | Peter H. Diamandis, Steven Kotler | [4.25](https://www.goodreads.com/book/show/52290273-the-future-is-faster-than-you-think) | 2020 |  
 | The Score Takes Care of Itself: My Philosophy of Leadership | Bill Walsh, Steve Jamison, Craig Walsh | [4.21](https://www.goodreads.com/book/show/6342995-the-score-takes-care-of-itself) | 2009 |  
 | The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers | Ben Horowitz | [4.20](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) | 2014 |  
 | Think and Grow Rich | Napoleon Hill | [4.17](https://www.goodreads.com/book/show/30186948-think-and-grow-rich) | 1937 |
