@@ -413,7 +413,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Picture of Dorian Gray | Oscar Wilde | [4.06](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) | 1890 |  
 | Watership Down: A Novel | Richard Adams | [4.05 ](https://www.goodreads.com/book/show/76620.Watership_Down) |1972|  
 | One Hundred Years of Solitude | Gabriel Garcia Marquez, Gregory Rabassa | [4.04](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude) | 1967 |  
-| The Death of Ivan Ilych | Leo Tolstoy | [4.04](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) | 1886  |  
+| The Death of Ivan Ilych | Leo Tolstoy | [4.04](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) | 1886  |
+| Siddhartha | Hermann Hesse | [4.03](https://www.goodreads.com/book/show/52036.Siddhartha) | 1922 |  
 | Anna Karenina | Leo Tolstoy | [4.02](https://www.goodreads.com/book/show/15823480-anna-karenina) | 1878 |  
 | Bleak House | Charles Dickens | [4.00](https://www.goodreads.com/book/show/31242.Bleak_House) | 1853 |  
 | J'accuse | Emile Zola | [3.99](https://www.goodreads.com/book/show/816964.J_accuse) | 1898 |  
