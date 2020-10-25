@@ -504,6 +504,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Forever War | Joe Haldemann | [4.15](https://www.goodreads.com/book/show/21611.The_Forever_War) | 1974
 | Foundation | Isaac Asimov | [4.13](https://www.goodreads.com/book/show/29579.Foundation) | 2004 |  
 | Snow Crash | Neal Stephenson | [4.02](https://www.goodreads.com/book/show/830.Snow_Crash) | 2000 |  
+| Brave New World | Aldous Huxley | [3.99](https://www.goodreads.com/book/show/5129.Brave_New_World) | 1932 |
 | Fahrenheit 451 | Ray Bradbury | [3.97](https://www.goodreads.com/book/show/17470674-fahrenheit-451) | 2006 |  
 | Little Brother | Cory Doctorow | [3.94](https://www.goodreads.com/book/show/954674.Little_Brother) | 2008 |
 | The Time Machine | H.G Wells | [3.89](https://www.goodreads.com/book/show/2493.The_Time_Machine?from_search=true&from_srp=true&qid=UOQqEw4cz3&rank=1) | 1895 |
