@@ -5,7 +5,7 @@ import urllib.error
 
 from bs4 import BeautifulSoup
 
-from config import GOODREADS_PUBLIC_API_KEY, GOOGLE_SEARCH_RAPIDAPI_HOST, GOOGLESEARCH_RAPIDAPI_KEY
+from config import GOODREADS_PUBLIC_API_KEY, GOOGLE_SEARCH_RAPIDAPI_HOST, GOOGLE_SEARCH_RAPIDAPI_KEY
 from googlesearch import search
 
 def get_details(book_object):
@@ -40,12 +40,12 @@ def get_details(book_object):
         book_object["isbn"] = book.find("isbn").text
         print("Fetching amazon link")
         import requests
-
+        
         url = "https://google-search3.p.rapidapi.com/api/v1/search/q=site:amazon.com {} {}".format(book_object["title"], book_object["author"])
 
         headers = {
             'x-rapidapi-host': GOOGLE_SEARCH_RAPIDAPI_HOST,
-            'x-rapidapi-key': GOOGLESEARCH_RAPIDAPI_KEY,
+            'x-rapidapi-key': GOOGLE_SEARCH_RAPIDAPI_KEY,
         }
 
         response = requests.request("GET", url, headers=headers)
