@@ -4,9 +4,15 @@
   bottom: 0;
   left: 0;
   min-height: 100vh !important;
-  padding: 48px 0 0;
+  margin: 70px 0 0;
   box-shadow: inset -1px 0 0 rgba(0, 0, 0, 0.1);
+  width: max-content;
 }
+
+.nav-link {
+  font-size: 0.9rem;
+}
+
 #sidebar-wrapper {
   min-height: 100vh !important;
   width: 100vw;
@@ -20,8 +26,13 @@
   padding: 0.875rem 1.25rem;
   font-size: 1.2rem;
 }
-
 #page-content-wrapper {
   min-width: 0;
   width: 100%;
+}
+.navbar {
+  padding: 10px 0px;
+}
+.navbar-toggler {
+  margin-bottom: 1.2rem;
 }

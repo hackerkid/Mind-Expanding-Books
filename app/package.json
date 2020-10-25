@@ -33,7 +33,7 @@
     "eslint-plugin-jsx-a11y": "^6.3.1",
     "eslint-plugin-react": "^7.20.6",
     "eslint-plugin-react-hooks": "^4.1.0",
-    "husky": ">=4",
+    "husky": "^4.3.0",
     "lint-staged": ">=10",
     "prettier": "1.19.1",
     "tailwindcss": "^1.1.2"
