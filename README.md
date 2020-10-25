@@ -40,11 +40,11 @@
 ## Startups and Business
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
-| Never Split the Difference | Chris Voss | [4.40](https://www.goodreads.com/book/show/26156469-never-split-the-difference) | 2016 | 
-| Shoe Dog: A Memoir by the Creator of Nike | Phil Knight | [4.46](https://www.goodreads.com/book/show/27220736-shoe-dog) | 2016 | 
-| The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company | Robert Iger, Joel Lovell | [4.44](https://www.goodreads.com/book/show/44525305-the-ride-of-a-lifetime) | 2019 | 
+| Never Split the Difference | Chris Voss | [4.40](https://www.goodreads.com/book/show/26156469-never-split-the-difference) | 2016 |
+| Shoe Dog: A Memoir by the Creator of Nike | Phil Knight | [4.46](https://www.goodreads.com/book/show/27220736-shoe-dog) | 2016 |
+| The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company | Robert Iger, Joel Lovell | [4.44](https://www.goodreads.com/book/show/44525305-the-ride-of-a-lifetime) | 2019 |
 | The Compound Effect | Darren Hardy | [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) | 2010 |  
-| Failing to Succeed: The Story of India's First E-Commerce Company | K. Vaitheeswaran | [4.39](https://www.goodreads.com/book/show/35626210-failing-to-succeed) | 2017 | 
+| Failing to Succeed: The Story of India's First E-Commerce Company | K. Vaitheeswaran | [4.39](https://www.goodreads.com/book/show/35626210-failing-to-succeed) | 2017 |
 | High Output Management | Andy Grove | [4.38](https://www.goodreads.com/book/show/324750.High_Output_Management) | 1995 |  
 | Outwitting the Devil: The Secret to Freedom and Success | Napoleon Hill | [4.38](https://www.goodreads.com/book/show/10713286-outwitting-the-devil) | 2011 |
 | How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success | Jack Canfield, Janet Switzer | [4.26](https://www.goodreads.com/book/show/96593.The_Success_Principles) | 2007 |  
@@ -110,7 +110,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Education and the Significance of Life | Krishnamurti | [4.38](https://www.goodreads.com/book/show/353435.Education_and_the_Significance_of_Life) | 2008 |  
 | Passions Within Reason: The Strategic Role of the Emotions | Robert H. Frank | [4.34](https://www.goodreads.com/book/show/452114.Passions_Within_Reason) | 1989 |
 | Man's Search for Meaning | Viktor E. Frankl | [4.33](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) | 2006 |  
-| Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones| James Clear | [4.32](https://www.goodreads.com/book/show/40121378-atomic-habits) | 2018 | 
+| Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones| James Clear | [4.32](https://www.goodreads.com/book/show/40121378-atomic-habits) | 2018 |
 | The User Illusion: Cutting Consciousness Down to Size | Tor Norretranders | [4.30](https://www.goodreads.com/book/show/106732.The_User_Illusion) | 1999 |  
 | Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen | Christopher McDougall | [4.27](https://www.goodreads.com/book/show/6289283-born-to-run) | 2009 |  
 | Prometheus Rising | Robert Anton Wilson | [4.26](https://www.goodreads.com/book/show/28597.Prometheus_Rising) | 2010 |  
@@ -158,7 +158,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | A Whole New Mind: Why Right-Brainers Will Rule the Future | Daniel H. Pink | [3.95](https://www.goodreads.com/book/show/99315.A_Whole_New_Mind) |2006  |  
 | Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel | Rolf Potts | [3.92](https://www.goodreads.com/book/show/100247.Vagabonding) |2002  |  
 | Supernormal: Science, Yoga, and the Evidence for Extraordinary Psychic Abilities | Dean Radin | [3.91](https://www.goodreads.com/book/show/8694125-alone-together) | 2013 |  
-| Prisoner's Dilemma | William Poundstone | [3.91](https://www.goodreads.com/book/show/29506.Prisoner_s_Dilemma) | 1993 | 
+| Prisoner's Dilemma | William Poundstone | [3.91](https://www.goodreads.com/book/show/29506.Prisoner_s_Dilemma) | 1993 |
 | The Stuff of Thought: Language as a Window into Human Nature | Steven Pinker | [3.90](https://www.goodreads.com/book/show/373969.The_Stuff_of_Thought) | 2007 |  
 | Consilience: The Unity of Knowledge | Edward O. Wilson | [3.90](https://www.goodreads.com/book/show/55981.Consilience) | 1999 |  
 | Why We Make Mistakes: How We Look Without Seeing, Forget Things in Seconds, and Are All Pretty Sure We Are Way Above Average | Joseph T. Hallinan | [3.87](https://www.goodreads.com/book/show/5040579-why-we-make-mistakes) | 2009 |  
@@ -180,7 +180,6 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Utilitarianism | Geoffrey Scarre | [3.50](https://www.goodreads.com/book/show/3807762-utilitarianism) | 1996 |  
 | The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression | Debra Fine | [3.36](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) | 2005 |  
 | Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) | 2001 | 
- 
 
 ## Autobiographies and Biographies
 | Name | Author | Goodreads Rating | Year Published |  
@@ -283,8 +282,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|  
 | What Is the Name of This Book?: The Riddle of Dracula and Other Logical Puzzles | Raymond M. Smullyan | [4.24](https://www.goodreads.com/book/show/493576.What_Is_the_Name_of_This_Book_) | 2011 |  
 | A Mind for Numbers: How to Excel at Math and Science even If You Flunked Algebra | Barbara Oakley | [4.22](http://www.goodreads.com/book/show/18693655-a-mind-for-numbers) | 2014 |  
-| How to Solve It: A New Aspect of Mathematical Method | George Polya | [4.16](https://www.goodreads.com/book/show/192221.How_to_Solve_It) | 2015 | 
-| Guide to Competitive Programming: Learning and Improving Algorithms Through Contests | Antti Laaksonen | [4.15]( https://www.goodreads.com/book/show/36881945-guide-to-competitive-programming) | 2016 | 
+| How to Solve It: A New Aspect of Mathematical Method | George Polya | [4.16](https://www.goodreads.com/book/show/192221.How_to_Solve_It) | 2015 |
+| Guide to Competitive Programming: Learning and Improving Algorithms Through Contests | Antti Laaksonen | [4.15]( https://www.goodreads.com/book/show/36881945-guide-to-competitive-programming) | 2016 |
 | Superforecasting: The Art and Science of Prediction |  Philip E. Tetlock, Dan Gardner | [4.10](https://www.goodreads.com/book/show/23995360-superforecasting) | 2015 |
 | Problem Solving 101: A Simple Book | Ken Watanabe | [4.10](https://www.goodreads.com/book/show/6271219-problem-solving-101) | 2009 |  
 | Labyrinths of Reason: Paradox, Puzzles, and the Frailty of Knowledge | William Poundstone | [4.05](https://www.goodreads.com/book/show/55436.Labyrinths_of_Reason) | 1989 |  
@@ -331,7 +330,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|  
 | Sex at Dawn: The Prehistoric Origins of Modern | Christopher Ryan, Cacilda Jetha | [4.02](https://www.goodreads.com/book/show/7640261-sex-at-dawn) | 2010 |  
 | The Ethical Slut: A Guide to Infinite Sexual Possibilities |  Dossie Easton, Catherine A. Liszt. | [3.83](http://www.goodreads.com/book/show/54944.The_Ethical_Slut?from_search=true) | 2004 |  
-| The Sex Myth | Brooke Magnanti | [3.50](https://www.goodreads.com/book/show/13569582-the-sex-myth) | 2015 | 
+| The Sex Myth | Brooke Magnanti | [3.50](https://www.goodreads.com/book/show/13569582-the-sex-myth) | 2015 |
 
 ## Race
 | Name | Author | Goodreads Rating | Year Published |  
@@ -340,12 +339,12 @@ If you like Mind Expanding books you should check out my new project http://diff
 
 ## Education
 | Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------| 
-| Educated: A Memoir | Tara Westover| [4.47],(https://www.goodreads.com/book/show/35133922-educated) | 2018 | 
+|------|--------|------------------|----------------|
+| Educated: A Memoir | Tara Westover| [4.47],(https://www.goodreads.com/book/show/35133922-educated) | 2018 |
 | Mindstorms: Children, Computers, And Powerful Ideas | Seymour A. Papert | [4.32](https://www.goodreads.com/book/show/703532.Mindstorms) | 1993 |  
 | The Little Prince | Antoine de Saint-Exupéry | [4,31](https://www.goodreads.com/book/show/71091.Il_piccolo_principe) | 1943 |
 | How Children Fail | John Holt | [4.22](https://www.goodreads.com/book/show/573009.How_Children_Fail) | 1995 |  
-| Deep Work: Rules for Focused Success in a Distracted World | Cal Newport | [4.20](https://www.goodreads.com/book/show/25744928-deep-work) | 2016 | 
+| Deep Work: Rules for Focused Success in a Distracted World | Cal Newport | [4.20](https://www.goodreads.com/book/show/25744928-deep-work) | 2016 |
 | Make It Stick: The Science of Successful Learning | Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel | [4.20](https://www.goodreads.com/book/show/18770267.make-it-stick) | 2014 |
 | Teaching as a Subversive Activity | Neil Postman, Charles Weingartner | [4.19](https://www.goodreads.com/book/show/79681.Teaching_as_a_Subversive_Activity) | 1971 |  
 | Summerhill School: A New View of Childhood | A. S. Neill, Albert Lamb | [4.09](https://www.goodreads.com/book/show/178734.Summerhill) | 1995 |  
@@ -415,7 +414,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The House of Mirth | Edith Wharton | [3.94](https://www.goodreads.com/book/show/17728.The_House_of_Mirth) | 1905 |  
 | Confessions of a Mask | Yukio Mishima | [3.91](https://www.goodreads.com/book/show/62794.Confessions_of_a_Mask) | 1949 |  
 | De L'esprit Des Lois | Montesquieu | [3.91](https://www.goodreads.com/book/show/29854007-de-l-esprit-des-lois-nouvelle-edition) | 1748 |  
-| Love in the Time of Cholera | Gabriel García Marquéz | [3.9](https://www.goodreads.com/book/show/9712.Love_in_the_Time_of_Cholera) | 1985 | 
+| Love in the Time of Cholera | Gabriel García Marquéz | [3.9](https://www.goodreads.com/book/show/9712.Love_in_the_Time_of_Cholera) | 1985 |
 | Don Quixote | Miguel de Cervantes | [3.85](http://www.goodreads.com/book/show/3836.Don_Quixote) | 1605 |  
 | Mansfield Park | Jane Austen | [3.84](https://www.goodreads.com/book/show/45032) | 1814 |  
 | Wuthering Heights | Emily Bronte | [3.82](https://www.goodreads.com/book/show/6185.Wuthering_Heights) | 1847 |  
@@ -472,11 +471,12 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Sherlock Holmes | Arthur Conan Doyle | [4.30](https://www.goodreads.com/series/49996-sherlock-holmes) | 1998 |  
-| And Then There Were None | Agatha Christie | [4.26](https://www.goodreads.com/series/49996-sherlock-holmes) | 1939 | 
+| And Then There Were None | Agatha Christie | [4.26](https://www.goodreads.com/series/49996-sherlock-holmes) | 1939 |
 | The Murder of Roger Ackroyd | Agatha Christie | [4.20](http://www.goodreads.com/book/show/16328.The_Murder_of_Roger_Ackroyd) | 2006 |  
-| The Eight | Katherine Neville | [4.17](https://www.goodreads.com/book/show/113310.The_Eight) |  | 
-| The Girl with the Dragon Tattoo | Stieg Larsson | [4.14](https://www.goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo) | 2005 | 
-| Memory Man | David Baldacci | [4.05](https://www.goodreads.com/book/show/23153154-memory-man) | 2015 |  
+| The Eight | Katherine Neville | [4.17](https://www.goodreads.com/book/show/113310.The_Eight) |  |
+| The Girl with the Dragon Tattoo | Stieg Larsson | [4.14](https://www.goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo) | 2005 |
+| Memory Man | David Baldacci | [4.05](https://www.goodreads.com/book/show/23153154-memory-man) | 2015 |
+| The Turn of the Key | Ruth Ware | [3.94](https://www.goodreads.com/book/show/42080142-the-turn-of-the-key) | 2019 |
 | The Girl on the Train | Paula Hawkins | [3.88](https://www.goodreads.com/book/show/22557272-the-girl-on-the-train) | 2015 |  
 | The Da Vinci Code | Dan Brown | [3.79](http://www.goodreads.com/book/show/968.The_Da_Vinci_Code) | 2006 |  
 
@@ -486,6 +486,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Martian | Andy Weir | [4.40](https://www.goodreads.com/book/show/18007564-the-martian) | 2012 |
 | The Hitchhiker's Guide to the Galaxy | Douglas Adams | [4.38](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) | 1979|
 | Ready Player One | Ernest Cline | [4.31](https://www.goodreads.com/book/show/9969571-ready-player-one) | 2011 |
+| 11/22/63 | Stephen King | [4.31] (https://www.goodreads.com/book/show/10644930-11-22-63) | 2011 | 
 | Ender's Game - Saga | Orson Scott Card | [4.30](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on) | 1994 |  
 | The Player of Games | Iain M. Banks | [4.26](https://www.goodreads.com/book/show/18630.The_Player_of_Games) | 1997 |  
 | The Fifth Sacred Thing | Starhawk | [4.25](https://www.goodreads.com/book/show/80689.The_Fifth_Sacred_Thing) | 1994 |
@@ -522,7 +523,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease | Michael Greger, M.D. | [4.54](https://www.goodreads.com/book/show/25663961-how-not-to-die) | 2015 |
-| Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength (2nd edition) | Steven Low | [4.3](https://www.goodreads.com/book/show/33293328-overcoming-gravity) | 2016 | 
+| Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength (2nd edition) | Steven Low | [4.3](https://www.goodreads.com/book/show/33293328-overcoming-gravity) | 2016 |
 | Convict Conditioning | Paul Wade | [4.13](http://www.goodreads.com/book/show/7305111-convict-conditioning) | 2012 |  
 | Eat and Run: My Unlikely Journey to Ultramarathon Greatness |  Scott Jurek, Steve Friedman | [3.95](https://www.goodreads.com/book/show/13202092-eat-and-run) | 2012 |  
 | 8 Weeks to Optimum Health | Andrew Weil | [3.86](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) |  |  
@@ -551,7 +552,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 ## Nature
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
-| The Sixth Extinction: An Unnatural History | Elizabeth Kolbert | [4.13](https://www.goodreads.com/book/show/17910054-the-sixth-extinction) | 2014 | 
+| The Sixth Extinction: An Unnatural History | Elizabeth Kolbert | [4.13](https://www.goodreads.com/book/show/17910054-the-sixth-extinction) | 2014 |
 | Pilgrim at Tinker Creek | Annie Dillard | [4.11](https://www.goodreads.com/book/show/12527.Pilgrim_at_Tinker_Creek) | 1974 |
 
 
