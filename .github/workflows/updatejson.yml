@@ -1,0 +1,27 @@
+name: Housekeeping
+on: 
+  push:
+  schedule:
+  #  Kick off job at midnight on the 1st and the 15th of every month
+  - cron: "0 0 1,15 * *"
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps: 
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+      - id: run_py
+        run:  |
+        cd utils
+        python update_json_files
+        cd ..
+      - id: run_git_commands
+        run:  |
+          git add .
+          git config --global user.name 'Philip Wright'
+          git config --global user.email 'wrightphilip4@gmail.com.github.com'
+          git commit -am 'Update JSON files'
+          git push
