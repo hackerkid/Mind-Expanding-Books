@@ -268,7 +268,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | At Home in the Universe: The Search for the Laws of Self-Organization and Complexity | Stuart Kauffman | [3.97](https://www.goodreads.com/book/show/319006.At_Home_in_the_Universe) | 1996 |  
 | The Wealth of Networks: How Social Production Transforms Markets and Freedom | Yochai Benkler | [3.95](https://www.goodreads.com/book/show/14721.The_Wealth_of_Networks) | 2006 |  
 | Mind Children: The Future of Robot and Human Intelligence |  Hans Moravec. | [3.95](https://www.goodreads.com/book/show/648195.Mind_Children) | 1990 |  
-| : An Inquiry into the Limits of the Possible | Arthur C. Clarke | [3.94](https://www.goodreads.com/book/show/169258.Profiles_of_the_Future) | 1962 |
+| Profiles of the Future: An Inquiry into the Limits of the Possible | Arthur C. Clarke | [3.94](https://www.goodreads.com/book/show/169258.Profiles_of_the_Future) | 1962 |
 | How to Find a Habitable Planet | James Kasting | [3.93](https://www.goodreads.com/book/show/7551498-how-to-find-a-habitable-planet) | 2010 |  
 | The 10,000 Year Explosion: How Civilization Accelerated Human Evolution | Gregory Cochran, Henry Harpending | [3.91](https://www.goodreads.com/book/show/6033964-the-10-000-year-explosion) | 2009 |  
 | Evolution for Everyone: How Darwin's Theory Can Change the Way We Think About Our Lives | David Sloan Wilson | [3.90](http://www.goodreads.com/book/show/159062.Evolution_for_Everyone) | 2007 |
