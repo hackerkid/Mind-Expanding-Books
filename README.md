@@ -185,7 +185,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 ## Autobiographies and Biographies
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|
-| Night |  Elie Wiesel | [4.34](https://www.goodreads.com/book/show/1617.Night) | 2006 |
+
 | Becoming | Michelle Obama | [4.53](https://www.goodreads.com/book/show/38746485-becoming) | 2018 |  
 | Unbroken: A World War II Story of Survival, Resilience, and Redemption | Laura Hillenbrand | [4.39](https://www.goodreads.com/book/show/8664353-unbroken) | 2010 |  
 | Long Walk to Freedom | Nelson Mandela | [4.31](http://www.goodreads.com/book/show/318431.Long_Walk_to_Freedom) | 1995 | 
@@ -214,6 +214,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 ## History
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
+| Night |  Elie Wiesel | [4.34](https://www.goodreads.com/book/show/1617.Night) | 2006 |
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | [4.42](https://www.goodreads.com/book/show/23692271-sapiens) | 2014 |  
 | How the Internet Happened: From Netscape to the iPhone | Brian McCullough | [4.36](https://www.goodreads.com/en/book/show/38212134-how-the-internet-happened) | 2018 |
 | The Discoverers | Daniel J. Boorstin | [4.34](https://www.goodreads.com/book/show/714380.The_Discoverers) | 2012 |  
