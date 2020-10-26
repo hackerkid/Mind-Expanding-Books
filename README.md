@@ -185,7 +185,6 @@ If you like Mind Expanding books you should check out my new project http://diff
 ## Autobiographies and Biographies
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|
-
 | Becoming | Michelle Obama | [4.53](https://www.goodreads.com/book/show/38746485-becoming) | 2018 |  
 | Unbroken: A World War II Story of Survival, Resilience, and Redemption | Laura Hillenbrand | [4.39](https://www.goodreads.com/book/show/8664353-unbroken) | 2010 |  
 | Long Walk to Freedom | Nelson Mandela | [4.31](http://www.goodreads.com/book/show/318431.Long_Walk_to_Freedom) | 1995 | 
