@@ -277,6 +277,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Quark and the Jaguar: Adventures in the Simple and the Complex | Murray Gell-Mann | [3.81](https://www.goodreads.com/book/show/270881.The_Quark_and_the_Jaguar) |1994  |  
 | Tomorrowland: Our Staggering Journey from Science Fiction to Science Fact | Steven Kotler | [3.80](http://www.goodreads.com/book/show/25060233-tomorrowland) | 2015 |  
 | Origins of Genius: Darwinian Perspectives on Creativity | Dean Keith | [3.74](https://www.goodreads.com/book/show/254489.Origins_of_Genius) | 1999 |  
+| Waters of the World: the story of the scientists who unravelled the mysteries of our seas, glaciers, and atmosphere and made the planet whole | Sarah Dry | [3.65](https://www.goodreads.com/book/show/43389003-waters-of-the-world) | 2019 |
 | Mind Wars: Brain Research and National Defense | Jonathan D. Moreno | [3.45](http://www.goodreads.com/book/show/599321.Mind_Wars) | 2007 |  
 
 ## Logic and Problem Solving
