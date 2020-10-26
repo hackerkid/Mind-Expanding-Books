@@ -26,7 +26,7 @@ const BookCard = ({ book }) => {
 	return (
 		<Card style={{ marginBottom: '15px' }}>
 			<Row>
-				<Col xs={12} md={4} xl={2}>
+				<Col xs={6} sm={6} md={4} xl={2}>
 					<Card.Img
 						style={{
 							paddingLeft: '15px',
@@ -37,7 +37,7 @@ const BookCard = ({ book }) => {
 						alt={book.title}
 					/>
 				</Col>
-				<Col xs={12} md={8} xl={10}>
+				<Col xs={12} sm={6} md={8} xl={10}>
 					<Card.Body>
 						<Card.Title>{book.title}</Card.Title>
 						<Card.Subtitle className="text-muted">
