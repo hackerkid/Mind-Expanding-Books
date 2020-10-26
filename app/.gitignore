@@ -70,3 +70,5 @@ yarn-error.log
 
 # ignore package-lock as it complicates merging
 package-lock.json
+*.json
+*.lock
