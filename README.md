@@ -96,6 +96,7 @@
 | The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything | Guy Kawasaki | [3.82](https://www.goodreads.com/book/show/37875.The_Art_of_the_Start) | 2004 |  
 | Crowdsourcing: Why the Power of the Crowd Is Driving the Future of Business | Jeff Howe | [3.82](https://www.goodreads.com/book/show/2601510-crowdsourcing) | 2008 |  
 | Cognitive Surplus: Creativity and Generosity in a Connected Age | Clay Shirky | [3.82](https://www.goodreads.com/book/show/7614793-cognitive-surplus) | 2010 |  
+| Data Driven | D.J. Patil | [3.80](https://www.goodreads.com/book/show/24780653-data-driven) | 2015 |
 | Zero to One | Peter Thiel, Blake Masters | [3.75](https://www.goodreads.com/book/show/18050143-zero-to-one) | 2014 |  
 | One Click: Jeff Bezos and the Rise of Amazon.com | Richard Brandt | [3.75](https://www.goodreads.com/book/show/11223478-one-click) | 2011 |  
 | Big Data: A Revolution That Will Transform How We Live, Work, and Think | Kenneth Cukier | [3.70](https://www.goodreads.com/book/show/15815598-big-data) | 2013 |  
