@@ -476,6 +476,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | One Day in the Life of Ivan Denisovich | Aleksandr Solzhenitsyn | [4](https://www.goodreads.com/book/show/17125.One_Day_in_the_Life_of_Ivan_Denisovich) | 1962 |
 | Emma | Jane Austen | [3.99](https://www.goodreads.com/book/show/6969.Emma) | 1815 |  
 | Sophie's World: A Novel About the History of Philosophy | Jostein Gaarder and Paulette Moller | [3.88](https://www.goodreads.com/book/show/10959.Sophie_s_World) | 1991 |  
+| Memoirs of a Geisha | Arthur Golden | [4.12](https://www.goodreads.com/book/show/929.Memoirs_of_a_Geisha) | 1997 |
 
 ### Humor
 | Name | Author | Goodreads Rating | Year Published |  
