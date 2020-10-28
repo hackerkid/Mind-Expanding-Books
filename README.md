@@ -543,6 +543,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|  
 | It | Stephen King | [4.24](https://www.goodreads.com/book/show/830502.It) | 1986 |
 | House of Leaves | Mark Z. Danielewski | [4.13](http://www.goodreads.com/book/show/24800.House_of_Leaves) | 2000 |  
+| If it bleeds | Stephen King | [4.10](https://www.goodreads.com/book/show/46015758-if-it-bleeds) | 2020 |
+| Rosemary's Baby | Ira Levin | [4.00](https://www.goodreads.com/book/show/228296.Rosemary_s_Baby) | 1967 |
 | Dracula | Bram Stoker | [3.98](http://www.goodreads.com/book/show/17245.Dracula) | 1986 |  
 | Frankenstein | Mary Shelley, Maurice Hindle | [3.75](http://www.goodreads.com/book/show/18490.Frankenstein) | 2003 |  
 
