@@ -428,6 +428,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Confessions of a Mask | Yukio Mishima | [3.91](https://www.goodreads.com/book/show/62794.Confessions_of_a_Mask) | 1949 |  
 | De L'esprit Des Lois | Montesquieu | [3.91](https://www.goodreads.com/book/show/29854007-de-l-esprit-des-lois-nouvelle-edition) | 1748 |  
 | Love in the Time of Cholera | Gabriel García Marquéz | [3.9](https://www.goodreads.com/book/show/9712.Love_in_the_Time_of_Cholera) | 1985 |
+| The Alchemist | Paulo Coelho  | [3.88](https://www.goodreads.com/book/show/865.The_Alchemist) | 1988 | 
 | Don Quixote | Miguel de Cervantes | [3.85](http://www.goodreads.com/book/show/3836.Don_Quixote) | 1605 |  
 | Mansfield Park | Jane Austen | [3.84](https://www.goodreads.com/book/show/45032) | 1814 |  
 | Wuthering Heights | Emily Bronte | [3.82](https://www.goodreads.com/book/show/6185.Wuthering_Heights) | 1847 |  
