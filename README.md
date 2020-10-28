@@ -205,6 +205,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|  
 | Becoming | Michelle Obama | [4.53](https://www.goodreads.com/book/show/38746485-becoming) | 2018 |  
 | Unbroken: A World War II Story of Survival, Resilience, and Redemption | Laura Hillenbrand | [4.39](https://www.goodreads.com/book/show/8664353-unbroken) | 2010 |  
+| Everything Beautiful in Its Time: Seasons of Love and Loss | Jenna Bush Hager | [4.38](https://www.goodreads.com/book/show/51822870-everything-beautiful-in-its-time) | 2020 |
 | Long Walk to Freedom | Nelson Mandela | [4.31](http://www.goodreads.com/book/show/318431.Long_Walk_to_Freedom) | 1995 | 
 | My Life and My Work | Henry Ford | [4.29](http://www.goodreads.com/book/show/1122054.My_Life_And_Work) | 1922 |  
 | Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character | Richard Feynman | [4.29](https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_) | 1997 |  
@@ -230,6 +231,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Ghost in the Wires:	My Adventures as the World's Most Wanted Hacker | Kevin Mitnick | [3.95](http://www.goodreads.com/book/show/10256723-ghost-in-the-wires) | 2011 |  
 | An Autobiography: Toward Freedom | Jawaharlal Nehru | [3.85](http://www.goodreads.com/book/show/322939.An_Autobiography) | 1989 |  
 | iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It | Steve Wozniak | [3.82](http://www.goodreads.com/book/show/798635.iWoz) | 2007 |  
+
 ## History
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
