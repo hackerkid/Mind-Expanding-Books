@@ -14,26 +14,41 @@
 🌱 You might be interested in the beta website at [https://books.vishnuks.com](https://books.vishnuks.com). Source code live in `app/` directory.
 
 ## Table of Contents
-* [Startups and Business](#startups-and-business)
-* [Philosophy and Psychology](#philosophy-and-psychology)
-* [Autobiographies and Biographies](#autobiographies-and-biographies)
-* [History](#history)
-* [Evolution, Science and Medicine](#science-and-medicine)
-* [Logic and Problem Solving](#logic-and-problem-solving)
-* [Politics](#politics)
-* [Economics](#economics)
-* [Gender](#gender)
-* [Sexuality](#sexuality)
-* [Race](#race)
-* [Education](#education)
-* [Writing](#writing)
-* [Theater and Film](#theater-and-film)
-* [Fiction](#fiction)
-* [Health](#health)
-* [Design](#design)
-* [Travel](#travel)
-* [Language](#language)
-* [Nature](#nature)
+- [Mind Expanding Books](#mind-expanding-books)
+  - [Table of Contents](#table-of-contents)
+- [Books](#books)
+  - [Startups and Business](#startups-and-business)
+  - [Philosophy And Psychology](#philosophy-and-psychology)
+  - [Autobiographies and Biographies](#autobiographies-and-biographies)
+  - [History](#history)
+  - [Science and Medicine](#science-and-medicine)
+  - [Logic and Problem Solving](#logic-and-problem-solving)
+  - [Politics](#politics)
+  - [Economics](#economics)
+  - [Gender](#gender)
+  - [Sexuality](#sexuality)
+  - [Race](#race)
+  - [Education](#education)
+  - [Writing](#writing)
+  - [Theater and Film](#theater-and-film)
+  - [Shakespeare](#shakespeare)
+  - [Fiction](#fiction)
+    - [Classics](#classics)
+    - [Fantasy](#fantasy)
+    - [Historical Fiction](#historical-fiction)
+    - [Humor](#humor)
+    - [Mystery](#mystery)
+    - [Science Fiction](#science-fiction)
+    - [Horror](#horror)
+    - [Miscellaneous](#miscellaneous)
+  - [Health](#health)
+  - [Design](#design)
+  - [Travel](#travel)
+  - [Language](#language)
+  - [Nature](#nature)
+  - [Art](#art)
+  - [Credits](#credits)
+  - [License](#license)
 
 # Books
 
@@ -575,6 +590,13 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Sixth Extinction: An Unnatural History | Elizabeth Kolbert | [4.13](https://www.goodreads.com/book/show/17910054-the-sixth-extinction) | 2014 |
 | Pilgrim at Tinker Creek | Annie Dillard | [4.11](https://www.goodreads.com/book/show/12527.Pilgrim_at_Tinker_Creek) | 1974 |
 
+## Art
+
+| Name | Author | Goodreads Rating | Year Published |  
+|------|--------|------------------|----------------|  
+| The New Drawing on the Right Side of the Brain | Betty Edwards | [3.86](https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain) | 1989 |
+| Steal Like an Artist: 10 Things Nobody Told You About Being Creative | Austin Kleon | [3.92](https://www.goodreads.com/book/show/13099738-steal-like-an-artist) | 2012 |
+| Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered | Austin Kleon | [4.10](https://www.goodreads.com/book/show/18290401-show-your-work) | 2014 |
 
 ## Credits
 * [@hackerkid](https://github.com/hackerkid) for starting the list.
