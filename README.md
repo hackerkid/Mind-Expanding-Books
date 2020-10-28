@@ -319,6 +319,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Economic Facts and Fallacies | Thomas Sowell | [4.18](https://www.goodreads.com/book/show/2064279.Economic_Facts_and_Fallacies) | 2008 |  
 | Debt - Updated and Expanded: The First 5,000 Years | David Graeber | [4.17](https://www.goodreads.com/book/show/6617037-debt) | 2011 |  
 | Capital in the Twenty-First Century | Thomas Piketty | [4.01](http://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century) | 2014 |  
+| Freakonomics: A Rogue Economist Explores the Hidden Side of Everything |  Steven D. Levitt, Stephen J. Dubner | [3.98](https://www.goodreads.com/book/show/1202.Freakonomics) | 2006 |
 | 23 Things They Don't Tell You About Capitalism | Ha-Joon Chang | [3.97](http://www.goodreads.com/book/show/8913542-23-things-they-don-t-tell-you-about-capitalism) | 2010 |  
 | The Signal and the Noise: Why So Many Predictions Fail--but Some Don't | Nate Silver | [3.96](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise) | 2012 |  
 | Currency Wars: The Making of the Next Global Crisis | James Rickards | [3.96](https://www.goodreads.com/book/show/11515298-currency-wars) | 2011 |  
