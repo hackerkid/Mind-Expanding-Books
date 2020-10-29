@@ -293,6 +293,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Profiles of the Future: An Inquiry into the Limits of the Possible | Arthur C. Clarke | [3.94](https://www.goodreads.com/book/show/169258.Profiles_of_the_Future) | 1962 |
 | How to Find a Habitable Planet | James Kasting | [3.93](https://www.goodreads.com/book/show/7551498-how-to-find-a-habitable-planet) | 2010 |  
 | The 10,000 Year Explosion: How Civilization Accelerated Human Evolution | Gregory Cochran, Henry Harpending | [3.91](https://www.goodreads.com/book/show/6033964-the-10-000-year-explosion) | 2009 |  
+| The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements | Sam Kean | [3.91](https://www.goodreads.com/book/show/7247854-the-disappearing-spoon) | 2010 |  
 | Evolution for Everyone: How Darwin's Theory Can Change the Way We Think About Our Lives | David Sloan Wilson | [3.90](http://www.goodreads.com/book/show/159062.Evolution_for_Everyone) | 2007 |
 | Life at the Speed of Light: From the Double Helix to the Dawn of Digital Life | J. Craig Venter | [3.87](www.goodreads.com/book/show/17674969-life-at-the-speed-of-light) | 2013 |
 | The Shallows: What the Internet is Doing to Our Brains | Nicholas Carr | [3.85](https://www.goodreads.com/book/show/9778945-the-shallows) | 2011 |  
