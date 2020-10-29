@@ -4,7 +4,7 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import SideBar from "../components/sidebar"
-import { Container, Row, Col } from "react-bootstrap"
+import { Container, Row, Col, Navbar } from "react-bootstrap"
 import BookFeed from "../components/feed"
 
 function myFunction(setMaximumBooksToShow, maximumBooksToShow) {
@@ -28,12 +28,12 @@ export default ({ data }) => {
   return (
     <Layout>
       <SEO title="Home" />
-      <Container fluid>
+      <Container fluid> 
         <Row>
-          <Col xs={2}>
+          <Col lg={2}>
             <SideBar />
           </Col>
-          <Col>
+          <Col lg={10}>
             <BookFeed data={data} limit={maximumBooksToShow} />
           </Col>
         </Row>

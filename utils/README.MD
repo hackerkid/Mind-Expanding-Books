@@ -19,3 +19,19 @@ from `Goodreads` and `Google Search` API. And the result is stored in `utils/boo
 Once the script completes the run, the `utils/books.json` file is copied to `app/src/data/books.json` **manually**.
 
 And the website uses the data from `app/src/data/books.json` for generating the pages.
+
+## Install packages for script
+
+```bash
+cd utils
+virtualenv .
+source bin/activate
+pip install -r requirements.txt
+```
+
+## Executing the script
+
+- Register at [goodreads](https://www.goodreads.com)
+- Apply for a developer api [here](https://www.goodreads.com/api)
+- Copy utils/config-sample.py as utils/config.py
+- Fill in the API Key credentials

@@ -1,3 +1,7 @@
 .custom-header{
     position: fixed;
 }
+.footer-text {
+    text-align:center;
+    padding-bottom:1 rem;
+}
