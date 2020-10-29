@@ -162,7 +162,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | In Defense of Food: An Eater's Manifesto | Michael Pollan | [4.07](https://www.goodreads.com/book/show/315425.In_Defense_of_Food) | 2008 |  
 | The Blank Slate: The Modern Denial of Human Nature | Steven Pinker | [4.07](http://www.goodreads.com/book/show/5752.The_Blank_Slate) | 2003 |  
 | The History of Western Philosophy | Bertrand Russell | [4.06](https://www.goodreads.com/book/show/243685.A_History_of_Western_Philosophy) | 2008 |  
-| Moral Tribes: Emotion, Reason, and the Gap Between Us and Them | Joshua Greene | [4.05](https://www.goodreads.com/book/show/17707599-moral-tribes) | 2013 |  
+| Moral Tribes: Emotion, Reason, and the Gap Between Us and Them | Joshua Greene | [4.05](https://www.goodreads.com/book/show/17707599-moral-tribes) | 2013 |
+| Thus Spoke Zarathustra | Friedrich Nietzsche | [4.05](https://www.goodreads.com/book/show/51893.Thus_Spoke_Zarathustra) | 1883 |
 | The Elephant in the Brain: Hidden Motives in Everyday Life | Kevin Simler, Robin Hanson | [4.05](https://www.goodreads.com/book/show/28820444-the-elephant-in-the-brain) | 2017 |
 | Quiet: The Power of Introverts in a World That Can't Stop Talking | Susan Cain | [4.04](https://www.goodreads.com/book/show/8520610-quiet) | 2012 |  
 | The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind | Michio Kaku | [4.04](https://www.goodreads.com/book/show/17978489-the-future-of-the-mind) | 2014 |  
