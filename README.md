@@ -123,7 +123,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 
 ## Philosophy And Psychology
 | Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|  
+|------|--------|------------------|----------------|
+| Karma Yoga | Swami Vivekanand | [4.51](https://www.goodreads.com/book/show/827031.Karma_Yoga) | 1999 |
 | Tattoos on the Heart: The Power of Boundless Compassion | Gregory Boyle | [4.41](https://www.goodreads.com/book/show/7090193-tattoos-on-the-heart) | 2010 |  
 | The Slight Edge - Secret to a Successful Life | Jeff Olson | [4.39](https://www.goodreads.com/book/show/590652.The_Slight_Edge) | 2005 |
 | Education and the Significance of Life | Krishnamurti | [4.38](https://www.goodreads.com/book/show/353435.Education_and_the_Significance_of_Life) | 2008 |  
