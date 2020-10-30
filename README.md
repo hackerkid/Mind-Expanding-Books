@@ -243,7 +243,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Discoverers | Daniel J. Boorstin | [4.34](https://www.goodreads.com/book/show/714380.The_Discoverers) | 2012 |  
 | Homo Deus: A History of Tomorrow | Yuval Noah Harari | [4.27](https://www.goodreads.com/book/show/31138556-homo-deus) | 2017 |
 | One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War | Michael Dobbs | [4.20](https://www.goodreads.com/book/show/2606779-one-minute-to-midnight) | 2008 |  
-| The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet | David Kahn | [4.18](https://www.goodreads.com/book/show/29608.The_Codebreakers) | 1996 |  
+| The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet | David Kahn | [4.18](https://www.goodreads.com/book/show/29608.The_Codebreakers) | 1996 | 
+| Blindness | José Saramago | [4.13](https://www.goodreads.com/book/show/2526.Blindness?from_search=true&from_srp=true&qid=EUWMBToEKN&rank=2) | 1995 |
 | From Dawn to Decadence: 500 Years of Western Cultural Life 1500 to the Present | Jacques Barzun | [4.12](https://www.goodreads.com/book/show/58233.From_Dawn_to_Decadence) | 2001 |  
 | Why the West Rules--for Now: The Patterns of History, and What They Reveal About the Future | Ian Morris | [4.09](https://www.goodreads.com/book/show/9491855-why-the-west-rules-for-now) | 2010 |  
 | The Nazi Doctors: Medical Killing and the Psychology of Genocide | Robert Jay Lifton | [4.07](https://www.goodreads.com/book/show/173187.The_Nazi_Doctors) | 1986 |  
