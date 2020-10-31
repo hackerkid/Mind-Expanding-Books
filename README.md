@@ -601,6 +601,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Wild Places |  Robert Macfarlane | [4.27](https://www.goodreads.com/book/show/2688775-the-wild-places) | 2007 |  
 | The Sixth Extinction: An Unnatural History | Elizabeth Kolbert | [4.13](https://www.goodreads.com/book/show/17910054-the-sixth-extinction) | 2014 |
 | Pilgrim at Tinker Creek | Annie Dillard | [4.11](https://www.goodreads.com/book/show/12527.Pilgrim_at_Tinker_Creek) | 1974 |
+| A Walk in the Woods: Rediscovering America on the Appalachian Trai | [4.06](https://www.goodreads.com/book/show/9791.A_Walk_in_the_Woods) | 2006 |
 
 ## Art
 
