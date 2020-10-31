@@ -584,7 +584,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 ## Travel
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
-| Atlas Obscura: An Explorer's Guide to the World's Hidden Wonders | Joshua Foer | [4.24](https://www.goodreads.com/book/show/28110891-atlas-obscura) | 2016 |  
+| Atlas Obscura: An Explorer's Guide to the World's Hidden Wonders | Joshua Foer | [4.24](https://www.goodreads.com/book/show/28110891-atlas-obscura) | 2016 | 
+| The Alchemist | Paulo Coelho | [3.88](https://www.goodreads.com/book/show/18144590-the-alchemist) | 1988 |
 
 ## Language
 | Name | Author | Goodreads Rating | Year Published |  
