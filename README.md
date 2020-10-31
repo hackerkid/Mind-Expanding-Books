@@ -374,7 +374,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 ## Race
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
-| So You Want to Talk About Race | Ijeoma Oluo | [4.53](https://www.goodreads.com/book/show/35099718-so-you-want-to-talk-about-race) | 2018 |  
+| So You Want to Talk About Race | Ijeoma Oluo | [4.53](https://www.goodreads.com/book/show/35099718-so-you-want-to-talk-about-race) | 2018 | 
+| The Origin of Others | Toni Morrison | [4.22](https://www.goodreads.com/book/show/34758228-the-origin-of-others) | 2017 |
 
 ## Education
 | Name | Author | Goodreads Rating | Year Published |  
