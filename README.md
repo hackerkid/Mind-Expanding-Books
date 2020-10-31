@@ -469,7 +469,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Confessions | Jean-Jacques Rousseau | [3.61](https://www.goodreads.com/book/show/12649.Confessions) | 1782 |  
 | Lettres persanes | Montesquieu | [3.54](http://www.goodreads.com/book/show/509686.Persian_Letters) | 1721 |  
 | The Director | David Ignatius | [3.43](http://www.goodreads.com/book/show/23316525-the-director) | 2015 |   
-
+| Slaughterhouse-Five | Kurt Vonnegut Jr. | [4.08](https://www.goodreads.com/book/show/4981.Slaughterhouse_Five) | 1969 |
 ### Fantasy
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
