@@ -521,6 +521,9 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Turn of the Key | Ruth Ware | [3.94](https://www.goodreads.com/book/show/42080142-the-turn-of-the-key) | 2019 |
 | The Girl on the Train | Paula Hawkins | [3.88](https://www.goodreads.com/book/show/22557272-the-girl-on-the-train) | 2015 |  
 | The Da Vinci Code | Dan Brown | [3.79](http://www.goodreads.com/book/show/968.The_Da_Vinci_Code) | 2006 |  
+| The Shadow of the Wind | Carlos Ruiz Zafon | [4.27](https://www.goodreads.com/book/show/1232.The_Shadow_of_the_Wind) | 2001 |  
+| The Angel's Game | Carlos Ruiz Zafon | [3.93](https://www.goodreads.com/book/show/4912857-the-angel-s-game) | 2009 |  
+| The Prisioner of heaven | Carlos Ruiz Zafon | [4.04](https://www.goodreads.com/book/show/13623012-the-prisoner-of-heaven) | 2012 |  
 
 ### Science Fiction
 | Name | Author | Goodreads Rating | Year Published |  
