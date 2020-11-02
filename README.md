@@ -267,7 +267,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Behave: The Biology of Humans at Our Best and Worst | Robert M. Sapolsky | [4.42](https://www.goodreads.com/book/show/31170723-behave) | 2017 |  
-| Asimov's New Guide to Science | Isaac Asimov | [4.36](https://www.goodreads.com/book/show/977262.Asimov_s_New_Guide_To_Science) | 1985 |  
+| Asimov's New Guide to Science | Isaac Asimov | [4.36](https://www.goodreads.com/book/show/977262.Asimov_s_New_Guide_To_Science) | 1985 |
+| Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think | Hans Rosling | [4.36](https://www.goodreads.com/book/show/34890015-factfulness) | 2018 |
 | The Gene: An Intimate History | Siddhartha Mukherjee | [4.35](https://www.goodreads.com/book/show/27276428-the-gene) | 2016 |
 | Origins of Form: The Shape of Natural and Man-Made Things | Christopher Williams | [4.31](https://www.goodreads.com/book/show/16255011-origins-of-form) | 2013 |  
 | The Body: A Guide for Occupants | Bill Bryson | [4.31](https://www.goodreads.com/book/show/43582376-the-body) | 2019 | 
@@ -308,7 +309,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Origins of Genius: Darwinian Perspectives on Creativity | Dean Keith | [3.74](https://www.goodreads.com/book/show/254489.Origins_of_Genius) | 1999 |  
 | Waters of the World: the story of the scientists who unravelled the mysteries of our seas, glaciers, and atmosphere and made the planet whole | Sarah Dry | [3.65](https://www.goodreads.com/book/show/43389003-waters-of-the-world) | 2019 |
 | Mind Wars: Brain Research and National Defense | Jonathan D. Moreno | [3.45](http://www.goodreads.com/book/show/599321.Mind_Wars) | 2007 |  
-| Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think | Hans Rosling | [4.36](https://www.goodreads.com/book/show/34890015-factfulness) | 2018 |
+
 ## Logic and Problem Solving
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
