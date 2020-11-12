@@ -17,6 +17,7 @@ jobs:
         run: |
           cd utils
           pip install requests
+          pip install bs4
           python update_json_files.py
           cd ..
       - name: Run git commands
