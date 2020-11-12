@@ -13,9 +13,11 @@ jobs:
     steps: 
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
-      - id: run_py
+      - name: cd utils
         run:  |
         cd utils
+      - name: run python
+        run:  |
         python update_json_files.py
         cd ..
         git add .
