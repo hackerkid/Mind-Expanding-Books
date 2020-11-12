@@ -18,6 +18,7 @@ jobs:
           cd utils
           pip install requests
           pip install bs4
+          pip install googlesearch
           touch config.py
           echo "GOODREADS_PUBLIC_API_KEY = 'xTYCn29CfapKRnopwgYS2A'
           GOOGLE_SEARCH_RAPIDAPI_HOST = 'google-search3.p.rapidapi.com'
