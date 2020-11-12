@@ -13,16 +13,15 @@ jobs:
     steps: 
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
-      - name: cd utils
+      - name: Run python script
         run: |
-          echo hello
-          echo world
-      #- name: run python
-      #  run:  |
-      #  python update_json_files.py
-      #  cd ..
-      #  git add .
-      #  git config --global user.name 'Philip Wright'
-      #  git config --global user.email 'wrightphilip4@gmail.com.github.com'
-      #  git commit -am 'Update JSON files'
-      #  git push
+          cd utils
+          python update_json_files.py
+          cd ..
+      - name: Run git commands
+        run: | 
+          git add .
+          git config --global user.name 'Philip Wright'
+          git config --global user.email 'wrightphilip4@gmail.com.github.com'
+          git commit -am 'Update JSON files'
+          git push
