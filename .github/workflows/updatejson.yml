@@ -16,6 +16,7 @@ jobs:
       - name: Run python script
         run: |
           cd utils
+          pip install requests
           python update_json_files.py
           cd ..
       - name: Run git commands
