@@ -15,8 +15,8 @@ jobs:
       - uses: actions/setup-python@v2
       - name: cd utils
         run: |
-        echo hello
-        echo world
+          echo hello
+          echo world
       #- name: run python
       #  run:  |
       #  python update_json_files.py
