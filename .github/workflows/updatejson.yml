@@ -16,7 +16,7 @@ jobs:
       - id: run_py
         run:  |
         cd utils
-        python update_json_files.py
+        python update_json_files
         cd ..
       - id: run_git_commands
         run:  |
