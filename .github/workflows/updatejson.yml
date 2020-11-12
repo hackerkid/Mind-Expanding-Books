@@ -16,10 +16,10 @@ jobs:
       - id: run_py
         run:  |
         cd utils
-      - id: run_git_commands
-        run:  |
-          git add .
-          git config --global user.name 'Philip Wright'
-          git config --global user.email 'wrightphilip4@gmail.com.github.com'
-          git commit -am 'Update JSON files'
-          git push
+        python update_json_files.py
+        cd ..
+        git add .
+        git config --global user.name 'Philip Wright'
+        git config --global user.email 'wrightphilip4@gmail.com.github.com'
+        git commit -am 'Update JSON files'
+        git push
