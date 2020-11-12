@@ -2,7 +2,7 @@ name: Housekeeping
 on: 
   push:
   schedule:
-  #  Kick off job at midnight on the 1st and the 15th of every month
+  #  Kick off job at midnight on the 1st and the 15th of every month python update_json_files.py
   - cron: "0 0 1,15 * *"
 
 jobs:
@@ -15,9 +15,9 @@ jobs:
       - uses: actions/setup-python@v2
       - id: run_py
         run:  |
-        cd utils;
-        python update_json_files.py;
-        cd ..;
+        cd utils
+        
+        cd ..
       - id: run_git_commands
         run:  |
           git add .
