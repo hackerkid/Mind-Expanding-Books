@@ -20,9 +20,9 @@ jobs:
           pip install bs4
           touch config.py
           echo "GOODREADS_PUBLIC_API_KEY = 'xTYCn29CfapKRnopwgYS2A'
-              GOOGLE_SEARCH_RAPIDAPI_HOST = 'google-search3.p.rapidapi.com'
-              GOOGLE_SEARCH_RAPIDAPI_KEY = '3aca143c77mshd141a85672bc760p1db483jsn087b21c9b4c9'
-              GOOGLE_BOOK_API_KEY = '3aca143c77mshd141a85672bc760p1db483jsn087b21c9b4c9'" > config.py
+          GOOGLE_SEARCH_RAPIDAPI_HOST = 'google-search3.p.rapidapi.com'
+          GOOGLE_SEARCH_RAPIDAPI_KEY = '3aca143c77mshd141a85672bc760p1db483jsn087b21c9b4c9'
+          GOOGLE_BOOK_API_KEY = '3aca143c77mshd141a85672bc760p1db483jsn087b21c9b4c9'" > config.py
           cat config.py
           python update_json_files.py
           cd ..
