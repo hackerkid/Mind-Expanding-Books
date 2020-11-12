@@ -16,7 +16,6 @@ jobs:
       - id: run_py
         run:  |
         cd utils
-        
         cd ..
       - id: run_git_commands
         run:  |
