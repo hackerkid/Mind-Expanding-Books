@@ -2,7 +2,7 @@ name: Housekeeping
 on: 
   push:
   schedule:
-  #  Kick off job at midnight on the 1st and the 15th of every month.
+  #  Kick off job at midnight on the 1st and the 15th of every month
   - cron: "0 0 1,15 * *"
 
 jobs:
