@@ -26,6 +26,7 @@ jobs:
           GOOGLE_BOOK_API_KEY =  ${{ secrets.GOOGLE_BOOK_API_KEY}}" > config.py
           cat config.py
           python update_json_files.py
+          echo $(pwd)
           cd ..
       - name: Run git commands
         run: | 
