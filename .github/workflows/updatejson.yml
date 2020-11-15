@@ -29,6 +29,7 @@ jobs:
           cat config.py
       - name: Run Python script
         run: |
+          cd utils
           python update_json_files.py
           cd ..
       - name: Run git commands
