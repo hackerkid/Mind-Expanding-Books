@@ -13,18 +13,22 @@ jobs:
     steps: 
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
-      - name: Run python script
+      - name: Setup environment
         run: |
           cd utils
           pip install requests
           pip install bs4
           pip install google
+      - name: Create config file
+        run: |
           touch config.py
           echo "GOODREADS_PUBLIC_API_KEY = ${{ secrets.GOODREADS_PUBLIC_API_KEY}}
           GOOGLE_SEARCH_RAPIDAPI_HOST =  ${{ secrets.GOOGLE_SEARCH_RAPIDAPI_HOST}}
           GOOGLE_SEARCH_RAPIDAPI_KEY =  ${{ secrets.GOOGLE_SEARCH_RAPIDAPI_KEY}}
           GOOGLE_BOOK_API_KEY =  ${{ secrets.GOOGLE_BOOK_API_KEY}}" > config.py
           cat config.py
+      - name: Run Python script
+        run: |
           python update_json_files.py
           cd ..
       - name: Run git commands
