@@ -30,7 +30,7 @@ jobs:
       - name: Run git commands
         run: | 
           git add .
-          git config --global user.name 'Mind Expanding Books Bot'
+          git config --global user.name 'mindexpandingbooksbot'
           git config --global user.email 'mindexpandingbooks@gmail.com.github.com'
           git commit -am 'Update JSON files'
           git push
