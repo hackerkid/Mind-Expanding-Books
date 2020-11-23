@@ -21,7 +21,6 @@ jobs:
           GOOGLE_SEARCH_RAPIDAPI_HOST =  ${{ secrets.GOOGLE_SEARCH_RAPIDAPI_HOST}}
           GOOGLE_SEARCH_RAPIDAPI_KEY =  ${{ secrets.GOOGLE_SEARCH_RAPIDAPI_KEY}}
           GOOGLE_BOOK_API_KEY =  ${{ secrets.GOOGLE_BOOK_API_KEY}}" > config.py
-          cat config.py
           python update_json_files.py
           cp /home/runner/work/Mind-Expanding-Books/Mind-Expanding-Books/utils/books.json /home/runner/work/Mind-Expanding-Books/Mind-Expanding-Books/app/src/data
           cd ..
