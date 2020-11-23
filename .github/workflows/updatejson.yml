@@ -1,5 +1,6 @@
 name: Housekeeping
 on: 
+  push: 
   schedule:
   #  Kick off job at midnight on the 1st and the 15th of every month
   - cron: "0 0 1,15 * *"
@@ -15,9 +16,7 @@ jobs:
       - name: Run Python script
         run: |
           cd utils
-          pip install requests
-          pip install bs4
-          pip install google
+          pip install requests bs4 google
           touch config.py
           echo "GOODREADS_PUBLIC_API_KEY = ${{ secrets.GOODREADS_PUBLIC_API_KEY}}
           GOOGLE_SEARCH_RAPIDAPI_HOST =  ${{ secrets.GOOGLE_SEARCH_RAPIDAPI_HOST}}
