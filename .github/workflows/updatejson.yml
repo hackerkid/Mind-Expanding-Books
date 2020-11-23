@@ -26,7 +26,9 @@ jobs:
           cd ..
       - name: Run git commands
         run: | 
-          git add .
+          git add app/src/data/books.json
+          git add utils/book_name_to_details.json
+          git add utils/books.json 
           git config --global user.name 'mindexpandingbooksbot'
           git config --global user.email 'mindexpandingbooksbot@users.noreply.github.com'
           git commit -am 'Update JSON files'
