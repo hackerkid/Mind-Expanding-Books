@@ -17,7 +17,6 @@ jobs:
         run: |
           cd utils
           pip install requests bs4 google
-          touch config.py
           echo "GOODREADS_PUBLIC_API_KEY = ${{ secrets.GOODREADS_PUBLIC_API_KEY}}
           GOOGLE_SEARCH_RAPIDAPI_HOST =  ${{ secrets.GOOGLE_SEARCH_RAPIDAPI_HOST}}
           GOOGLE_SEARCH_RAPIDAPI_KEY =  ${{ secrets.GOOGLE_SEARCH_RAPIDAPI_KEY}}
