@@ -1,0 +1,35 @@
+name: Housekeeping
+on: 
+  push: 
+  schedule:
+  #  Kick off job at midnight on the 1st and the 15th of every month
+  - cron: "0 0 1,15 * *"
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps: 
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+      - name: Run Python script
+        run: |
+          cd utils
+          pip install requests bs4 google
+          echo "GOODREADS_PUBLIC_API_KEY = ${{ secrets.GOODREADS_PUBLIC_API_KEY}}
+          GOOGLE_SEARCH_RAPIDAPI_HOST =  ${{ secrets.GOOGLE_SEARCH_RAPIDAPI_HOST}}
+          GOOGLE_SEARCH_RAPIDAPI_KEY =  ${{ secrets.GOOGLE_SEARCH_RAPIDAPI_KEY}}
+          GOOGLE_BOOK_API_KEY =  ${{ secrets.GOOGLE_BOOK_API_KEY}}" > config.py
+          python update_json_files.py
+          cp /home/runner/work/Mind-Expanding-Books/Mind-Expanding-Books/utils/books.json /home/runner/work/Mind-Expanding-Books/Mind-Expanding-Books/app/src/data
+          cd ..
+      - name: Run git commands
+        run: | 
+          git add app/src/data/books.json
+          git add utils/book_name_to_details.json
+          git add utils/books.json 
+          git config --global user.name 'mindexpandingbooksbot'
+          git config --global user.email 'mindexpandingbooksbot@users.noreply.github.com'
+          git commit -am 'Update JSON files'
+          git push
