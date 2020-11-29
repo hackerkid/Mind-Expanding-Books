@@ -42,16 +42,17 @@ def get_details(book_object):
             book_object["description"] = BeautifulSoup(description).text
         else:
             book_object["description"] = ""
-            # Attempt to use Google Book API
-            url = "https://www.googleapis.com/books/v1/volumes?q={}+inauthor:{}&key={}".format(
-                book_object["title"], book_object["author"], GOOGLE_BOOK_API_KEY,
-            )
-            response = requests.request("GET", url)
+            if GOOGLE_BOOK_API_KEY.strip(" "):
+                # Attempt to use Google Book API
+                url = "https://www.googleapis.com/books/v1/volumes?q={}+inauthor:{}&key={}".format(
+                    book_object["title"], book_object["author"], GOOGLE_BOOK_API_KEY,
+                )
+                response = requests.request("GET", url)
 
-            for item in response.json()["items"]:
-                if "description" in item["volumeInfo"]:
-                    book_object["description"] = item["volumeInfo"]["description"]
-                    break
+                for item in response.json()["items"]:
+                    if "description" in item["volumeInfo"]:
+                        book_object["description"] = item["volumeInfo"]["description"]
+                        break
             
         print("Fetching amazon link")
         
