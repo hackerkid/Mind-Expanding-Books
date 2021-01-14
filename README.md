@@ -125,6 +125,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 ## Philosophy And Psychology
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|
+| The Almanack of Naval Ravikant: A Guide to Wealth and Happiness | Eric Jorgenson | [4.64](https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant) | 2020 |
 | Karma Yoga | Swami Vivekanand | [4.51](https://www.goodreads.com/book/show/827031.Karma_Yoga) | 1999 |
 | The Ascent of Humanity | Charles Eisenstein | [4.43](https://www.goodreads.com/book/show/482505.The_Ascent_of_Humanity) | 2007
 | Tattoos on the Heart: The Power of Boundless Compassion | Gregory Boyle | [4.41](https://www.goodreads.com/book/show/7090193-tattoos-on-the-heart) | 2010 |  
@@ -249,6 +250,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | [4.42](https://www.goodreads.com/book/show/23692271-sapiens) | 2014 |  
+| Bloodlands: Europe Between Hitler and Stalin | Timothy Snyder | [4.36](https://www.goodreads.com/book/show/6572270-bloodlands) | 2010 |
 | How the Internet Happened: From Netscape to the iPhone | Brian McCullough | [4.36](https://www.goodreads.com/en/book/show/38212134-how-the-internet-happened) | 2018 |
 | The Discoverers | Daniel J. Boorstin | [4.34](https://www.goodreads.com/book/show/714380.The_Discoverers) | 2012 |  
 | Homo Deus: A History of Tomorrow | Yuval Noah Harari | [4.27](https://www.goodreads.com/book/show/31138556-homo-deus) | 2017 |
@@ -347,6 +349,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|
 | The New Jim Crow: Mass Incarceration in the Age of Colorblindness | Michelle Alexander | [4.49](https://www.goodreads.com/book/show/6792458-the-new-jim-crow)| 2010
 | Justice: What's the Right Thing to Do? | Michael J. Sandel | [4.25](https://www.goodreads.com/book/show/6452731-justice) |  |  
+| On Tyranny: Twenty Lessons from the Twentieth Century | Timothy Snyder | [4.20](https://www.goodreads.com/book/show/33917107-on-tyranny) | 2017 |
 | The Righteous Mind: Why Good People are Divided by Politics and Religion |  Jonathan Haidt | [4.16](https://www.goodreads.com/book/show/11324722-the-righteous-mind) | 2012 |  
 | Strangers in Their Own Land: Anger and Mourning on the American Right | Arlie Russell Hochschild | [4.15](https://www.goodreads.com/book/show/28695425-strangers-in-their-own-land) | 2016 |  
 | Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime | John Heilemann, Mark Halperin | [4.10](https://www.goodreads.com/book/show/6694937-game-change) | 2010 |  
