@@ -440,6 +440,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Glass Bead Game | Hermann Hesse, Richard and Clara Winston | [4.11](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game) | 1943 |  
 | War and Peace | Leo Tolstoy | [4.11](https://www.goodreads.com/book/show/656.War_and_Peace) | 1867 |  
 | Jane Eyre | Charlotte Brontë | [4.10](https://www.goodreads.com/book/show/10210.Jane_Eyre) | 1847 |  
+
+
 | Germinal | Emile Zola | [4.10](https://www.goodreads.com/book/show/28407.Germinal) | 1885 |  
 | If on a Winter's Night a Traveler | Italo Calvino and William Weaver | [4.08](https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler) | 1979 |  
 | Slaughterhouse-Five | Kurt Vonnegut Jr. | [4.08](https://www.goodreads.com/book/show/4981.Slaughterhouse_Five) | 1969 |
@@ -465,6 +467,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Adventures of Huckleberry Finn | Mark Twain | [3.80](https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn) | 1884 |  
 | The Catcher in the Rye | J.D. Salinger | [3.79](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye) | 1951 |  
 | Eugénie Grandet | Honoré de Balzac | [3.79](https://www.goodreads.com/book/show/59142.Eug_nie_Grandet) | 1833 |
+
 | Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values  | Robert M. Pirsig | [3.76](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance) | 1974 |
 | Candide | Voltaire | [3.76](https://www.goodreads.com/book/show/19380.Candide) | 1759 |  
 | Atlas Shrugged | Ayn Rand | [3.68](https://www.goodreads.com/book/show/9365.Atlas_Shrugged) | 1957 |
