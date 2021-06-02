@@ -23,4 +23,4 @@ requests==2.24.0
 soupsieve==2.0.1
 toml==0.10.1
 typed-ast==1.4.1
-urllib3==1.25.10
+urllib3==1.26.5
