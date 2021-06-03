@@ -18,8 +18,6 @@ import AmazonURL from "../components/amazonurl"
 import Bookmark from "../components/bookmark"
 import GoodReadsImage from "../components/goodreadsimage"
 
-const FileDownload = require("js-file-download")
-
 export default ({ book }) => {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(false)
@@ -34,7 +32,6 @@ export default ({ book }) => {
       .get("https://www.googleapis.com/books/v1/volumes?q=intitle:" + query)
       .then(res => {
         setData(res)
-        // console.log(data.data.items.map(item => item.volumeInfo.title))
         setLoading(false)
       })
       .catch(error => {
