@@ -1,17 +1,13 @@
 import React from "react"
 import "../styles/sidebar.css"
-import BookCard from "./bookcard"
-import { useState, useEffect } from "react"
 import StarRatings from "react-star-ratings"
-import Layout from "./layout"
-import SEO from "./seo"
-import SideBar from "./sidebar"
 import { Card, Row, Col } from "react-bootstrap"
-import AmazonURL from "../components/amazonurl"
-import Bookmark from "../components/bookmark"
-import GoodReadsImage from "../components/goodreadsimage"
+import AmazonURL from "./amazonurl"
+import Bookmark from "./bookmark"
+import GoodReadsImage from "./goodreadsimage"
+import PropTypes from "prop-types"
 
-export default ({ book }) => {
+const BookPage = ({ book }) => {
   return (
     <>
       <Card style={{ marginBottom: "15px", borderWidth: "0rem" }}>
@@ -80,4 +76,19 @@ export default ({ book }) => {
       </Card>
     </>
   )
+}
+
+export default BookPage
+
+BookPage.propTypes = {
+  book: PropTypes.objectOf(
+    PropTypes.string,
+    PropTypes.array,
+    PropTypes.object,
+    PropTypes.number
+  ),
+}
+
+BookPage.defaultProps = {
+  book: {},
 }
