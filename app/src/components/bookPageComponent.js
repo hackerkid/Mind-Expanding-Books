@@ -12,7 +12,10 @@ import Bookmark from "../components/bookmark"
 import GoodReadsImage from "../components/goodreadsimage"
 
 export default ({ book }) => {
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of 4e5b1cf... add download links
   return (
     <>
       <Card style={{ marginBottom: "15px", borderWidth: "0rem" }}>
