@@ -12,30 +12,7 @@ import Bookmark from "../components/bookmark"
 import GoodReadsImage from "../components/goodreadsimage"
 
 export default ({ book }) => {
-<<<<<<< HEAD
-  const [loading, setLoading] = useState(true)
-  const [error, setError] = useState(false)
-  const [data, setData] = useState(null)
 
-  useEffect(() => {
-    const query =
-      book.title.split(" ").join("+") +
-      "+inauthor:" +
-      book.author.split(" ").join("+")
-    axios
-      .get("https://www.googleapis.com/books/v1/volumes?q=intitle:" + query)
-      .then(res => {
-        setData(res)
-        setLoading(false)
-      })
-      .catch(error => {
-        setLoading(false)
-        setError(error)
-      })
-  }, [book])
-
-=======
->>>>>>> parent of 4e5b1cf... add download links
   return (
     <>
       <Card style={{ marginBottom: "15px", borderWidth: "0rem" }}>
