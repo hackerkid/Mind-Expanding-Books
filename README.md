@@ -651,6 +651,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Design of Everyday Things | Donald Norman | [4.18](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) | 2002 |  
 | Mismatch: How Inclusion Shapes Design |  Kat Holmes, John Maeda | [4.14](https://www.goodreads.com/book/show/39644200-mismatch) | 2018 |  
 | The Art of Looking Sideways | Alan Fletcher | [4.10](https://www.goodreads.com/book/show/15778.The_Art_of_Looking_Sideways) | 2001 | 
+| Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation | Tim Brown | [3.88](https://www.goodreads.com/book/show/6671664-change-by-design) | 2009 | 
 
 <a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
