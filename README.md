@@ -615,6 +615,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The New Drawing on the Right Side of the Brain | Betty Edwards | [3.86](https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain) | 1989 |
 | Steal Like an Artist: 10 Things Nobody Told You About Being Creative | Austin Kleon | [3.92](https://www.goodreads.com/book/show/13099738-steal-like-an-artist) | 2012 |
 | Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered | Austin Kleon | [4.10](https://www.goodreads.com/book/show/18290401-show-your-work) | 2014 |
+| Pixel Logic - A Guide to Pixel Art | Michael Azzi | [4.31](https://www.goodreads.com/vi/book/show/43733848-pixel-logic---a-guide-to-pixel-art) | 2019 |
 
 ## Credits
 * [@hackerkid](https://github.com/hackerkid) for starting the list.
