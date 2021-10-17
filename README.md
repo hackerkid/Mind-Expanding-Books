@@ -74,6 +74,7 @@
 | Nail it then Scale it: The Entrepreneur's Guide to Creating and Managing Breakthrough | Nathan Furr | [4.13](https://www.goodreads.com/book/show/12236649-nail-it-then-scale-it) | 2011 |
 | Outliers: Story of Success | Malcolm Gladwell | [4.11](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) | 2008 |  
 | The Strategy and Tactics of Pricing : A Guide to Move More Profitable | Thomas Nagle, John Hogan, Joseph Zale | [4.09](https://www.goodreads.com/book/show/99919.The_Strategy_and_Tactics_of_Pricing) | 2005 |  
+| Principles: Life and Work | Ray Dalio | [4.07](https://www.goodreads.com/book/show/34536488-principles) | 2017 |
 | Start with Why: How Great Leaders Inspire Everyone to Take Action | Simon Sinek | [4.07](https://www.goodreads.com/book/show/7108725-start-with-why) | 2009 |  
 | Leaving Microsoft to Change the World: An Entrepreneur's Odyssey to Educate the World's Children | John Wood | [4.07](https://www.goodreads.com/book/show/95429.Leaving_Microsoft_to_Change_the_World) | 2006 |  
 | Hackers and Painters | Paul Graham | [4.06](https://www.goodreads.com/book/show/41793.Hackers_Painters) | 2004 |  
