@@ -1,4 +1,4 @@
-# Mind Expanding Books
+﻿# Mind Expanding Books
 
 
 <h2  align="center">
@@ -392,7 +392,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Summerhill School: A New View of Childhood | A. S. Neill, Albert Lamb | [4.09](https://www.goodreads.com/book/show/178734.Summerhill) | 1995 |  
 | The Art of Learning: An Inner Journey to Optimal Performance | Josh Waitzkin | [4.08](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) | 2016 |
 | Wounded by School: Recapturing the Joy in Learning and Standing Up to Old School Culture | Kirsten Olson, Sara Lawrence-Lightfoot, Parker J. Palmer | [3.92](https://www.goodreads.com/book/show/6425208-wounded-by-school) | 2009 |  
-| Curious Minds: How a Child Becomes a Scientist | John Brockman | [3.72](https://www.goodreads.com/book/show/409588.Curious_Minds) | 2005 |  
+| Curious Minds: How a Child Becomes a Scientist | John Brockman | [3.72](https://www.goodreads.com/book/show/409588.Curious_Minds) | 2005 |
+| The Distributed Classroom (Learning in Large-Scale Environments)| David A. Joyner, Charles Isbell | [5.00](https://www.goodreads.com/author/show/912624.Charles_Isbell) | 2021 
 
 
 ## Writing
