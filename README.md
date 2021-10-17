@@ -203,6 +203,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Utilitarianism | Geoffrey Scarre | [3.50](https://www.goodreads.com/book/show/3807762-utilitarianism) | 1996 |  
 | The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression | Debra Fine | [3.36](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) | 2005 |  
 | Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) | 2001 | 
+| The Road to Character| David Brooka | [3.65](https://www.goodreads.com/book/show/22551809-the-road-to-character) | 2015|
 
 ## Autobiographies and Biographies
 | Name | Author | Goodreads Rating | Year Published |  
@@ -607,7 +608,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Pilgrim at Tinker Creek | Annie Dillard | [4.11](https://www.goodreads.com/book/show/12527.Pilgrim_at_Tinker_Creek) | 1974 |
 | A Walk in the Woods: Rediscovering America on the Appalachian Trai | Bill Bryson | [4.06](https://www.goodreads.com/book/show/9791.A_Walk_in_the_Woods) | 2006 |
 | The Uninhabitable Earth: Life After Warming | David Wallace-Wells | [4.06](https://www.goodreads.com/book/show/41552709-the-uninhabitable-earth) | 2019 |
-| The Road to Character| David Brooka | [3.65](https://www.goodreads.com/book/show/22551809-the-road-to-character) | 2015|
+
 
 ## Art
 
