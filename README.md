@@ -126,6 +126,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|
 | Karma Yoga | Swami Vivekanand | [4.51](https://www.goodreads.com/book/show/827031.Karma_Yoga) | 1999 |
+| Complete Works of Swami Vivekananda, 9 Vols. | Swami Vivekanand | [4.59](https://www.goodreads.com/book/show/560932.Complete_Works_of_Swami_Vivekananda_9_Vols_) | 2003 |
 | The Ascent of Humanity | Charles Eisenstein | [4.43](https://www.goodreads.com/book/show/482505.The_Ascent_of_Humanity) | 2007
 | Tattoos on the Heart: The Power of Boundless Compassion | Gregory Boyle | [4.41](https://www.goodreads.com/book/show/7090193-tattoos-on-the-heart) | 2010 |  
 | The Slight Edge - Secret to a Successful Life | Jeff Olson | [4.39](https://www.goodreads.com/book/show/590652.The_Slight_Edge) | 2005 |
@@ -310,6 +311,10 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Origins of Genius: Darwinian Perspectives on Creativity | Dean Keith | [3.74](https://www.goodreads.com/book/show/254489.Origins_of_Genius) | 1999 |  
 | Waters of the World: the story of the scientists who unravelled the mysteries of our seas, glaciers, and atmosphere and made the planet whole | Sarah Dry | [3.65](https://www.goodreads.com/book/show/43389003-waters-of-the-world) | 2019 |
 | Mind Wars: Brain Research and National Defense | Jonathan D. Moreno | [3.45](http://www.goodreads.com/book/show/599321.Mind_Wars) | 2007 |  
+| Chaos: Making a New Science | James Gleick | [4.02](https://www.goodreads.com/book/show/64582.Chaos) | 1988 |  
+| Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, and the Tenth Dimension | Michio Kaku | [4.13](https://www.goodreads.com/book/show/33426.Hyperspace) | 1995 |
+| Parallel Worlds: A Journey through Creation, Higher Dimensions, and the Future of the Cosmos | Michio Kaku | [4.20](https://www.goodreads.com/book/show/33418.Parallel_Worlds) | 2006 |
+
 
 ## Logic and Problem Solving
 | Name | Author | Goodreads Rating | Year Published |  
