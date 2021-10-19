@@ -152,7 +152,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Bulfinch's Mythology | Thomas Bulfinch | [4.13](https://www.goodreads.com/book/show/588147.Bulfinch_s_Mythology) | 1998 |  
 | Ego Is the Enemy | Ryan Holiday | [4.12](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy) | 2016 |  
 | Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! | Anthony Robbins | [4.11](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within) | 1991 |  
-| The Power of Now: A Guide to Spiritual Enlightenment | Eckhart Tolle | [4.11](https://www.goodreads.com/book/show/6708.The_Power_of_Now) | 1997 | 
+| The Power of Now: A Guide to Spiritual Enlightenment | Eckhart Tolle | [4.11](https://www.goodreads.com/book/show/6708.The_Power_of_Now) | 1997 |
 | Tuesdays with Morrie | Mitch Albom | [4.11](https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie) | 1997 |
 | Predictably Irrational | Dan Ariely | [4.10](https://www.goodreads.com/book/show/1713426.Predictably_Irrational) | 2008 |  
 | Flow: The Psychology of Optimal Experience | Mihaly Csikszentmihalyi | [4.10](https://www.goodreads.com/book/show/66354.Flow) | 1990 |  
@@ -175,7 +175,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Mindset: The new psychology of success | Carol S. Dweck,Ph.D. | [4.04](https://www.goodreads.com/book/show/40745.Mindset) | 2006 |
 | The Power of Habit: Why We Do What We Do In Life And Business | Charles Duhigg | [4.03](https://www.goodreads.com/book/show/12609433-the-power-of-habit) | 2012 |  
 | The Upside of Irrationality: The Unexpected Benefits of Defying Logic | Dan Ariely | [4.00](https://www.goodreads.com/book/show/7815744-the-upside-of-irrationality) | 2010 |  
-| Outsmarting IQ: The Emerging Science of Learnable Intelligence | David Perkins | [4.00](https://www.goodreads.com/book/show/1008488.Outsmarting_Iq) | 1995 | 
+| Outsmarting IQ: The Emerging Science of Learnable Intelligence | David Perkins | [4.00](https://www.goodreads.com/book/show/1008488.Outsmarting_Iq) | 1995 |
 | The Art of War | Sun Tzu | [3.95](https://www.goodreads.com/book/show/10534.The_Art_of_War) | 2005 |  
 | Willpower: Rediscovering the Greatest Human Strength | Ron P. Baumeister, John Tierney | [3.95](https://www.goodreads.com/book/show/11104933-willpower) | 2011 |  
 | A Whole New Mind: Why Right-Brainers Will Rule the Future | Daniel H. Pink | [3.95](https://www.goodreads.com/book/show/99315.A_Whole_New_Mind) |2006  |  
@@ -202,7 +202,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Rapt: Attention and the Focused Life: Winifred Gallagher | Winifred Gallagher | [3.54](https://www.goodreads.com/book/show/6262510-rapt) | 2009 |  
 | Utilitarianism | Geoffrey Scarre | [3.50](https://www.goodreads.com/book/show/3807762-utilitarianism) | 1996 |  
 | The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression | Debra Fine | [3.36](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) | 2005 |  
-| Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) | 2001 | 
+| Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) | 2001 |
 
 ## Autobiographies and Biographies
 | Name | Author | Goodreads Rating | Year Published |  
@@ -210,7 +210,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Becoming | Michelle Obama | [4.53](https://www.goodreads.com/book/show/38746485-becoming) | 2018 |  
 | Unbroken: A World War II Story of Survival, Resilience, and Redemption | Laura Hillenbrand | [4.39](https://www.goodreads.com/book/show/8664353-unbroken) | 2010 |  
 | Everything Beautiful in Its Time: Seasons of Love and Loss | Jenna Bush Hager | [4.38](https://www.goodreads.com/book/show/51822870-everything-beautiful-in-its-time) | 2020 |
-| Long Walk to Freedom | Nelson Mandela | [4.31](http://www.goodreads.com/book/show/318431.Long_Walk_to_Freedom) | 1995 | 
+| Long Walk to Freedom | Nelson Mandela | [4.31](http://www.goodreads.com/book/show/318431.Long_Walk_to_Freedom) | 1995 |
 | My Life and My Work | Henry Ford | [4.29](http://www.goodreads.com/book/show/1122054.My_Life_And_Work) | 1922 |  
 | Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character | Richard Feynman | [4.29](https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_) | 1997 |  
 | The Autobiography of Malcolm X | Malcolm X, Alex Haley | [4.29](http://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X) |1965  |  
@@ -218,7 +218,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Elon Musk: Inventing the Future | Ashlee Vance | [4.25](https://www.goodreads.com/book/show/22543496-elon-musk) | 2015 |  
 | The Last Lecture | Randy Pausch | [4.25](http://www.goodreads.com/book/show/2318271.The_Last_Lecture) | 2008 |  
 | Freedom in Exile | Dalai Lama XIV | [4.24](http://www.goodreads.com/book/show/567720.Freedom_in_Exile) | 1991 |  
-| Madame Curie: A Biography | Marie Curie | [4.22](https://www.goodreads.com/book/show/341166.Madame_Curie) | 2001 | 
+| Madame Curie: A Biography | Marie Curie | [4.22](https://www.goodreads.com/book/show/341166.Madame_Curie) | 2001 |
 | Autobiography of a Yogi | Paramahansa Yogananda | [4.21](https://www.goodreads.com/book/show/639864.Autobiography_of_a_Yogi) | 1946 |
 | Wings of Fire | A.P.J. Abdul Kalam | [4.20](http://www.goodreads.com/book/show/634583.Wings_of_Fire) | 2011 |  
 | The Man Who Knew Infinity : A Life of the Genius Ramanujan | Robert Kanigel | [4.15](https://www.goodreads.com/book/show/106139.The_Man_Who_Knew_Infinity) | 1991 |  
@@ -244,7 +244,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Discoverers | Daniel J. Boorstin | [4.34](https://www.goodreads.com/book/show/714380.The_Discoverers) | 2012 |  
 | Homo Deus: A History of Tomorrow | Yuval Noah Harari | [4.27](https://www.goodreads.com/book/show/31138556-homo-deus) | 2017 |
 | One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War | Michael Dobbs | [4.20](https://www.goodreads.com/book/show/2606779-one-minute-to-midnight) | 2008 |  
-| The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet | David Kahn | [4.18](https://www.goodreads.com/book/show/29608.The_Codebreakers) | 1996 | 
+| The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet | David Kahn | [4.18](https://www.goodreads.com/book/show/29608.The_Codebreakers) | 1996 |
 | Blindness | José Saramago | [4.13](https://www.goodreads.com/book/show/2526.Blindness) | 1995 |
 | From Dawn to Decadence: 500 Years of Western Cultural Life 1500 to the Present | Jacques Barzun | [4.12](https://www.goodreads.com/book/show/58233.From_Dawn_to_Decadence) | 2001 |  
 | Why the West Rules--for Now: The Patterns of History, and What They Reveal About the Future | Ian Morris | [4.09](https://www.goodreads.com/book/show/9491855-why-the-west-rules-for-now) | 2010 |  
@@ -272,13 +272,13 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think | Hans Rosling | [4.36](https://www.goodreads.com/book/show/34890015-factfulness) | 2018 |
 | The Gene: An Intimate History | Siddhartha Mukherjee | [4.35](https://www.goodreads.com/book/show/27276428-the-gene) | 2016 |
 | Origins of Form: The Shape of Natural and Man-Made Things | Christopher Williams | [4.31](https://www.goodreads.com/book/show/16255011-origins-of-form) | 2013 |  
-| The Body: A Guide for Occupants | Bill Bryson | [4.31](https://www.goodreads.com/book/show/43582376-the-body) | 2019 | 
+| The Body: A Guide for Occupants | Bill Bryson | [4.31](https://www.goodreads.com/book/show/43582376-the-body) | 2019 |
 | Gödel, Escher, Bach: An Eternal Golden Braid | Douglas R. Hofstadter | [4.30](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) | 1979 |  
 | The Little Schemer | Daniel P. Friedman, Matthias Felleisen, Duane Bibby, Gerald J. Sussman | [4.27](https://www.goodreads.com/book/show/548914.The_Little_Schemer) | 1995 |  
 | Scientific Genius: A Psychology of Science | Dean Keith Simonton | [4.25](https://www.goodreads.com/book/show/1752295.Scientific_Genius) | 1988 |  
 | Out of Control: The New Biology of Machines, Social Systems, and the Economic World | Kevin Kelly | [4.24](https://www.goodreads.com/book/show/16080353-out-of-control) | 1995 |  
 | The Brain: The Story of You | David Eagleman | [4.20](https://www.goodreads.com/book/show/25776132.the-brain) | 2015 |
-| A Short History of Nearly Everything | Bill Bryson | [4.19](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything) |2003  | 
+| A Short History of Nearly Everything | Bill Bryson | [4.19](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything) |2003  |
 | Things to Make and Do in the Fourth Dimension |  Matt Parker | [4.19](https://www.goodreads.com/en/book/show/21805670-things-to-make-and-do-in-the-fourth-dimension) | 2014 |  
 | The Symbolic Species: The Co-evolution of Language and the Brain | Terrence W. Deacon | [4.17](https://www.goodreads.com/book/show/733691.The_Symbolic_Species) | 1998 |  
 | A Brief History of Time | Stephen Hawking | [4.12](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time) | 1998 |  
@@ -376,7 +376,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 ## Race
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
-| So You Want to Talk About Race | Ijeoma Oluo | [4.53](https://www.goodreads.com/book/show/35099718-so-you-want-to-talk-about-race) | 2018 | 
+| So You Want to Talk About Race | Ijeoma Oluo | [4.53](https://www.goodreads.com/book/show/35099718-so-you-want-to-talk-about-race) | 2018 |
 | The Origin of Others | Toni Morrison | [4.22](https://www.goodreads.com/book/show/34758228-the-origin-of-others) | 2017 |
 
 ## Education
@@ -491,6 +491,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Wheel of Time | Robert Jordan | [4.19](https://www.goodreads.com/series/41526-the-wheel-of-time) | 1990 |
 | The City & The City | China Mieville | [3.91](https://www.goodreads.com/book/show/4703581-the-city-the-city) | 2009 |  
 | The Broken Empire | Mark Lawrence | [3.87](https://www.goodreads.com/series/64473-the-broken-empire) | 2011 |  
+| The Lightning Thief | Rick Riordan | [4.27](https://www.goodreads.com/book/show/28187.The_Lightning_Thief?from_search=true&from_srp=true&qid=Nni0ogCdN2&rank=1) | 2005 |
 
 ### Historical Fiction
 | Name | Author | Goodreads Rating | Year Published |  
@@ -499,7 +500,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Help | Kathryn Stockett | [4.45](https://www.goodreads.com/book/show/4667024-the-help) | 2009 |  
 | A Thousand Splendid Suns | Khaled Hosseini | [4.4](https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns) | 2007 |
 | The Book Thief | Markus Zusak | [4.36](https://www.goodreads.com/book/show/19063.The_Book_Thief) | 2005 |  
-| All the Light We Cannot See | Anthony Doerr | [4.31](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see) | 2014 | 
+| All the Light We Cannot See | Anthony Doerr | [4.31](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see) | 2014 |
 | The Kite Runner | Khaled Hosseini | [4.3](https://www.goodreads.com/book/show/77203.The_Kite_Runner) | 2003 |  
 | The Pillars of the Earth | Ken Follett | [4.29](https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth?from_search=true) | 1989 |  
 | Kane and Abel | Jeffrey Archer | [4.27](http://www.goodreads.com/book/show/78983.Kane_and_Abel) | 1979 |  
@@ -532,7 +533,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Martian | Andy Weir | [4.40](https://www.goodreads.com/book/show/18007564-the-martian) | 2012 |
 | The Hitchhiker's Guide to the Galaxy | Douglas Adams | [4.38](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) | 1979|
 | Ready Player One | Ernest Cline | [4.31](https://www.goodreads.com/book/show/9969571-ready-player-one) | 2011 |
-| 11/22/63 | Stephen King | [4.31] (https://www.goodreads.com/book/show/10644930-11-22-63) | 2011 | 
+| 11/22/63 | Stephen King | [4.31] (https://www.goodreads.com/book/show/10644930-11-22-63) | 2011 |
 | Ender's Game - Saga | Orson Scott Card | [4.30](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on) | 1994 |  
 | The Player of Games | Iain M. Banks | [4.26](https://www.goodreads.com/book/show/18630.The_Player_of_Games) | 1997 |  
 | The Fifth Sacred Thing | Starhawk | [4.25](https://www.goodreads.com/book/show/80689.The_Fifth_Sacred_Thing) | 1994 |
@@ -581,12 +582,12 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Pattern Language: Towns, Buildings, Construction | Christopher Alexander, Sara Ishikawa, Murray Silverstein, Max Jacobson, Ingrid Fiksdahl-King and Shlomo Angel | [4.38](https://www.goodreads.com/book/show/79766.A_Pattern_Language) | 1977 |  
-| Data visualization handbook | Juuso Koponen, Jonatan Hildén | [4.33](https://www.goodreads.com/book/show/52326089-data-visualization-handbook) | 2019 | 
+| Data visualization handbook | Juuso Koponen, Jonatan Hildén | [4.33](https://www.goodreads.com/book/show/52326089-data-visualization-handbook) | 2019 |
 | How Buildings Learn: What Happens After They're Built | Stewart Brand | [4.32](https://www.goodreads.com/book/show/38310.How_Buildings_Learn) | 1995 |
 | Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability | Steve Krug | [4.24](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) | 2014 |  
 | The Design of Everyday Things | Donald Norman | [4.18](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) | 2002 |  
 | Mismatch: How Inclusion Shapes Design |  Kat Holmes, John Maeda | [4.14](https://www.goodreads.com/book/show/39644200-mismatch) | 2018 |  
-| The Art of Looking Sideways | Alan Fletcher | [4.10](https://www.goodreads.com/book/show/15778.The_Art_of_Looking_Sideways) | 2001 | 
+| The Art of Looking Sideways | Alan Fletcher | [4.10](https://www.goodreads.com/book/show/15778.The_Art_of_Looking_Sideways) | 2001 |
 
 ## Travel
 | Name | Author | Goodreads Rating | Year Published |  
