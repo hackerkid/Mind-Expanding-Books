@@ -203,6 +203,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Utilitarianism | Geoffrey Scarre | [3.50](https://www.goodreads.com/book/show/3807762-utilitarianism) | 1996 |  
 | The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression | Debra Fine | [3.36](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) | 2005 |  
 | Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) | 2001 | 
+| The Almanack of Naval Ravikant: A Guide to Wealth and Happiness | Eric Jorgenson | [4.59](https://www.goodreads.com/en/book/show/54898389-the-almanack-of-naval-ravikant) | 2020 | 
 
 ## Autobiographies and Biographies
 | Name | Author | Goodreads Rating | Year Published |  
