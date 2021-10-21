@@ -138,7 +138,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen | Christopher McDougall | [4.27](https://www.goodreads.com/book/show/6289283-born-to-run) | 2009 |  
 | Prometheus Rising | Robert Anton Wilson | [4.26](https://www.goodreads.com/book/show/28597.Prometheus_Rising) | 2010 |  
 | The Concise 48 Laws of Power | Robert Greene | [4.25](https://www.goodreads.com/book/show/18224060-the-concise-48-laws-of-power) | 2011 |  
-| The Hero with a Thousand Faces | Joseph Campbell | [4.24](https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces) | 1972 |  
+| The Hero with a Thousand Faces | Joseph Campbell | [4.24](https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces) | 1972 | 
+| The Magic of Thinking Big | David J. Schwartz | [4.23](https://www.goodreads.com/book/show/759945.The_Magic_of_Thinking_Big) | 1959 | 
 | Zen Mind, Beginner's Mind | Shunryu Suzuki, David Chadwick | [4.23](https://www.goodreads.com/book/show/402843.Zen_Mind_Beginner_s_Mind) |  |  
 | The Age of Insight: The Quest to Understand the Unconscious in Art, Mind, and Brain, from Vienna 1900 to the Present | Eric Kandel | [4.22](https://www.goodreads.com/book/show/12263681-the-age-of-insight) | 2012 |
 | Meditations | Marcus Aurelius | [4.21](https://www.goodreads.com/book/show/30659.Meditations) |  |
