@@ -527,7 +527,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Chronicles of Narnia | Clive Staples Lewis | [4.24](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia) | 2002 |  
 | The Wheel of Time | Robert Jordan | [4.19](https://www.goodreads.com/series/41526-the-wheel-of-time) | 1990 |
 | The City & The City | China Mieville | [3.91](https://www.goodreads.com/book/show/4703581-the-city-the-city) | 2009 |  
-| The Broken Empire | Mark Lawrence | [3.87](https://www.goodreads.com/series/64473-the-broken-empire) | 2011 |  
+| The Broken Empire | Mark Lawrence | [3.87](https://www.goodreads.com/series/64473-the-broken-empire) | 2011 | 
+| Of Fire and Stars Book |Audrey Coulthurst | [3.76](https://www.goodreads.com/book/show/25164304-of-fire-and-stars) | 2016 | 
 
 <a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
