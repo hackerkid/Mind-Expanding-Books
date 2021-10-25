@@ -548,6 +548,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Little Brother | Cory Doctorow | [3.94](https://www.goodreads.com/book/show/954674.Little_Brother) | 2008 |
 | The Time Machine | H.G Wells | [3.89](https://www.goodreads.com/book/show/2493.The_Time_Machine?from_search=true&from_srp=true&qid=UOQqEw4cz3&rank=1) | 1895 |
 
+
 ### Horror
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
@@ -557,6 +558,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Rosemary's Baby | Ira Levin | [4.00](https://www.goodreads.com/book/show/228296.Rosemary_s_Baby) | 1967 |
 | Dracula | Bram Stoker | [3.98](http://www.goodreads.com/book/show/17245.Dracula) | 1986 |  
 | Frankenstein | Mary Shelley, Maurice Hindle | [3.75](http://www.goodreads.com/book/show/18490.Frankenstein) | 2003 |  
+| NOS4A2 | Joe Hill | [4.08](https://www.goodreads.com/book/show/15729539-nos4a2) | 2013 |
 
 ### Miscellaneous
 | Name | Author | Goodreads Rating | Year Published |  
