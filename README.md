@@ -58,6 +58,7 @@
 | Shoe Dog: A Memoir by the Creator of Nike | Phil Knight | [4.46](https://www.goodreads.com/book/show/27220736-shoe-dog) | 2016 |
 | The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company | Robert Iger, Joel Lovell | [4.44](https://www.goodreads.com/book/show/44525305-the-ride-of-a-lifetime) | 2019 |
 | Bad Blood: Secrets and Lies in a Silicon Valley Startup | John Carreyrou | [4.4](https://www.goodreads.com/book/show/37976541-bad-blood) | 2018 |
+| Never Too Late to Startup: How Mid-Life Entrepreneurs Create Wealth, Freedom & Purpose | Rob Kornblum [4.31](https://www.goodreads.com/book/show/29966077-never-too-late-to-startup) | 2016 |
 | The Compound Effect | Darren Hardy | [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) | 2010 |  
 | Never Split the Difference | Chris Voss | [4.39](https://www.goodreads.com/book/show/26156469-never-split-the-difference) | 2016 |
 | Failing to Succeed: The Story of India's First E-Commerce Company | K. Vaitheeswaran | [4.39](https://www.goodreads.com/book/show/35626210-failing-to-succeed) | 2017 |
