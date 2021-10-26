@@ -592,6 +592,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Atlas Obscura: An Explorer's Guide to the World's Hidden Wonders | Joshua Foer | [4.24](https://www.goodreads.com/book/show/28110891-atlas-obscura) | 2016 |  
+| The Rings of Saturn | W.G. Sebald | [4.25](https://www.goodreads.com/book/show/434903.The_Rings_of_Saturn) | 1999 |  
 
 ## Language
 | Name | Author | Goodreads Rating | Year Published |  
