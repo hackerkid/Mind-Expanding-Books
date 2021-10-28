@@ -531,8 +531,10 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|  
 | The Martian | Andy Weir | [4.40](https://www.goodreads.com/book/show/18007564-the-martian) | 2012 |
 | The Hitchhiker's Guide to the Galaxy | Douglas Adams | [4.38](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) | 1979|
-| Ready Player One | Ernest Cline | [4.31](https://www.goodreads.com/book/show/9969571-ready-player-one) | 2011 |
-| 11/22/63 | Stephen King | [4.31] (https://www.goodreads.com/book/show/10644930-11-22-63) | 2011 | 
+| The Hunger Games | Suzzane Collins | [4.32](https://www.goodreads.com/book/show/2767052-the-hunger-games) | 2008 |
+Ready Player One | Ernest Cline | [4.31](https://www.goodreads.com/book/show/9969571-ready-player-one) | 2011 |
+| 11/22/63 | Stephen King | [4.31] (https://www.goodreads.com/book/show/10644930-11-22-63) | 2011 |
+| Catching Fire | Suzzane Collins | [4.30](https://www.goodreads.com/book/show/6148028-catching-fire) | 2009 |
 | Ender's Game - Saga | Orson Scott Card | [4.30](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on) | 1994 |  
 | The Player of Games | Iain M. Banks | [4.26](https://www.goodreads.com/book/show/18630.The_Player_of_Games) | 1997 |  
 | The Fifth Sacred Thing | Starhawk | [4.25](https://www.goodreads.com/book/show/80689.The_Fifth_Sacred_Thing) | 1994 |
@@ -541,7 +543,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Diamond Age | Neal Stephenson | [4.19](http://www.goodreads.com/book/show/827.The_Diamond_Age) | 2000 |  
 | Dune Chronicles | Frank Herbert | [4.19](https://www.goodreads.com/search?q=dune) | 2006 |
 | The Forever War | Joe Haldemann | [4.15](https://www.goodreads.com/book/show/21611.The_Forever_War) | 1974
-| Foundation | Isaac Asimov | [4.13](https://www.goodreads.com/book/show/29579.Foundation) | 2004 |  
+| Foundation | Isaac Asimov | [4.13](https://www.goodreads.com/book/show/29579.Foundation) | 2004 |
+| Mockingjay | Suzzane Collins | [4.05](https://www.goodreads.com/book/show/7260188-mockingjay) | 2010 |
 | Snow Crash | Neal Stephenson | [4.02](https://www.goodreads.com/book/show/830.Snow_Crash) | 2000 |  
 | Brave New World | Aldous Huxley | [3.99](https://www.goodreads.com/book/show/5129.Brave_New_World) | 1932 |
 | Fahrenheit 451 | Ray Bradbury | [3.97](https://www.goodreads.com/book/show/17470674-fahrenheit-451) | 2006 |  
@@ -566,7 +569,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Cat's Eye | Margaret Atwood | [3.92](https://www.goodreads.com/book/show/51019.Cat_s_Eye) | 1998 |  
 | Xeelee Sequence | Stephen Baxter | [3.69](http://www.goodreads.com/series/49784-xeelee-sequence) | 1992 |  
 | Ghost Fleet | P.W. Singer and August Cole | [3.62](https://www.goodreads.com/book/show/22749719-ghost-fleet?from_search=true) | 2015 |  
-| Future Crimes | Marc Goodman | [3.42](https://www.goodreads.com/book/show/22318398-future-crimes?from_search=true) | 1990 |  
+| Future Crimes | Marc Goodman | [3.42](https://www.goodreads.com/book/show/22318398-future-crimes?from_search=true) | 1990 | 
 
 ## Health
 | Name | Author | Goodreads Rating | Year Published |  
