@@ -119,6 +119,7 @@
 | Big Data: A Revolution That Will Transform How We Live, Work, and Think | Kenneth Cukier | [3.70](https://www.goodreads.com/book/show/15815598-big-data) | 2013 |  
 | The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich | Timothy Ferriss | [3.61](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) | 2012 |  
 | The Accidental Billionaires : The Founding of Facebook, a Tale of Sex, Money, Genius and Betrayal | Ben Mezrich | [3.50](https://www.goodreads.com/book/show/6326920-the-accidental-billionaires) | 2009 |  
+| The Founder's Dilemmas: Anticipating and Avoiding the Pitfalls That Can Sink a Startup | Noam T. Wasserman | [3.98](https://www.goodreads.com/book/show/13234710-the-founder-s-dilemmas) | 2012 |  
 
 If you like Mind Expanding books you should check out my new project http://diff.blog. It's a platform that help you keep updated with the developer community.
 
