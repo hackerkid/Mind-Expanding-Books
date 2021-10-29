@@ -57,6 +57,7 @@ See [Contributing Guidelines](CONTRIBUTING.md) for details on how the books are 
 | Failing to Succeed: The Story of India's First E-Commerce Company | K. Vaitheeswaran | [4.39](https://www.goodreads.com/book/show/35626210-failing-to-succeed) | 2017 |
 | High Output Management | Andy Grove | [4.38](https://www.goodreads.com/book/show/324750.High_Output_Management) | 1995 |  
 | Outwitting the Devil: The Secret to Freedom and Success | Napoleon Hill | [4.38](https://www.goodreads.com/book/show/10713286-outwitting-the-devil) | 2011 |
+| The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime! | M.J. DeMarco | [4.28](https://www.goodreads.com/book/show/18872437-the-millionaire-fastlane) | 2011 |
 | How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success | Jack Canfield, Janet Switzer | [4.26](https://www.goodreads.com/book/show/96593.The_Success_Principles) | 2007 |  
 | The Big Short: Inside the Doomsday Machine | Michael Lewis | [4.26](https://www.goodreads.com/book/show/8032112-the-big-short) | 2015 |
 | The Future Is Faster Than You Think: How Converging Technologies Are Transforming Business, Industries, and Our Lives | Peter H. Diamandis, Steven Kotler | [4.25](https://www.goodreads.com/book/show/52290273-the-future-is-faster-than-you-think) | 2020 |
