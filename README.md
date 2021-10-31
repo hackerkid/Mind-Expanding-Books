@@ -40,6 +40,7 @@
 ## Startups and Business
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
+| The Almanack of Naval Ravikant: A Guide to Wealth and Happiness | Eric Jorgenson | [4.59](https://www.navalmanack.com/) | 2020 | 
 | Never Split the Difference | Chris Voss | [4.40](https://www.goodreads.com/book/show/26156469-never-split-the-difference) | 2016 |
 | Shoe Dog: A Memoir by the Creator of Nike | Phil Knight | [4.46](https://www.goodreads.com/book/show/27220736-shoe-dog) | 2016 | 
 | The Compound Effect | Darren Hardy | [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) | 2010 |  
