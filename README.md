@@ -119,6 +119,8 @@
 | Big Data: A Revolution That Will Transform How We Live, Work, and Think | Kenneth Cukier | [3.70](https://www.goodreads.com/book/show/15815598-big-data) | 2013 |  
 | The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich | Timothy Ferriss | [3.61](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) | 2012 |  
 | The Accidental Billionaires : The Founding of Facebook, a Tale of Sex, Money, Genius and Betrayal | Ben Mezrich | [3.50](https://www.goodreads.com/book/show/6326920-the-accidental-billionaires) | 2009 |  
+| The Athena Doctrine: How Women (and the Men Who Think Like Them) Will Rule the Future |  John Gerzema, Michael D'Antonio | [3.32](https://www.goodreads.com/book/show/16250170-the-athena-doctrine) | 2013 |
+
 
 If you like Mind Expanding books you should check out my new project http://diff.blog. It's a platform that help you keep updated with the developer community.
 
