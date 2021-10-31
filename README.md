@@ -532,6 +532,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|  
 | The Martian | Andy Weir | [4.40](https://www.goodreads.com/book/show/18007564-the-martian) | 2012 |
 | The Hitchhiker's Guide to the Galaxy | Douglas Adams | [4.38](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) | 1979|
+| Champion | Marie Lu | [4.32](https://www.goodreads.com/book/show/14290364-champion) | 2013 |
 | Ready Player One | Ernest Cline | [4.31](https://www.goodreads.com/book/show/9969571-ready-player-one) | 2011 |
 | 11/22/63 | Stephen King | [4.31](https://www.goodreads.com/book/show/10644930-11-22-63) | 2011 | 
 | Ender's Game - Saga | Orson Scott Card | [4.30](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on) | 1994 |  
