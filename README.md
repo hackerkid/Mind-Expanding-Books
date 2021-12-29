@@ -436,7 +436,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Letters From The Earth | Mark Twain | [4.22](https://www.goodreads.com/book/show/37813.Letters_from_the_Earth) | 1962 |  
 | One Flew Over the Cuckoo's Nest | Ken Kesey | [4.18](https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest) | 1963 |  
 | Crime and Punishment | Fyodor Dostoyevsky | [4.18](https://www.goodreads.com/book/show/7144.Crime_and_Punishment) | 1866 |  
-| 1984 | George Orwell | [4.17](https://www.goodreads.com/book/show/40961427-1984) | 1949 |  
+| 1984 | George Orwell | [4.17](https://www.goodreads.com/book/show/40961427-1984) | 1949 |    
+| The Giver | Lois Lowry | [4.13](https://www.goodreads.com/book/show/3636.The_Giver) | 1993 |  
 | Steppenwolf: A Novel | Hermann Hesse, Basil Creighton | [4.11](https://www.goodreads.com/book/show/16631.Steppenwolf) | 1927 |  
 | The Glass Bead Game | Hermann Hesse, Richard and Clara Winston | [4.11](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game) | 1943 |  
 | War and Peace | Leo Tolstoy | [4.11](https://www.goodreads.com/book/show/656.War_and_Peace) | 1867 |  
