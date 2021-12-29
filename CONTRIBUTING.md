@@ -2,9 +2,9 @@
 
 Please ensure your pull request adheres to the following guidelines:
 
-## If you are addding a new book
+## If you are adding a new book
 
-- if you want to add a new book you should have read the book.
+- If you want to add a new book you should have read the book.
 - Search existing books in [README.md](README.md) and make sure that you are not adding a duplicate.
 - Insert the book in the following format in [README.md](README.md). Don't change any other files.
 
