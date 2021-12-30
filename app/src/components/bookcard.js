@@ -39,7 +39,7 @@ const BookCard = ({ book }) => {
 				</Col>
 				<Col xs={12} sm={6} md={8} xl={10}>
 					<Card.Body>
-						<Card.Title style={{ textTransform:"capitalize" }}>{book.title}</Card.Title>
+						<Card.Title>{book.title}</Card.Title>
 						<Card.Subtitle className="text-muted">
 							<Card.Text style={{ paddingTop: '2px', textTransform:"capitalize" }}>
 								{book.author} <b>{book.year ? book.year : null}</b>
