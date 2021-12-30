@@ -84,7 +84,7 @@
 | The Checklist Manifesto: How To Get Things Right | Atul Gawande | [4.03](http://www.goodreads.com/book/show/6667514-the-checklist-manifesto) | 2009 |  
 | Where Good Ideas Come From | Steven Johnson | [4.03](https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from) | 2010 |  
 | Delivering Happiness: A Path to Profits, Passion, and Purpose | Tony Hsieh | [4.01](http://www.goodreads.com/book/show/6828896-delivering-happiness) | 2010 |  
-| The Innovator's Dilemma | clayton m. christensen | [4.00](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma) | 1997 |  
+| The Innovator's Dilemma | Clayton Christensen | [4.00](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma) | 1997 |  
 | Influencer: The New Science of Leading Change | Joseph Grenny, Kerry Patterson | [3.98](https://www.goodreads.com/book/show/914211.Influencer) | 2007 |  
 | The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It | Michael E. Gerber | [3.98](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) | 1995 |  
 | Getting Things Done: The Art of Stress-Free Productivity | David Allen | [3.98](https://www.goodreads.com/book/show/1633.Getting_Things_Done) | 2001 |  
