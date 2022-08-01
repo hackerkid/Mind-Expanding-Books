@@ -202,7 +202,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Rapt: Attention and the Focused Life: Winifred Gallagher | Winifred Gallagher | [3.54](https://www.goodreads.com/book/show/6262510-rapt) | 2009 |  
 | Utilitarianism | Geoffrey Scarre | [3.50](https://www.goodreads.com/book/show/3807762-utilitarianism) | 1996 |  
 | The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression | Debra Fine | [3.36](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) | 2005 |  
-| Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) | 2001 | 
+| Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) | 2001 |
+| Emotional Intelligence: Why It Can Matter More Than IQ  |  Daniel Goleman | [4.03](https://www.goodreads.com/book/show/26329.Emotional_Intelligence) | 1995 |
 
 ## Autobiographies and Biographies
 | Name | Author | Goodreads Rating | Year Published |  
