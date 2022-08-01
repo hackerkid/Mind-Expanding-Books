@@ -384,7 +384,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|
 | Educated: A Memoir | Tara Westover| [4.47](https://www.goodreads.com/book/show/35133922-educated) | 2018 |
 | Mindstorms: Children, Computers, And Powerful Ideas | Seymour A. Papert | [4.32](https://www.goodreads.com/book/show/703532.Mindstorms) | 1993 |  
-| The Little Prince | Antoine de Saint-Exupéry | [4,31](https://www.goodreads.com/book/show/71091.Il_piccolo_principe) | 1943 |
+| The Little Prince | Antoine de Saint-Exupéry | [4.31](https://www.goodreads.com/book/show/71091.Il_piccolo_principe) | 1943 |
 | How Children Fail | John Holt | [4.22](https://www.goodreads.com/book/show/573009.How_Children_Fail) | 1995 |  
 | Deep Work: Rules for Focused Success in a Distracted World | Cal Newport | [4.20](https://www.goodreads.com/book/show/25744928-deep-work) | 2016 |
 | Make It Stick: The Science of Successful Learning | Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel | [4.20](https://www.goodreads.com/book/show/18770267.make-it-stick) | 2014 |
