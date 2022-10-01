@@ -571,6 +571,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Xeelee Sequence | Stephen Baxter | [3.69](http://www.goodreads.com/series/49784-xeelee-sequence) | 1992 |  
 | Ghost Fleet | P.W. Singer and August Cole | [3.62](https://www.goodreads.com/book/show/22749719-ghost-fleet?from_search=true) | 2015 |  
 | Future Crimes | Marc Goodman | [3.42](https://www.goodreads.com/book/show/22318398-future-crimes?from_search=true) | 1990 |  
+| Sum: Forty Tales from the Afterlives | David Eagleman | [4.13](https://www.goodreads.com/book/show/4948826-sum) | 2009 |  
 
 ## Health
 | Name | Author | Goodreads Rating | Year Published |  
