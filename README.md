@@ -74,6 +74,7 @@ See [Contributing Guidelines](CONTRIBUTING.md) for details on how the books are 
 | Leaving Microsoft to Change the World: An Entrepreneur's Odyssey to Educate the World's Children | John Wood | [4.07](https://www.goodreads.com/book/show/95429.Leaving_Microsoft_to_Change_the_World) | 2006 |  
 | Hackers and Painters | Paul Graham | [4.06](https://www.goodreads.com/book/show/41793.Hackers_Painters) | 2004 |  
 | How Google Works | Eric Schmidt, Jonathan Rosenberg | [4.06](https://www.goodreads.com/book/show/23158207-how-google-works) | 2014 |
+| Crucial Conversations: Tools for Talking When Stakes Are High | Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler | [4.05](https://www.goodreads.com/book/show/15014.Crucial_Conversations) | 2002 |
 | Good to Great: Why Some Companies Make the Leap And Others Don't | Jim Collins | [4.05](https://www.goodreads.com/book/show/76865.Good_to_Great) | 2001 |  
 | The Lean Startup: How Constant Innovation Creates Radically Successful Businesses | Eric Ries | [4.04](https://www.goodreads.com/book/show/10127019-the-lean-startup) | 2011 |  
 | The Power of Full Engagement: Managing Energy, Not Time, is the Key to High Performance and Personal Renewal | Jim Loehr, Tony Schwartz | [4.03](http://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement) | 2005 |  
