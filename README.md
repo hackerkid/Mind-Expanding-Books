@@ -223,7 +223,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Freedom in Exile | Dalai Lama XIV | [4.24](http://www.goodreads.com/book/show/567720.Freedom_in_Exile) | 1991 |  
 | Madame Curie: A Biography | Marie Curie | [4.22](https://www.goodreads.com/book/show/341166.Madame_Curie) | 2001 | 
 | Autobiography of a Yogi | Paramahansa Yogananda | [4.21](https://www.goodreads.com/book/show/639864.Autobiography_of_a_Yogi) | 1946 |
-| Wings of Fire | A.P.J. Abdul Kalam | [4.20](http://www.goodreads.com/book/show/634583.Wings_of_Fire) | 2011 |  
+| Wings of Fire | A.P.J. Abdul Kalam | [4.20](http://www.goodreads.com/book/show/634583.Wings_of_Fire) | 2011 |
+| Man Without Fear | Rajat Gupta | [4.20](https://www.goodreads.com/en/book/show/44334846-mind-without-fear) | 2019 |
 | The Man Who Knew Infinity : A Life of the Genius Ramanujan | Robert Kanigel | [4.15](https://www.goodreads.com/book/show/106139.The_Man_Who_Knew_Infinity) | 1991 |  
 | An Astronaut's Guide to Life on Earth | Chris Hadfield | [4.14](https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth) | 2013 |  
 | The Diary of a Young Girl | Anne Frank | [4.10](http://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl) | 1993 |  
