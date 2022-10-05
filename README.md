@@ -588,6 +588,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Cosmicomics | Italo Calvino | [4.2](https://www.goodreads.com/book/show/59780.Cosmicomics) | 1965 |
 | The Diamond Age | Neal Stephenson | [4.19](http://www.goodreads.com/book/show/827.The_Diamond_Age) | 2000 |  
 | Dune Chronicles | Frank Herbert | [4.19](https://www.goodreads.com/search?q=dune) | 2006 |
+| Roadside Picnic | Arkady Strugatsky, Boris Strugatsky | [4.16](https://www.goodreads.com/book/show/331256.Roadside_Picnic) | 1972 | 
 | The Forever War | Joe Haldemann | [4.15](https://www.goodreads.com/book/show/21611.The_Forever_War) | 1974
 | Contact | Carl Sagan | [4.14](https://www.goodreads.com/book/show/61666.Contact) | 1985 |
 | Foundation | Isaac Asimov | [4.13](https://www.goodreads.com/book/show/29579.Foundation) | 2004 |  
