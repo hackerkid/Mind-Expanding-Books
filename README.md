@@ -54,7 +54,7 @@
 
 ## Startups and Business
 | Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|  
+|------|--------|------------------|----------------|
 | Shoe Dog: A Memoir by the Creator of Nike | Phil Knight | [4.46](https://www.goodreads.com/book/show/27220736-shoe-dog) | 2016 |
 | The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company | Robert Iger, Joel Lovell | [4.44](https://www.goodreads.com/book/show/44525305-the-ride-of-a-lifetime) | 2019 |
 | Bad Blood: Secrets and Lies in a Silicon Valley Startup | John Carreyrou | [4.4](https://www.goodreads.com/book/show/37976541-bad-blood) | 2018 |
@@ -146,6 +146,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Gift of Fear: Survival Signals That Protect Us from Violence | Gavin de Becker | [4.18](https://www.goodreads.com/book/show/56465.The_Gift_of_Fear) | 2000 |  
 | Gifts of Imperfection | Brene Brown | [4.18](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) |  |  
 | Metamagical Themas: Questing For The Essence Of Mind And Pattern | Douglas Hofstadter | [4.16](https://www.goodreads.com/book/show/181239.Metamagical_Themas) | 1996 |  
+| How to Win Friends and Influence People | Dale Carnegie | [4.21](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) | 1998 |
 | The Truth About Everything: An Irreverent History of Philosophy : With Illustrations | Matthew Stewart | [4.15](https://www.goodreads.com/book/show/18528861-the-truth-about-everything) | 1997 |  
 | Illusions: The Adventures of a Reluctant Messiah | Richard Bach | [4.15](https://www.goodreads.com/book/show/29946.Illusions) | 1977 |  
 | How to Win Friends and Influence People | Dale Carnegie | [4.14](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) | 1998 |  
