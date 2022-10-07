@@ -1,5 +1,32 @@
 [
     {
+        "amazon_url": "https://www.amazon.com/Operating-Systems-Three-Easy-Pieces-ebook/dp/B00TPZ17O4",
+        "author": "Remzi Arpaci-Dusseau",
+        "category": "Education",
+        "description": "A book covering the fundamentals of operating systems, including virtualization of the CPU and memory, threads and concurrency, and file and storage systems. Written by professors active in the field for 20 years.",
+        "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51lTsD-LGoL.jpg",
+        "isbn": "9781985086593",
+        "lang": "eng",
+        "pages": "714",
+        "rating": "4.6",
+        "title": "OSTEP: Three Easy Pieces",
+        "url": "https://www.goodreads.com/en/book/show/17374825-operating-systems",
+        "year": "2012"
+    },
+    {
+        "amazon_url": "https://www.amazon.com/Elementary-Analysis-Calculus-Undergraduate-Mathematics-ebook/dp/B00CE3AW9U/ref=sr_1_1?crid=2NBGGHNV39QJZ&keywords=Elementary+analysis&qid=1665164882&qu=eyJxc2MiOiIxLjUwIiwicXNhIjoiMS4xNCIsInFzcCI6IjEuMjIifQ%3D%3D&s=digital-text&sprefix=elementary+analys%2Cdigital-text%2C332&sr=1-1",
+        "author": "Kenneth A. Ross",
+        "category": "Education",
+        "description": "Designed for students having no previous experience with rigorous proofs, this text on analysis can be used immediately following standard calculus courses. It is highly recommended for anyone planning to study advanced analysis.",
+        "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41GhuSlGzeL._SX342_SY445_QL70_FMwebp_.jpg",
+        "lang": "eng",
+        "pages": "264",
+        "rating": "3.85",
+        "title": "1980",
+        "url": "https://www.goodreads.com/book/show/236944.Elementary_Analysis",
+        "year": "2013"
+    },
+    {
         "amazon_url": "https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934",
         "author": "George Orwell",
         "category": "Classics",
