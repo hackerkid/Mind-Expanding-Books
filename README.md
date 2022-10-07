@@ -430,6 +430,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | The Master and Margarita | Mikhail Bulgakov | [4.32](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita) | 1966 |  
+| Pale Fire | Vladimir Nabokov | [4.15](https://www.goodreads.com/book/show/7805.Pale_Fire) | 1962 |  
 | Infinite Jest | David Foster Wallace | [4.31](https://www.goodreads.com/book/show/6759.Infinite_Jest) | 1996 |  
 | The Brothers Karamazov | Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky | [4.30](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | 1880 |  
 | Pride And Prejudice | Jane Austen | [4.24](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) | 1813 |  
