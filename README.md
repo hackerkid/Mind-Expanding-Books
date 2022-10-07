@@ -153,6 +153,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! | Anthony Robbins | [4.11](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within) | 1991 |  
 | The Power of Now: A Guide to Spiritual Enlightenment | Eckhart Tolle | [4.11](https://www.goodreads.com/book/show/6708.The_Power_of_Now) | 1997 | 
 | Tuesdays with Morrie | Mitch Albom | [4.11](https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie) | 1997 |
+| The Way of the Monk | Gaur Gopal Das | [4.10](https://www.goodreads.com/book/show/45712959-the-way-of-the-monk) | 2020 |
 | Predictably Irrational | Dan Ariely | [4.10](https://www.goodreads.com/book/show/1713426.Predictably_Irrational) | 2008 |  
 | Flow: The Psychology of Optimal Experience | Mihaly Csikszentmihalyi | [4.10](https://www.goodreads.com/book/show/66354.Flow) | 1990 |  
 | Thinking, Fast and Slow | Daniel Kahneman | [4.09](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) | 2011 |  
