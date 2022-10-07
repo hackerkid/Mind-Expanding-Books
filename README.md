@@ -604,6 +604,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | If it bleeds | Stephen King | [4.10](https://www.goodreads.com/book/show/46015758-if-it-bleeds) | 2020 |
 | Rosemary's Baby | Ira Levin | [4.00](https://www.goodreads.com/book/show/228296.Rosemary_s_Baby) | 1967 |
 | Dracula | Bram Stoker | [3.98](http://www.goodreads.com/book/show/17245.Dracula) | 1986 |  
+| London (Surviving The Evacuation #1) | Frank Tayell | [3.86](https://www.goodreads.com/book/show/18655852-london) | 2013 |
 | Frankenstein | Mary Shelley, Maurice Hindle | [3.75](http://www.goodreads.com/book/show/18490.Frankenstein) | 2003 |  
 
 <a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
