@@ -491,8 +491,12 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Last Wish  | Andrzej Sapkowski | [4.2](https://www.goodreads.com/book/show/1128434.The_Last_Wish) | 1993 |
 | The Chronicles of Narnia | Clive Staples Lewis | [4.24](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia) | 2002 |  
 | The Wheel of Time | Robert Jordan | [4.19](https://www.goodreads.com/series/41526-the-wheel-of-time) | 1990 |
+| Tigana | Guy Gavriel Kay | [4.08](https://www.goodreads.com/en/book/show/104089)| 1990 |  
 | The City & The City | China Mieville | [3.91](https://www.goodreads.com/book/show/4703581-the-city-the-city) | 2009 |  
 | The Broken Empire | Mark Lawrence | [3.87](https://www.goodreads.com/series/64473-the-broken-empire) | 2011 |  
+
+
+
 
 ### Historical Fiction
 | Name | Author | Goodreads Rating | Year Published |  
