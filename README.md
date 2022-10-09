@@ -562,6 +562,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Girl with the Dragon Tattoo | Stieg Larsson | [4.14](https://www.goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo) | 2005 |
 | Memory Man | David Baldacci | [4.05](https://www.goodreads.com/book/show/23153154-memory-man) | 2015 |
 | The Turn of the Key | Ruth Ware | [3.94](https://www.goodreads.com/book/show/42080142-the-turn-of-the-key) | 2019 |
+| Angels & Demons | Dan Brown | [3.93](https://www.goodreads.com/book/show/960.Angels_Demons) | 2000 |
 | The Girl on the Train | Paula Hawkins | [3.88](https://www.goodreads.com/book/show/22557272-the-girl-on-the-train) | 2015 |  
 | The Da Vinci Code | Dan Brown | [3.79](http://www.goodreads.com/book/show/968.The_Da_Vinci_Code) | 2006 |  
 
