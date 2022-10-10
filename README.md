@@ -324,6 +324,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Labyrinths of Reason: Paradox, Puzzles, and the Frailty of Knowledge | William Poundstone | [4.05](https://www.goodreads.com/book/show/55436.Labyrinths_of_Reason) | 1989 |  
 | Mazes for the Mind: Computers and the Unexpected | Clifford A. Pickover | [4.05](https://www.goodreads.com/book/show/1986400.Mazes_for_the_Mind) | 1992 |
 | Outnumbered: Exploring the Algorithms That Control Our Lives | David Sumpter | [3.99](https://www.goodreads.com/book/show/36762542-outnumbered) | 2018 |
+| Effective Java | Joshua Bloch | [4.51](https://www.goodreads.com/book/show/34927404-effective-java?from_search=true&from_srp=true&qid=eKxYKwKxOO&rank=1#CommunityReviews) | 2001 |
 
 ## Politics
 | Name | Author | Goodreads Rating | Year Published |  
