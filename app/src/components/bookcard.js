@@ -67,7 +67,7 @@ const BookCard = ({ book }) => {
 							{!show && truncateContent(book.description)}
 							{show && showFullText(book.description)}
 						</p>
-						{!show && (
+						{!show && book.description.length>350 &&(
 							<button className="btn btn-sm btn-primary " onClick={() => toggleShow(true)}>
 								Show More
 							</button>
