@@ -570,6 +570,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 ### Science Fiction
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
+| Project Hail Mary | Andy Weir | [4.52](https://www.goodreads.com/book/show/54493401-project-hail-mary) | 2021 |
 | The Martian | Andy Weir | [4.40](https://www.goodreads.com/book/show/18007564-the-martian) | 2012 |
 | The Hitchhiker's Guide to the Galaxy | Douglas Adams | [4.38](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) | 1979|
 | Champion | Marie Lu | [4.32](https://www.goodreads.com/book/show/14290364-champion) | 2013 |
