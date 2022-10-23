@@ -575,7 +575,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Champion | Marie Lu | [4.32](https://www.goodreads.com/book/show/14290364-champion) | 2013 |
 | Ready Player One | Ernest Cline | [4.31](https://www.goodreads.com/book/show/9969571-ready-player-one) | 2011 |
 | 11/22/63 | Stephen King | [4.31](https://www.goodreads.com/book/show/10644930-11-22-63) | 2011 | 
-| Ender's Game - Saga | Orson Scott Card | [4.30](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on) | 1994 |  
+| Ender's Game - Saga | Orson Scott Card | [4.30](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on) | 1994 | 
 | The Player of Games | Iain M. Banks | [4.26](https://www.goodreads.com/book/show/18630.The_Player_of_Games) | 1997 |  
 | The Fifth Sacred Thing | Starhawk | [4.25](https://www.goodreads.com/book/show/80689.The_Fifth_Sacred_Thing) | 1994 |
 | Prodigy | Marie Lu | [4.24](https://www.goodreads.com/book/show/13414446-prodigy?ac=1&from_search=true&qid=BL85jNXP8P&rank=1) | 2013
@@ -584,6 +584,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Diamond Age | Neal Stephenson | [4.19](http://www.goodreads.com/book/show/827.The_Diamond_Age) | 2000 |  
 | Dune Chronicles | Frank Herbert | [4.19](https://www.goodreads.com/search?q=dune) | 2006 |
 | The Forever War | Joe Haldemann | [4.15](https://www.goodreads.com/book/show/21611.The_Forever_War) | 1974
+| Contact | Carl Sagan | [4.14](https://www.goodreads.com/book/show/61666.Contact) | 1985 |
 | Foundation | Isaac Asimov | [4.13](https://www.goodreads.com/book/show/29579.Foundation) | 2004 |  
 | Snow Crash | Neal Stephenson | [4.02](https://www.goodreads.com/book/show/830.Snow_Crash) | 2000 |  
 | Brave New World | Aldous Huxley | [3.99](https://www.goodreads.com/book/show/5129.Brave_New_World) | 1932 |
