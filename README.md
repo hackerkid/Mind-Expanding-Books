@@ -561,6 +561,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Rosemary's Baby | Ira Levin | [4.00](https://www.goodreads.com/book/show/228296.Rosemary_s_Baby) | 1967 |
 | Dracula | Bram Stoker | [3.98](http://www.goodreads.com/book/show/17245.Dracula) | 1986 |  
 | Frankenstein | Mary Shelley, Maurice Hindle | [3.75](http://www.goodreads.com/book/show/18490.Frankenstein) | 2003 |  
+| Children of the Corn | Stephen King | [3.91](https://www.goodreads.com/book/show/17826887-children-of-the-corn) | 1977 |  
 
 ### Miscellaneous
 | Name | Author | Goodreads Rating | Year Published |  
