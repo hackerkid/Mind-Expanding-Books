@@ -267,7 +267,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Civilization: The West and the Rest: Niall Ferguson | Niall Ferguson | [3.78](https://www.goodreads.com/book/show/10475421-civilization) | 2011 |  
 | The UNIX-HATERS Handbook | Simson Garfinkel, Daniel Weise, Steven Strassmann | [3.78](https://www.goodreads.com/book/show/174904.The_UNIX_Hater_s_Handbook) | 1994 |  
 | The Revenge of Geography: What the Map Tells Us About Coming Conflicts and the Battle Against Fate | Robert D. Kaplan | [3.68](https://www.goodreads.com/book/show/13330422-the-revenge-of-geography) | 2012 |  
-| The World Is Flat: A Brief History of the Twenty-first Century | Thomas L. Friedman | [3.66](https://www.goodreads.com/book/show/1911.The_World_Is_Flat) | 2006 |  
+| The World Is Flat: A Brief History of the Twenty-first Century | Thomas L. Friedman | [3.66](https://www.goodreads.com/book/show/1911.The_World_Is_Flat) | 2006 |
+| The Soul of a New Machine | Tracy Kidder | [4.12](https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine) | 1981 |
 
 <a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
