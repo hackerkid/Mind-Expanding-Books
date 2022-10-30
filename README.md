@@ -234,7 +234,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Losing My Virginity: The Autobiography | Richard Branson | [3.97](https://www.goodreads.com/book/show/9533705-losing-my-virginity) |1999|  
 | My Inventions: The Autobiography of Nikola Tesla | Nikola Tesla | [3.96](https://www.goodreads.com/book/show/493.My_Inventions?ac=1&from_search=true&qid=PQw29iDQp5&rank=1) | 2006 |
 | Ghost in the Wires:	My Adventures as the World's Most Wanted Hacker | Kevin Mitnick | [3.95](http://www.goodreads.com/book/show/10256723-ghost-in-the-wires) | 2011 |  
-| An Autobiography: Toward Freedom | Jawaharlal Nehru | [3.85](http://www.goodreads.com/book/show/322939.An_Autobiography) | 1989 |  
+| An Autobiography: Toward Freedom | Jawaharlal Nehru | [3.85](http://www.goodreads.com/book/show/322939.An_Autobiography) | 1989 | 
+| Can't Hurt Me: Master Your Mind and Defy the Odds | David Goggins | [4.36](https://www.goodreads.com/book/show/41721428-can-t-hurt-me?from_search=true&from_srp=true&qid=eVg7mJcRq4&rank=1) | 2018 | 
 | iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It | Steve Wozniak | [3.82](http://www.goodreads.com/book/show/798635.iWoz) | 2007 |  
 
 ## History
