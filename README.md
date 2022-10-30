@@ -181,6 +181,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel | Rolf Potts | [3.92](https://www.goodreads.com/book/show/100247.Vagabonding) |2002  |  
 | Supernormal: Science, Yoga, and the Evidence for Extraordinary Psychic Abilities | Dean Radin | [3.91](https://www.goodreads.com/book/show/8694125-alone-together) | 2013 |  
 | Prisoner's Dilemma | William Poundstone | [3.91](https://www.goodreads.com/book/show/29506.Prisoner_s_Dilemma) | 1993 |
+| The Subtle Art Of Not Giving a F@ck: A Counterintuitive Approach to Living a Good Life | Mark Manson | [3.91](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck) | 2017 |
 | The Stuff of Thought: Language as a Window into Human Nature | Steven Pinker | [3.90](https://www.goodreads.com/book/show/373969.The_Stuff_of_Thought) | 2007 |  
 | Consilience: The Unity of Knowledge | Edward O. Wilson | [3.90](https://www.goodreads.com/book/show/55981.Consilience) | 1999 |  
 | Why We Make Mistakes: How We Look Without Seeing, Forget Things in Seconds, and Are All Pretty Sure We Are Way Above Average | Joseph T. Hallinan | [3.87](https://www.goodreads.com/book/show/5040579-why-we-make-mistakes) | 2009 |  
