@@ -506,6 +506,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 ### Fantasy
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
+| The Stormlight Archive | Brandon Sanderson | [4.81](https://www.goodreads.com/book/show/39904817-stormlight-archive-4-book-set?ac=1&from_search=true&qid=QO2o6tRJg4&rank=1) | 2007 |  
 | The Kingkiller Chronicle | Patrick Rothfuss | [4.55](https://www.goodreads.com/series/45262-the-kingkiller-chronicle) | 2007 |  
 | The Lord of the Rings | J.R.R. Tolkien | [4.47](https://www.goodreads.com/series/66175-the-lord-of-the-rings) | 1954 |  
 | A Song of Ice and Fire | George R.R. Martin | [4.45](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) | 2005 |  
