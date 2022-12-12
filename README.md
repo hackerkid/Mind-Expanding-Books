@@ -68,6 +68,7 @@
 | The Future Is Faster Than You Think: How Converging Technologies Are Transforming Business, Industries, and Our Lives | Peter H. Diamandis, Steven Kotler | [4.25](https://www.goodreads.com/book/show/52290273-the-future-is-faster-than-you-think) | 2020 |
 | The Middle Finger Project | Ash Ambirge | [4.22](https://www.goodreads.com/book/show/46064079-the-middle-finger-project?from_search=true&from_srp=true&qid=WY4obsfps3&rank=1) | 2020 |  
 | The Score Takes Care of Itself: My Philosophy of Leadership | Bill Walsh, Steve Jamison, Craig Walsh | [4.21](https://www.goodreads.com/book/show/6342995-the-score-takes-care-of-itself) | 2009 |  
+| Unlimited Power | Anthony Robbins | [4.2](https://www.goodreads.com/book/show/8676.Unlimited_Power) | 1986 |
 | The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers | Ben Horowitz | [4.20](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) | 2014 |  
 | Think and Grow Rich | Napoleon Hill | [4.17](https://www.goodreads.com/book/show/30186948-think-and-grow-rich) | 1937 |
 | AI Superpowers: China, Silicon Valley, and the New World Order |  Kai-Fu Lee | [4.16](https://www.goodreads.com/book/show/38242135-ai-superpowers) | 2018 |
