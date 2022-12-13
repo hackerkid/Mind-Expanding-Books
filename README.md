@@ -247,7 +247,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War | Michael Dobbs | [4.20](https://www.goodreads.com/book/show/2606779-one-minute-to-midnight) | 2008 |  
 | The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet | David Kahn | [4.18](https://www.goodreads.com/book/show/29608.The_Codebreakers) | 1996 | 
 | Blindness | José Saramago | [4.13](https://www.goodreads.com/book/show/2526.Blindness) | 1995 |
-| From Dawn to Decadence: 500 Years of Western Cultural Life 1500 to the Present | Jacques Barzun | [4.12](https://www.goodreads.com/book/show/58233.From_Dawn_to_Decadence) | 2001 |  
+| From Dawn to Decadence: 500 Years of Western Cultural Life 1500 to the Present | Jacques Barzun | [4.12](https://www.goodreads.com/book/show/58233.From_Dawn_to_Decadence) | 2001 | 
+| The Soul of a New Machine | Tracy Kidder | [4.12](https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine) | 1981 |
 | Why the West Rules--for Now: The Patterns of History, and What They Reveal About the Future | Ian Morris | [4.09](https://www.goodreads.com/book/show/9491855-why-the-west-rules-for-now) | 2010 |  
 | The Nazi Doctors: Medical Killing and the Psychology of Genocide | Robert Jay Lifton | [4.07](https://www.goodreads.com/book/show/173187.The_Nazi_Doctors) | 1986 |  
 | God Created The Integers: The Mathematical Breakthroughs that Changed History | Stephen Hawking | [4.06](https://www.goodreads.com/book/show/2096.God_Created_The_Integers) |  |  
@@ -264,7 +265,6 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Civilization: The West and the Rest: Niall Ferguson | Niall Ferguson | [3.78](https://www.goodreads.com/book/show/10475421-civilization) | 2011 |  
 | The Revenge of Geography: What the Map Tells Us About Coming Conflicts and the Battle Against Fate | Robert D. Kaplan | [3.68](https://www.goodreads.com/book/show/13330422-the-revenge-of-geography) | 2012 |  
 | The World Is Flat: A Brief History of the Twenty-first Century | Thomas L. Friedman | [3.66](https://www.goodreads.com/book/show/1911.The_World_Is_Flat) | 2006 |
-| The Soul of a New Machine | Tracy Kidder | [4.12](https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine) | 1981 |
 
 ## Science and Medicine
 | Name | Author | Goodreads Rating | Year Published |  
