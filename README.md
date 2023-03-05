@@ -11,8 +11,6 @@
 
 > Books everyone should read!
 
-🌱 You might be interested in the beta website at [https://books.vishnuks.com](https://books.vishnuks.com). Source code live in `app/` directory.
-
 ## Table of Contents
 - [Mind Expanding Books](#mind-expanding-books)
   - [Table of Contents](#table-of-contents)
