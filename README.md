@@ -50,7 +50,8 @@
 
 # Books
 
-## Startups and Business
+## Startups and Business 
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Shoe Dog: A Memoir by the Creator of Nike | Phil Knight | [4.46](https://www.goodreads.com/book/show/27220736-shoe-dog) | 2016 |
@@ -123,6 +124,7 @@
 If you like Mind Expanding books you should check out my new project http://diff.blog. It's a platform that help you keep updated with the developer community.
 
 ## Philosophy And Psychology
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|
 | Karma Yoga | Swami Vivekanand | [4.51](https://www.goodreads.com/book/show/827031.Karma_Yoga) | 1999 |
@@ -205,6 +207,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) | 2001 | 
 
 ## Autobiographies and Biographies
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Becoming | Michelle Obama | [4.53](https://www.goodreads.com/book/show/38746485-becoming) | 2018 |  
@@ -237,6 +240,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It | Steve Wozniak | [3.82](http://www.goodreads.com/book/show/798635.iWoz) | 2007 |  
 
 ## History
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | [4.42](https://www.goodreads.com/book/show/23692271-sapiens) | 2014 |  
@@ -265,6 +269,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The World Is Flat: A Brief History of the Twenty-first Century | Thomas L. Friedman | [3.66](https://www.goodreads.com/book/show/1911.The_World_Is_Flat) | 2006 |  
 
 ## Science and Medicine
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Behave: The Biology of Humans at Our Best and Worst | Robert M. Sapolsky | [4.42](https://www.goodreads.com/book/show/31170723-behave) | 2017 |  
@@ -312,6 +317,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Mind Wars: Brain Research and National Defense | Jonathan D. Moreno | [3.45](http://www.goodreads.com/book/show/599321.Mind_Wars) | 2007 |  
 
 ## Logic and Problem Solving
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | What Is the Name of This Book?: The Riddle of Dracula and Other Logical Puzzles | Raymond M. Smullyan | [4.24](https://www.goodreads.com/book/show/493576.What_Is_the_Name_of_This_Book_) | 2011 |  
@@ -325,6 +331,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Outnumbered: Exploring the Algorithms That Control Our Lives | David Sumpter | [3.99](https://www.goodreads.com/book/show/36762542-outnumbered) | 2018 |
 
 ## Politics
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|
 | The New Jim Crow: Mass Incarceration in the Age of Colorblindness | Michelle Alexander | [4.49](https://www.goodreads.com/book/show/6792458-the-new-jim-crow)| 2010
@@ -339,6 +346,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Audacity of Hope: Thoughts on Reclaiming the American Dream | Barack Obama | [3.70](https://www.goodreads.com/book/show/9742.The_Audacity_of_Hope) | 2006 |  
 
 ## Economics
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | The Simple Path to Wealth: Your road map to financial independence and a rich, free life |  J.L. Collins | [4.47](https://www.goodreads.com/book/show/30646587-the-simple-path-to-wealth) | 2016 |  
@@ -358,6 +366,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | A Farewell to Alms : A Brief Economic History of the World | Gregory Clark | [3.67](https://www.goodreads.com/book/show/150437.A_Farewell_to_Alms) | 2007 |  
 
 ## Gender
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Cemetary Boys | Aiden Thomas | [4.48](https://www.goodreads.com/book/show/52339313-cemetery-boys) | 2020
@@ -367,6 +376,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 
 
 ## Sexuality
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Sex at Dawn: The Prehistoric Origins of Modern | Christopher Ryan, Cacilda Jetha | [4.02](https://www.goodreads.com/book/show/7640261-sex-at-dawn) | 2010 |  
@@ -374,12 +384,14 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Sex Myth | Brooke Magnanti | [3.50](https://www.goodreads.com/book/show/13569582-the-sex-myth) | 2015 |
 
 ## Race
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | So You Want to Talk About Race | Ijeoma Oluo | [4.53](https://www.goodreads.com/book/show/35099718-so-you-want-to-talk-about-race) | 2018 | 
 | The Origin of Others | Toni Morrison | [4.22](https://www.goodreads.com/book/show/34758228-the-origin-of-others) | 2017 |
 
 ## Education
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|
 | Educated: A Memoir | Tara Westover| [4.47](https://www.goodreads.com/book/show/35133922-educated) | 2018 |
@@ -396,6 +408,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 
 
 ## Writing
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Hat Box: The Collected Lyrics | Stephen Sondheim | [4.77](https://www.goodreads.com/book/show/12909101-hat-box) |  |  
@@ -405,6 +418,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century | Steven Pinker | [4.03](http://www.goodreads.com/book/show/20821371-the-sense-of-style) | 2014 |  
 
 ## Theater and Film
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Different Every Night: Putting the play on stage and keeping it fresh | Mike Alfreds | [4.69](https://www.goodreads.com/book/show/3493241-different-every-night) | 2008 |  
@@ -416,6 +430,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | A Practical Handbook for the Actor | Melissa Bruder, Lee Michael Cohn, Madeleine Olnek, Nathaniel Pollack, Robert Previtio, Scott Zigler, David Mamet | [3.87](https://www.goodreads.com/book/show/166207.A_Practical_Handbook_for_the_Actor) | 1986 |  
 
 ## Shakespeare
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Thinking Shakespeare: A How-to Guide for Student Actors, Directors, and Anyone Else Who Wants to Feel More Comfortable With the Bard | Barry Edelstein. | [4.62](https://www.goodreads.com/book/show/1334872.Thinking_Shakespeare) |  |  
@@ -424,8 +439,10 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Hamlet in Purgatory | Stephen Greenblatt | [3.98](https://www.goodreads.com/book/show/33179.Hamlet_in_Purgatory) | 2002 |  
 
 ## Fiction
+[back to top](#mind-expanding-books)
 
 ### Classics
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | The Master and Margarita | Mikhail Bulgakov | [4.32](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita) | 1966 |  
@@ -476,6 +493,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Director | David Ignatius | [3.43](http://www.goodreads.com/book/show/23316525-the-director) | 2015 |   
 
 ### Fantasy
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | The Kingkiller Chronicle | Patrick Rothfuss | [4.55](https://www.goodreads.com/series/45262-the-kingkiller-chronicle) | 2007 |  
@@ -494,6 +512,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Broken Empire | Mark Lawrence | [3.87](https://www.goodreads.com/series/64473-the-broken-empire) | 2011 |  
 
 ### Historical Fiction
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Lonesome Dove | Larry McMurtry | [4.47](https://www.goodreads.com/book/show/256008.Lonesome_Dove) | 1985 |  
@@ -510,11 +529,13 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Sophie's World: A Novel About the History of Philosophy | Jostein Gaarder and Paulette Moller | [3.88](https://www.goodreads.com/book/show/10959.Sophie_s_World) | 1991 |  
 
 ### Humor
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | I Hope They Serve Beer In Hell | Tucker Max | [3.51](https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell) | 2006 |  
 
 ### Mystery
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Sherlock Holmes | Arthur Conan Doyle | [4.30](https://www.goodreads.com/series/49996-sherlock-holmes) | 1998 |  
@@ -528,6 +549,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Da Vinci Code | Dan Brown | [3.79](http://www.goodreads.com/book/show/968.The_Da_Vinci_Code) | 2006 |  
 
 ### Science Fiction
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | The Martian | Andy Weir | [4.40](https://www.goodreads.com/book/show/18007564-the-martian) | 2012 |
@@ -552,6 +574,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Time Machine | H.G Wells | [3.89](https://www.goodreads.com/book/show/2493.The_Time_Machine?from_search=true&from_srp=true&qid=UOQqEw4cz3&rank=1) | 1895 |
 
 ### Horror
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | It | Stephen King | [4.24](https://www.goodreads.com/book/show/830502.It) | 1986 |
@@ -562,6 +585,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Frankenstein | Mary Shelley, Maurice Hindle | [3.75](http://www.goodreads.com/book/show/18490.Frankenstein) | 2003 |  
 
 ### Miscellaneous
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | The Queen's Gambit | Walter Tevis | [4.11](https://www.goodreads.com/book/show/62022.The_Queen_s_Gambit) |  |  
@@ -572,6 +596,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Future Crimes | Marc Goodman | [3.42](https://www.goodreads.com/book/show/22318398-future-crimes?from_search=true) | 1990 |  
 
 ## Health
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease | Michael Greger, M.D. | [4.54](https://www.goodreads.com/book/show/25663961-how-not-to-die) | 2015 |
@@ -582,6 +607,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Grain Brain: The Surprising Truth about Wheat, Carbs, and Sugar--Your Brain's Silent Killers |  David Perlmutter | [3.89](https://www.goodreads.com/book/show/17333302-grain-brain) | 2013 |
 
 ## Design
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Pattern Language: Towns, Buildings, Construction | Christopher Alexander, Sara Ishikawa, Murray Silverstein, Max Jacobson, Ingrid Fiksdahl-King and Shlomo Angel | [4.38](https://www.goodreads.com/book/show/79766.A_Pattern_Language) | 1977 |  
@@ -593,17 +619,20 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Art of Looking Sideways | Alan Fletcher | [4.10](https://www.goodreads.com/book/show/15778.The_Art_of_Looking_Sideways) | 2001 | 
 
 ## Travel
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Atlas Obscura: An Explorer's Guide to the World's Hidden Wonders | Joshua Foer | [4.24](https://www.goodreads.com/book/show/28110891-atlas-obscura) | 2016 |  
 
 ## Language
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Le Ton beau de Marot: In Praise of the Music of Language | Douglas R. Hofstadter | [4.22](https://www.goodreads.com/book/show/248193.Le_Ton_beau_de_Marot) | 1997 |  
 | The Language Instinct: How the Mind Creates Language | Steven Pinker | [4.02](https://www.goodreads.com/book/show/5755.The_Language_Instinct) | 2000 |
 
 ## Nature
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | The Wild Places |  Robert Macfarlane | [4.27](https://www.goodreads.com/book/show/2688775-the-wild-places) | 2007 |  
@@ -613,7 +642,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Uninhabitable Earth: Life After Warming | David Wallace-Wells | [4.06](https://www.goodreads.com/book/show/41552709-the-uninhabitable-earth) | 2019 |
 
 ## Art
-
+[back to top](#mind-expanding-books)
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | The New Drawing on the Right Side of the Brain | Betty Edwards | [3.86](https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain) | 1989 |
