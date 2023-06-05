@@ -267,6 +267,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Master Switch: The Rise and Fall of Information Empires | Tim Wu | [3.89](https://www.goodreads.com/book/show/8201080-the-master-switch) | 2010 |  
 | Spycraft | Robert Wallace, H. Keith Melton, Henry R. Schlesinger | [3.81](http://www.goodreads.com/book/show/971936.Spycraft) |1987  |  
 | Civilization: The West and the Rest: Niall Ferguson | Niall Ferguson | [3.78](https://www.goodreads.com/book/show/10475421-civilization) | 2011 |  
+| The UNIX-HATERS Handbook | Simson Garfinkel, Daniel Weise, Steven Strassmann | [3.78](https://www.goodreads.com/book/show/174904.The_UNIX_Hater_s_Handbook) | 1994 |  
 | The Revenge of Geography: What the Map Tells Us About Coming Conflicts and the Battle Against Fate | Robert D. Kaplan | [3.68](https://www.goodreads.com/book/show/13330422-the-revenge-of-geography) | 2012 |  
 | The World Is Flat: A Brief History of the Twenty-first Century | Thomas L. Friedman | [3.66](https://www.goodreads.com/book/show/1911.The_World_Is_Flat) | 2006 |  
 
