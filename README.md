@@ -206,6 +206,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression | Debra Fine | [3.36](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) | 2005 |  
 | Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) | 2001 | 
 
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
+
 ## Autobiographies and Biographies
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
@@ -238,6 +240,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | An Autobiography: Toward Freedom | Jawaharlal Nehru | [3.85](http://www.goodreads.com/book/show/322939.An_Autobiography) | 1989 |  
 | iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It | Steve Wozniak | [3.82](http://www.goodreads.com/book/show/798635.iWoz) | 2007 |  
 
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
+
 ## History
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
@@ -265,6 +269,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Civilization: The West and the Rest: Niall Ferguson | Niall Ferguson | [3.78](https://www.goodreads.com/book/show/10475421-civilization) | 2011 |  
 | The Revenge of Geography: What the Map Tells Us About Coming Conflicts and the Battle Against Fate | Robert D. Kaplan | [3.68](https://www.goodreads.com/book/show/13330422-the-revenge-of-geography) | 2012 |  
 | The World Is Flat: A Brief History of the Twenty-first Century | Thomas L. Friedman | [3.66](https://www.goodreads.com/book/show/1911.The_World_Is_Flat) | 2006 |  
+
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
 ## Science and Medicine
 | Name | Author | Goodreads Rating | Year Published |  
@@ -313,6 +319,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Waters of the World: the story of the scientists who unravelled the mysteries of our seas, glaciers, and atmosphere and made the planet whole | Sarah Dry | [3.65](https://www.goodreads.com/book/show/43389003-waters-of-the-world) | 2019 |
 | Mind Wars: Brain Research and National Defense | Jonathan D. Moreno | [3.45](http://www.goodreads.com/book/show/599321.Mind_Wars) | 2007 |  
 
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
+
 ## Logic and Problem Solving
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
@@ -325,6 +333,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Labyrinths of Reason: Paradox, Puzzles, and the Frailty of Knowledge | William Poundstone | [4.05](https://www.goodreads.com/book/show/55436.Labyrinths_of_Reason) | 1989 |  
 | Mazes for the Mind: Computers and the Unexpected | Clifford A. Pickover | [4.05](https://www.goodreads.com/book/show/1986400.Mazes_for_the_Mind) | 1992 |
 | Outnumbered: Exploring the Algorithms That Control Our Lives | David Sumpter | [3.99](https://www.goodreads.com/book/show/36762542-outnumbered) | 2018 |
+
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
 ## Politics
 | Name | Author | Goodreads Rating | Year Published |  
@@ -339,6 +349,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Art of Deception: Controlling the Human Element of Security | Kevin D. Mitnick | [3.76](https://www.goodreads.com/book/show/18160.The_Art_of_Deception) | 2003 |  
 | Resource Wars: The New Landscape of Global Conflict | Michael Klare | [3.73](https://www.goodreads.com/book/show/149206.Resource_Wars) |2001  |  
 | The Audacity of Hope: Thoughts on Reclaiming the American Dream | Barack Obama | [3.70](https://www.goodreads.com/book/show/9742.The_Audacity_of_Hope) | 2006 |  
+
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
 ## Economics
 | Name | Author | Goodreads Rating | Year Published |  
@@ -359,6 +371,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Super Crunchers: Why Thinking-By-Numbers is the New Way To Be Smart | Ian Ayres | [3.70](https://www.goodreads.com/book/show/1081413.Super_Crunchers) | 2007 |  
 | A Farewell to Alms : A Brief Economic History of the World | Gregory Clark | [3.67](https://www.goodreads.com/book/show/150437.A_Farewell_to_Alms) | 2007 |  
 
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
+
 ## Gender
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
@@ -367,6 +381,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Paul Takes the Form of a Mortal Girl | Andrea Lawlor | [4.00](https://www.goodreads.com/book/show/35838277-paul-takes-the-form-of-a-mortal-girl) | 2017
 | Becoming A Man | P. Carl | [3.95](https://www.goodreads.com/book/show/50091840-becoming-a-man) | 2020
 
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
 ## Sexuality
 | Name | Author | Goodreads Rating | Year Published |  
@@ -375,11 +390,15 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Ethical Slut: A Guide to Infinite Sexual Possibilities |  Dossie Easton, Catherine A. Liszt. | [3.83](http://www.goodreads.com/book/show/54944.The_Ethical_Slut?from_search=true) | 2004 |  
 | The Sex Myth | Brooke Magnanti | [3.50](https://www.goodreads.com/book/show/13569582-the-sex-myth) | 2015 |
 
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
+
 ## Race
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | So You Want to Talk About Race | Ijeoma Oluo | [4.53](https://www.goodreads.com/book/show/35099718-so-you-want-to-talk-about-race) | 2018 | 
 | The Origin of Others | Toni Morrison | [4.22](https://www.goodreads.com/book/show/34758228-the-origin-of-others) | 2017 |
+
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
 ## Education
 | Name | Author | Goodreads Rating | Year Published |  
@@ -396,6 +415,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Wounded by School: Recapturing the Joy in Learning and Standing Up to Old School Culture | Kirsten Olson, Sara Lawrence-Lightfoot, Parker J. Palmer | [3.92](https://www.goodreads.com/book/show/6425208-wounded-by-school) | 2009 |  
 | Curious Minds: How a Child Becomes a Scientist | John Brockman | [3.72](https://www.goodreads.com/book/show/409588.Curious_Minds) | 2005 |  
 
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
 ## Writing
 | Name | Author | Goodreads Rating | Year Published |  
@@ -405,6 +425,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Bird by Bird: Some Instructions on Writing and Life | Anne Lamott | [4.23](https://www.goodreads.com/book/show/12543.Bird_by_Bird) | 1995 |  
 | Clear and Simple as the Truth | Francis-Noël Thomas, Mark Turner | [4.06](https://www.goodreads.com/book/show/120549.Clear_and_Simple_as_the_Truth) | 1996 |  
 | The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century | Steven Pinker | [4.03](http://www.goodreads.com/book/show/20821371-the-sense-of-style) | 2014 |  
+
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
 ## Theater and Film
 | Name | Author | Goodreads Rating | Year Published |  
@@ -417,6 +439,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | How to Stop Acting | Harold Guskin | [4.17](https://www.goodreads.com/book/show/808735.How_to_Stop_Acting) | 2003 |  
 | A Practical Handbook for the Actor | Melissa Bruder, Lee Michael Cohn, Madeleine Olnek, Nathaniel Pollack, Robert Previtio, Scott Zigler, David Mamet | [3.87](https://www.goodreads.com/book/show/166207.A_Practical_Handbook_for_the_Actor) | 1986 |  
 
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
+
 ## Shakespeare
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
@@ -424,6 +448,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Hamlet and Revenge | Eleanor Prosser | [4.50](https://www.goodreads.com/book/show/625956.Hamlet_Revenge_) | 1971 |  
 | Shakespeare's Metrical Art | George T. Wright | [4.39](https://www.goodreads.com/book/show/428615.Shakespeare_s_Metrical_Art) | 1991 |  
 | Hamlet in Purgatory | Stephen Greenblatt | [3.98](https://www.goodreads.com/book/show/33179.Hamlet_in_Purgatory) | 2002 |  
+
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
 ## Fiction
 
@@ -477,6 +503,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Lettres persanes | Montesquieu | [3.54](http://www.goodreads.com/book/show/509686.Persian_Letters) | 1721 |  
 | The Director | David Ignatius | [3.43](http://www.goodreads.com/book/show/23316525-the-director) | 2015 |   
 
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
+
 ### Fantasy
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
@@ -495,6 +523,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The City & The City | China Mieville | [3.91](https://www.goodreads.com/book/show/4703581-the-city-the-city) | 2009 |  
 | The Broken Empire | Mark Lawrence | [3.87](https://www.goodreads.com/series/64473-the-broken-empire) | 2011 |  
 
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
+
 ### Historical Fiction
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
@@ -511,10 +541,14 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Emma | Jane Austen | [3.99](https://www.goodreads.com/book/show/6969.Emma) | 1815 |  
 | Sophie's World: A Novel About the History of Philosophy | Jostein Gaarder and Paulette Moller | [3.88](https://www.goodreads.com/book/show/10959.Sophie_s_World) | 1991 |  
 
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
+
 ### Humor
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | I Hope They Serve Beer In Hell | Tucker Max | [3.51](https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell) | 2006 |  
+
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
 ### Mystery
 | Name | Author | Goodreads Rating | Year Published |  
@@ -528,6 +562,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Turn of the Key | Ruth Ware | [3.94](https://www.goodreads.com/book/show/42080142-the-turn-of-the-key) | 2019 |
 | The Girl on the Train | Paula Hawkins | [3.88](https://www.goodreads.com/book/show/22557272-the-girl-on-the-train) | 2015 |  
 | The Da Vinci Code | Dan Brown | [3.79](http://www.goodreads.com/book/show/968.The_Da_Vinci_Code) | 2006 |  
+
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
 ### Science Fiction
 | Name | Author | Goodreads Rating | Year Published |  
@@ -553,6 +589,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Little Brother | Cory Doctorow | [3.94](https://www.goodreads.com/book/show/954674.Little_Brother) | 2008 |
 | The Time Machine | H.G Wells | [3.89](https://www.goodreads.com/book/show/2493.The_Time_Machine?from_search=true&from_srp=true&qid=UOQqEw4cz3&rank=1) | 1895 |
 
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
+
 ### Horror
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
@@ -562,6 +600,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Rosemary's Baby | Ira Levin | [4.00](https://www.goodreads.com/book/show/228296.Rosemary_s_Baby) | 1967 |
 | Dracula | Bram Stoker | [3.98](http://www.goodreads.com/book/show/17245.Dracula) | 1986 |  
 | Frankenstein | Mary Shelley, Maurice Hindle | [3.75](http://www.goodreads.com/book/show/18490.Frankenstein) | 2003 |  
+
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
 ### Miscellaneous
 | Name | Author | Goodreads Rating | Year Published |  
@@ -573,6 +613,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Ghost Fleet | P.W. Singer and August Cole | [3.62](https://www.goodreads.com/book/show/22749719-ghost-fleet?from_search=true) | 2015 |  
 | Future Crimes | Marc Goodman | [3.42](https://www.goodreads.com/book/show/22318398-future-crimes?from_search=true) | 1990 |  
 
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
+
 ## Health
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
@@ -582,6 +624,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Eat and Run: My Unlikely Journey to Ultramarathon Greatness |  Scott Jurek, Steve Friedman | [3.95](https://www.goodreads.com/book/show/13202092-eat-and-run) | 2012 |  
 | 8 Weeks to Optimum Health | Andrew Weil | [3.86](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) |  |  
 | Grain Brain: The Surprising Truth about Wheat, Carbs, and Sugar--Your Brain's Silent Killers |  David Perlmutter | [3.89](https://www.goodreads.com/book/show/17333302-grain-brain) | 2013 |
+
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
 ## Design
 | Name | Author | Goodreads Rating | Year Published |  
@@ -594,16 +638,22 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Mismatch: How Inclusion Shapes Design |  Kat Holmes, John Maeda | [4.14](https://www.goodreads.com/book/show/39644200-mismatch) | 2018 |  
 | The Art of Looking Sideways | Alan Fletcher | [4.10](https://www.goodreads.com/book/show/15778.The_Art_of_Looking_Sideways) | 2001 | 
 
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
+
 ## Travel
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Atlas Obscura: An Explorer's Guide to the World's Hidden Wonders | Joshua Foer | [4.24](https://www.goodreads.com/book/show/28110891-atlas-obscura) | 2016 |  
+
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
 ## Language
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Le Ton beau de Marot: In Praise of the Music of Language | Douglas R. Hofstadter | [4.22](https://www.goodreads.com/book/show/248193.Le_Ton_beau_de_Marot) | 1997 |  
 | The Language Instinct: How the Mind Creates Language | Steven Pinker | [4.02](https://www.goodreads.com/book/show/5755.The_Language_Instinct) | 2000 |
+
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
 ## Nature
 | Name | Author | Goodreads Rating | Year Published |  
@@ -614,13 +664,16 @@ If you like Mind Expanding books you should check out my new project http://diff
 | A Walk in the Woods: Rediscovering America on the Appalachian Trai | Bill Bryson | [4.06](https://www.goodreads.com/book/show/9791.A_Walk_in_the_Woods) | 2006 |
 | The Uninhabitable Earth: Life After Warming | David Wallace-Wells | [4.06](https://www.goodreads.com/book/show/41552709-the-uninhabitable-earth) | 2019 |
 
-## Art
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
+## Art
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | The New Drawing on the Right Side of the Brain | Betty Edwards | [3.86](https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain) | 1989 |
 | Steal Like an Artist: 10 Things Nobody Told You About Being Creative | Austin Kleon | [3.92](https://www.goodreads.com/book/show/13099738-steal-like-an-artist) | 2012 |
 | Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered | Austin Kleon | [4.10](https://www.goodreads.com/book/show/18290401-show-your-work) | 2014 |
+
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
 ## Credits
 * [@hackerkid](https://github.com/hackerkid) for starting the list.
