@@ -3,9 +3,9 @@
 ## What is the criteria for adding a new book?
 The mission of this list is to curate books that can change the life of people for better after reading them.
 
-So you should add books that have changed your life for better after reading them.
+So you should add a book that have changed your life for better!!
 
-Here are some questions that you can potemtially ask to help make this descion for you. If the answer is yes to most of them feel free to create a pull request!
+Here are some questions that you can potemtially ask to help make this descion. If the answer is yes to most of them feel free to create a pull request!
 
 1. If you have the money to gift a book to the entire college graduates of this year would you gift this book?
 2. Would you gift this book to your children at any point in their life?
