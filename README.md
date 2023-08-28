@@ -4,8 +4,6 @@
 
 Looking to find a book an interesting book to read but don't know where to start? You are in the right place!
 
------
-
 See [Contributing Guidelines](CONTRIBUTING.md) for details on how the books are curated.
 
 <a id="top"></a>
