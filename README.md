@@ -1,15 +1,11 @@
 # Mind Expanding Books
 
-
-<h2  align="center">
-  🔥🔥
-  Check out my latest project - <a href="http://bit.ly/diff-books">diff.blog</a>
-</h2>
-<br>
-
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Books everyone should read!
+Looking to find a book an interesting book read but don't know where to start? You are in the right place.
+
+See [Contributing Guidelines](CONTRIBUTING.md) for more details on how the list is maintained.
+
 <a id="top"></a>
 ## Table of Contents
 - [Mind Expanding Books](#mind-expanding-books)
