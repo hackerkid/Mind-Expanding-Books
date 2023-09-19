@@ -132,7 +132,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Slight Edge - Secret to a Successful Life | Jeff Olson | [4.39](https://www.goodreads.com/book/show/590652.The_Slight_Edge) | 2005 |
 | Education and the Significance of Life | Krishnamurti | [4.38](https://www.goodreads.com/book/show/353435.Education_and_the_Significance_of_Life) | 2008 |
 | Passions Within Reason: The Strategic Role of the Emotions | Robert H. Frank | [4.34](https://www.goodreads.com/book/show/452114.Passions_Within_Reason) | 1989 |
-| The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living | Ryan Holding, Stephan Hanselman | [4.34](https://www.goodreads.com/book/show/29093292-the-daily-stoic) | 2016 |
+| The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living | Ryan Holiday, Stephan Hanselman | [4.34](https://www.goodreads.com/book/show/29093292-the-daily-stoic) | 2016 |
 | Man's Search for Meaning | Viktor E. Frankl | [4.33](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) | 2006 |
 | Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones| James Clear | [4.32](https://www.goodreads.com/book/show/40121378-atomic-habits) | 2018 |
 | The User Illusion: Cutting Consciousness Down to Size | Tor Norretranders | [4.30](https://www.goodreads.com/book/show/106732.The_User_Illusion) | 1999 |
