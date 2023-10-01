@@ -56,7 +56,7 @@ const BookCard = ({ book }) => {
 									{book.amazon_url ? <AmazonURL book={book} /> : null}
 								</div>
 								<div style={{ width: '30px', height: '30px' }}>
-									<a href={book.url}>
+									<a href={book.url} target="_blank">
 										<GoodReadsImage />
 									</a>
 								</div>
