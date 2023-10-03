@@ -425,6 +425,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Art of Learning: An Inner Journey to Optimal Performance | Josh Waitzkin | [4.08](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) | 2016 |
 | Wounded by School: Recapturing the Joy in Learning and Standing Up to Old School Culture | Kirsten Olson, Sara Lawrence-Lightfoot, Parker J. Palmer | [3.92](https://www.goodreads.com/book/show/6425208-wounded-by-school) | 2009 |
 | Curious Minds: How a Child Becomes a Scientist | John Brockman | [3.72](https://www.goodreads.com/book/show/409588.Curious_Minds) | 2005 |
+| Clean Architecture: A Craftsman's Guide to Software Structure and Design | Robert C. Martin (Uncle Bob) | [4.23](https://www.goodreads.com/book/show/18043011-clean-architecture) | 2017 |
 
 <a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
