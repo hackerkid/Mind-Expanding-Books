@@ -421,6 +421,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Deep Work: Rules for Focused Success in a Distracted World | Cal Newport | [4.20](https://www.goodreads.com/book/show/25744928-deep-work) | 2016 |
 | Make It Stick: The Science of Successful Learning | Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel | [4.20](https://www.goodreads.com/book/show/18770267.make-it-stick) | 2014 |
 | Teaching as a Subversive Activity | Neil Postman, Charles Weingartner | [4.19](https://www.goodreads.com/book/show/79681.Teaching_as_a_Subversive_Activity) | 1971 |
+| Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life | Jim Kwik | [4.09](https://www.goodreads.com/book/show/49994260-limitless?from_search=true&from_srp=true&qid=pbeSkuESjB&rank=1) | 2020 |
 | Summerhill School: A New View of Childhood | A. S. Neill, Albert Lamb | [4.09](https://www.goodreads.com/book/show/178734.Summerhill) | 1995 |
 | The Art of Learning: An Inner Journey to Optimal Performance | Josh Waitzkin | [4.08](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) | 2016 |
 | Wounded by School: Recapturing the Joy in Learning and Standing Up to Old School Culture | Kirsten Olson, Sara Lawrence-Lightfoot, Parker J. Palmer | [3.92](https://www.goodreads.com/book/show/6425208-wounded-by-school) | 2009 |
@@ -641,6 +642,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Breath: The New Science of a Lost Art | James Nestor | [4.15](https://www.goodreads.com/book/show/48890486-breath) | 2020 |
 | Convict Conditioning | Paul Wade | [4.13](http://www.goodreads.com/book/show/7305111-convict-conditioning) | 2012 |
 | Eat and Run: My Unlikely Journey to Ultramarathon Greatness |  Scott Jurek, Steve Friedman | [3.95](https://www.goodreads.com/book/show/13202092-eat-and-run) | 2012 |
+| Brain Food: The Surprising Science of Eating for Cognitive Power |  Lisa Mosconi | [3.92](https://www.goodreads.com/book/show/35457267-brain-food) | 2018 |
+| Super Human: The Bulletproof Plan to Age Backward and Maybe Even Live Forever |  Dave Asprey | [3.86](https://www.goodreads.com/book/show/43801612-super-human?ref=nav_sb_ss_3_11) | 2019 |
 | 8 Weeks to Optimum Health | Andrew Weil | [3.86](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) |  |
 | Grain Brain: The Surprising Truth about Wheat, Carbs, and Sugar--Your Brain's Silent Killers |  David Perlmutter | [3.89](https://www.goodreads.com/book/show/17333302-grain-brain) | 2013 |
 
