@@ -343,6 +343,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Mazes for the Mind: Computers and the Unexpected | Clifford A. Pickover | [4.05](https://www.goodreads.com/book/show/1986400.Mazes_for_the_Mind) | 1992 |
 | Outnumbered: Exploring the Algorithms That Control Our Lives | David Sumpter | [3.99](https://www.goodreads.com/book/show/36762542-outnumbered) | 2018 |
 | Thinking Forth: A Language and Philosophy for Solving Problems | Leo Brodie | [3.96](https://www.goodreads.com/book/show/2995657-thinking-forth) | 1984 |
+| Clean Architecture: A Craftsman's Guide to Software Structure and Design | Robert C. Martin (Uncle Bob) | [4.23](https://www.goodreads.com/book/show/18043011-clean-architecture) | 2017 |
 
 <a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
