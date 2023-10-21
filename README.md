@@ -529,6 +529,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Harry Potter and the Methods of Rationality | Eliezer Yudkowsky | [4.38](https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality) | 2015 |
 | Discworld | Terry Pratchett | [4.32](https://www.goodreads.com/series/40650-discworld) | 2001 |
 | The Dark Tower | Stephen King | [4.27](https://www.goodreads.com/series/40750-the-dark-tower) | 1982 |
+| And the Mountains Echoed | Khaled Hosseini | [4.26](https://www.goodreads.com/book/show/21897740-and-the-mountains-echoed) | 2013 |
 | His Dark Materials | Philip Pullman | [4.25](https://www.goodreads.com/book/show/18116.His_Dark_Materials) | 1995 |
 | The Last Wish  | Andrzej Sapkowski | [4.2](https://www.goodreads.com/book/show/1128434.The_Last_Wish) | 1993 |
 | The Chronicles of Narnia | Clive Staples Lewis | [4.24](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia) | 2002 |
