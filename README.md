@@ -203,6 +203,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Ethical Brain: The Science of Our Moral Dilemmas | Michael S. Gazzaniga | [3.70](https://www.goodreads.com/book/show/328734.The_Ethical_Brain) | 2006 |
 | Why Smart People Can Be So Stupid | Robert J Sternberg | [3.68](https://www.goodreads.com/book/show/300300.Why_Smart_People_Can_Be_So_Stupid) | 2003 |
 | Alone Together: Why We Expect More from Technology and Less from Each Others | Sherry Turkle | [3.62](http://www.goodreads.com/book/show/8694125-alone-together) | 2011 |
+| Men Are from Mars, Women Are from Venus | John Gray | [3.58] (https://www.goodreads.com/book/show/1274.Men_Are_from_Mars_Women_Are_from_Venus) | 1992 |
 | How to Win Every Argument: The Use and Abuse of Logic | Madsen Pirie | [3.55](https://www.goodreads.com/book/show/112731.How_to_Win_Every_Argument) | 2006 |
 | Rapt: Attention and the Focused Life: Winifred Gallagher | Winifred Gallagher | [3.54](https://www.goodreads.com/book/show/6262510-rapt) | 2009 |
 | Utilitarianism | Geoffrey Scarre | [3.50](https://www.goodreads.com/book/show/3807762-utilitarianism) | 1996 |
