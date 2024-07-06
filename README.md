@@ -41,8 +41,8 @@ See [Contributing Guidelines](CONTRIBUTING.md) for details on how the books are 
   - [Language](#language)
   - [Nature](#nature)
   - [Art](#art)
-  - [Credits](#credits)
-  - [License](#license)
+- [Credits](#credits)
+- [License](#license)
 
 # Books
 
@@ -209,6 +209,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Age of Em: Work, Love and Life When Robots Rule the Earth | Robin Hanson | [3.41](https://www.goodreads.com/book/show/26831944-the-age-of-em) | 2016 |
 | The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression | Debra Fine | [3.36](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) | 2005 |
 | Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) | 2001 |
+| 101 Essays That Will Change the Way You Think | Brianna Wiest | [4.23](https://www.goodreads.com/book/show/41094987-101-essays-that-will-change-the-way-you-think) | 2016 |
 
 <a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
