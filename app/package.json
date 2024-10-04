@@ -24,6 +24,7 @@
     "react-helmet": "^5.2.1",
     "react-star-rating-component": "^1.4.1",
     "react-star-ratings": "^2.3.0",
+    "sharp": "^0.33.5",
     "slugify": "^1.4.5"
   },
   "devDependencies": {
