@@ -67,15 +67,19 @@ const BookCard = ({ book }) => {
 							{!show && truncateContent(book.description)}
 							{show && showFullText(book.description)}
 						</p>
-						{!show && book.description.length>350 &&(
-							<button className="btn btn-sm btn-primary " onClick={() => toggleShow(true)}>
-								Show More
-							</button>
-						)}
-						{show && (
-							<button className="btn btn-sm btn-primary " onClick={() => toggleShow(false)}>
-								Show Less
-							</button>
+						{book.description.length>350 && (
+							<>
+							{!show  &&(
+								<button className="btn btn-sm btn-primary " onClick={() => toggleShow(true)}>
+									Show More
+								</button>
+							)}
+							{show && (
+								<button className="btn btn-sm btn-primary " onClick={() => toggleShow(false)}>
+									Show Less
+								</button>
+							)}
+							</>
 						)}
 					</Card.Body>
 				</Col>
