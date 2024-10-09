@@ -534,6 +534,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Last Wish  | Andrzej Sapkowski | [4.2](https://www.goodreads.com/book/show/1128434.The_Last_Wish) | 1993 |
 | The Chronicles of Narnia | Clive Staples Lewis | [4.24](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia) | 2002 |
 | The Wheel of Time | Robert Jordan | [4.19](https://www.goodreads.com/series/41526-the-wheel-of-time) | 1990 |
+| Nine Princes in Amber | Roger Zelazny | [4.05](https://www.goodreads.com/book/show/92121.Nine_Princes_in_Amber) | 1970 |
 | The City & The City | China Mieville | [3.91](https://www.goodreads.com/book/show/4703581-the-city-the-city) | 2009 |
 | The Broken Empire | Mark Lawrence | [3.87](https://www.goodreads.com/series/64473-the-broken-empire) | 2011 |
 | Of Fire and Stars Book |Audrey Coulthurst | [3.76](https://www.goodreads.com/book/show/25164304-of-fire-and-stars) | 2016 |
@@ -602,6 +603,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Forever War | Joe Haldemann | [4.15](https://www.goodreads.com/book/show/21611.The_Forever_War) | 1974
 | Contact | Carl Sagan | [4.14](https://www.goodreads.com/book/show/61666.Contact) | 1985 |
 | Foundation | Isaac Asimov | [4.13](https://www.goodreads.com/book/show/29579.Foundation) | 2004 |
+| The Mote in God's Eye | Larry Niven and Jerry Pournelle | [4.07](https://www.goodreads.com/book/show/100365.The_Mote_in_God_s_Eye) | 1974 |
 | Snow Crash | Neal Stephenson | [4.02](https://www.goodreads.com/book/show/830.Snow_Crash) | 2000 |
 | Brave New World | Aldous Huxley | [3.99](https://www.goodreads.com/book/show/5129.Brave_New_World) | 1932 |
 | Fahrenheit 451 | Ray Bradbury | [3.97](https://www.goodreads.com/book/show/17470674-fahrenheit-451) | 2006 |
