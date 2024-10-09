@@ -541,7 +541,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 
 <a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
-wheel### Historical Fiction
+### Historical Fiction
 | Name | Author | Goodreads Rating | Year Published |
 |------|--------|------------------|----------------|
 | Lonesome Dove | Larry McMurtry | [4.47](https://www.goodreads.com/book/show/256008.Lonesome_Dove) | 1985 |
