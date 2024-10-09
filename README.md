@@ -601,7 +601,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Roadside Picnic | Arkady Strugatsky, Boris Strugatsky | [4.16](https://www.goodreads.com/book/show/331256.Roadside_Picnic) | 1972 |
 | The Forever War | Joe Haldemann | [4.15](https://www.goodreads.com/book/show/21611.The_Forever_War) | 1974
 | Contact | Carl Sagan | [4.14](https://www.goodreads.com/book/show/61666.Contact) | 1985 |
-| Foundation | Isaac Asimov | [4.13](https://www.goodreads.com/book/show/29579.Foundation) | 2004 |
+| Foundation | Isaac Asimov | [4.13](https://www.goodreads.com/book/show/29579.Foundation) | 2004
+| The Mote in God's Eye | Larry Niven and Jerry Pournelle | [4.07](https://www.goodreads.com/book/show/100365.The_Mote_in_God_s_Eye) | 1974 |
 | Snow Crash | Neal Stephenson | [4.02](https://www.goodreads.com/book/show/830.Snow_Crash) | 2000 |
 | Brave New World | Aldous Huxley | [3.99](https://www.goodreads.com/book/show/5129.Brave_New_World) | 1932 |
 | Fahrenheit 451 | Ray Bradbury | [3.97](https://www.goodreads.com/book/show/17470674-fahrenheit-451) | 2006 |
