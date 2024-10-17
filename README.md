@@ -549,6 +549,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Book Thief | Markus Zusak | [4.36](https://www.goodreads.com/book/show/19063.The_Book_Thief) | 2005 |
 | All the Light We Cannot See | Anthony Doerr | [4.31](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see) | 2014 |
 | The Kite Runner | Khaled Hosseini | [4.3](https://www.goodreads.com/book/show/77203.The_Kite_Runner) | 2003 |
+| The Shadow of the Wind | Carlos Ruiz Zafón | [4.3](https://www.goodreads.com/book/show/1232.The_Shadow_of_the_Wind) | 2001 |
 | The Pillars of the Earth | Ken Follett | [4.29](https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth?from_search=true) | 1989 |
 | Kane and Abel | Jeffrey Archer | [4.27](http://www.goodreads.com/book/show/78983.Kane_and_Abel) | 1979 |
 | Memoirs of a Geisha | Arthur Golden | [4.12](https://www.goodreads.com/book/show/929.Memoirs_of_a_Geisha) | 1997 |
