@@ -2,12 +2,28 @@
 
 ## How to setup development environment
 
+#### Verify Node Install
+
+```
+node -v
+npm -v
+```
+
+#### Install Gatsby CLI
+
+```
+npm install -g gatsby-cli
+```
+
 ```bash
+
 git clone https://github.com/hackerkid/Mind-Expanding-Books
 cd app/
 npm install
 gatsby develop
 ```
+
+Once this is done, the development server should be accessible at http://localhost:8000
 
 ## High level overview of the website
 
